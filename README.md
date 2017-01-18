@@ -1,7 +1,9 @@
 ubcv-buildings
 ==============
 
-Buildings at UBC Vancouver. Used for general cartography. Updates ongoing by C+CP.
+Buildings at UBC Vancouver. Data are current, updates ongoing by C+CP.
+The building data model and numbering are undergoing review and may change
+significantly in the near future.
 
 Datasets
 --------
