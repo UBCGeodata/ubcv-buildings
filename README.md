@@ -2,17 +2,20 @@ ubcv-buildings
 ==============
 
 Buildings at UBC Vancouver. Data are current, updates ongoing by C+CP.
-The building data model and numbering are undergoing review and may change
-significantly in the near future.
+The building data model and numbering are have changed significantly since the
+last update. The data model is still undergoing review and may change
+more in the near future.
 
 Datasets
 --------
-* Buildings
-* Buildings under construction
+* ubcv_buildings
+* ubcv_subbuildings
+* ubcv_buildings_uc
+* ubcv_building_records
 
 Files Provided
 --------------
-* Provided in geojson, and file geodatabase formats.
+* Provided in geojson, tableau, and ESRI file geodatabase formats.
 * FGDB is ESPG:26910/UTM10N, geojson ESPG:4326.
 * csv data has lat/long columns.
 
