@@ -9,14 +9,22 @@ more in the near future.
 Datasets
 --------
 * ubcv_buildings
+ * Campus buildings. A 'building' here follows from classroom codes. Buchannan
+   (BUCH) is one code and one building.
 * ubcv_subbuildings
+ * Campus building sections. Campus building can have wings and other sections.
+   Buchannan has A, B, C, D, E sections. Additions and penthouses are
+   not considered separate sections.
 * ubcv_buildings_uc
+ * Buildings that are currently under construction.
 * ubcv_building_records
+ * Projects are assigned ids. A building may have many additions done as
+   different projects, each with a different set of records.
 
 Files Provided
 --------------
 * Provided in geojson, tableau, and ESRI file geodatabase formats.
-* FGDB is ESPG:26910/UTM10N, geojson ESPG:4326.
+* FGDB is ESPG:26910/UTM10N, geojson is lat/long(ESPG:4326).
 * csv data has lat/long columns.
 
 License
