@@ -8,17 +8,17 @@ more in the near future.
 
 Datasets
 --------
-* ubcv_buildings
- * Campus buildings. A 'building' here follows from classroom codes. Buchannan
+### ubcv_buildings
+* Campus buildings. A 'building' here follows from classroom codes. Buchannan
    (BUCH) is one code and one building.
-* ubcv_subbuildings
- * Campus building sections. Campus building can have wings and other sections.
+### ubcv_subbuildings
+* Campus building sections. Campus building can have wings and other sections.
    Buchannan has A, B, C, D, E sections. Additions and penthouses are
    not considered separate sections.
-* ubcv_buildings_uc
- * Buildings that are currently under construction.
-* ubcv_building_records
- * Projects are assigned ids. A building may have many additions done as
+### ubcv_buildings_uc
+* Buildings that are currently under construction.
+### ubcv_building_records
+* Projects are assigned ids. A building may have many additions done as
    different projects, each with a different set of records.
 
 Files Provided
@@ -30,6 +30,3 @@ Files Provided
 License
 -------
 * This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: [http://www.opendatacommons.org/licenses/pddl/1.0/](http://www.opendatacommons.org/licenses/pddl/1.0/)
-
-
-
