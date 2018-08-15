@@ -89,7 +89,6 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 842-7,,NOT_JOINED,TRIUMF,,,Complete,,,,
 538,,NOT_JOINED,AYO Home,,,Complete,,,,
 750,SOWK,AD-258,Jack Bell,,,Complete,,,,
-515,,AD-209,Koerner Library,,,Complete,,,,
 130,CHAN,AD-124,Chan Centre,,,Complete,,,,
 022,,AD-97,Lower Mall Research Station,,,Complete,,,,
 010-10,,NOT_JOINED,Acadia House 3-10,,,Complete,,,,
@@ -342,9 +341,7 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 482,ALRD,AD-203,Allard Hall,,,Complete,,,,
 057,,AD-110,CCM,,,Complete,,,,
 843,,NOT_JOINED,Stores Building,,,Complete,,,,
-713-1,,AD-34,Magnolia House,,,Complete,,,,
 550,,AD-20,Sitka,,,Complete,,,,
-713,,AD-65,Dahlia House,,,Complete,,,,
 590-1,,NOT_JOINED,Secondary School Addition,,,Complete,,,LEED Gold,
 695,,AD-56,Yu,,,Complete,,,REAP Gold,
 434,,AD-185,Rugby Centre,,,Complete,,,LEED Gold,
@@ -397,11 +394,11 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 010-09,,NOT_JOINED,Acadia House 3-9,,,Complete,,,,
 010-02,,NOT_JOINED,Acadia House 3-2,,,Complete,,,,
 765,,NOT_JOINED,South Campus Substation - Switchin Station 12KV,,,Complete,,,,
-541,,AD-223,Totem - c'snam House,,,Complete,,,,
+541,,AD-223,Totem - c'?sna??m House,,,Complete,,,,
 540-1,,AD-223,Totem - Commonsblock,,,Complete,,,,
-566,,AD-223,Totem - q’ln House,,,Complete,,,REAP Gold,
+566,,AD-223,Totem - q’?l???n House,,,Complete,,,REAP Gold,
 565,,AD-223,Totem - Kwakiutl/Shuswap,,,Complete,,,,
-567,,AD-223,Totem - hm'lsm' House,,,Complete,,,REAP Gold,
+567,,AD-223,Totem - h?m'l?s?m' House,,,Complete,,,REAP Gold,
 540-2,,AD-223,Totem - Haida/Salish,,,Complete,,,,
 501,,AD-8,West Hampstead,,,Complete,,,,
 501-4,,AD-8,West Hampstead - 4,,,Complete,,,,
@@ -449,7 +446,6 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 408,,AD-179,Thea Koerner House,,,Complete,,,,
 011,,AD-91,Acadia Park Residence,,,Complete,,,,
 612,,AD-239,MT Innovations,,,Complete,,,,
-372,,AD-169,FP Innovations,,,Complete,,,,
 782-1,,NOT_JOINED,Thunderbird Res B3,,,Complete,,,,
 020,BRIM,AD-95,Brimacombe,,,Complete,,,,
 376-1,FRWO,NOT_JOINED,Frederic Wood,,,Complete,,,,
@@ -562,7 +558,9 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 896-1,,AD-19,Vanier - Dorothy Mawdsley,,,Complete,,,,
 545-1,,AD-19,Vanier - Cariboo House,,,Complete,,,,
 896-4,,AD-19,Vanier - Aldyen Hamber House,,,Complete,,,,
+515,,AD-209,Koerner Library,,,Complete,,,,
 490,DLAM,AD-204,David Lam Management Research Centre,,,Complete,,,,
+372,,AD-169,FPInnovations,,,Complete,,,,
 554-2,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
 554-3,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
 554-4,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
@@ -579,6 +577,11 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 502-9,,AD-9,Thames Court - 9,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 502-10,,AD-9,Thames Court - 10,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 502-11,,AD-9,Thames Court - 11,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+713,DAHL,AD-65,Dahlia House,,,Complete,,,,
+713-1,MAGN,AD-34,Magnolia House,,,Complete,,,,
+714,CYPR,AD-312,Cypress House,,Wesbrook,Under Construction,HSGN,,LEED Gold,
+715,PINE,AD-311,Pine House,,Wesbrook,Under Construction,HSGN,,LEED Gold,
+718,VIRT,AD-310,Virtuoso,,Wesbrook,Under Construction,HSGN,,REAP Gold,
 502-12,,AD-9,Thames Court - 12,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 502-13,,AD-9,Thames Court - 13,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 502-14,,AD-9,Thames Court - 14,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation

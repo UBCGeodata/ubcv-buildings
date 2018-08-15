@@ -1,270 +1,270 @@
 BLDG_ID,ADD_ID,NEIGHBOURHOOD,NOTES,REC_IDS,BLDG_USE,GRADE,GBA,HAS_SUBBLDGS,BLDG_TYPE,GREEN_STATUS,PLACENAME,PLACENAME2,PLACENAME3,PLACENAME4,ABBREVIATEDPLACENAME,FULLADDRESS,MUNINAME,PROVINCE,POSTALCODE
-COST,AD-280,Chancellor,,831-5;831-4;831-3;831-2;831-1;832-2;832-3;832-1,HSGN,,0,,,,Coast,Coast,,,,6063 Iona Drive,Vancouver,BC,V6T 0B1
-STMD,AD-523,Chancellor,,827-8;827-7;827-6;827-5,HSGN,,0,,,,St Mark's Duplexes,St Mark's Duplexes,,,,5938 Chancellor Boulevard,Vancouver,BC,V6T 0A1
-CARY,AD-72,Chancellor,,807;806;804,HSGN,,563,,,,Carey Centre,Carey Centre,,,,5920 Iona Drive,Vancouver,BC,V6T 1J6
-STMK,AD-78,Chancellor,,828;829,OTHER,,2426,,,,St. Mark's College,St Mark's College,,,,5935 Iona Drive,Vancouver,BC,V6T 1J7
-STAH,AD-275,Chancellor,,817-2;817-3;817-1;817-4,HSGN,,0,,,,St. Andrew's Hall,St. Andrew's Hall,St. Andrew's Residence,,,6040 Iona Drive,Vancouver,BC,V6T 2E8
-CHAH,AD-322,Chancellor,,824;823;827-4;827-1;827-2;827-3,HSGN,,0,,,,Chancellor Hall,Chancellor Hall,,,,5989  Iona Drive,Vancouver,BC,V6T 2L7
-CUNN,AD-241,,,625;624,SCIE,,4901,,,,George Cunningham Building ,Cunningham,,,,2146 East Mall,Vancouver,BC,V6T 1Z3
-NITO,AD-201,,,476,SCIE,,81,,,,,,,,,,,,
-LNDA,AD-96,,,021,APSC,,601,,,,Landscape Architecture Annex,Landscape Architecture,,,,2371 Main Mall,Vancouver,BC,V6T 1Z4
-FORW,AD-225,,,562,APSC,,7542,,,,Frank Forward Building,Frank Forward,,,,6350 Stores Road,Vancouver,BC,V6T 1Z4
-CHOI,AD-202,,,478,ARTS,,2709,,,,C. K. Choi Building for the Institute of Asian Research,Choi Building,,<Null>,,1855 West Mall,Vancouver,BC,V6T 1Z2
-PUDP,AD-196,,,462,MEDI,,16266,,,,Purdy Pavilion,Purdy,,Purdy Pavilion,,2221 Wesbrook Mall,Vancouver,BC,V6T 1Z9
-HSCC,AD-221,,,537;537-1,MEDI,,12963,,,,Detwiller Pavilion,Detwiller,,Detwiller Pavilion,,2255 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-MEDC,AD-216,,,525-3;523-3,APSC,,3880,,,,Medical Sciences Block C,Medical Sciences C,,,,2176 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-COPP,AD-214,,,523-1;525-1;526,SCIE,,8951,,,,D.H. Copp Building,Copp,,,COPP,2146 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-FRDM,AD-215,,,525-2;523-2,MEDI,,5867,,,,Friedman Building,Friedman,,,,2177 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-WMAX,AD-290,,,863-1,ARTS,,1961,,,,West Mall Annex,West Mall Annex,,,,1933 West Mall,Vancouver,BC,V6T 1Z2
-LSK,AD-157,,,308;308-1,SCIE,,10188,,,,The Leonard S. Klinck Building,Klinck,,<Null>,,6356 Agricultural Road,Vancouver,BC,V6T 1Z2
-MINL,AD-134,,,184;184-1,APSC,,2950,,,,Coal and Mineral Processing Lab,Coal Lab,Keevil Institute of Mining Engineering,<Null>,,2332 West Mall,Vancouver,BC,V6T 1Z4
-EOSM,AD-178,,,402;403,SCIE,,10570,,,,Earth and Ocean Sciences ,EOS,EOS Main,,EOS,6339 Stores Road,Vancouver,BC,V6T 1Z4
-POWR,AD-255,,,724;725,ADMIN,,2350,,,,Power House,Power House,,,,2040 West Mall,Vancouver,BC,V6T 1Z2
-ENSF,AD-127,,,138;470;142;139;143;146;141,ADMIN,,372,,,,Environmental Services Facility ,Environmental Services Facility ,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
-FRWO,AD-171,,,376;376-1,ARTS,,2885,,,,Frederic Wood Theatre,Wood Theatre,Freddy Wood,<Null>,,6354 Crescent Road,Vancouver,BC,V6T 1Z2
-UNSB,AD-246,,,641,ADMIN,,11598,,,,University Services Building,USB,Campus Mail,,USB,2329 West Mall,Vancouver,BC,V6T 1Z4
-FSC,AD-167,,,353,FRST,,22458,,,,Forest Sciences Centre,Forest Sciences,,,,2424 Main Mall,Vancouver,BC,V6T 1Z4
-TECH,AD-238,,,606,ADMIN,,14622,,,,Technology Enterprise Facility (TEF) 3 ,TEF3,,,TEF3,6190 Agronomy Road,Vancouver,BC,V6T 1Z3
-RSCU,AD-133,,,180,ARTS,,27,,,,,,,,,,,,
-FNLH,AD-165,,,337,ARTS,,2282,,,,First Nations Longhouse,First Nations Longhouse,House of Learning,,,1985 West Mall,Vancouver,BC,V6T 1Z2
-SORO,AD-88,,,918,RES,,3058,,,,Panhellenic House,Panhellenic House,Sorority House,<Null>,,2770 Wesbrook Mall,Vancouver,BC,V6T 2B7
-FRAT,AD-89,,,928;927;926;921;922;925;924,RES,,6503,,,,Fraternity Village ,Fraternity Village ,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
-SCSB,NOT_JOINED,,,765,ADMIN,,16,,,,,,,,,,,,
-RUGB,AD-259,,,760,REC,,367,,,,Rugby Pavilion,Rugby,,,,2584 East Mall,Vancouver,BC,V6T 1Z3
-EERF,AD-154,,,305,APSC,,999,,,,Earthquake Engineering Research Facility,EERF,,,EERF,2235 East Mall,Vancouver,BC,V6T 1Z4
-EHHL,AD-207,,,511,APSC,,145,,,,Engineering High Head Room Laboratory,High Head,,,,2225 East Mall,Vancouver,BC,V6T 1Z4
-WLIB,AD-220,,,536,ADMIN,,7777,,,,Woodward Library,Woodward Library,,,,2198 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-PARN,AD-272,,,792,PARK,,27293,,,,North Parkade,North Parkade,,,,6115 Student Union Boulevard,Vancouver,BC,V6T 1Z1
-PARH,AD-199,,,467,PARK,,31480,,,,Health Sciences Parkade,Health Sciences Parkade,,,,2250 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-PARW,AD-301,,,900,PARK,,34775,,,,West Parkade,West Parkade,,,,2140 Lower Mall,Vancouver,BC,V6T 1Z4
-PARF,AD-109,,,052,PARK,,17169,,,,Fraser River Parkade,Fraser River Parkade,,,,6440 Memorial Road,Vancouver,BC,V6T 1Z2
-PART,AD-224,,,551,PARK,,59349,,,,Thunderbird Parkade,Thunderbird Parkade,,,,6085 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
-CIRS,AD-243,,,633,ADMIN,,5434,,,LEED Platinum,Centre for Interactive Research on Sustainability (CIRS),CIRS,,,CIRS,2260 West Mall,Vancouver,BC,V6T 1Z4
-PONA,AD-294,,,873;865-2;865-3;871-2;865-1;871-3,ADMIN,,4621,,,,Ponderosa Annexes,Ponderosa Annexes,Ponderosa Office Annex C,,,2021 West Mall,Vancouver,BC,V6T 1Z2
-PARR,AD-218,,,528,PARK,,23185,,,,Rose Garden Parkade,Rose Garden Parkade,,,,6278 NW Marine Drive,Vancouver,BC,V6T 1Z1
-NSDC,AD-307,,,435,REC,,3666,,,LEED Gold,National Soccer Development Centre,Soccer,,,,3065 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-CNTL,AD-4,,,215,HSGN,,9640,,,REAP Gold,Central,Site B,,,,6015 University Boulevard,Vancouver,BC,
-LPRC,AD-263,,,769,ADMIN,,2146,,,LEED Gold,Library Preservation Archives,Library PARC,,,,6049 Nurseries Road,Vancouver,BC,V6T 1W5
-UHIL,AD-31,Wesbrook,,590;590-1,ADMIN,,11600,,,,University Hill Secondary School,U-Hill Secondary,High school,,,3228 Ross Drive,Vancouver,BC,V6S 0C6
-MAGN,AD-34,Wesbrook,,713-1,HSGN,,14002,,,,Magnolia House,Magnolia House,,,,3565 Wesbrook Mall,Vancouver,BC,V6S 0H1
-PATH,AD-29,Wesbrook,,588-1;588-2,HSGN,,0,,,,Pathways,Pathways,Pathways II East,,,5779 Birney Avenue,Vancouver,BC,V6S 0A3
-TAPS,AD-235,Wesbrook,,593-1;593-2,HSGN,,0,,,,Tapestry at Wesbrook Village,Tapestry,Tapestry North,,,3338 Wesbrook Mall,Vancouver,BC,V6S 0A6
-SAIL,AD-59,Wesbrook,,707;705,HSGN,,0,,,,Sail,Sail,Sail 1,,,5983 Gray Avenue,Vancouver,BC,V6S 0G8
-LAUR,AD-233,Wesbrook,,589-2;589-1,HSGN,,0,,,,The Laureates,Laureates,Laureates 1,,,5638 Birney Avenue,Vancouver,BC,V6S 0H8
-CRSW,AD-37,Wesbrook,,605-4;605-1;605-5;605-6;605-2;605-3;605-7,HSGN,,0,,,,Crescent West,Crescent West,,,,5879 Gray Avenue,Vancouver,BC,V6S 0A9
-WSBT,AD-32,Wesbrook,,594,HSGN,,,,,REAP Silver,The Wesbrook,The Wesbrook,Wesbrook Lot 1,,,5838 Berton Avenue,Vancouver,BC,V6S 0A5
-LARK,AD-27,Wesbrook,,586,HSGN,,7277,,,REAP Silver,Larkspur House,Larkspur House,Faculty Staff Housing Building F,,,3428 Wesbrook Mall,Vancouver,BC,V6S 0G9
-PROD,AD-62,Wesbrook,,711,HSGN,,,,,,Prodigy,Prodigy,Prodigy 1,,,6033 Gray Avenue,Vancouver,BC,V6S 0G3
-ULTM,AD-60,Wesbrook,,706,HSGN,,8039,,,REAP Gold,Ultima,Ultima,,,,3479 Wesbrook Mall,Vancouver,BC,V6S 0B7
-WPRO,AD-277,Wesbrook,,690,OTHER,,,,,,Wesbrook Professional Centre,Wesbrook Professional Centre,,,,3313 Shrum Lane,Vancouver,BC,V6S 0C8
-PACC,AD-58,Wesbrook,,699,HSGN,,12259,,,REAP Gold,Pacific,Pacific,,,,5928 Birney Avenue,Vancouver,BC,V6S 0B5
-SPRT,AD-26,Wesbrook,,584,HSGN,,8234,,,REAP Gold,Spirit,Spirit,,,,3478 Wesbrook Mall,Vancouver,BC,V6S 0B6
-KEEN,AD-28,Wesbrook,,587,HSGN,,,,,REAP Bronze,Keenleyside,Keenleyside,,,,5788 Birney Avenue,Vancouver,BC,V6S 0A2
-ACDY,AD-33,Wesbrook,,596,HSGN,,,,,,Academy,Academy,,,,5728 Berton Avenue,Vancouver,BC,V6S 0E5
-TELS,AD-254,Wesbrook,,678,ADMIN,,58,,,,,,,,,,,,
-SAGE,AD-276,Wesbrook,,595,HSGN,,20938,,,REAP Silver,Sage,Sage,,,,5782 Berton Avenue,Vancouver,BC,V6S 0C1
-MEWS,AD-49,Wesbrook,,689,HSGN,,12312,,,REAP Gold,The Mews,The Mews,,,,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3
-YUYU,AD-56,Wesbrook,,695,HSGN,,14905,,,REAP Gold,Yu,Yu,,,,5955 Birney Avenue,Vancouver,BC,V6S 0C5
-MBAH,AD-54,Wesbrook,,694,RES,,3515,,,REAP Silver,MBA House,MBA House,,,,3385 Wesbrook Mall,Vancouver,BC,V6T 1Z4
-NOBL,AD-66,Wesbrook,,717,HSGN,,,,,REAP Gold,Nobel House,Nobel House,,,,3655 Wesbrook Mall,Vancouver,BC,V6S 0G6
-WCOM,AD-57,Wesbrook,,697,ADMIN,,5027,,,LEED Gold,Wesbrook Community Centre,Wesbrook Community Centre,,,,3335 Webber Lane,Vancouver,BC,V6S 0H3
-GRAT,AD-48,Wesbrook,,687,HSGN,,18722,,,REAP Gold,Granite Terrace,Granite Terrace,,,,3233 Wesbrook Mall,Vancouver,BC,V6S 0B4
-DAHL,AD-65,Wesbrook,,713,HSGN,,14002,,,,Dahlia House,Dahlia House,,,,3515 Wesbrook Mall,Vancouver,BC,V6S 0H2
-BINT,AD-35,Wesbrook,,598,HSGN,,,,,REAP Gold,Binning Tower,Binning,,,,3355 Binning Road,Vancouver,BC,V6S 0J1
-WEBH,AD-52,Wesbrook,,693,HSGN,,6414,,,REAP Gold,Webber House,Webber House,,,,3388 Webber Lane,Vancouver,BC,
-VSQU,AD-51,Wesbrook,,691,HSGN,,,,,REAP Gold,Village Square,Village Square,Wesbrook Lot E,,,3338 Webber Lane,Vancouver,BC,
-THAC,AD-9,Hampton,,502,HSGN,,,,,,Thames Court,Thames Court,Hampton Place Lot 3,,,5880 Hampton Place,Vancouver,BC,V6T 2E9
-WHAM,AD-8,Hampton,,501,HSGN,,,,,,West Hampstead,West Hampstead,Hampton Place Lot 2,,,5760 Hampton Place,Vancouver,BC,V6T 2G1
-SAND,AD-7,Hampton,,500,HSGN,,,,,,Sandringham,Sandringham,Hampton Place Lot 1,,,5650 Hampton Place,Vancouver,BC,V6T 2G5
-PEMB,AD-17,Hampton,,509,HSGN,,,,,,The Pemberley,The Pemberley,Hampton Place Lot 10 ,,,5605 Hampton Place,Vancouver,BC,V6T 2H2
-BALM,AD-16,Hampton,,508,HSGN,,,,,,The Balmoral,Balmoral,Hampton Place Lot 9,,,5615 Hampton Place,Vancouver,BC,V6T 2H1
-CHAT,AD-11,Hampton,,504,HSGN,,,,,,The Chatham,The Chatham,Hampton Place Lot 5 ,,,5775 Hampton Place,Vancouver,BC,V6T 2G6
-BRIS,AD-12,Hampton,,505,HSGN,,,,,,The Bristol,The Bristol,Hampton Place Lot 6 ,,,5735 Hampton Place,Vancouver,BC,V6T 2G8
-REGE,AD-15,Hampton,,507,HSGN,,,,,,The Regency,The Regency,Hampton Place Lot 8 ,,,5639 Hampton Place,Vancouver,BC,V6T 2H6
-STJA,AD-10,Hampton,,503,HSGN,,,,,,St. James,St. James,Hampton Place Lot 4,,,5835 Hampton Place,Vancouver,BC,V6T 2G2
-WYND,AD-13,Hampton,,506-2,HSGN,,,,,,Wyndham Hall,Wyndham Hall,Hampton Place Lot 7-2 ,,,5683 Hampton Place,Vancouver,BC,V6T 2H3
-STRA,AD-14,Hampton,,506-1,HSGN,,,,,,The Stratford,The Stratford,Hampton Place Lot 7-1 ,,,5657 Hampton Place,Vancouver,BC,V6T 2H4
-SITK,AD-20,East Campus,,550,HSGN,,13128,,,,Sitka,Sitka,,,,5868 Agronomy Road,Vancouver,BC,V6T 0B5
-TRMH,AD-18,East Campus,,534,HSGN,,2202,,,,TRIUMF House,TRIUMF House,TRIUMF Visitor's Residence,,,5835 Thunderbird Boulevard,Vancouver,BC,V6T 2L6
-FRAS,AD-21,East Campus,,553,RES,,4105,,,REAP Silver,Fraser Hall,Fraser Hall,,,,2550 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-GRWC,AD-22,East Campus,There are plans to split this feature at some point (peter).,554-1;554-2;554-3;554-4;554-5;554-6;554-7,HSGN,,,,,REAP Bronze,Greenwood Commons ,Greenwood Commons ,,,,2660 Wesbrook Mall,Vancouver,BC,V6T 0A5
-VIST,AD-23,East Campus,,555,HSGN,,,,,,Vista Point,Vista Point,,,,5828 Thunderbird Boulevard,Vancouver,BC,V6T 0B8
-TAMK,AD-44,Hawthorn,,629,HSGN,,10711,,,,Tamarack House,Tamarack House,Faculty Staff Housing Building E,,,6230 Thunderbird Boulevard,Vancouver,BC,V6T 0C3
-GARD,AD-38,Hawthorn,,617,HSGN,,7550,,,,Gardenia House,Gardenia House,Faculty Staff Housing Building D,,,6309 Larkin Drive,Vancouver,BC,V6T 0C2
-HAWT,AD-418,Hawthorn,,618,HSGN,,,,,,Hawthorn Green,Hawthorn Green,,,,6318 Hawthorn Lane,Vancouver,BC,V6T 2J6
-SOMS,AD-515,Hawthorn,,622,HSGN,,,,,,Somerset,Somerset,,,,2616 West Mall,Vancouver,BC,V6T 2K6
-WSTR,AD-544,Hawthorn,,616,HSGN,,,,,,Westchester,Westchester,,,,2598 West Mall,Vancouver,BC,V6T 2J9
-NINE,AD-489,Hawthorn,,628,HSGN,,,,,,Nine on the Park,Nine on the Park,,,,6282 Eagles Drive,Vancouver,BC,V6T 0A3
-OBCC,AD-43,Hawthorn,,627,ADMIN,,1293,,,,Old Barn Community Centre,Old Barn,,,,6308 Thunderbird Boulevard,Vancouver,BC,V6T 1Z4
-REFL,AD-41,Hawthorn,,623,HSGN,,,,,,Reflections,Reflections,,,,6279 Eagles Drive,Vancouver,BC,V6T 2K7
-LGCY,AD-45,Hawthorn,,630,HSGN,,,,,REAP Silver,Legacy,Legacy,,,,6333 Larkin Drive,Vancouver,BC,V6T 0A7
-LOGN,AD-450,Hawthorn,,620,HSGN,,,,,,Logan Lane,Logan Lane,,,,6202 Logan Lane,Vancouver,BC,V6T 2K9
-CLEM,AD-40,Hawthorn,,621,HSGN,,,,,REAP Silver,Clement's Green,Clement's Green,,,,6268 Eagles Drive,Vancouver,BC,V6T 0A2
-PROM,AD-42,Hawthorn,,626,HSGN,,,,,,Promontory,Promontory,,,,2688 West Mall,Vancouver,BC,V6T 2J8
-SUMA,AD-3,Hawthorn,,154,HSGN,,4156,,,,Sumac House,Sumac House,Faculty Staff Housing Building C,,,6395 Hawthorn Lane,Vancouver,BC,V6T 0C1
-AZAL,AD-1,Hawthorn,,152,HSGN,,1312,,,,Azalea House,Azalea House,Faculty Staff Housing Building A ,,,6388 Hawthorn Lane,Vancouver,BC,V6T 0B9
-JOUR,AD-39,Hawthorn,,619,HSGN,,,,,,Journey,Journey,,,,6328 Larkin Drive,Vancouver,BC,V6T 2K2
-CSTB,AD-129,,,160,ADMIN,,3812,,,,Continuing Studies Building,Continuing Studies,English Language Institute,,ELI,2121 West Mall,Vancouver,BC,V6T 1Z4
-STAD,AD-269,,,785,REC,,3155,,,,Thunderbird Stadium,Thunderbird Stadium,David Sidoo Field,,,6288 Stadium Road,Vancouver,BC,V6T 1Z4
-SRC,AD-268,,,774,REC,,4963,,,,Student Recreation Centre (SRC),SRC,,<Null>,REC,6000 Student Union Boulevard,Vancouver,BC,V6T 1Z1
-TENN,AD-184,,,432;433,REC,,10661,,,,Tennis Bubble,Tennis Bubble,,<Null>,,6160 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
-BOTG,AD-120,,,094;091;097;076;082;100;098;099,SCIE,,1645,,,,Admission and Shop in the Garden ,Botanical Garden,Gate House,<Null>,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
-MSUB,AD-270,,,789-1;789,ADMIN,,345,,,,Main Substation,Substation,,,,2446 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-KOER,AD-209,,,515;515-1,ADMIN,,17269,,,,Walter C. Koerner Library,Koerner Library,,,,1958 Main Mall,Vancouver,BC,V6T 1Z2
-UCLL,AD-166,,,344;345;344-1,ADMIN,,3946,,,,Leon and Thea Koerner University Centre,University Centre,,<Null>,<Null>,6331 Crescent Road,Vancouver,BC,V6T 1Z2
-ANSO,AD-107,,,048;876-1;876-2;880,ARTS,,7737,,,,Anthropology and Sociology Building,ANSOC,,<Null>,ANSOC,6303 NW Marine Drive,Vancouver,BC,V6T 1Z1
-NRCI,AD-234,,,591,RSCH,,,,,,NRC Institute for Fuel Cell Innovation,NRC,,,NRC Institute,4250 Wesbrook Mall,Vancouver,BC,V6T 1W5
-DRIX,AD-194,,,458,ADMIN,,5008,,,,Donald Rix Building,Donald Rix,,,,2389 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-MCML,AD-175,,,386,LFS,,14341,,,,HR MacMillan Building,MacMillan,Faculty of Land and Food Systems,<Null>,,2357 Main Mall,Vancouver,BC,V6T 1Z4
-BUTO,AD-122,,,120,ARTS,,9985,,,,Buchanan Tower,Buchanan Tower,,,,1873 East Mall,Vancouver,BC,V6T 1Z1
-RUGC,AD-185,,,434,REC,,541,,,LEED Gold,Gerald McGavin Rugby Centre,Rugby Centre,,,,2765 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-RESP,AD-231,,,585,SCIE,,41,,,,UBC Research Ponds,Research Ponds,,,,4069 Wesbrook Mall,Vancouver,BC,V6T 1W5
-ALUM,AD-274,,,797,ADMIN,,3729,,,LEED Gold,Robert H. Lee Alumni Centre,Alumni Centre,,,ALUMNI,6163 University Boulevard,Vancouver,BC,V6T 1Z1
-MGYM,AD-182,,,428,REC,,8945,,,,War Memorial Gymnasium,War Memorial,Gym,,,6081 University Boulevard,Vancouver,BC,V6T 1Z1
-STAC,AD-186,,,437,REC,,160,,,,UBC Stadium Academic Centre,Stadium Centre,,,,6298 Stadium Road,Vancouver,BC,V6T 1Z4
-PONN,AD-85,,,905,EDUC/RES,,26519,,,LEED Gold,Ponderosa Commons North,Ponderosa Commons,Cedar/Oak House,<Null>,,2075 West Mall,Vancouver,BC,V6T 1Z2
-ACEN,AD-106,,,046,ARTS,,4922,,,,Asian Centre,Asian Centre,,,,1871 West Mall,Vancouver,BC,V6T 1Z2
-IBLC,AD-210,,,516,ADMIN,,23406,,,,Irving K. Barber Learning Centre,IK Barber,Ike Barber,<Null>,,1961 East Mall,Vancouver,BC,V6T 1Z1
-BRCK,AD-121,,,113;112-1;112,ADMIN,,3421,,,,Brock Hall  ,Brock Hall  ,Student Services and Welcome Centre,<Null>,,1874 East Mall,Vancouver,BC,V6T 1Z1
-CGPH,AD-180,,,420,ADMIN,,2079,,,,Cecil Green Park House,Cecil Green Park,,,,6251 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
-RESA,AD-100,,,024-5;024-3,ADMIN,,943,,,,Lower Mall Header House,Header,,,LMHH,2331 Lower Mall,Vancouver,BC,V6T 1Z4
-CEML,AD-155,,,307;309,APSC,,3761,,,,Civil and Mechanical Engineering Labs,CEME Labs,Rusty Hut,<Null>,,2275 East Mall,Vancouver,BC,V6T 1Z4
-PREZ,AD-67,,,728;728-1,ADMIN,,970,,,,Norman MacKenzie House,Norman MacKenzie House,President's Residence,<Null>,<Null>,6565 NW Marine Drive,Vancouver,BC,V6T 1A7
-WOOD,AD-1012,,,475;473,MEDI,,18027,,,,P. A. Woodward Instructional Resources Centre,Woodward IRC,Faculty of Medicine,<Null>,IRC,2194 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-CACP,AD-247,,,643;029,ADMIN,,1389,,,,Campus & Community Planning,C&CP,,,C&CP1,2210 West Mall,Vancouver,BC,V6T 1Z4
-AYOH,AD-316,,,538,RSCH,,,,,,,,,,,,,,
-SOWK,AD-258,,,750,ARTS,,2712,,,,Jack Bell Building for the School of Social Work,Jack Bell,,,,2080 West Mall,Vancouver,BC,V6T 1Z2
-MATH,AD-211,,,518,SCIE,,4517,,,,Mathematics Building,Math,,,,1984 Mathematics Road,Vancouver,BC,V6T 1Z2
-INTL,AD-200,,,472,ADMIN,,1141,,,,International House,International House,I- House,,I House,1783 West Mall,Vancouver,BC,V6T 1Z2
-BINN,AD-164,,,324,ARTS,,1500,,,,B.C. Binning Studios,Binning Studios,Hut M-17,<Null>,,6373 University Boulevard,Vancouver,BC,V6T 1Z2
-STOR,AD-253,,,669,ARTS,,382,,,,Stores Road Annex,Stores Annex,,,,6368 Stores Road,Vancouver,BC,V6T 1Z4
-MUSC,AD-229,,,575,ARTS,,6593,,,,Music Building,Music,Roy Barnett Recital Hall,,,6361 Memorial Road,Vancouver,BC,V6T 1Z2
-WEDC,AD-153,,,301,APSC,,2008,,,,Wayne and William White Engineering Design Centre,EDC,,<Null>,EDC,2345 East Mall,Vancouver,BC,V6T 1Z4
-ALRD,AD-203,,,482,LAW,,13799,,,,Allard Hall,Allard Hall,Peter A. Allard School of Law ,<Null>,LAW,1822 East Mall,Vancouver,BC,V6T 1Z1
-FARM,AD-112,,,670;389;071-2;071-1;387;075,LFS,,774,,,,UBC Farm Centre,UBC Farm Centre,,,,3461 Ross Drive,Vancouver,BC,V6T 1W5
-ANGU,AD-98,,,023;026;023-1,COMM,,21814,,,,Henry Angus Building,Henry Angus,Sauder School of Business,,Sauder,2053 Main Mall,Vancouver,BC,V6T 1Z2
-CHEM,AD-125,,,140;136;447;148;144;132,SCIE,,15532,,,,Chemistry Building,Chemistry,Chemistry Block D Centre Wing,,Chem,2036 Main Mall,Vancouver,BC,V6T 1Z1
-OSBO,AD-183,,,430;431,EDUC,,6177,,,,Robert F. Osborne Centre,Osborne Centre,Osborne Gym,Unit 1,Osborne,6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
-ACOM,AD-91,,,011,ADMIN,,835,,,,Acadia Community Centre,Acadia Park Residence,,Acadia Community Centre,,2707 Tennis Crescent,Vancouver,BC,V6T 2E5
-CLCK,AD-133,,,182,ADMIN,,45,,,,Ladner Clock Tower,Clock Tower,,,,1956 Main Mall,Vancouver,BC,V6T 1Z1
-MARF,AD-260,,,766,ADMIN,,,,,,Materials Recovery Facility,Material Recovery Facility,,,,6055 Nurseries Road,Vancouver,BC,V6T 1W5
-VAPS,AD-19,,,543,ADMIN,,13,,,,,,,,,,,,
-HILL,AD-187,,,445,OTHER,,1237,,,,Hillel House - Diamond Foundation Centre for Jewish Campus Life,Hillel House,,,,6145 Student Union Boulevard,Vancouver,BC,V6T 1Z1
-BEBC,AD-161,,,314,SCIE,,12060,,,,Beaty Biodiversity Centre,Beaty,Beaty Biodiversity Museum,<Null>,,2212 Main Mall,Vancouver,BC,V6T 1Z4
-NEST,AD-273,,,795,ADMIN,,20282,,,LEED Gold,AMS Nest,AMS Nest,,Nest,,6133 University Boulevard,Vancouver,BC,V6T 1Z1
-BOOK,AD-116,,,081,ADMIN,,9892,,,,UBC Bookstore,Bookstore,UBC Bookstore,,,6200 University Boulevard,Vancouver,BC,V6T 1Z4
-TFS,AD-252,,,666;667;668;668-1,ARTS,,1255,,,,Totem Field Studios,Totem Field Studios,,,,2613 West Mall,Vancouver,BC,V6T 1Z4
-DNRG,AD-213,,,521,ADMIN,,1999,,,NONE,Campus Energy Centre (CEC),Energy Centre,,,,6130 Agronomy Road,Vancouver,BC,V6T 1Z3
-SPPH,AD-208,,,513,MEDI,,8279,,,,School of Population & Public Health,SPPH,,,SPPH,2206 East Mall,Vancouver,BC,V6T 1Z3
-FPIN,AD-169,,,372,RSCH,,11297,,,,FP Innovations,FP Innovations,Forintek,,,2665 East Mall,Vancouver,BC,V6T 1Z4
-WESB,AD-291,,,864;867,SCIE,,10671,,,,Wesbrook Building,Wesbrook Building,,,,6174 University Boulevard,Vancouver,BC,V6T 1Z3
-SCRF,AD-151,,,233;240-2;234;240-1;232,EDUC,,7117,,,,Neville Scarfe Building ,Scarfe,Faculty of Education,<Null>,,2125 Main Mall,Vancouver,BC,V6T 1Z4
-LADH,AD-250,,,654,SCIE,,653,,,,Abdul Ladha Science Student Centre,Ladha,,,,2055 East Mall,Vancouver,BC,V6T 1Z1
-AERL,AD-162,,,316,SCIE,,5150,,,,Aquatic Ecosystems Research Laboratory (AERL),AERL,,,AERL,2202 Main Mall,Vancouver,BC,V6T 1Z4
-CEME,AD-155,,,306,APSC,,9234,,,,Civil and Mechanical Engineering Building,CEME,,,CEME,6250 Applied Science Lane,Vancouver,BC,V6T 1Z4
-GASG,AD-176,,,394,APSC,,203,,,,Gas Gun,Gas Gun Facility,,Gas Gun,,6301 Stadium Road,Vancouver,BC,V6T 1Z4
-SQSH,AD-180,,,422,ADMIN,,109,,,,,,,,,,,,
-MCLD,AD-159,,,312,APSC,,7282,,,,MacLeod Building,MacLeod,Hector MacLeod Building,,,2356 Main Mall,Vancouver,BC,V6T 1Z4
-AUDI,AD-104,,RENEW,044,ARTS,,2633,,,,Old Auditorium,Old Aud,,,,6344 Memorial Road,Vancouver,BC,V6T 1Z2
-BERW,AD-288,,,858,SCIE,,1598,,,,Berwick Memorial Centre,Berwick,,,,2765 Osoyoos Crescent,Vancouver,BC,V6T 1X7
-ESB,AD-150,,,225,SCIE,,15910,,,LEED Gold,Earth Sciences Building,Earth Sciences,Science Dean office,,ESB,2207 Main Mall,Vancouver,BC,V6T 1Z4
-IRSC,AD-1015,,,514,ADMIN,,,,,,Indian Residential School History and Dialogue Centre (IRSC) ,IRSC,,,,1985 Learners' Walk,Vancouver,BC,V6T 1Z1
-BRKC,AD-0,,,114,RES,,14545,,,LEED Gold,Brock Commons,Tallwood House,Brock Commons I,,,6088 Walter Gage Road,Vancouver,BC,V6T 1Z1
-STJC,AD-278,,,822-3;822-1;822-2,RES,,9050,,,,St. John's College,St. John's College,Saint John's,,,2111 Lower Mall,Vancouver,BC,V6T 1Z4
-CHSC,AD-128,,,155,ADMIN,,1204,,,,Child Care Services Administration Building,Child Care Admin Building,Child Care Main Building,CCS Admin,,2881 Acadia Road,Vancouver,BC,V6T 1S1
-BRIM,AD-95,,,020-1;020,APSC,,13712,,,,The Brimacombe Building,Brimacombe,,,,2355 East Mall,Vancouver,BC,V6T 1Z4
-CFCM,AD-110,,,057,SCIE,,10367,,,,Centre for Comparative Medicine (CCM),CCM,,,,4145 Wesbrook Mall,Vancouver,BC,V6T 1W5
-AQUA,AD-149,,,213,REC,,8022,,,LEED Gold,UBC Aquatic Centre,Aquatic Centre,Swimming Pool,,,6080 Student Union Boulevard,Vancouver,BC,V6T 1Z1
-KENN,AD-256,,,732,ARTS,,8741,,,,Douglas Kenny Building,Kenny,Psychology,<Null>,,2136 West Mall,Vancouver,BC,V6T 1Z4
-CHBE,AD-152,,,300,APSC,,13181,,,,Chemical & Biological Engineering Building,ChemBio,,<Null>,CHBE,2360 East Mall,Vancouver,BC,V6T 1Z3
-MSB,AD-118,,,083,SCIE,,8476,,,,Michael Smith Laboratories,Michael Smith Labs,,,,2185 East Mall,Vancouver,BC,V6T 1Z4
-MARN,AD-172,,,377-1;377-3;377-6;377-5;377-4;377-2,RES,,59323,,,,Marine Drive Residence ,Marine Drive Residence ,Marine Drive Commonsblock,Building 3,MDR3,2205 Lower Mall,Vancouver,BC,V6T 1Z4
-SPPA,AD-266,,,770-3;770-1;770-2,RES,,6503,,,,Spirit Park Apartments,Spirit Park Apartments,,,,2715 Osoyoos Crescent,Vancouver,BC,V6T 1X7
-TOTM,AD-223,,,565;540-2;540-3;566;567;540-1;541,RES,,47930,,,,,,,,,,,,
-ACAP,AD-712,,,002-1;010-04;009-19;010-09;010-02;009-06;009-02;009-09;009-21;009-23;009-25;009-24;010-10;010-08;010-07;010-06;010-05;010-03;010-01;009-26;009-22;009-20;009-18;009-17;009-16;009-15;009-14;009-13;009-12;009-11;009-10;009-08;009-07;009-05;009-04;009-03;009-01;014-1;014-3;014-2,RES,,35278,,,,Acadia Park Residence,Acadia Park Residence,,Student Family Housing,,2663 Tennis Cres,Vancouver,BC,V6T 2C1
-SUB,AD-271,,,790;790-1;790-2,ADMIN,,19077,,,,Student Union Building (SUB),Old SUB,,<Null>,SUB,6138 Student Union Boulevard,Vancouver,BC,V6T 1Z1
-FNH,AD-189,,,449;449-1,LFS,,5740,,,,Food Nutrition and Health Building,Food Nutrition Health,,<Null>,FNH,2205 East Mall,Vancouver,BC,V6T 1Z4
-VANR,AD-19,,,544;902;898;548;560;545-2;545-1;556;552;896-1;896-2;896-3;896-4,RES,,35553,,,,Place Vanier Residence  ,Place Vanier Residence  ,Gordon Shrum Commons Block,<Null>,,1935 Lower Mall,Vancouver,BC,V6T 1X1
-TFPB,AD-103,,,036;036-1,ARTS,,772,,,,Theatre-Film Production Building,Theatre-Film,,,,6358 University Boulevard,Vancouver,BC,V6T 1Z4
-AUDX,AD-105,,,863-2;045,ARTS,,2431,,,,Auditorium Annexes,Auditorium Annexes,Auditorium Annex Offices A,,,1924 West Mall,Vancouver,BC,V6T 1Z2
-THUR,AD-70,,,784;780;781;782;783;781-1;780-1;782-1;783-1;784-1,RES,,42209,,,,Thunderbird Residence,Thunderbird Residence,Thunderbird Commonsblock,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
-THUN,AD-295,,,868,REC,,25227,,,,Doug Mitchell Thunderbird Sports Centre,Doug Mitchell Centre,Thunderbird Sports Centre,,,2555 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-MBOL,AD-240,,,614,ARTS,,1318,,,,Mary Bollert Hall,Bollert Hall,,,,6253 NW Marine Drive,Vancouver,BC,V6T 1Z1
-AMBS,AD-222,,,539,ADMIN,,210,,,,Ambulance Station,Ambulance,,,,2333 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-LASR,AD-101,,,028,ARTS,,4571,,,,Frederic Lasserre Building,Lasserre,,,,6333 Memorial Road,Vancouver,BC,V6T 1Z2
-BIAC,AD-284,,,846,SCIE,,500,,,,,,,,,,,,
-CBH,AD-198,,Add GRP_ID,465,MEDI,,14395,,,,Djavad Mowafaghian Centre for Brain Health (CBH),Centre for Brain Health,,<Null>,CBH,2215 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-BIRC,AD-195,,,461,MEDI,,4529,,,,Biomedical Research Centre,Biomedical,Biomedical Building,<Null>,,2222 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-ENSC,AD-158,,,310,APSC,,953,,,LEED Gold,Engineering Student Centre,ESC,Engineering Undergraduate Society,Cheese,EUS,2335 Engineering Road,Vancouver,BC,V6T 1Z4
-ORCH,AD-24,,,557,RES,,39898,,,LEED Gold,Orchard Commons,Orchard Commons,,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
-GMGB,AD-227,,,569,ADMIN,,3230,,,,Gerald McGavin Building,McGavin,,,,2386 East Mall,Vancouver,BC,V6T 1Z3
-GAGE,AD-297,,,869-2;872-2;872-1;869-3;869-1;874,RES,,46114,,,,Walter H. Gage Residence ,Gage Residence,Walter H. Gage Residence Commonsblock,,Gage,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
+MBAH,AD-54,Wesbrook,new GBA taken from spreadsheet,694,RES,,3575,0,,REAP Silver,MBA House,MBA House,,,,3385 Wesbrook Mall,Vancouver,BC,V6T 1Z4
+AYOH,AD-316,,,538,RSCH,,0,0,,,,,,,,,,,
+WDPL,AD-174,,,385,FRST,,283,0,,,Wood Drying Laboratory,Wood Lab,,,,2324 West Mall,Vancouver,BC,V6T 1Z4
+DRIX,AD-194,,,458,ADMIN,,5008,0,,,Donald Rix Building,Donald Rix,,,,2389 Health Sciences Mall,Vancouver,BC,V6T 1Z3
+PARH,AD-199,,,467,PARK,,31481,0,,,Health Sciences Parkade,Health Sciences Parkade,,,,2250 Health Sciences Mall,Vancouver,BC,V6T 1Z3
+MCML,AD-175,,,386,LFS,,14342,0,,,HR MacMillan Building,MacMillan,Faculty of Land and Food Systems,<Null>,,2357 Main Mall,Vancouver,BC,V6T 1Z4
+BUTO,AD-122,,,120,ARTS,,9863,0,,,Buchanan Tower,Buchanan Tower,,,,1873 East Mall,Vancouver,BC,V6T 1Z1
+ULTM,AD-60,Wesbrook,new GBA taken from spreadsheet,706,HSGN,,5109,0,,REAP Gold,Ultima,Ultima,,,,3479 Wesbrook Mall,Vancouver,BC,V6S 0B7
+WPRO,AD-277,Wesbrook,GBA from https://www.wesbrookproperties.com/office-retail-leasing/,690,OTHER,,1672,0,,,Wesbrook Professional Centre,Wesbrook Professional Centre,,,,3313 Shrum Lane,Vancouver,BC,V6S 0C8
+RUGC,AD-185,,,434,REC,,542,0,,LEED Gold,Gerald McGavin Rugby Centre,Rugby Centre,,,,2765 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+RESP,AD-231,,,585,SCIE,,41,0,,,UBC Research Ponds,Research Ponds,,,,4069 Wesbrook Mall,Vancouver,BC,V6T 1W5
+ALUM,AD-274,,,797,ADMIN,,3730,0,,LEED Gold,Robert H. Lee Alumni Centre,Alumni Centre,,,ALUMNI,6163 University Boulevard,Vancouver,BC,V6T 1Z1
+MGYM,AD-182,,,428,REC,,8945,0,,,War Memorial Gymnasium,War Memorial,Gym,,,6081 University Boulevard,Vancouver,BC,V6T 1Z1
+STAC,AD-186,,,437,REC,,161,0,,,UBC Stadium Academic Centre,Stadium Centre,,,,6298 Stadium Road,Vancouver,BC,V6T 1Z4
+ACEN,AD-106,,,046,ARTS,,4926,0,,,Asian Centre,Asian Centre,,,,1871 West Mall,Vancouver,BC,V6T 1Z2
+WHAM,AD-8,Hampton,new GBA taken from spreadsheet,501,HSGN,,12211,0,,,West Hampstead,West Hampstead,Hampton Place Lot 2,,,5760 Hampton Place,Vancouver,BC,V6T 2G1
+TENN,AD-184,,,432;433,REC,,10661,1,,,Tennis Bubble,Tennis Bubble,,<Null>,,6160 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
+ACOM,AD-91,,,011,ADMIN,,836,0,,,Acadia Community Centre,Acadia Park Residence,,Acadia Community Centre,,2707 Tennis Crescent,Vancouver,BC,V6T 2E5
+BOTG,AD-120,,,094;091;097;076;082;100;098;099,SCIE,,1645,1,,,Admission and Shop in the Garden ,Botanical Garden,Gate House,<Null>,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
+FARM,AD-112,,,670;389;071-2;071-1;387;075,LFS,,774,1,,,UBC Farm Centre,UBC Farm Centre,,,,3461 Ross Drive,Vancouver,BC,V6T 1W5
+CHEM,AD-125,,,140;136;447;148;144;132,SCIE,,26438,1,,,Chemistry Building,Chemistry,Chemistry Block D Centre Wing,,Chem,2036 Main Mall,Vancouver,BC,V6T 1Z1
+OSBO,AD-183,,,430;431,EDUC,,6177,1,,,Robert F. Osborne Centre,Osborne Centre,Osborne Gym,Unit 1,Osborne,6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
+COST,AD-280,Chancellor,new GBA taken from spreadsheet,831-5;831-4;831-3;831-2;831-1;832-2;832-3;832-1,HSGN,,17286,1,,,Coast,Coast,,,,6063 Iona Drive,Vancouver,BC,V6T 0B1
+STMD,AD-523,Chancellor,new GBA taken from spreadsheet,827-8;827-7;827-6;827-5,HSGN,,1728,1,,,St Mark's Duplexes,St Mark's Duplexes,,,,5938 Chancellor Boulevard,Vancouver,BC,V6T 0A1
+ARGW,AD-80,Chancellor,new GBA taken from spreadsheet,837,HSGN,,5424,0,,,Argyll House West,Argyll House West,,,,6018 Iona Drive,Vancouver,BC,V6T 2L1
+TRMF,AD-283,,GBA from OSIS,847;853;854;847-1;850;843;842;845;854-1;854-2;843-5;843-1;850-1;850-3;842-1;842-7,RSCH,,60157,0,,,TRIUMF - Canada's National Laboratory For Particle and Nuclear Physics,TRIUMF,,,TRIUMF,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
+CRSW,AD-37,Wesbrook,new GBA taken from spreadsheet,605-4;605-1;605-5;605-6;605-2;605-3;605-7,HSGN,,4433,0,,,Crescent West,Crescent West,,,,5879 Gray Avenue,Vancouver,BC,V6S 0A9
+THEA,AD-179,,,409;408,ADMIN,,4141,0,,,Thea Koerner House,Thea Koerner House,Graduate Student Centre,GSS,,6371 Crescent Road,Vancouver,BC,V6T 1Z2
+THAC,AD-9,Hampton,new GBA taken from spreadsheet,502,HSGN,,13794,0,,,Thames Court,Thames Court,Hampton Place Lot 3,,,5880 Hampton Place,Vancouver,BC,V6T 2E9
+TAMK,AD-44,Hawthorn,new GBA taken from spreadsheet,629,HSGN,,10711,0,,,Tamarack House,Tamarack House,Faculty Staff Housing Building E,,,6230 Thunderbird Boulevard,Vancouver,BC,V6T 0C3
+SOPR,AD-6,,,451,RES,,6587,0,,,Sopron House,Sopron House,,,,2730 Acadia Road,Vancouver,BC,V6T 1R9
+PGRA,AD-69,,,771,RES,,7184,0,,,Point Grey Apartments ,Point Grey Apartments ,Osoyoos Housing,,,2875 Osoyoos Crescent,Vancouver,BC,V6T 2G3
+GARD,AD-38,Hawthorn,new GBA taken from spreadsheet,617,HSGN,,7550,0,,,Gardenia House,Gardenia House,Faculty Staff Housing Building D,,,6309 Larkin Drive,Vancouver,BC,V6T 0C2
+KAIS,AD-160,,,313,APSC,,11798,0,,,Fred Kaiser Building,Fred Kaiser,Faculty of Applied Science,<Null>,,2332 Main Mall,Vancouver,BC,V6T 1Z4
+MATX,AD-212,,,519,SCIE,,1481,0,,,Mathematics Annex,Math Annex,,,,1986 Mathematics Road,Vancouver,BC,V6T 1Z2
+HAWT,AD-418,Hawthorn,new GBA taken from spreadsheet,618,HSGN,,1728,0,,,Hawthorn Green,Hawthorn Green,,,,6318 Hawthorn Lane,Vancouver,BC,V6T 2J6
+CHAN,AD-124,,,130,ARTS,,8214,0,,,Chan Centre for the Performing Arts,Chan Centre,,,,6265 Crescent Road,Vancouver,BC,V6T 1Z1
+LIUG,AD-206,,,496,ARTS,,1713,0,,,Liu Institute for Global Issues,Liu Institute,,,,6476 NW Marine Drive,Vancouver,BC,V6T 1Z2
+PARR,AD-218,,,528,PARK,,23185,0,,,Rose Garden Parkade,Rose Garden Parkade,,,,6278 NW Marine Drive,Vancouver,BC,V6T 1Z1
+BRDF,AD-94,,,019,ADMIN,,2200,0,,LEED Gold,Bioenergy Research and Demonstration Facility (BRDF),Bioenergy Research,,<Null>,BRDF,2337 Lower Mall,Vancouver,BC,V6T 1Z4
+SRES,AD-261,,,767,APSC,,321,0,,,Staging Environmental Research Centre,SERC,,,SERC,6045 Nurseries Road,Vancouver,BC,V6T 1W5
+MCDN,AD-135,,,198,DENT,,7209,0,,,JB Macdonald Building,Macdonald,Dentistry Building,,,2199 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+BTF,AD-308,,,862,REC,,1224,0,,,UBC Baseball Indoor Training Centre,Baseball Training Centre,,,,3085 Wesbrook Mall,Vancouver,BC,V6T 1Z4
+PARN,AD-272,,,792,PARK,,27294,0,,,North Parkade,North Parkade,,,,6115 Student Union Boulevard,Vancouver,BC,V6T 1Z1
+DASB,AD-136,,,199,ADMIN/DENT,,12209,0,,,David Strangway Building,Strangway,,,,5950 University Boulevard,Vancouver,BC,V6T 1Z3
+KIDS,AD-92,,,013,ADMIN,,475,0,,,Kids Club,Kids Club,,,,2855 Acadia Road,Vancouver,BC,V6T 1S1
+NRCI,AD-234,,GBA from RRS,591,RSCH,,6598,0,,,NRC Institute for Fuel Cell Innovation,NRC,,,NRC Institute,4250 Wesbrook Mall,Vancouver,BC,V6T 1W5
+DMP,AD-130,,,164,SCIE,,1488,0,,,Hugh Dempster Pavilion,Dempster,,,,6245 Agronomy Road,Vancouver,BC,V6T 1Z4
+CORS,AD-321,Chancellor,new GBA taken from spreadsheet,839,HSGN,,10805,0,,,Corus,Corus,,,,5989  Walter Gage Road,Vancouver,BC,V6T 0A8
+BARN,AD-108,,,051,ADMIN,,304,0,,,The Barn,Barn,,<Null>,,2323 Main Mall,Vancouver,BC,V6T 1Z4
+OFRH,AD-173,,,380,ARTS,,378,0,,,Old Fire Hall,Old Fire Hall,,,,2038 West Mall,Vancouver,BC,V6T 1Z2
+GEOG,AD-177,,,401,ARTS,,5497,0,,,Geography Building,Geography,,,,1984 West Mall,Vancouver,BC,V6T 1Z2
+HEBB,AD-251,,,656,SCIE,,5957,0,,,Hebb Building,Hebb,,,,2045 East Mall,Vancouver,BC,V6T 1Z1
+LARK,AD-27,Wesbrook,new GBA taken from spreadsheet,586,HSGN,,4913,0,,REAP Silver,Larkspur House,Larkspur House,Faculty Staff Housing Building F,,,3428 Wesbrook Mall,Vancouver,BC,V6S 0G9
+PHRM,AD-217,,,527,PHAR,,29695,0,,LEED Gold,Pharmaceutical Sciences Building,Pharmacy,,,,2405 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+SITK,AD-20,East Campus,new GBA taken from spreadsheet,550,HSGN,,7646,0,,,Sitka,Sitka,,,,5868 Agronomy Road,Vancouver,BC,V6T 0B5
+SCWH,AD-245,,,638,ADMIN,,2583,0,,,South Campus Warehouse,SC Warehouse,,,,6116 Nurseries Road,Vancouver,BC,V6T 1W5
+PROD,AD-62,Wesbrook,new GBA taken from spreadsheet,711,HSGN,,16295,0,,,Prodigy,Prodigy,Prodigy 1,,,6033 Gray Avenue,Vancouver,BC,V6S 0G3
+LGCY,AD-45,Hawthorn,new GBA taken from spreadsheet,630,HSGN,,7435,0,,REAP Silver,Legacy,Legacy,,,,6333 Larkin Drive,Vancouver,BC,V6T 0A7
+ARGE,AD-74,Chancellor,new GBA taken from spreadsheet,810,HSGN,,5403,0,,,Argyll House East,Argyll House East,,,,5958 Iona Drive,Vancouver,BC,V6T 2L2
+SWNG,AD-302,,,901,ADMIN,,5094,0,,,West Mall Swing Space Building,Swing Space,,,,2175 West Mall,Vancouver,BC,V6T 1Z4
+LSC,AD-219,,GBA from OSIS,529,SCIE,,52177,0,,LEED Gold,Life Sciences Centre,Life Sciences ,,<Null>,,2350 Health Sciences Mall,Vancouver,BC,V6T 1Z3
+TRMH,AD-18,East Campus,,534,HSGN,,2202,0,,,TRIUMF House,TRIUMF House,TRIUMF Visitor's Residence,,,5835 Thunderbird Boulevard,Vancouver,BC,V6T 2L6
+ACU,AD-197,,,463,MEDI,,40372,0,,,Koerner Pavilion,Koerner,,Urgent Care,,2211 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+PINE,AD-311,Wesbrook,,715,HSGN,,6392,,,LEED Gold,,,,,,,,,
+PARF,AD-109,,,052,PARK,,17170,0,,,Fraser River Parkade,Fraser River Parkade,,,,6440 Memorial Road,Vancouver,BC,V6T 1Z2
+CHOI,AD-202,,,478,ARTS,,2710,0,,,C. K. Choi Building for the Institute of Asian Research,Choi Building,,<Null>,,1855 West Mall,Vancouver,BC,V6T 1Z2
+MEWS,AD-49,Wesbrook,new GBA taken from spreadsheet,689,HSGN,,14006,0,,REAP Gold,The Mews,The Mews,,,,3333 Wesbrook Mall,Vancouver,BC,V6S 0E3
+HILL,AD-187,,,445,OTHER,,1237,0,,,Hillel House - Diamond Foundation Centre for Jewish Campus Life,Hillel House,,,,6145 Student Union Boulevard,Vancouver,BC,V6T 1Z1
+GRWC,AD-22,East Campus,There are plans to split this feature at some point (peter). new GBA taken from spreadsheet,554-1;554-2;554-3;554-4;554-5;554-6;554-7,HSGN,,5942,0,,REAP Bronze,Greenwood Commons ,Greenwood Commons ,,,,2660 Wesbrook Mall,Vancouver,BC,V6T 0A5
+YUYU,AD-56,Wesbrook,new GBA taken from spreadsheet,695,HSGN,,9755,0,,REAP Gold,Yu,Yu,,,,5955 Birney Avenue,Vancouver,BC,V6S 0C5
+UNSB,AD-246,,,641,ADMIN,,11598,0,,,University Services Building,USB,Campus Mail,,USB,2329 West Mall,Vancouver,BC,V6T 1Z4
+SUMA,AD-3,Hawthorn,new GBA taken from spreadsheet,154,HSGN,,5484,0,,,Sumac House,Sumac House,Faculty Staff Housing Building C,,,6395 Hawthorn Lane,Vancouver,BC,V6T 0C1
+SOMS,AD-515,Hawthorn,new GBA taken from spreadsheet,622,HSGN,,7892,0,,,Somerset,Somerset,,,,2616 West Mall,Vancouver,BC,V6T 2K6
+FSC,AD-167,,,353,FRST,,22459,0,,,Forest Sciences Centre,Forest Sciences,,,,2424 Main Mall,Vancouver,BC,V6T 1Z4
+TECH,AD-238,,,606,ADMIN,,14623,0,,,Technology Enterprise Facility (TEF) 3 ,TEF3,,,TEF3,6190 Agronomy Road,Vancouver,BC,V6T 1Z3
+CLEM,AD-40,Hawthorn,new GBA taken from spreadsheet,621,HSGN,,6776,0,,REAP Silver,Clement's Green,Clement's Green,,,,6268 Eagles Drive,Vancouver,BC,V6T 0A2
+PROM,AD-42,Hawthorn,new GBA taken from spreadsheet,626,HSGN,,12170,0,,,Promontory,Promontory,,,,2688 West Mall,Vancouver,BC,V6T 2J8
+FNLH,AD-165,,,337,ARTS,,2157,0,,,First Nations Longhouse,First Nations Longhouse,House of Learning,,,1985 West Mall,Vancouver,BC,V6T 1Z2
+WSPT,AD-81,Chancellor,new GBA taken from spreadsheet,841,HSGN,,5139,0,,,Westpoint,Westpoint,,,,6005 Walter Gage Road,Vancouver,BC,V6T 0B3
+LMRS,AD-97,,,022,ADMIN,,6406,0,,,Lower Mall Research Station,Lower Mall Research Station,,,LMRS,2259 Lower Mall,Vancouver,BC,V6T 1Z4
+OADM,AD-93,,,017,ADMIN,,2266,0,,,Old Administration Building,Old Admin,,,,6328 Memorial Road,Vancouver,BC,V6T 1Z2
+BART,AD-226,,,568,ARTS,,1504,0,,,Morris and Helen Belkin Art Gallery,Belkin Art Gallery,,<Null>,,1825 Main Mall,Vancouver,BC,V6T 1Z2
+DSOM,AD-163,,RENEW,320,ARTS,,1823,0,,,Dorothy Somerset Studios,Somerset Studios,Hut M-18,<Null>,,6361 University Boulevard,Vancouver,BC,V6T 1Z2
+CGPC,AD-181,,,421,ADMIN,,243,0,,,Cecil Green Park Coach House,Coach House,,,,6323 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
+SOJ,AD-148,,,212,ARTS,,1358,0,,,Sing Tao Building,Sing Tao,School of Journalism,,,6388 Crescent Road,Vancouver,BC,V6T 1Z2
+PAPC,AD-257,,,747,FRST,,3317,0,,,Pulp and Paper Centre,Pulp and Paper,,,,2385 East Mall,Vancouver,BC,V6T 1Z4
+EHHL,AD-207,,,511,APSC,,145,0,,,Engineering High Head Room Laboratory,High Head,,,,2225 East Mall,Vancouver,BC,V6T 1Z4
+WCOM,AD-57,Wesbrook,,697,ADMIN,,3111,0,,LEED Gold,Wesbrook Community Centre,Wesbrook Community Centre,,,,3335 Webber Lane,Vancouver,BC,V6S 0H3
+RITS,AD-68,,,745,RES,,6763,0,,,Ritsumeikan-UBC House,Ritsumeikan,,<Null>,Rits House,6460 Agronomy Road,Vancouver,BC,V6T 1Z4
+CSTB,AD-129,,,160,ADMIN,,3813,0,,,Continuing Studies Building,Continuing Studies,English Language Institute,,ELI,2121 West Mall,Vancouver,BC,V6T 1Z4
+CGPH,AD-180,,,420,ADMIN,,2080,0,,,Cecil Green Park House,Cecil Green Park,,,,6251 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
+GREN,AD-193,,,456,SCIE,,1753,0,,,Horticulture Building,Horticulture,Greenhouse,,,6394 Stores Road,Vancouver,BC,V6T 1Z4
+STJN,AD-244,,,635,MEDI,,1302,0,,REAP Silver,St. John Hospice,Hospice,,,,6389 Stadium Road,Vancouver,BC,V6T 1Z4
+BONR,AD-262,,,768,ADMIN,,1316,0,,,Building Operations Nursery,Building Ops Nursery,Plant Operations Greenhouses,<Null>,,6029 Nurseries Road,Vancouver,BC,V6T 1W5
+NOBL,AD-66,Wesbrook,new GBA taken from spreadsheet,717,HSGN,,9456,0,,REAP Gold,Nobel House,Nobel House,,,,3655 Wesbrook Mall,Vancouver,BC,V6S 0G6
+VIST,AD-23,East Campus,new GBA taken from spreadsheet,555,HSGN,,8963,0,,,Vista Point,Vista Point,,,,5828 Thunderbird Boulevard,Vancouver,BC,V6T 0B8
+PUDP,AD-196,,,462,MEDI,,16266,0,,,Purdy Pavilion,Purdy,,Purdy Pavilion,,2221 Wesbrook Mall,Vancouver,BC,V6T 1Z9
+PART,AD-224,,GBA from OSIS,551,PARK,,59350,0,,,Thunderbird Parkade,Thunderbird Parkade,,,,6085 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
+STAD,AD-269,,,785,REC,,3156,0,,,Thunderbird Stadium,Thunderbird Stadium,David Sidoo Field,,,6288 Stadium Road,Vancouver,BC,V6T 1Z4
+IBLC,AD-210,,,516,ADMIN,,23407,0,,,Irving K. Barber Learning Centre,IK Barber,Ike Barber,<Null>,,1961 East Mall,Vancouver,BC,V6T 1Z1
+SRC,AD-268,,,774,REC,,4963,0,,,Student Recreation Centre (SRC),SRC,,<Null>,REC,6000 Student Union Boulevard,Vancouver,BC,V6T 1Z1
+REGE,AD-15,Hampton,new GBA taken from spreadsheet,507,HSGN,,11905,0,,,The Regency,The Regency,Hampton Place Lot 8 ,,,5639 Hampton Place,Vancouver,BC,V6T 2H6
+AZAL,AD-1,Hawthorn,new GBA taken from spreadsheet,152,HSGN,,1313,0,,,Azalea House,Azalea House,Faculty Staff Housing Building A ,,,6388 Hawthorn Lane,Vancouver,BC,V6T 0B9
+SORO,AD-88,,,918,RES,,3058,0,,,Panhellenic House,Panhellenic House,Sorority House,<Null>,,2770 Wesbrook Mall,Vancouver,BC,V6T 2B7
+STJA,AD-10,Hampton,new GBA taken from spreadsheet,503,HSGN,,12386,0,,,St. James,St. James,Hampton Place Lot 4,,,5835 Hampton Place,Vancouver,BC,V6T 2G2
+STIR,AD-75,Chancellor,new GBA taken from spreadsheet,818,HSGN,,4783,0,,REAP Bronze,Stirling House,Stirling House,,,,6080 Iona Drive,Vancouver,BC,V6T 0A4
+IONA,AD-281,Chancellor,,836,ARTS,,8639,0,,,Iona Building,Iona Building,,,,6000 Iona Drive,Vancouver,BC,V6T 1L4
+BINN,AD-164,,,324,ARTS,,1501,0,,,B.C. Binning Studios,Binning Studios,Hut M-17,<Null>,,6373 University Boulevard,Vancouver,BC,V6T 1Z2
+SOWK,AD-258,,,750,ARTS,,2712,0,,,Jack Bell Building for the School of Social Work,Jack Bell,,,,2080 West Mall,Vancouver,BC,V6T 1Z2
+MATH,AD-211,,,518,SCIE,,4520,0,,,Mathematics Building,Math,,,,1984 Mathematics Road,Vancouver,BC,V6T 1Z2
+INTL,AD-200,,,472,ADMIN,,1142,0,,,International House,International House,I- House,,I House,1783 West Mall,Vancouver,BC,V6T 1Z2
+STOR,AD-253,,,669,ARTS,,383,0,,,Stores Road Annex,Stores Annex,,,,6368 Stores Road,Vancouver,BC,V6T 1Z4
+CHPL,AD-71,Chancellor,,802,OTHER,,711,0,,,Chapel of the Epiphany,Chapel of the Epiphany,,,,6030 Chancellor Boulevard,Vancouver,BC,V6T 1X3
+MUSC,AD-229,,,575,ARTS,,6593,0,,,Music Building,Music,Roy Barnett Recital Hall,,,6361 Memorial Road,Vancouver,BC,V6T 1Z2
+WEDC,AD-153,,,301,APSC,,2009,0,,,Wayne and William White Engineering Design Centre,EDC,,<Null>,EDC,2345 East Mall,Vancouver,BC,V6T 1Z4
+CIRS,AD-243,,,633,ADMIN,,5434,0,,LEED Platinum,Centre for Interactive Research on Sustainability (CIRS),CIRS,,,CIRS,2260 West Mall,Vancouver,BC,V6T 1Z4
+ALRD,AD-203,,,482,LAW,,13799,0,,,Allard Hall,Allard Hall,Peter A. Allard School of Law ,<Null>,LAW,1822 East Mall,Vancouver,BC,V6T 1Z1
+LPRC,AD-263,,,769,ADMIN,,2146,0,,LEED Gold,Library Preservation Archives,Library PARC,,,,6049 Nurseries Road,Vancouver,BC,V6T 1W5
+DNRG,AD-213,,,521,ADMIN,,2000,0,,NONE,Campus Energy Centre (CEC),Energy Centre,,,,6130 Agronomy Road,Vancouver,BC,V6T 1Z3
+SPPH,AD-208,,,513,MEDI,,8280,0,,,School of Population & Public Health,SPPH,,,SPPH,2206 East Mall,Vancouver,BC,V6T 1Z3
+PAPR,AD-239,,,612,RSCH,,7433,0,,,MT Innovations,MT Innovations,,,,3800 Wesbrook Mall,Vancouver,BC,V6T 1W5
+EERF,AD-154,,,305,APSC,,753,0,,,Earthquake Engineering Research Facility,EERF,,,EERF,2235 East Mall,Vancouver,BC,V6T 1Z4
+DLAM,AD-204,,,490,COMM,,5517,0,,,David Lam Management Research Centre,David Lam,,,,2033 Main Mall,Vancouver,BC,V6T 1Z2
+NEST,AD-273,,,795,ADMIN,,20282,0,,LEED Gold,AMS Nest,AMS Nest,,Nest,,6133 University Boulevard,Vancouver,BC,V6T 1Z1
+BOOK,AD-116,,,081,ADMIN,,6893,0,,,UBC Bookstore,Bookstore,UBC Bookstore,,,6200 University Boulevard,Vancouver,BC,V6T 1Z4
+WYND,AD-13,Hampton,new GBA taken from spreadsheet,506-2,HSGN,,4823,0,,,Wyndham Hall,Wyndham Hall,Hampton Place Lot 7-2 ,,,5683 Hampton Place,Vancouver,BC,V6T 2H3
+STRA,AD-14,Hampton,new GBA taken from spreadsheet,506-1,HSGN,,6848,0,,,The Stratford,The Stratford,Hampton Place Lot 7-1 ,,,5657 Hampton Place,Vancouver,BC,V6T 2H4
+DAHL,AD-65,Wesbrook,new GBA taken from spreadsheet,713,HSGN,,6385,0,,,Dahlia House,Dahlia House,,,,3515 Wesbrook Mall,Vancouver,BC,V6S 0H2
+RUGB,AD-259,,,760,REC,,367,0,,,Rugby Pavilion,Rugby,,,,2584 East Mall,Vancouver,BC,V6T 1Z3
+WEBH,AD-52,Wesbrook,new GBA taken from spreadsheet,693,HSGN,,4259,0,,REAP Gold,Webber House,Webber House,,,,3388 Webber Lane,Vancouver,BC,
+NSDC,AD-307,,,435,REC,,3733,0,,LEED Gold,National Soccer Development Centre,Soccer,,,,3065 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+WLIB,AD-220,,,536,ADMIN,,7695,0,,,Woodward Library,Woodward Library,,,,2198 Health Sciences Mall,Vancouver,BC,V6T 1Z3
+CRSW,AD-37,Wesbrook,new GBA taken from spreadsheet,605-4;605-1;605-5;605-6;605-2;605-3;605-7,HSGN,,4433,0,,,Crescent West,Crescent West,,,,5879 Gray Avenue,Vancouver,BC,V6S 0A9
+VSQU,AD-51,Wesbrook,new GBA taken from spreadsheet,691,HSGN,,10279,0,,REAP Gold,Village Square,Village Square,Wesbrook Lot E,,,3338 Webber Lane,Vancouver,BC,
+GUNN,AD-317,Academic,,438,MEDI,,1861,0,,LEED Gold,,,,,,,,,
+KOER,AD-209,,,515;515-1,ADMIN,,17777,0,,,,,,,,,,,
+RSCU,AD-132,,,180,ARTS,,28,0,,,,,,,,,,,
+VANR,AD-19,,,544;902;898;548;560;545-2;545-1;556;552;896-1;896-2;896-3;896-4,RES,,35552,1,,,Place Vanier Residence  ,Place Vanier Residence  ,Gordon Shrum Commons Block,<Null>,,1935 Lower Mall,Vancouver,BC,V6T 1X1
+CNTL,AD-4,,new GBA taken from spreadsheet,215,HSGN,,7280,0,,REAP Gold,Central,Site B,,,,6015 University Boulevard,Vancouver,BC,
+IRSC,AD-1015,,,514,ADMIN,,399,0,,,Indian Residential School History and Dialogue Centre (IRSC) ,IRSC,,,,1985 Learners' Walk,Vancouver,BC,V6T 1Z1
+BRKC,AD-0,,new GBA taken from spreadsheet,114,RES,,15115,0,,LEED Gold,Brock Commons,Tallwood House,Brock Commons I,,,6088 Walter Gage Road,Vancouver,BC,V6T 1Z1
+ACAP,AD-712,,,002-1;010-04;009-19;010-09;010-02;009-06;009-02;009-09;009-21;009-23;009-25;009-24;010-10;010-08;010-07;010-06;010-05;010-03;010-01;009-26;009-22;009-20;009-18;009-17;009-16;009-15;009-14;009-13;009-12;009-11;009-10;009-08;009-07;009-05;009-04;009-03;009-01;014-1;014-3;014-2,RES,,35468,1,,,Acadia Park Residence,Acadia Park Residence,,Student Family Housing,,2663 Tennis Cres,Vancouver,BC,V6T 2C1
+MARN,AD-172,,,377-1;377-3;377-6;377-5;377-4;377-2,RES,,59324,1,,,Marine Drive Residence ,Marine Drive Residence ,Marine Drive Commonsblock,Building 3,MDR3,2205 Lower Mall,Vancouver,BC,V6T 1Z4
+THUR,AD-70,,,784;780;781;782;783;781-1;780-1;782-1;783-1;784-1,RES,,42208,1,,,Thunderbird Residence,Thunderbird Residence,Thunderbird Commonsblock,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
+GAGE,AD-297,,,869-2;872-2;872-1;869-3;869-1;874,RES,,46115,1,,,Walter H. Gage Residence ,Gage Residence,Walter H. Gage Residence Commonsblock,,Gage,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
+TFPB,AD-103,,,036;036-1,ARTS,,772,0,,,Theatre-Film Production Building,Theatre-Film,,,,6358 University Boulevard,Vancouver,BC,V6T 1Z4
+PATH,AD-29,Wesbrook,new GBA taken from spreadsheet,588-1;588-2,HSGN,,11663,0,,,Pathways,Pathways,Pathways II East,,,5779 Birney Avenue,Vancouver,BC,V6S 0A3
+SUB,AD-271,,,790;790-1;790-2,ADMIN,,20244,0,,,Student Union Building (SUB),Old SUB,,<Null>,SUB,6138 Student Union Boulevard,Vancouver,BC,V6T 1Z1
+FNH,AD-189,,,449;449-1,LFS,,5738,0,,,Food Nutrition and Health Building,Food Nutrition Health,,<Null>,FNH,2205 East Mall,Vancouver,BC,V6T 1Z4
+SPPA,AD-266,,,770-3;770-1;770-2,RES,,6503,0,,,Spirit Park Apartments,Spirit Park Apartments,,,,2715 Osoyoos Crescent,Vancouver,BC,V6T 1X7
+ICCS,AD-131,,,166;165,APSC,,19643,0,,,Institute for Computing Information and Cognitive Systems / Computer Science,ICICS/CS,,<Null>,ICICS,2366 Main Mall,Vancouver,BC,V6T 1Z4
+TFS,AD-252,,,666;667;668;668-1,ARTS,,1578,0,,,Totem Field Studios,Totem Field Studios,,,,2613 West Mall,Vancouver,BC,V6T 1Z4
+HENN,AD-249,,,652;652-1,SCIE,,11578,0,,,Hennings Building,Hennings,,,,6224 Agricultural Road,Vancouver,BC,V6T 1Z1
+STMK,AD-78,Chancellor,new GBA taken from spreadsheet,828;829,OTHER,,1487,0,,,St. Mark's College,St Mark's College,,,,5935 Iona Drive,Vancouver,BC,V6T 1J7
+BRIM,AD-95,,,020-1;020,APSC,,13656,0,,,The Brimacombe Building,Brimacombe,,,,2355 East Mall,Vancouver,BC,V6T 1Z4
+MINL,AD-134,,,184;184-1,APSC,,2889,0,,,Coal and Mineral Processing Lab,Coal Lab,Keevil Institute of Mining Engineering,<Null>,,2332 West Mall,Vancouver,BC,V6T 1Z4
+BRCK,AD-121,,,113;112-1;112,ADMIN,,11428,0,,,Brock Hall  ,Brock Hall  ,Student Services and Welcome Centre,<Null>,,1874 East Mall,Vancouver,BC,V6T 1Z1
+PREZ,AD-67,,,728;728-1,ADMIN,,970,0,,,Norman MacKenzie House,Norman MacKenzie House,President's Residence,<Null>,<Null>,6565 NW Marine Drive,Vancouver,BC,V6T 1A7
+WOOD,AD-1012,,,475;473,MEDI,,10842,0,,,P. A. Woodward Instructional Resources Centre,Woodward IRC,Faculty of Medicine,<Null>,IRC,2194 Health Sciences Mall,Vancouver,BC,V6T 1Z3
+HSCC,AD-221,,,537;537-1,MEDI,,12963,0,,,Detwiller Pavilion,Detwiller,,Detwiller Pavilion,,2255 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+CUNN,AD-241,,,625;624,SCIE,,4900,0,,,George Cunningham Building ,Cunningham,,,,2146 East Mall,Vancouver,BC,V6T 1Z3
+FRWO,AD-171,,,376;376-1,ARTS,,2896,0,,,Frederic Wood Theatre,Wood Theatre,Freddy Wood,<Null>,,6354 Crescent Road,Vancouver,BC,V6T 1Z2
+POWR,AD-255,,,724;725,ADMIN,,2448,0,,,Power House,Power House,,,,2040 West Mall,Vancouver,BC,V6T 1Z2
+COPP,AD-214,,,523-1;525-1;526,SCIE,,9244,0,,,D.H. Copp Building,Copp,,,COPP,2146 Health Sciences Mall,Vancouver,BC,V6T 1Z3
 "FAIR
-FAIR",AD-817,,,007-35;007-34;007-33;007-32;007-31;007-30;007-29;007-28;007-27;007-26;007-25;007-24;007-23;007-22;007-21;007-20;007-19;007-18;007-17;007-16;007-15;007-14;007-13;007-12;007-11;007-10;007-07;007-06;007-05;007-04;007-09;007-08;007-03;007-02;007-01,RES,,20070,,,,Fairview Crescent Residence,Fairview Crescent Residence,,,,2600 Fairview Crescent,Vancouver,BC,V6T 2B9
-ACAH,AD-191,,,450-2;450-3;450-1,RES,,2855,,,,Acadia House,Acadia House,,,,2710 Acadia Road,Vancouver,BC,V6T 1R9
-ICCS,AD-131,,,166;165,APSC,,13927,,,,Institute for Computing Information and Cognitive Systems / Computer Science,ICICS/CS,,<Null>,ICICS,2366 Main Mall,Vancouver,BC,V6T 1Z4
-CCSB,AD-146,,,204;203;202;201;200;155;205;206;207,ADMIN,,5206,,,,Child Care Services,Child Care Services,Child Care Services Building 4,CCS4,,5615 Osoyoos Crescent,Vancouver,BC,V6T 1S1
-GRNC,AD-5,,,415;412;417;419;416;418;413;414,RES,,5551,,,,Green College,Green College,Adminstration Building F,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
-HENN,AD-249,,,652;652-1,SCIE,,11637,,,,Hennings Building,Hennings,,,,6224 Agricultural Road,Vancouver,BC,V6T 1Z1
-PSAB,AD-286,,,852,ADMIN,,3495,,,,Public Safety Building,Public Safety Building,Police and Fire Department,<Null>,RCMP,2992 Wesbrook Mall,Vancouver,BC,V6T 2B7
-COMP,AD-126,,,137,ADMIN,,185,,,,In-Vessel Composting Facility,Composting Facility,,,,6035 Nurseries Road,Vancouver,BC,V6T 1W5
-DLAM,AD-204,,,490,COMM,,6439,,,,David Lam Management Research Centre,David Lam,,,,2033 Main Mall,Vancouver,BC,V6T 1Z2
-BUCH,AD-123,,,121-2;121-1;122-1;122-2;121-3,ARTS,,9549,,,,Buchanan Building,Buchanan,Buchanan A,Faculty of Arts,,1866 Main Mall,Vancouver,BC,V6T 1Z1
-LMRS,AD-97,,,022,ADMIN,,6405,,,,Lower Mall Research Station,Lower Mall Research Station,,,LMRS,2259 Lower Mall,Vancouver,BC,V6T 1Z4
-OADM,AD-93,,,017,ADMIN,,2265,,,,Old Administration Building,Old Admin,,,,6328 Memorial Road,Vancouver,BC,V6T 1Z2
-BART,AD-226,,,568,ARTS,,1504,,,,Morris and Helen Belkin Art Gallery,Belkin Art Gallery,,<Null>,,1825 Main Mall,Vancouver,BC,V6T 1Z2
-DSOM,AD-163,,RENEW,320,ARTS,,1822,,,,Dorothy Somerset Studios,Somerset Studios,Hut M-18,<Null>,,6361 University Boulevard,Vancouver,BC,V6T 1Z2
-CGPC,AD-181,,,421,ADMIN,,242,,,,Cecil Green Park Coach House,Coach House,,,,6323 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
-GREN,AD-193,,,456,SCIE,,1752,,,,Horticulture Building,Horticulture,Greenhouse,,,6394 Stores Road,Vancouver,BC,V6T 1Z4
-STJN,AD-244,,,635,MEDI,,1302,,,REAP Silver,St. John Hospice,Hospice,,,,6389 Stadium Road,Vancouver,BC,V6T 1Z4
-BONR,AD-262,,,768,ADMIN,,1315,,,,Building Operations Nursery,Building Ops Nursery,Plant Operations Greenhouses,<Null>,,6029 Nurseries Road,Vancouver,BC,V6T 1W5
-PAPC,AD-257,,,747,FRST,,3317,,,,Pulp and Paper Centre,Pulp and Paper,,,,2385 East Mall,Vancouver,BC,V6T 1Z4
-SOJ,AD-148,,,212,ARTS,,1357,,,,Sing Tao Building,Sing Tao,School of Journalism,,,6388 Crescent Road,Vancouver,BC,V6T 1Z2
-THEA,AD-179,,,409;408,ADMIN,,4061,,,,Thea Koerner House,Thea Koerner House,Graduate Student Centre,GSS,,6371 Crescent Road,Vancouver,BC,V6T 1Z2
-CASC,AD-2,,,153,HSGN,,5484,,,,Cascara House,Cascara House,Faculty Staff Housing Building B,,,6385 Hawthorn Lane,Vancouver,BC,V6T 0C1
-SOPR,AD-6,,,451,RES,,6586,,,,Sopron House,Sopron House,,,,2730 Acadia Road,Vancouver,BC,V6T 1R9
-PGRA,AD-69,,,771,RES,,7183,,,,Point Grey Apartments ,Point Grey Apartments ,Osoyoos Housing,,,2875 Osoyoos Crescent,Vancouver,BC,V6T 2G3
-KAIS,AD-160,,,313,APSC,,11797,,,,Fred Kaiser Building,Fred Kaiser,Faculty of Applied Science,<Null>,,2332 Main Mall,Vancouver,BC,V6T 1Z4
-CHAN,AD-124,,,130,ARTS,,8214,,,,Chan Centre for the Performing Arts,Chan Centre,,,,6265 Crescent Road,Vancouver,BC,V6T 1Z1
-LIUG,AD-206,,,496,ARTS,,1712,,,,Liu Institute for Global Issues,Liu Institute,,,,6476 NW Marine Drive,Vancouver,BC,V6T 1Z2
-MATX,AD-212,,,519,SCIE,,1485,,,,Mathematics Annex,Math Annex,,,,1986 Mathematics Road,Vancouver,BC,V6T 1Z2
-BRDF,AD-94,,,019,ADMIN,,2200,,,LEED Gold,Bioenergy Research and Demonstration Facility (BRDF),Bioenergy Research,,<Null>,BRDF,2337 Lower Mall,Vancouver,BC,V6T 1Z4
-PONE,AD-303,,,903,ARTS/RES,,10176,,,LEED Gold,Ponderosa Commons East,Audain Art Centre,Spruce House,,,6398 University Boulevard,Vancouver,BC,V6T 1Z4
-PONW,AD-84,,,904,RES,,18318,,,LEED Gold,Ponderosa Commons West,Ponderosa Commons,Maple/Arbutus House,<Null>,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
-SRES,AD-261,,,767,APSC,,321,,,,Staging Environmental Research Centre,SERC,,,SERC,6045 Nurseries Road,Vancouver,BC,V6T 1W5
-MCDN,AD-135,,,198,DENT,,7209,,,,JB Macdonald Building,Macdonald,Dentistry Building,,,2199 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-BTF,AD-308,,,862,REC,,1224,,,,UBC Baseball Indoor Training Centre,Baseball Training Centre,,,,3085 Wesbrook Mall,Vancouver,BC,V6T 1Z4
-DASB,AD-136,,,199,ADMIN/DENT,,12209,,,,David Strangway Building,Strangway,,,,5950 University Boulevard,Vancouver,BC,V6T 1Z3
-KIDS,AD-92,,,013,ADMIN,,475,,,,Kids Club,Kids Club,,,,2855 Acadia Road,Vancouver,BC,V6T 1S1
-DMP,AD-130,,,164,SCIE,,1487,,,,Hugh Dempster Pavilion,Dempster,,,,6245 Agronomy Road,Vancouver,BC,V6T 1Z4
-BOTR,AD-113,,,079;078;090;077-2;077-1,ADMIN,,1767,,,,UBC Botanical Garden Nursery,Nursery,,,,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5
-BARN,AD-108,,,051,ADMIN,,304,,,,The Barn,Barn,,<Null>,,2323 Main Mall,Vancouver,BC,V6T 1Z4
-OFRH,AD-173,,,380,ARTS,,377,,,,Old Fire Hall,Old Fire Hall,,,,2038 West Mall,Vancouver,BC,V6T 1Z2
-GEOG,AD-177,,,401,ARTS,,5556,,,,Geography Building,Geography,,,,1984 West Mall,Vancouver,BC,V6T 1Z2
-HEBB,AD-251,,,656,SCIE,,5956,,,,Hebb Building,Hebb,,,,2045 East Mall,Vancouver,BC,V6T 1Z1
-PHRM,AD-217,,,527,PHAR,,29695,,,LEED Gold,Pharmaceutical Sciences Building,Pharmacy,,,,2405 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-PAPR,AD-239,,,612,RSCH,,9163,,,,MT Innovations,MT Innovations,,,,3800 Wesbrook Mall,Vancouver,BC,V6T 1W5
-BOSS,AD-246,,,646,ADMIN,,495,,,,,,,,,,,,
-SCWH,AD-245,,,638,ADMIN,,2582,,,,South Campus Warehouse,SC Warehouse,,,,6116 Nurseries Road,Vancouver,BC,V6T 1W5
-SWNG,AD-302,,,901,ADMIN,,5093,,,,West Mall Swing Space Building,Swing Space,,,,2175 West Mall,Vancouver,BC,V6T 1Z4
-LSC,AD-219,,,529,SCIE,,52176,,,LEED Gold,Life Sciences Centre,Life Sciences ,,<Null>,,2350 Health Sciences Mall,Vancouver,BC,V6T 1Z3
-ACU,AD-197,,,463,MEDI,,40372,,,,Koerner Pavilion,Koerner,,Urgent Care,,2211 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-WDPL,AD-174,,,385,FRST,,283,,,,Wood Drying Laboratory,Wood Lab,,,,2324 West Mall,Vancouver,BC,V6T 1Z4
-RITS,AD-68,,,745,RES,,6763,,,,Ritsumeikan-UBC House,Ritsumeikan,,<Null>,Rits House,6460 Agronomy Road,Vancouver,BC,V6T 1Z4
-CHPL,AD-71,Chancellor,,802,OTHER,,722,,,,Chapel of the Epiphany,Chapel of the Epiphany,,,,6030 Chancellor Boulevard,Vancouver,BC,V6T 1X3
-CHHS,AD-79,Chancellor,,830;835;834;833;830-1;830-2;830-3;830-4,HSGN,,0,,,,Chancellor House,Chancellor House,,,,6015 Iona Drive,Vancouver,BC,V6T 2J4
-FOLI,AD-77,Chancellor,,826;825,HSGN,,0,,,,Folio,Folio,,,,5955 Iona Drive,Vancouver,BC,V6T 2L4
-ARGW,AD-80,Chancellor,,837,HSGN,,,,,,Argyll House West,Argyll House West,,,,6018 Iona Drive,Vancouver,BC,V6T 2L1
-CORS,AD-321,Chancellor,,839,HSGN,,,,,,Corus,Corus,,,,5989  Walter Gage Road,Vancouver,BC,V6T 0A8
-ARGE,AD-74,Chancellor,,810,HSGN,,,,,,Argyll House East,Argyll House East,,,,5958 Iona Drive,Vancouver,BC,V6T 2L2
-ESSE,AD-73,Chancellor,,808,HSGN,,,,,,Esse,Esse,,,,1863 Wesbrook Mall,Vancouver,BC,V6T 2J7
-AXIS,AD-76,Chancellor,,819,HSGN,,12838,,,REAP Gold,Axis ,Axis ,,,<Null>,6090 Iona Drive,Vancouver,BC,V6T 0B6
-SOMH,AD-282,Chancellor,,838,OTHER,,,,,,Vancouver School of Theology (VST),VST,Somerville House,,,6015 Walter Gage Road,Vancouver,BC,V6T 1Z1
-WSPT,AD-81,Chancellor,,841,HSGN,,,,,,Westpoint,Westpoint,,,,6005 Walter Gage Road,Vancouver,BC,V6T 0B3
-STIR,AD-75,Chancellor,,818,HSGN,,,,,REAP Bronze,Stirling House,Stirling House,,,,6080 Iona Drive,Vancouver,BC,V6T 0A4
-IONA,AD-281,Chancellor,,836,ARTS,,8638,,,,Iona Building,Iona Building,,,,6000 Iona Drive,Vancouver,BC,V6T 1L4
-TRMF,AD-283,,,847;853;854;847-1;850;843;842;845;854-1;854-2;843-5;843-1;850-1;850-3;842-1;842-7,RSCH,,64295,,,,TRIUMF - Canada's National Laboratory For Particle and Nuclear Physics,TRIUMF,,,TRIUMF,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
-GUNN,AD-317,Academic,,438,MEDI,,1615,,,LEED Gold,,,,,,,,,
-CRSW,AD-37,Wesbrook,,605-4;605-1;605-5;605-6;605-2;605-3;605-7,HSGN,,0,,,,Crescent West,Crescent West,,,,5879 Gray Avenue,Vancouver,BC,V6S 0A9
-MUSM,AD-228,,,570;570-1;436;440,ARTS,,11290,,,,,,,,,,,,
-BIOL,AD-111,,,066;065;068;069;069-1;069-2,SCIE,,18774,,,,Biological Sciences Building,BioSciences,BioSciences West wing,<Null>,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
+FAIR",AD-817,,,007-35;007-34;007-33;007-32;007-31;007-30;007-29;007-28;007-27;007-26;007-25;007-24;007-23;007-22;007-21;007-20;007-19;007-18;007-17;007-16;007-15;007-14;007-13;007-12;007-11;007-10;007-07;007-06;007-05;007-04;007-09;007-08;007-03;007-02;007-01,RES,,20070,0,,,Fairview Crescent Residence,Fairview Crescent Residence,,,,2600 Fairview Crescent,Vancouver,BC,V6T 2B9
+SAIL,AD-59,Wesbrook,new GBA taken from spreadsheet,707;705,HSGN,,14490,0,,,Sail,Sail,Sail 1,,,5983 Gray Avenue,Vancouver,BC,V6S 0G8
+SAND,AD-7,Hampton,new GBA taken from spreadsheet,500,HSGN,,10588,0,,,Sandringham,Sandringham,Hampton Place Lot 1,,,5650 Hampton Place,Vancouver,BC,V6T 2G5
+LADH,AD-250,,,654,SCIE,,653,0,,,Abdul Ladha Science Student Centre,Ladha,,,,2055 East Mall,Vancouver,BC,V6T 1Z1
+AERL,AD-162,,,316,SCIE,,5150,0,,,Aquatic Ecosystems Research Laboratory (AERL),AERL,,,AERL,2202 Main Mall,Vancouver,BC,V6T 1Z4
+ESSE,AD-73,Chancellor,new GBA taken from spreadsheet,808,HSGN,,2565,0,,,Esse,Esse,,,,1863 Wesbrook Mall,Vancouver,BC,V6T 2J7
+CEME,AD-155,,,306,APSC,,8773,0,,,Civil and Mechanical Engineering Building,CEME,,,CEME,6250 Applied Science Lane,Vancouver,BC,V6T 1Z4
+PEMB,AD-17,Hampton,new GBA taken from spreadsheet,509,HSGN,,5733,0,,,The Pemberley,The Pemberley,Hampton Place Lot 10 ,,,5605 Hampton Place,Vancouver,BC,V6T 2H2
+REFL,AD-41,Hawthorn,new GBA taken from spreadsheet,623,HSGN,,8257,0,,,Reflections,Reflections,,,,6279 Eagles Drive,Vancouver,BC,V6T 2K7
+COMP,AD-126,,,137,ADMIN,,185,0,,,In-Vessel Composting Facility,Composting Facility,,,,6035 Nurseries Road,Vancouver,BC,V6T 1W5
+JOUR,AD-39,Hawthorn,new GBA taken from spreadsheet,619,HSGN,,8531,0,,,Journey,Journey,,,,6328 Larkin Drive,Vancouver,BC,V6T 2K2
+LOGN,AD-450,Hawthorn,new GBA taken from spreadsheet,620,HSGN,,7824,0,,,Logan Lane,Logan Lane,,,,6202 Logan Lane,Vancouver,BC,V6T 2K9
+CLCK,AD-133,,,182,ADMIN,,45,0,,,Ladner Clock Tower,Clock Tower,,,,1956 Main Mall,Vancouver,BC,V6T 1Z1
+NITO,AD-201,,,476,SCIE,,81,0,,,,,,,,,,,
+TELS,AD-254,Wesbrook,,678,ADMIN,,58,0,,,,,,,,,,,
+LNDA,AD-96,,,021,APSC,,601,0,,,Landscape Architecture Annex,Landscape Architecture,,,,2371 Main Mall,Vancouver,BC,V6T 1Z4
+MARF,AD-260,,,766,ADMIN,,,0,,,Materials Recovery Facility,Material Recovery Facility,,,,6055 Nurseries Road,Vancouver,BC,V6T 1W5
+VAPS,AD-19,,,543,ADMIN,,14,0,,,,,,,,,,,
+FORW,AD-225,,,562,APSC,,7542,0,,,Frank Forward Building,Frank Forward,,,,6350 Stores Road,Vancouver,BC,V6T 1Z4
+WSTR,AD-544,Hawthorn,new GBA taken from spreadsheet,616,HSGN,,5258,0,,,Westchester,Westchester,,,,2598 West Mall,Vancouver,BC,V6T 2J9
+NINE,AD-489,Hawthorn,new GBA taken from spreadsheet,628,HSGN,,2030,0,,,Nine on the Park,Nine on the Park,,,,6282 Eagles Drive,Vancouver,BC,V6T 0A3
+GASG,AD-176,,,394,APSC,,203,0,,,Gas Gun,Gas Gun Facility,,Gas Gun,,6301 Stadium Road,Vancouver,BC,V6T 1Z4
+MCLD,AD-159,,,312,APSC,,7282,0,,,MacLeod Building,MacLeod,Hector MacLeod Building,,,2356 Main Mall,Vancouver,BC,V6T 1Z4
+AUDI,AD-104,,RENEW,044,ARTS,,2634,0,,,Old Auditorium,Old Aud,,,,6344 Memorial Road,Vancouver,BC,V6T 1Z2
+BERW,AD-288,,,858,SCIE,,1598,0,,,Berwick Memorial Centre,Berwick,,,,2765 Osoyoos Crescent,Vancouver,BC,V6T 1X7
+ESB,AD-150,,,225,SCIE,,15910,0,,LEED Gold,Earth Sciences Building,Earth Sciences,Science Dean office,,ESB,2207 Main Mall,Vancouver,BC,V6T 1Z4
+PACC,AD-58,Wesbrook,new GBA taken from spreadsheet,699,HSGN,,7821,0,,REAP Gold,Pacific,Pacific,,,,5928 Birney Avenue,Vancouver,BC,V6S 0B5
+SPRT,AD-26,Wesbrook,new GBA taken from spreadsheet,584,HSGN,,5261,0,,REAP Gold,Spirit,Spirit,,,,3478 Wesbrook Mall,Vancouver,BC,V6S 0B6
+KENN,AD-256,,,732,ARTS,,8742,0,,,Douglas Kenny Building,Kenny,Psychology,<Null>,,2136 West Mall,Vancouver,BC,V6T 1Z4
+CFCM,AD-110,,,057,SCIE,,10367,0,,,Centre for Comparative Medicine (CCM),CCM,,,,4145 Wesbrook Mall,Vancouver,BC,V6T 1W5
+AXIS,AD-76,Chancellor,new GBA taken from spreadsheet,819,HSGN,,12839,0,,REAP Gold,Axis ,Axis ,,,<Null>,6090 Iona Drive,Vancouver,BC,V6T 0B6
+AQUA,AD-149,,,213,REC,,8041,0,,LEED Gold,UBC Aquatic Centre,Aquatic Centre,Swimming Pool,,,6080 Student Union Boulevard,Vancouver,BC,V6T 1Z1
+CHBE,AD-152,,,300,APSC,,13182,0,,,Chemical & Biological Engineering Building,ChemBio,,<Null>,CHBE,2360 East Mall,Vancouver,BC,V6T 1Z3
+OBCC,AD-43,Hawthorn,,627,ADMIN,,1118,0,,,Old Barn Community Centre,Old Barn,,,,6308 Thunderbird Boulevard,Vancouver,BC,V6T 1Z4
+SOMH,AD-282,Chancellor,,838,OTHER,,8377,0,,,Vancouver School of Theology (VST),VST,Somerville House,,,6015 Walter Gage Road,Vancouver,BC,V6T 1Z1
+FRAS,AD-21,East Campus,new GBA taken from spreadsheet,553,RES,,2617,0,,REAP Silver,Fraser Hall,Fraser Hall,,,,2550 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+MSB,AD-118,,,083,SCIE,,8477,0,,,Michael Smith Laboratories,Michael Smith Labs,,,,2185 East Mall,Vancouver,BC,V6T 1Z4
+CASC,AD-2,,new GBA taken from spreadsheet,153,HSGN,,4329,0,,,Cascara House,Cascara House,Faculty Staff Housing Building B,,,6385 Hawthorn Lane,Vancouver,BC,V6T 0C1
+BALM,AD-16,Hampton,new GBA taken from spreadsheet,508,HSGN,,10636,0,,,The Balmoral,Balmoral,Hampton Place Lot 9,,,5615 Hampton Place,Vancouver,BC,V6T 2H1
+KEEN,AD-28,Wesbrook,new GBA taken from spreadsheet,587,HSGN,,7990,0,,REAP Bronze,Keenleyside,Keenleyside,,,,5788 Birney Avenue,Vancouver,BC,V6S 0A2
+BIAC,AD-284,,,846,SCIE,,501,0,,,,,,,,,,,
+AMBS,AD-222,,,539,ADMIN,,211,0,,,Ambulance Station,Ambulance,,,,2333 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+WMAX,AD-290,,,863-1,ARTS,,1962,0,,,West Mall Annex,West Mall Annex,,,,1933 West Mall,Vancouver,BC,V6T 1Z2
+LASR,AD-101,,,028,ARTS,,4572,0,,,Frederic Lasserre Building,Lasserre,,,,6333 Memorial Road,Vancouver,BC,V6T 1Z2
+CBH,AD-198,,Add GRP_ID,465,MEDI,,14395,0,,,Djavad Mowafaghian Centre for Brain Health (CBH),Centre for Brain Health,,<Null>,CBH,2215 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+BIRC,AD-195,,,461,MEDI,,4530,0,,,Biomedical Research Centre,Biomedical,Biomedical Building,<Null>,,2222 Health Sciences Mall,Vancouver,BC,V6T 1Z3
+ENSC,AD-158,,,310,APSC,,953,0,,LEED Gold,Engineering Student Centre,ESC,Engineering Undergraduate Society,Cheese,EUS,2335 Engineering Road,Vancouver,BC,V6T 1Z4
+GMGB,AD-227,,,569,ADMIN,,3231,0,,,Gerald McGavin Building,McGavin,,,,2386 East Mall,Vancouver,BC,V6T 1Z3
+PARW,AD-301,,GBA from OSIS,900,PARK,,34775,0,,,West Parkade,West Parkade,,,,2140 Lower Mall,Vancouver,BC,V6T 1Z4
+CHAT,AD-11,Hampton,new GBA taken from spreadsheet,504,HSGN,,11069,0,,,The Chatham,The Chatham,Hampton Place Lot 5 ,,,5775 Hampton Place,Vancouver,BC,V6T 2G6
+BRIS,AD-12,Hampton,new GBA taken from spreadsheet,505,HSGN,,12635,0,,,The Bristol,The Bristol,Hampton Place Lot 6 ,,,5735 Hampton Place,Vancouver,BC,V6T 2G8
+MBOL,AD-240,,,614,ARTS,,1318,0,,,Mary Bollert Hall,Bollert Hall,,,,6253 NW Marine Drive,Vancouver,BC,V6T 1Z1
+CCSB,AD-146,,,204;203;202;201;200;155;205;206;207,ADMIN,,5206,1,,,Child Care Services,Child Care Services,Child Care Services Building 4,CCS4,,5615 Osoyoos Crescent,Vancouver,BC,V6T 1S1
+AUDX,AD-105,,,863-2;045,ARTS,,2431,1,,,Auditorium Annexes,Auditorium Annexes,Auditorium Annex Offices A,,,1924 West Mall,Vancouver,BC,V6T 1Z2
+CARY,AD-72,Chancellor,new GBA taken from spreadsheet,807;806;804,HSGN,,4126,1,,,Carey Centre,Carey Centre,,,,5920 Iona Drive,Vancouver,BC,V6T 1J6
+BOTR,AD-113,,,079;078;090;077-2;077-1,ADMIN,,1767,1,,,UBC Botanical Garden Nursery,Nursery,,,,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5
+RESA,AD-100,,,024-5;024-3,ADMIN,,943,1,,,Lower Mall Header House,Header,,,LMHH,2331 Lower Mall,Vancouver,BC,V6T 1Z4
+GRNC,AD-5,,,415;412;417;419;416;418;413;414,RES,,5551,1,,,Green College,Green College,Adminstration Building F,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
+TAPS,AD-235,Wesbrook,new GBA taken from spreadsheet,593-1;593-2,HSGN,,25646,1,,,Tapestry at Wesbrook Village,Tapestry,Tapestry North,,,3338 Wesbrook Mall,Vancouver,BC,V6S 0A6
+CACP,AD-247,,,643;029,ADMIN,,1389,1,,,Campus & Community Planning,C&CP,,,C&CP1,2210 West Mall,Vancouver,BC,V6T 1Z4
+BUCH,AD-123,,,121-2;122-1;121-3;122-1;121-2,ARTS,,21868,1,,,Buchanan Building,Buchanan,Buchanan A,Faculty of Arts,,1866 Main Mall,Vancouver,BC,V6T 1Z1
+CHAH,AD-322,Chancellor,new GBA taken from spreadsheet,824;823;827-4;827-1;827-2;827-3,HSGN,,9472,1,,,Chancellor Hall,Chancellor Hall,,,,5989  Iona Drive,Vancouver,BC,V6T 2L7
+ENSF,AD-127,,,138;470;142;139;143;146;141,ADMIN,,372,1,,,Environmental Services Facility ,Environmental Services Facility ,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
+STAH,AD-275,Chancellor,new GBA taken from spreadsheet,817-2;817-3;817-1;817-4,HSGN,,6774,1,,,St. Andrew's Hall,St. Andrew's Hall,St. Andrew's Residence,,,6040 Iona Drive,Vancouver,BC,V6T 2E8
+LAUR,AD-233,Wesbrook,new GBA taken from spreadsheet,589-2;589-1,HSGN,,22373,1,,,The Laureates,Laureates,Laureates 1,,,5638 Birney Avenue,Vancouver,BC,V6S 0H8
+FRAT,AD-89,,,928;927;926;921;922;925;924,RES,,6503,1,,,Fraternity Village ,Fraternity Village ,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
+FOLI,AD-77,Chancellor,new GBA taken from spreadsheet,826;825,HSGN,,6200,1,,,Folio,Folio,,,,5955 Iona Drive,Vancouver,BC,V6T 2L4
+WSBT,AD-32,Wesbrook,new GBA taken from spreadsheet,594,HSGN,,12858,1,,REAP Silver,The Wesbrook,The Wesbrook,Wesbrook Lot 1,,,5838 Berton Avenue,Vancouver,BC,V6S 0A5
+PONE,AD-303,,,903,ARTS/RES,,10177,1,,LEED Gold,Ponderosa Commons East,Audain Art Centre,Spruce House,,,6398 University Boulevard,Vancouver,BC,V6T 1Z4
+PONW,AD-84,,,904,RES,,17402,1,,LEED Gold,Ponderosa Commons West,Ponderosa Commons,Maple/Arbutus House,<Null>,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
+PONN,AD-85,,,905,EDUC/RES,,26516,1,,LEED Gold,Ponderosa Commons North,Ponderosa Commons,Cedar/Oak House,<Null>,,2075 West Mall,Vancouver,BC,V6T 1Z2
+THUN,AD-295,,,868,REC,,25227,1,,,Doug Mitchell Thunderbird Sports Centre,Doug Mitchell Centre,Thunderbird Sports Centre,,,2555 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+PSAB,AD-286,,,852,ADMIN,,2935,1,,,Public Safety Building,Public Safety Building,Police and Fire Department,<Null>,RCMP,2992 Wesbrook Mall,Vancouver,BC,V6T 2B7
+CHHS,AD-79,Chancellor,new GBA taken from spreadsheet,830;835;834;833;830-1;830-2;830-3;830-4,HSGN,,7835,1,,,Chancellor House,Chancellor House,,,,6015 Iona Drive,Vancouver,BC,V6T 2J4
+PONA,AD-294,,,873;865-2;865-3;871-2;865-1;871-3,ADMIN,,4621,1,,,Ponderosa Annexes,Ponderosa Annexes,Ponderosa Office Annex C,,,2021 West Mall,Vancouver,BC,V6T 1Z2
+BIOL,AD-111,,,066;065;068;069;069-1;069-2,SCIE,,19421,1,,,Biological Sciences Building,BioSciences,BioSciences West wing,<Null>,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
+ACDY,AD-33,Wesbrook,new GBA taken from spreadsheet,596,HSGN,,14159,1,,,Academy,Academy,,,,5728 Berton Avenue,Vancouver,BC,V6S 0E5
+ORCH,AD-24,,GBA from OSIS,557,RES,,39838,1,,LEED Gold,Orchard Commons,Orchard Commons,,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
+SAGE,AD-276,Wesbrook,new GBA taken from spreadsheet,595,HSGN,,12857,1,,REAP Silver,Sage,Sage,,,,5782 Berton Avenue,Vancouver,BC,V6S 0C1
+GRAT,AD-48,Wesbrook,new GBA taken from spreadsheet,687,HSGN,,13368,1,,REAP Gold,Granite Terrace,Granite Terrace,,,,3233 Wesbrook Mall,Vancouver,BC,V6S 0B4
+BEBC,AD-161,,,314,SCIE,,12061,1,,,Beaty Biodiversity Centre,Beaty,Beaty Biodiversity Museum,<Null>,,2212 Main Mall,Vancouver,BC,V6T 1Z4
+BINT,AD-35,Wesbrook,new GBA taken from spreadsheet,598,HSGN,,19146,1,,REAP Gold,Binning Tower,Binning,,,,3355 Binning Road,Vancouver,BC,V6S 0J1
+CHSC,AD-128,,,155,ADMIN,,1205,1,,,Child Care Services Administration Building,Child Care Admin Building,Child Care Main Building,CCS Admin,,2881 Acadia Road,Vancouver,BC,V6T 1S1
+MSUB,AD-270,,,789-1;789,ADMIN,,345,0,,,Main Substation,Substation,,,,2446 Health Sciences Mall,Vancouver,BC,V6T 1Z3
+UHIL,AD-31,Wesbrook,,590;590-1,ADMIN,,11637,0,,,University Hill Secondary School,U-Hill Secondary,High school,,,3228 Ross Drive,Vancouver,BC,V6S 0C6
+ACAH,AD-191,,,450-2;450-3;450-1,RES,,2855,0,,,Acadia House,Acadia House,,,,2710 Acadia Road,Vancouver,BC,V6T 1R9
+STJC,AD-278,,,822-3;822-1;822-2,RES,,17651,0,,,St. John's College,St. John's College,Saint John's,,,2111 Lower Mall,Vancouver,BC,V6T 1Z4
+UCLL,AD-166,,,344;345;344-1,ADMIN,,3978,0,,,Leon and Thea Koerner University Centre,University Centre,,<Null>,<Null>,6331 Crescent Road,Vancouver,BC,V6T 1Z2
+ANSO,AD-107,,,048;876-1;876-2;880,ARTS,,6220,0,,,Anthropology and Sociology Building,ANSOC,,<Null>,ANSOC,6303 NW Marine Drive,Vancouver,BC,V6T 1Z1
+FRDM,AD-215,,,525-2;523-2,MEDI,,6073,0,,,Friedman Building,Friedman,,,,2177 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+WESB,AD-291,,,864;867,SCIE,,10664,0,,,Wesbrook Building,Wesbrook Building,,,,6174 University Boulevard,Vancouver,BC,V6T 1Z3
+LSK,AD-157,,,308;308-1,SCIE,,10194,0,,,The Leonard S. Klinck Building,Klinck,,<Null>,,6356 Agricultural Road,Vancouver,BC,V6T 1Z2
+ANGU,AD-98,,,023;026;023-1,COMM,,22458,0,,,Henry Angus Building,Henry Angus,Sauder School of Business,,Sauder,2053 Main Mall,Vancouver,BC,V6T 1Z2
+MEDC,AD-216,,,525-3;523-3,APSC,,4017,0,,,Medical Sciences Block C,Medical Sciences C,,,,2176 Health Sciences Mall,Vancouver,BC,V6T 1Z3
+CEML,AD-155,,,307;309,APSC,,4719,0,,,Civil and Mechanical Engineering Labs,CEME Labs,Rusty Hut,<Null>,,2275 East Mall,Vancouver,BC,V6T 1Z4
+SCRF,AD-151,,,233;240-2;234;240-1;232,EDUC,,19366,0,,,Neville Scarfe Building ,Scarfe,Faculty of Education,<Null>,,2125 Main Mall,Vancouver,BC,V6T 1Z4
+MUSM,AD-228,,,570;570-1;436;440,ARTS,,11469,0,,,,,,,,,,,
+MAGN,AD-34,Wesbrook,new GBA taken from spreadsheet,713-1,HSGN,,7617,0,,,Magnolia House,Magnolia House,,,,3565 Wesbrook Mall,Vancouver,BC,V6S 0H1
+CYPR,AD-312,Wesbrook,,714,HSGN,,7997,,,LEED Gold,,,,,,,,,
+TOTM,ADD-1038,,,565;540-2;540-3;566;567;540-1;541,RES,,83656,1,,,,,,,,,,,
+FPIN,AD-169,,,372,RSCH,,9527,0,,,FPInnovations,FP Innovations,Forintek,,,2665 East Mall,Vancouver,BC,V6T 1Z4
+EOSM,AD-178,,,402;403,SCIE,,10727,0,,,,,,,,,,,
+VIRT,AD-310,Wesbrook,,718,HSGN,,10315,0,,REAP Gold,,,,,,,,,
