@@ -1,54 +1,43 @@
 SUBBLDG_ID,BLDG_ID,ADD_ID,NAME,NOTES,REC_IDS,BLDG_USE,GBA,BLDG_TYPE,GREEN_STATUS,PLACENAME,PLACENAME2,PLACENAME3,PLACENAME4,ABBREVIATEDPLACENAME,BUILDING_SHORTCODE,FULLADDRESS,MUNINAME,PROVINCE,POSTALCODE
+KOER01,KOER,AD-209,Koerner Library,,515,,28299,,,,,,,,,,,,
+CHHS07,CHHS,AD-79,Chancellor Cityhomes,,830-1,,,,,,,,,,,,,,
+LAUR01,LAUR,AD-233,The Laureates - highrise,,589-2;589-1,,0,,,,,,,,,,,,
+LAUR02,LAUR,AD-233,The Laureates - Apartment,,589-2;589-1,,0,,,,,,,,,,,,
+NITO01,NITO,AD-109,Nitobe Garden - Tea House,,476,,81,TO_DELETE,,Tea House,Tea House,Nitobe Garden,Tea House,,,1895 Lower Mall,Vancouver,BC,V6T 1Z2
+RSCU01,RSCU,AD-133,Rodney Graham Pavilion,,180,,28,TO_DELETE,,Rodney Graham Millennium Sculpture Pavilion,Rodney Graham Pavilion,Millennium Pavilion,Millennium Pavilion,,,1940 Main Mall,Vancouver,BC,V6T 1Z1
+AYOH01,AYOH,AD-316,AYO Smart Home,,538,,0,TO_DELETE,,AYO Smart Home,AYO Smart Home,AYO Smart Home,,,,5935 Agronomy Road,Vancouver,BC,V6T 1Z3
+TELS,TELS,AD-32,Telus Hub,,678,,,TO_DELETE,,,,,,,,,,,
+VANR14,VAPS,AD-19,Vanier - Pump Station,,543,,14,TO_DELETE,,,,,,,,,,,
+BARN01,BARN,AD-108,The Barn,,051,,304,TO_DELETE,,Owl Child Care,Owl,Barn,,,,2323 Main Mall,Vancouver,BC,V6T 1Z4
+MARN06,MARN,AD-172,Marine - 6,,377-6,,11503,,,SHHS Office,SHHS Office,Marine Drive Residence ,6,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
+ORCH04,ORCH,AD-24,Orchard Commons - Vantage College,,557,,,,LEED Gold,Hummingbird Child Care,Hummingbird,Orchard Commons, ,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
 KIOS,KIOS,,Logan Field Kiosk,,674,ADMIN,,,,,,,,,,,,,
-STMD01,STMD,AD-523,St. Mark's Duplex 5,Remove 'duplex' from the short names,827-5,,,,,,,,,,,,,,
-FOLI06,FOLI,AD-322,Folio Duplex 4,,827-4,,,,,,,,,,,,,,
-FOLI05,FOLI,AD-322,Folio Duplex 1,Remove 'duplex' from the short names,827-1,,,,,,,,,,,,,,
-FOLI04,FOLI,AD-322,Folio Duplex 2,,827-2,,,,,,,,,,,,,,
-FOLI03,FOLI,AD-322,Folio Duplex 3,,827-3,,,,,,,,,,,,,,
-CHHS02,CHHS,AD-79,Chancellor TH 2,,830-2,,,,,,,,,,,,,,
-CHHS03,CHHS,AD-79,Chancellor TH 3,,830-3,,,,,,,,,,,,,,
-CHHS04,CHHS,AD-79,Chancellor TH 4,,830-4,,,,,,,,,,,,,,
-COST07,COST,AD-280,Coast Duplex 5,Updated Footprint,831-5,,,,REAP Bronze,,,,,,,,,,
-CHAH01,CHAH,AD-322,Chancellor Hall Apartments,,824,,,,,,,,,,,,,,
-FOLI17,FOLI,AD-77,Folio Apartments,,825,,,,,,,,,,,,,,
-CHHS01,CHHS,AD-79,Chancellor House Apartments,,830,,,,,,,,,,,,,,
-CHHS00,CHHS,AD-79,Chancellor Row Duplex 3,,835,,,,,,,,,,,,,,
-CHHS06,CHHS,AD-79,Chancellor Row Duplex 2,,834,,,,,,,,,,,,,,
-CHHS05,CHHS,AD-79,Chancellor Row Duplex 1,,833,,,,,,,,,,,,,,
-COST06,COST,AD-280,Coast Duplex 4,Updated Footprint,831-4,,,,REAP Bronze,,,,,,,,,,
-COST05,COST,AD-280,Coast Duplex 3,Updated Footprint,831-3,,,,REAP Bronze,,,,,,,,,,
-COST03,COST,AD-280,Coast Duplex 1,Updated Footprint,831-1,,,,REAP Bronze,,,,,,,,,,
-COST01,COST,AD-280,Coast Apartment East,,832-2,,,,REAP Bronze,,,Coast,,,,6093 Iona Drive,Vancouver,BC,V6T 0B2
-COST02,COST,AD-280,Coast Apartment West,,832-1,,,,REAP Bronze,,,Coast,,,,6093 Iona Drive,Vancouver,BC,V6T 0B2
-FOLI02,FOLI,AD-77,Folio TH,,826,,,,,,,,,,,,,,
-STAH01,STAH,AD-275,St. Andrews Hall,,817-4,,,,LEED Gold,,,,,,,,,,
-CHAH02,CHAH,AD-322,Chancellor Hall - TH,,823,,,,,,,,,,,,,,
-CARY01,CARY,AD-72,Carey Centre,,807,,,,,,,,,,,,,,
-FRAT08,FRAT,AD-89,Fraternity Village 8,,928,,,,,Fraternity Village 8,8,Fraternity Village 8,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
-FRAT06,FRAT,AD-89,Fraternity Village 6,,926,,,,,Fraternity Village 6,6,Fraternity Village 6,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
-FRAT01,FRAT,AD-89,Fraternity Village 1,,921,,,,,Fraternity Village 1,1,Fraternity Village 1,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
-FRAT02,FRAT,AD-89,Fraternity Village 2,,922,,,,,Fraternity Village 2,2,Fraternity Village 2,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
-FRAT05,FRAT,AD-89,Fraternity Village 5,,925,,,,,Fraternity Village 5,5,Fraternity Village 5,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
-FRAT04,FRAT,AD-89,Fraternity Village 4,,924,,,,,Fraternity Village 4,4,Fraternity Village 4,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
-STMD04,STMD,AD-516,St. Mark's Duplex 8,,827-8,,,,,,,,,,,,,,
-STMD03,STMD,AD-519,St. Mark's Duplex 7,,827-7,,,,,,,,,,,,,,
-STMD02,STMD,AD-521,St. Mark's Duplex 6,,827-6,,,,,,,,,,,,,,
-THUN01,THUN,AD-295,Doug Mitchell Centre,,868-1,,25227,,,UBC Thunderbird Arena,UBC Thunderbird Arena,Doug Mitchell Centre,UBC Thunderbird Arena,,,2555 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-ENSF03,ENSF,AD-127,Natural Gas Storage,,146,,,,,Natural Gas Storage,Natural Gas Storage,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
-THUN03,THUN,AD-295,Doug Mitchell Centre,,868-1,,25227,,,Father David Bauer Arena,Father David Bauer Arena,Doug Mitchell Centre,,,,6066 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
-FRAT07,FRAT,AD-89,Fraternity Village 7,,927,,,,,Fraternity Village 7,7,Fraternity Village 7,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
-ENSF04,ENSF,AD-127,PCB Equipment Storage,,143,,,,,PCB Equipment Storage,PCB Equipment Storage,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
-ENSF07,ENSF,AD-127,Solvent Storage Area,,141,,104,,,Solvent Storage Area,Solvent Storage Area,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
-WSBT01,WSBT,AD-32,The Wesbrook - highrise,,594,,,,REAP Silver,,,,,,,,,,
-BINT01,BINT,AD-35,Binning Tower - highrise,,598,,,,REAP Gold,,,,,,,,,,
-BINT02,BINT,AD-35,Binning Tower - townhouses,,598,,,,REAP Gold,,,,,,,,,,
-WSBT02,WSBT,AD-32,The Wesbrook - townhouses,,594,,,,REAP Silver,,,,,,,,,,
-STAH04,STAH,AD-275,St. Andrew's Walker House,,817-2,,,,,Walker House - Block B,Walker,St. Andrew's Hall,Walker (B),,,6040 Iona Drive,Vancouver,BC,V6T 2E8
-STAH03,STAH,AD-275,St. Andrew's Lennox House,,817-3,,,,,Lennox House - Block C,Lennox,St. Andrew's Hall,Lennox (C),,,6040 Iona Drive,Vancouver,BC,V6T 2E8
-STAH02,STAH,AD-275,St. Andrew's Ross,,817-1,,,,,Ross & McLean House  - Block A,Ross & McLean,St. Andrew's Hall,Ross & McLean (A),,,6040 Iona Drive,Vancouver,BC,V6T 2E8
-TAPS01,TAPS,AD-235,Tapestry North,,593-1,,,,REAP Silver,,,,,,,,,,
-COST08,COST,AD-280,Coast TH,,832-3,,,,REAP Bronze,,,,,,,,,,
-COST04,COST,AD-280,Coast Duplex 2,Updated Footprint,831-2,,,,REAP Bronze,,,,,,,,,,
+MARN05,MARN,AD-172,Marine - 5,,377-5,,12280,,,Marine Drive Building 5,5,Marine Drive Residence ,5,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
+MARN04,MARN,AD-172,Marine - 4,,377-4,,14081,,,Marine Drive Building 4,4,Marine Drive Residence ,4,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
+THUR08,THUR,AD-70,Thunderbird Res B4,,783-1,,1104,,,Thunderbird B4,B4,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
+THUR10,THUR,AD-70,Thunderbird Res C2,,784-1,,1558,,,Thunderbird C2,C2,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
+MARN02,MARN,AD-172,Marine - 2,,377-2,,7596,,,Marine Drive Building 2,2,Marine Drive Residence ,2,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
+THUN02,THUN,AD-295,Doug Mitchell - Thunderbird Arena,,868,,25227,,,PROTRANS BC Community Arena,PROTRANS BC Community Arena,Doug Mitchell Centre,UBC Thunderbird Arena,,,2555 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+PONE02,PONE,AD-303,Ponderosa Commons - Spruce House,,903,,10177,,LEED Gold,Spruce House,Spruce,Ponderosa Commons,Spruce,,,2118 West Mall,Vancouver,BC,V6T 1Z4
+PONW04,PONW,AD-129,Ponderosa Commons - Maple House,,904,,17402,,LEED Gold,Maple House,Maple,Ponderosa Commons,Maple,,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
+PONN05,PONN,AD-85,Ponderosa Commons - Cedar House,,905,,26516,,LEED Gold,Cedar House,Cedar,Ponderosa Commons,Cedar,,,2075 West Mall,Vancouver,BC,V6T 1Z2
+ORCH03,ORCH,AD-24,Orchard Commons - Braeburn House,,557,,,,LEED Gold,Braeburn House,Braeburn,Orchard Commons,Braeburn,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
+CCSB02,CCSB,AD-146,Child Care Services,,206,,767,,,Sandpiper Child Care,Sandpiper,Child Care Services,Sandpiper,CCS2,,2805 Revelstoke Court,Vancouver,BC,V6T 1S1
+CCSB08,CCSB,AD-146,CCS 3,,202,,382,,,Discovery Child Care,Discovery,Child Care Services,Discovery,CCS3,,5620 Osoyoos Crescent,Vancouver,BC,V6T 2E6
+CCSB14,CCSB,AD-146,CCS 1,,200,,382,,,Lilliput Child Care,Lilliput,Child Care Services,Lilliput,CCS1,,5690 Osoyoos Crescent,Vancouver,BC,V6T 2E6
+CCSB12,CCSB,AD-146,CCS 5,,204,,482,,,Little Raven Child Care,Little Raven,Child Care Services,Little Raven,CCS5,,5580 Osoyoos Crescent,Vancouver,BC,V6T 2E6
+CCSB04,CCSB,AD-146,CCS 1,,205,,851,,,Salal Child Care,Salal,Child Care Services,Salal,CCS1,,5655 Osoyoos Crescent,Vancouver,BC,V6T 1S1
+CCSB06,CCSB,AD-146,CCS 2,,201,,386,,,Canada Goose Child Care,Canada Goose,Child Care Services,Canada Goose,CCS2,,5660 Osoyoos Crescent,Vancouver,BC,V6T 2E6
+CCSA01,CHSC,AD-128,Child Care Services Administration Building,,155,,1205,,,Barish Child Care,Barish,Child Care Admin Building,Barish,,,2881 Acadia Road,Vancouver,BC,V6T 1S1
+CCSA02,CHSC,AD-128,Child Care Services Administration Building,,155,,1205,,,Lluvia Child Care,Lluvia,Child Care Admin Building,Lluvia,,,2881 Acadia Road,Vancouver,BC,V6T 1S1
+CCSA03,CHSC,AD-128,Child Care Services Administration Building,,155,,1205,,,Pioggia Child Care,Pioggia,Child Care Admin Building,Pioggia,,,2881 Acadia Road,Vancouver,BC,V6T 1S1
+CCSA04,CHSC,AD-128,Child Care Services Administration Building,,155,,1205,,,Chuva Child Care,Chuva,Child Care Admin Building,Chuva,,,2881 Acadia Road,Vancouver,BC,V6T 1S1
+GRNC05,GRNC,AD-5,Green College D,,412,,1577,,,Green College Building D,D,Green College,D,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
+SQSH,SQSH,AD-180,Cecil Green Squash Court,,422,ADMIN,219,,,,,,,,,,,,
+PSAB01,PSAB,AD-286,Fire,,852,,2935,,,Fire,Fire,Public Safety Building,,,,2992 Wesbrook Mall,Vancouver,BC,V6T 2B7
+PSAB02,PSAB,AD-285,RCMP,,852,,2935,,,RCMP,RCMP,Public Safety Building,,,,2990 Wesbrook Mall,Vancouver,BC,V6T 2B7
+GRAT03,GRAT,AD-47,Granite Terrace - Moveator,,686,,566,,REAP Gold,Moveator,Moveator,Granite Terrace,Moveator,,,5940 Berton Avenue,Vancouver,BC,V6S 0B3
+ORCH01,ORCH,AD-24,Orchard Commons - Vantage College,,557,,,,LEED Gold,UBC Vantage College,UBC Vantage College,Orchard Commons,Vantage College,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
 ACAP28,ACAP,NOT_JOINED,Acadia Housing 2-25,GBA from OSIS,,,380,,,,,,,,,,,,
 ACAP36,ACAP,NOT_JOINED,Acadia Housing 3-7,GBA from OSIS,,,1233,,,,,,,,,,,,
 ACAP04,ACAP,NOT_JOINED,Acadia Housing 2-1,GBA from OSIS,,,647,,,,,,,,,,,,
@@ -63,6 +52,7 @@ ACAP27,ACAP,NOT_JOINED,Acadia Housing 2-24,GBA from OSIS,,,396,,,,,,,,,,,,
 ACAP03,ACAP,NOT_JOINED,Presidents Row 3,GBA from OSIS,,,595,,,,,,,,,,,,
 ACAP18,ACAP,NOT_JOINED,Acadia Housing 2-15,GBA from OSIS,,,1070,,,,,,,,,,,,
 ACAP15,ACAP,NOT_JOINED,Acadia Housing 2-12,GBA from OSIS,,,1516,,,,,,,,,,,,
+STMD01,STMD,AD-523,St. Mark's Duplex 5,Remove 'duplex' from the short names,827-5,,,,,,,,,,,,,,
 ACAP13,ACAP,NOT_JOINED,Acadia Housing 2-10,GBA from OSIS,,,654,,,,,,,,,,,,
 ACAP16,ACAP,NOT_JOINED,Acadia Housing 2-13,GBA from OSIS,,,1515,,,,,,,,,,,,
 ACAP39,ACAP,NOT_JOINED,Acadia Housing 3-10,GBA from OSIS,,,440,,,,,,,,,,,,
@@ -113,49 +103,48 @@ ENSF01,ENSF,AD-127,Waste Proc/Storage,,142,,199,,,Waste Proc/Storage,Waste Proc/
 ENSF02,ENSF,AD-127,ESF Office,,139,,30,,,,,,,,,,,,
 CACP02,CACP,AD-247,C&CP2,,029,,452,,,C&CP 2,2,C&CP,,,,2210 West Mall,Vancouver,BC,V6T 1Z4
 CHEM06,CHEM,AD-125,Chemistry Storage,,140,,72,,,Chemistry Storage,Storage,Chemistry Storage,,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
-GRNC06,GRNC,AD-5,Green College E,,417,,237,,,,,,,,,,,,
-GRNC04,GRNC,AD-5,Green College C,,419,,302,,,Green College Principal's Residence  ,Principal's Residence  ,Green College,Principal's Residence (C) ,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
-GRNC03,GRNC,AD-5,Green College B,,416,,1181,,,Green College Building B - East,B - East,Green College,B,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
-GRNC01,GRNC,AD-5,Green College Admin,,418,,187,,,Adminstration Building F,Adminstration - F,Green College,F,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
+GRNC06,GRNC,AD-5,Green College E,,417,,237,,,Green College Building E,E,Green College,E,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
 GRNC07,GRNC,AD-5,Green College A North,,413,,744,,,Green College Building A - North,A - North,Green College,A,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
 GRNC08,GRNC,AD-5,Green College Kitchen,,414,,50,,,Green College Kitchen/Laundry Building,Kitchen/Laundry,Green College,,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
-BOTR02,BOTR,AD-113,Botanical Garden Greenhouse/Workshop,,079,,65,,,Botanical Garden Lunchroom,Lunchroom,Botanical Garden Workshop,,,,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5
-BOTR03,BOTR,AD-113,Botanical Garden Lunchroom,,078,,52,,,,,,,,,,,,
+BOTR02,BOTR,AD-113,Botanical Garden Greenhouse/Workshop,,079,,65,,,Botanical Garden Greenhouse + Workshop,Greenhouse + Workshop,Botanical Garden Workshop,,,,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5
+BOTR03,BOTR,AD-113,Botanical Garden Lunchroom,,078,,52,,,Botanical Garden Lunchroom,Lunchroom,Botanical Garden Workshop,,,,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5
 BOTR04,BOTR,AD-113,Botanical Garden Workshop,,090,,512,,,Botanical Garden Workshop,Workshop,Botanical Garden Workshop,,,,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5
 BOTG04,BOTG,AD-120,Botanical Garden Lookout Tower,,100,,25,,,Botanical Garden Ting Lookout,Ting Lookout,Botanical Garden,Ting/Lookout Tower ,,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
 BOTG03,BOTG,AD-120,Botanical Garden Campbell Building,,098,,586,,,Botanical Garden Campbell Building (Admin) ,Campbell Building (Admin) ,Botanical Garden,,,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
-BOTG02,BOTG,AD-120,Botanical Garden Reception/Education,,099,,294,,,,,Botanical Garden,,,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
-PONA02,PONA,AD-294,Ponderosa  B,,865-2,,975,,,,,Ponderosa Annexes,,,,2029 West Mall,Vancouver,BC,V6T 1Z2
-PONA03,PONA,AD-294,Ponderosa C,,865-3,,587,,,,,Ponderosa Annexes,,,PONC,2021 West Mall,Vancouver,BC,V6T 1Z2
-PONA05,PONA,AD-294,Ponderosa  E,,871-2,,1004,,,,,Ponderosa Annexes,E,,PONE,2034 Lower Mall,Vancouver,BC,V6T 1Z2
+BOTG02,BOTG,AD-120,Botanical Garden Reception/Education,,099,,294,,,Botanical Garden Reception Centre,Reception Centre,Botanical Garden,Reception Centre,,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
+PONA02,PONA,AD-294,Ponderosa  B,,865-2,,975,,,Ponderosa Office Annex B,B,Ponderosa Annexes,B,,PONB,2029 West Mall,Vancouver,BC,V6T 1Z2
+PONA03,PONA,AD-294,Ponderosa C,,865-3,,587,,,Ponderosa Office Annex C,C,Ponderosa Annexes,C,,PONC,2021 West Mall,Vancouver,BC,V6T 1Z2
+PONA05,PONA,AD-294,Ponderosa  E,,871-2,,1004,,,Ponderosa Office Annex E,E,Ponderosa Annexes,E,,PONE,2034 Lower Mall,Vancouver,BC,V6T 1Z2
 PONA01,PONA,AD-294,Ponderosa  A,,865-1,,633,,,Ponderosa Office Annex A,A,Ponderosa Annexes,A,,PONA,2011 West Mall,Vancouver,BC,V6T 1Z2
-PONA04,PONA,AD-294,Ponderosa  F,,871-3,,826,,,,,Ponderosa Annexes,,,,2008 Lower Mall,Vancouver,BC,V6T 1Z2
-OSBO01,OSBO,AD-183,Osborne Centre,,430,,3438,,,,,Osborne Centre,,,,6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
+PONA04,PONA,AD-294,Ponderosa  F,,871-3,,826,,,Ponderosa Office Annex F,F,Ponderosa Annexes,F,,PONF,2008 Lower Mall,Vancouver,BC,V6T 1Z2
+OSBO01,OSBO,AD-183,Osborne Centre,,430,,3438,,,Osborne Unit 1,Unit 1,Osborne Centre,Unit 1,,,6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
 BOTR05,BOTR,AD-113,Botanical Garden Shadehouse,,077-2,,502,,,Botanical Garden Shadehouse,Shadehouse,Botanical Garden Workshop,Nursery,,,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5
 BOTR01,BOTR,AD-113,Botanical Garden Greenhouses,,077-1,,636,,,Botanical Garden Greenhouse,Greenhouse,Botanical Garden Workshop,Nursery,,,3929 Wesbrook Mall,Vancouver,BC,V6T 1W5
+GRNC04,GRNC,AD-5,Green College C,,419,,302,,,Green College Principal's Residence  ,Principal's Residence  ,Green College,Principal's Residence (C) ,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
+GRNC03,GRNC,AD-5,Green College B,,416,,1181,,,Green College Building B - East,B - East,Green College,B,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
+GRNC01,GRNC,AD-5,Green College Admin,,418,,187,,,Adminstration Building F,Adminstration - F,Green College,F,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
 RESA01,RESA,AD-100,Header House,,024-5,,629,,,,,,,,,,,,
 VANR02,VANR,AD-19,Vanier - Aldyen Hamber House,,896-4,,2114,,,Aldyen Hamber House,Aldyen Hamber,Place Vanier Residence  ,Hamber,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
-CHEM05,CHEM,AD-125,Chemistry E,RENEW,136,,2797,,LEED Gold,,,Chemistry,E,Chem,CHEM,2036 Main Mall,Vancouver,BC,V6T 1Z1
-AUDX01,AUDX,AD-105,Auditorium Annex,,863-2,,692,,,,,Auditorium Annexes,B,,,1924 West Mall,Vancouver,BC,V6T 1Z2
-BIOL02,BIOL,AD-111,Bio Sciences - North,,066,,5424,,,,,BioSciences,North,,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
+AUDX01,AUDX,AD-105,Auditorium Annex,,863-2,,692,,,Auditorium Annex B,B,Auditorium Annexes,B,,,1924 West Mall,Vancouver,BC,V6T 1Z2
+BIOL02,BIOL,AD-111,Bio Sciences - North,,066,,5424,,,BioSciences North Wing,North,BioSciences,North,,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
 CHEM02,CHEM,AD-125,Chemistry A,,447,,7631,,,A Chemistry Physics,A Chemistry Physics,Chemistry Physics Building,A Chemistry Physics,,,6221 University Boulevard,Vancouver,BC,V6T 1Z1
 THUR03,THUR,AD-70,Thunderbird Res A3,,781-1,,1100,,,Thunderbird A3,A3,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
 TOTM04,TOTM,AD-223,Totem - Haida,,540-2,,8666,,,,,,,,,,,,
 TOTM02,TOTM,AD-223,Totem - Dene,,540-3,,9014,,,,,,,,,,,,
 VANR09,VANR,AD-19,Vanier - Robson House,,556,,2115,,,Robson House,Robson,Place Vanier Residence  ,Robson,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
 VANR10,VANR,AD-19,Vanier - Okanagan House,,552,,2123,,,Okanagan House,Okanagan,Place Vanier Residence  ,Okanagan,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
-CHEM03,CHEM,AD-125,Chemistry B,,148,,5239,,,,,Chemistry,C,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
-CHEM04,CHEM,AD-125,Chemistry C,,144,,3561,,,,,Chemistry,C,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
+CHEM05,CHEM,AD-125,Chemistry E,RENEW,136,,2797,,LEED Gold,Chemistry E Block - North Wing,E Block - North Wing,Chemistry,E,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
+CHEM03,CHEM,AD-125,Chemistry B,,148,,5239,,,Chemistry B Block - South Wing,B Block - South Wing,Chemistry,B,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
+CHEM04,CHEM,AD-125,Chemistry C,,144,,3561,,,Chemistry C Block - East Wing,C Block - East Wing,Chemistry,C,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
 BIOL01,BIOL,AD-111,Bio Sciences - West,RENEW,065,,7846,,LEED Gold,BioSciences West Wing,West,BioSciences,West,,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
 BIOL03,BIOL,AD-111,Bio Sciences - South,RENEW,068,,5441,,LEED Gold,BioSciences South Wing,South,BioSciences,South,,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
 GAGE02,GAGE,AD-297,Gage - South Tower,,869-2,,9772,,,Walter Gage South Tower,South,Walter Gage Residence,South,,,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
-GAGE06,GAGE,AD-297,Gage - Court,,872-2,,3597,,,Walter Gage Court,Court,Walter Gage Residence,,,,5961 Student Union Boulevard,Vancouver,BC,V6T 1K2
 GAGE05,GAGE,AD-297,Gage - East Tower,,872-1,,9773,,,Walter Gage East Tower,East,Walter Gage Residence,East,,,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
 CARY02,CARY,AD-72,Carey College,,806,,343,,,Carey Theological College,Carey Theological College,Carey College,Carey Theological College,,,1815 Wesbrook Mall,Vancouver,BC,V6T 1J6
 AUDX02,AUDX,AD-105,Auditorium Annexes,,045,,1739,,,Auditorium Annex A,A,Auditorium Annexes,A,,,1924 West Mall,Vancouver,BC,V6T 1Z2
 UNSB02,UNSB,AD-246,University Services Building,USB non childcare GBA 11367 m,641,,11367,Label,,,,,,,,,,,
-DLAM02,DLAM,AD-204,David Lam Learning Centre,,490-2,,0,Label,,,,David Lam,,,,2033 Main Mall,Vancouver,BC,V6T 1Z2
-UCLL03,UCLL,AD-166,PWIAS,,345,,465,Label,,Peter Wall Institute for Advanced Studies,PWIAS,PWIAS,Peter Wall Institute,,,6331 Crescent Road,Vancouver,BC,V6T 1Z2
+DLAM02,DLAM,AD-204,David Lam Learning Centre,,490-2,,0,Label,,David Lam Learning Centre,Learning Centre,David Lam,,,DLAM,6326 Agricultural Road,Vancouver,BC,V6T 1Z2
+UCLL03,UCLL,AD-166,PWIAS,,345,,465,Label,,,,University Centre,,,,6331 Crescent Road,Vancouver,BC,V6T 1Z2
 BRCK03,BRCK,AD-121,Brock Hall Annex,,113,,2100,Label,,Brock Hall Annex,Brock Hall Annex,Brock Hall,Annex,,,1874 East Mall,Vancouver,BC,V6T 1Z1
 POWR05,POWR,AD-255,Power House- Meter Station,,725,,32,Label,,Power House - Meter Station,Meter Station,Power House,,,,2040 West Mall,Vancouver,BC,V6T 1Z2
 TFPB02,TFPB,AD-103,Theatre-Flim Adidtion,,036-1,,138,Label,,Theatre Film Annex,Annex,Theatre Film,,,TFPB,6358 University Boulevard,Vancouver,BC,V6T 1Z4
@@ -175,12 +164,12 @@ TRMF04,TRMF,AD-283,TRIUMF - Isac 1,,847,,14681,Label,,TRIUMF ISAC1,ISAC1,TRIUMF,
 TRMF09,TRMF,AD-283,TRIUMF - Badge,,854-2,,26,Label,,TRIUMF Badge,Badge,TRIUMF,,,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 BEBC01,BEBC,AD-161,Beaty Musuem,Museum GBA 349 m,314,,349,,,Beaty Biodiversity Musuem,Beaty Biodiversity Musuem,Beaty,Beaty Biodiversity Musuem,,,2212 Main Mall,Vancouver,BC,V6T 1Z4
 BEBC02,BEBC,AD-161,Beaty Research Centre,Research Centre GBA 11712 m,314,,11712,,,,,,,,,,,,
-EOSM01,EOSM,AD-178,EOS - Main,,402,,9107,Label,,,,EOS,,,,6339 Stores Road,Vancouver,BC,V6T 1Z4
+EOSM01,EOSM,AD-178,EOS - Main,,402,,9107,Label,,Pacific Museum,Pacific Museum,EOS,Pacific Museum,,,6339 Stores Road,Vancouver,BC,V6T 1Z4
 EOSM02,EOSM,AD-178,EOS - South,,403,,1620,Label,,South,South,EOS,South,,,6339 Stores Road,Vancouver,BC,V6T 1Z4
-SLMK02,STMK,AD-78,St. Mark's Chapel,,829,,880,Label,,,,St. Mark's College,,,,5935 Iona Drive,Vancouver,BC,V6T 1J7
+SLMK02,STMK,AD-78,St. Mark's Chapel,,829,,880,Label,,St. Mark's Chapel,St. Mark's Chapel,St. Mark's College,St. Mark's Chapel,,,5935 Iona Drive,Vancouver,BC,V6T 1J7
 MUSM01,HAID,AD-228,Haida House,,436,,143,Label,,,,,,,,,,,
 MUSM02,HAID,AD-228,Mortuary House,,440,,36,Label,,,,,,,,,,,
-BOOK02,BOOK,AD-117,Networks of Centres of Excellence,,081-2,,3137,Label,,,,Networks of Centres of Excellence,,,,6200 University Boulevard,Vancouver,BC,V6T 1Z4
+BOOK02,BOOK,AD-117,Networks of Centres of Excellence,,081-2,,3137,Label,,Networks of Centres of Excellence,NCE,Networks of Centres of Excellence,NCE,NCE,,2125 East Mall,Vancouver,BC,V6T 1Z4
 BOOK01,BOOK,AD-116,Bookstore - Addition,,,,,Label,,,,,,,,,,,
 SPPA01,SPPA,AD-266,Spirit Park Apartments,,770-3,,1173,Label,,Huckleberry Child Care,Huckleberry,Spirit Park Apartments,Huckleberry,,,2735 Osoyoos Crescent,Vancouver,BC,V6T 1X7
 BERW01,BERW,AD-288,Berwick Memorial Centre,,,,,Label,,Berwick Preschool,Berwick,Berwick,Berwick,,,2765 Osoyoos Crescent,Vancouver,BC,V6T 1X7
@@ -204,44 +193,65 @@ BOTG05,BOTG,AD-120,Botanical Garden Pavilion,,091,,337,,,Botanical Garden Garden
 BOTG01,BOTG,AD-120,Botanical Garden,,097,,150,,,Botanical Garden Entrance,Entrance,Botanical Garden,,,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
 TOTM06,TOTM,AD-223,Totem - Shuswap,,565,,9027,,,,,,,,,,,,
 CCSB03,CCSB,AD-146,CCS 1,,205,,851,,,Kittiwake Child Care,Kittiwake,Child Care Services,Kittiwake,CCS1,,2815 Revelstoke Court,Vancouver,BC,V6T 1S1
-KOER01,KOER,AD-209,Koerner Library,,515,,28299,,,,,,,,,,,,
-CHHS07,CHHS,AD-79,Chancellor Cityhomes,,830-1,,,,,,,,,,,,,,
-LAUR01,LAUR,AD-233,The Laureates - highrise,,589-2;589-1,,0,,,,,,,,,,,,
-LAUR02,LAUR,AD-233,The Laureates - Apartment,,589-2;589-1,,0,,,,,,,,,,,,
-NITO01,NITO,AD-109,Nitobe Garden - Tea House,,476,,81,TO_DELETE,,Tea House,Tea House,Nitobe Garden,Tea House,,,1895 Lower Mall,Vancouver,BC,V6T 1Z2
-RSCU01,RSCU,AD-133,Rodney Graham Pavilion,,180,,28,TO_DELETE,,Rodney Graham Millennium Sculpture Pavilion,Rodney Graham Pavilion,Millennium Pavilion,Millennium Pavilion,,,1940 Main Mall,Vancouver,BC,V6T 1Z1
-AYOH01,AYOH,AD-316,AYO Smart Home,,538,,0,TO_DELETE,,AYO Smart Home,AYO Smart Home,AYO Smart Home,,,,5935 Agronomy Road,Vancouver,BC,V6T 1Z3
-TELS,TELS,AD-32,Telus Hub,,678,,,TO_DELETE,,,,,,,,,,,
-VANR14,VAPS,AD-19,Vanier - Pump Station,,543,,14,TO_DELETE,,,,,,,,,,,
-BARN01,BARN,AD-108,The Barn,,051,,304,TO_DELETE,,Owl Child Care,Owl,Barn,,,,2323 Main Mall,Vancouver,BC,V6T 1Z4
-MARN06,MARN,AD-172,Marine - 6,,377-6,,11503,,,SHHS Office,SHHS Office,Marine Drive Residence ,6,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
-ORCH04,ORCH,AD-24,Orchard Commons - Vantage College,,557,,,,LEED Gold,Hummingbird Child Care,Hummingbird,Orchard Commons, ,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
-MARN05,MARN,AD-172,Marine - 5,,377-5,,12280,,,Marine Drive Building 5,5,Marine Drive Residence ,5,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
-MARN04,MARN,AD-172,Marine - 4,,377-4,,14081,,,,,Marine Drive Residence ,4,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
-THUR08,THUR,AD-70,Thunderbird Res B4,,783-1,,1104,,,Thunderbird B4,B4,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
-THUR10,THUR,AD-70,Thunderbird Res C2,,784-1,,1558,,,Thunderbird C2,C2,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
-MARN02,MARN,AD-172,Marine - 2,,377-2,,7596,,,Marine Drive Building 2,2,Marine Drive Residence ,2,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
-THUN02,THUN,AD-295,Doug Mitchell - Thunderbird Arena,,868,,25227,,,PROTRANS BC Community Arena,PROTRANS BC Community Arena,Doug Mitchell Centre,UBC Thunderbird Arena,,,2555 Wesbrook Mall,Vancouver,BC,V6T 1Z3
-PONE02,PONE,AD-303,Ponderosa Commons - Spruce House,,903,,10177,,LEED Gold,Spruce House,Spruce,Ponderosa Commons,Spruce,,,2118 West Mall,Vancouver,BC,V6T 1Z4
-PONW04,PONW,AD-129,Ponderosa Commons - Maple House,,904,,17402,,LEED Gold,Maple House,Maple,Ponderosa Commons,Maple,,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
-PONN05,PONN,AD-85,Ponderosa Commons - Cedar House,,905,,26516,,LEED Gold,Cedar House,Cedar,Ponderosa Commons,Cedar,,,2075 West Mall,Vancouver,BC,V6T 1Z2
-ORCH03,ORCH,AD-24,Orchard Commons - Braeburn House,,557,,,,LEED Gold,Braeburn House,Braeburn,Orchard Commons,Braeburn,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
-CCSB02,CCSB,AD-146,Child Care Services,,206,,767,,,Sandpiper Child Care,Sandpiper,Child Care Services,Sandpiper,CCS2,,2805 Revelstoke Court,Vancouver,BC,V6T 1S1
-CCSB08,CCSB,AD-146,CCS 3,,202,,382,,,Discovery Child Care,Discovery,Child Care Services,Discovery,CCS3,,5620 Osoyoos Crescent,Vancouver,BC,V6T 2E6
-CCSB14,CCSB,AD-146,CCS 1,,200,,382,,,Lilliput Child Care,Lilliput,Child Care Services,Lilliput,CCS1,,5690 Osoyoos Crescent,Vancouver,BC,V6T 2E6
-CCSB12,CCSB,AD-146,CCS 5,,204,,482,,,Little Raven Child Care,Little Raven,Child Care Services,Little Raven,CCS5,,5580 Osoyoos Crescent,Vancouver,BC,V6T 2E6
-CCSB04,CCSB,AD-146,CCS 1,,205,,851,,,Salal Child Care,Salal,Child Care Services,Salal,CCS1,,5655 Osoyoos Crescent,Vancouver,BC,V6T 1S1
-CCSB06,CCSB,AD-146,CCS 2,,201,,386,,,Canada Goose Child Care,Canada Goose,Child Care Services,Canada Goose,CCS2,,5660 Osoyoos Crescent,Vancouver,BC,V6T 2E6
-CCSA01,CHSC,AD-128,Child Care Services Administration Building,,155,,1205,,,Barish Child Care,Barish,Child Care Admin Building,Barish,,,2881 Acadia Road,Vancouver,BC,V6T 1S1
-CCSA02,CHSC,AD-128,Child Care Services Administration Building,,155,,1205,,,Lluvia Child Care,Lluvia,Child Care Admin Building,Lluvia,,,2881 Acadia Road,Vancouver,BC,V6T 1S1
-CCSA03,CHSC,AD-128,Child Care Services Administration Building,,155,,1205,,,Pioggia Child Care,Pioggia,Child Care Admin Building,Pioggia,,,2881 Acadia Road,Vancouver,BC,V6T 1S1
-CCSA04,CHSC,AD-128,Child Care Services Administration Building,,155,,1205,,,Chuva Child Care,Chuva,Child Care Admin Building,Chuva,,,2881 Acadia Road,Vancouver,BC,V6T 1S1
-GRNC05,GRNC,AD-5,Green College D,,412,,1577,,,Green College Building D,D,Green College,D,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
-SQSH,SQSH,AD-180,Cecil Green Squash Court,,422,ADMIN,219,,,,,,,,,,,,
-PSAB01,PSAB,AD-286,Fire,,852,,2935,,,Fire,Fire,Public Safety Building,,,,2992 Wesbrook Mall,Vancouver,BC,V6T 2B7
-PSAB02,PSAB,AD-285,RCMP,,852,,2935,,,RCMP,RCMP,Public Safety Building,,,,2990 Wesbrook Mall,Vancouver,BC,V6T 2B7
-GRAT03,GRAT,AD-47,Granite Terrace - Moveator,,686,,566,,REAP Gold,Moveator,Moveator,Granite Terrace,Moveator,,,5940 Berton Avenue,Vancouver,BC,V6S 0B3
-ORCH01,ORCH,AD-24,Orchard Commons - Vantage College,,557,,,,LEED Gold,UBC Vantage College,UBC Vantage College,Orchard Commons,Vantage College,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
+FOLI06,FOLI,AD-322,Folio Duplex 4,,827-4,,,,,,,,,,,,,,
+FOLI05,FOLI,AD-322,Folio Duplex 1,Remove 'duplex' from the short names,827-1,,,,,,,,,,,,,,
+FOLI04,FOLI,AD-322,Folio Duplex 2,,827-2,,,,,,,,,,,,,,
+FOLI03,FOLI,AD-322,Folio Duplex 3,,827-3,,,,,,,,,,,,,,
+CHHS02,CHHS,AD-79,Chancellor TH 2,,830-2,,,,,,,,,,,,,,
+CHHS03,CHHS,AD-79,Chancellor TH 3,,830-3,,,,,,,,,,,,,,
+CHHS04,CHHS,AD-79,Chancellor TH 4,,830-4,,,,,,,,,,,,,,
+COST07,COST,AD-280,Coast Duplex 5,Updated Footprint,831-5,,,,REAP Bronze,,,,,,,,,,
+CHAH01,CHAH,AD-322,Chancellor Hall Apartments,,824,,,,,,,,,,,,,,
+FOLI17,FOLI,AD-77,Folio Apartments,,825,,,,,,,,,,,,,,
+CHHS01,CHHS,AD-79,Chancellor House Apartments,,830,,,,,,,,,,,,,,
+CHHS00,CHHS,AD-79,Chancellor Row Duplex 3,,835,,,,,,,,,,,,,,
+CHHS06,CHHS,AD-79,Chancellor Row Duplex 2,,834,,,,,,,,,,,,,,
+CHHS05,CHHS,AD-79,Chancellor Row Duplex 1,,833,,,,,,,,,,,,,,
+COST06,COST,AD-280,Coast Duplex 4,Updated Footprint,831-4,,,,REAP Bronze,,,,,,,,,,
+COST05,COST,AD-280,Coast Duplex 3,Updated Footprint,831-3,,,,REAP Bronze,,,,,,,,,,
+COST03,COST,AD-280,Coast Duplex 1,Updated Footprint,831-1,,,,REAP Bronze,,,,,,,,,,
+COST01,COST,AD-280,Coast Apartment East,,832-2,,,,REAP Bronze,,,Coast,,,,6093 Iona Drive,Vancouver,BC,V6T 0B2
+COST02,COST,AD-280,Coast Apartment West,,832-1,,,,REAP Bronze,,,Coast,,,,6093 Iona Drive,Vancouver,BC,V6T 0B2
+FOLI02,FOLI,AD-77,Folio TH,,826,,,,,,,,,,,,,,
+STAH01,STAH,AD-275,St. Andrews Hall,,817-4,,,,LEED Gold,,,,,,,,,,
+GAGE06,GAGE,AD-1013,Gage - West Coast Suites,,872-2,,3597,,,Walter Gage Court,Court,Walter Gage Residence,,,,5961 Student Union Boulevard,Vancouver,BC,V6T 1K2
+CHAH02,CHAH,AD-322,Chancellor Hall - TH,,823,,,,,,,,,,,,,,
+CARY01,CARY,AD-72,Carey Centre,,807,,,,,,,,,,,,,,
+FRAT08,FRAT,AD-89,Fraternity Village 8,,928,,,,,Fraternity Village 8,8,Fraternity Village 8,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
+FRAT06,FRAT,AD-89,Fraternity Village 6,,926,,,,,Fraternity Village 6,6,Fraternity Village 6,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
+FRAT01,FRAT,AD-89,Fraternity Village 1,,921,,,,,Fraternity Village 1,1,Fraternity Village 1,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
+FRAT02,FRAT,AD-89,Fraternity Village 2,,922,,,,,Fraternity Village 2,2,Fraternity Village 2,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
+FRAT05,FRAT,AD-89,Fraternity Village 5,,925,,,,,Fraternity Village 5,5,Fraternity Village 5,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
+FRAT04,FRAT,AD-89,Fraternity Village 4,,924,,,,,Fraternity Village 4,4,Fraternity Village 4,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
+STMD04,STMD,AD-516,St. Mark's Duplex 8,,827-8,,,,,,,,,,,,,,
+STMD03,STMD,AD-519,St. Mark's Duplex 7,,827-7,,,,,,,,,,,,,,
+STMD02,STMD,AD-521,St. Mark's Duplex 6,,827-6,,,,,,,,,,,,,,
+THUN01,THUN,AD-295,Doug Mitchell Centre,,868-1,,25227,,,UBC Thunderbird Arena,UBC Thunderbird Arena,Doug Mitchell Centre,UBC Thunderbird Arena,,,2555 Wesbrook Mall,Vancouver,BC,V6T 1Z3
+ENSF03,ENSF,AD-127,Natural Gas Storage,,146,,,,,Natural Gas Storage,Natural Gas Storage,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
+THUN03,THUN,AD-295,Doug Mitchell Centre,,868-1,,25227,,,Father David Bauer Arena,Father David Bauer Arena,Doug Mitchell Centre,,,,6066 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
+FRAT07,FRAT,AD-89,Fraternity Village 7,,927,,,,,Fraternity Village 7,7,Fraternity Village 7,,,,2880 Wesbrook Mall,Vancouver,BC,V6T 2J3
+ENSF04,ENSF,AD-127,PCB Equipment Storage,,143,,,,,PCB Equipment Storage,PCB Equipment Storage,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
+ENSF07,ENSF,AD-127,Solvent Storage Area,,141,,104,,,Solvent Storage Area,Solvent Storage Area,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
+WSBT01,WSBT,AD-32,The Wesbrook - highrise,,594,,,,REAP Silver,,,,,,,,,,
+BINT01,BINT,AD-35,Binning Tower - highrise,,598,,,,REAP Gold,,,,,,,,,,
+BINT02,BINT,AD-35,Binning Tower - townhouses,,598,,,,REAP Gold,,,,,,,,,,
+WSBT02,WSBT,AD-32,The Wesbrook - townhouses,,594,,,,REAP Silver,,,,,,,,,,
+STAH04,STAH,AD-275,St. Andrew's Walker House,,817-2,,,,,Walker House - Block B,Walker,St. Andrew's Hall,Walker (B),,,6040 Iona Drive,Vancouver,BC,V6T 2E8
+STAH03,STAH,AD-275,St. Andrew's Lennox House,,817-3,,,,,Lennox House - Block C,Lennox,St. Andrew's Hall,Lennox (C),,,6040 Iona Drive,Vancouver,BC,V6T 2E8
+STAH02,STAH,AD-275,St. Andrew's Ross,,817-1,,,,,Ross & McLean House  - Block A,Ross & McLean,St. Andrew's Hall,Ross & McLean (A),,,6040 Iona Drive,Vancouver,BC,V6T 2E8
+TAPS01,TAPS,AD-235,Tapestry North,,593-1,,,,REAP Silver,,,,,,,,,,
+COST08,COST,AD-280,Coast TH,,832-3,,,,REAP Bronze,,,,,,,,,,
+ACAP40,ACAP,AD-712,Acadia Park Highrise,,002-1,,8556,,,Acadia Park Highrise,Acadia Park Highrise,Acadia Park Residence,Acadia Park Highrise,,,2725 Melfa Road,Vancouver,BC,V6T 1N4
+TOTM01,TOTM,AD-223,Totem - Commonsblock,,540-1,,4664,,,,,,,,,,,,
+VANR06,VANR,AD-19,Vanier - Tec De Monterrey,,902,,4496,,,Tec de Monterrey House,Tec de Monterrey,Place Vanier Residence  ,Tec de Monterrey,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
+VANR05,VANR,AD-19,Vanier - Korea House,,898,,4830,,,Korea House,Korea,Place Vanier Residence  ,Korea,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
+ORCH02,ORCH,AD-24,Orchard Commons - Bartlett House,,557,,,,LEED Gold,Bartlett House,Bartlett,Orchard Commons,Bartlett,,,2362 West Mall,Vancouver,BC,V6T 1Z4
+OSBO02,OSBO,AD-183,Osborne Centre,,431,,2740,,,Osborne Unit 2,Unit 2,Osborne Centre,Unit 2,Osborne 2,OSBO,6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
+THUR07,THUR,AD-70,Thunderbird Res B3,,782-1,,1098,,,Thunderbird B3,B3,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
+MARN01,MARN,AD-172,Marine - Simon Lee,,377-1,,12338,,,Simon K.Y. Lee HKU-UBC House,Simon K.Y. Lee HKU-UBC,Marine Drive Residence ,1,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
+MARN03,MARN,AD-172,Marine - Commons Block,,377-3,,1526,,,Marine Drive Commonsblock,Commonsblock,Marine Drive Residence ,3,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
+PONN06,PONN,AD-87,Ponderosa Commons - Oak House,,905,,26516,,LEED Gold,Oak House,Oak,Ponderosa Commons,Oak,,,6445 University Boulevard,Vancouver,BC,V6T 1Z2
+COST04,COST,AD-280,Coast Duplex 2,Updated Footprint,831-2,,,,REAP Bronze,,,,,,,,,,
 FNLH01,FNLH,AD-165,Xwi7xwa Library,Library GBA 238 m,337,,238,Label,,Xwi7xwa Library,Xwi7xwa Library,First Nations Longhouse,Xwi7xwa Library,,,1985 West Mall,Vancouver,BC,V6T 1Z2
 TENN01,TENN,AD-184,UBC Tennis Centre,,432;433,,10661,,,,,Tennis Centre,,,,6160 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
 DASB01,DASB,AD-137,David Strangway Building - Nobel Biocare,Nobel GBA 264 m,199,,264,Label,,Nobel Biocare Oral Health Centre,Nobel Biocare Oral Health Centre,David Strangway,Nobel Biocare,,,2151 Wesbrook Mall,Vancouver,BC,V6T 1Z3
@@ -257,19 +267,18 @@ CCSB10,CCSB,AD-146,CCS 4,,203,,319,,,Coho Child Care,Coho,Child Care Services,Co
 FNLH02,FNLH,AD-165,First Nations Longhouse,Longhouse GBA 1919 m,337,,1919,Label,,,,,,,,,,,
 DASB02,DASB,AD-136,David Strangway Building,Strangway GBA 11945 m,199,,11945,Label,,,,,,,,,,,
 GAGE03,GAGE,AD-297,Gage - Residence,,869-1,,5155,,,Walter Gage Commonsblock,Commonsblock,Walter Gage Residence,Commonsblock,,,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
-BUCH02,BUCH,AD-123,Buchanan B,RENEW,121-2,,4867,,LEED Gold,,,Buchanan,B,,,1866 Main Mall,Vancouver,BC,V6T 1Z1
+BUCH02,BUCH,AD-123,Buchanan B,RENEW,121-2,,4867,,LEED Gold,Buchanan B,B,Buchanan,B,,BUCH,1866 Main Mall,Vancouver,BC,V6T 1Z1
 BUCH01,BUCH,AD-123,Buchanan A,RENEW,121-1,,3020,,LEED Gold,Buchanan A,A,Buchanan,A,,,1866 Main Mall,Vancouver,BC,V6T 1Z1
-BUCH04,BUCH,AD-123,Buchanan D,RENEW,122-1,,4681,,LEED Gold,,,Buchanan,D,,,1866 Main Mall,Vancouver,BC,V6T 1Z1
-BUCH05,BUCH,AD-123,Buchanan E,,122-2,,2025,,,,,Buchanan,E,,,1866 Main Mall,Vancouver,BC,V6T 1Z1
-BUCH03,BUCH,AD-123,Buchanan C,RENEW,121-3,,2773,,LEED Gold,,,Buchanan,C,,,1866 Main Mall,Vancouver,BC,V6T 1Z1
+BUCH04,BUCH,AD-123,Buchanan D,RENEW,122-1,,4681,,LEED Gold,Buchanan D,D,Buchanan,D,,BUCH,1866 Main Mall,Vancouver,BC,V6T 1Z1
+BUCH05,BUCH,AD-123,Buchanan E,,122-2,,2025,,,Buchanan E,E,Buchanan,E,,BUCH,1866 Main Mall,Vancouver,BC,V6T 1Z1
+BUCH03,BUCH,AD-123,Buchanan C,RENEW,121-3,,2773,,LEED Gold,Buchanan C,C,Buchanan,C,,BUCH,1866 Main Mall,Vancouver,BC,V6T 1Z1
 GAGE01,GAGE,AD-297,Gage - Apartments,,874,,8046,,,Walter Gage Apartments,Apartments,Walter Gage Residence,Apartments,,,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
-CHEM01,CHEM,AD-125,Chemistry D,RENEW,132,,7139,,LEED Gold,,,Chemistry,D,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
+CHEM01,CHEM,AD-125,Chemistry D,RENEW,132,,7139,,LEED Gold,Chemistry D Block - Centre Wing,D Block - Centre Wing,Chemistry,D,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
 TOTM08,TOTM,AD-223,Totem - q'?l?x?n House,,566,,6729,,REAP Gold,,,,,,,,,,
 TOTM09,TOTM,AD-223,Totem - h?m'l?s?m' House,,567,,9830,,REAP Gold,,,,,,,,,,
 TAPS02,TAPS,AD-235,Tapestry South,,593-2,,8928,,REAP Silver,Tapestry North,North,Tapestry,,,,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7
 FARM03,FARM,AD-112,Farm - Greenhouse,,387,,118,,,Greenhouse,Greenhouse,UBC Farm,,,,3461 Ross Drive,Vancouver,BC,V6T 1W5
 GAGE04,GAGE,AD-297,Gage - North Tower,,869-3,,9772,,,Walter Gage North Tower,North,Walter Gage Residence,North,,,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
-BRIM01,BRIM,AD-95,Brimacombe,,020,,8678,Label,,Advanced Materials and Process Engineering Laboratory,AMPEL,Brimacombe,AMPEL,,,2355 East Mall,Vancouver,BC,V6T 1Z4
 BRIM02,BRIM,AD-95,Quantum Matter Institute,,020-1,,4977,Label,LEED Gold,Quantum Matter Institute,QMI,Brimacombe,QMI,QMI,,2355 East Mall,Vancouver,BC,V6T 1Z4
 SCSB,SCSB,NOT_JOINED,South Campus Substation - Switchin Station 12KV,,765,,32,,,,,,,,,,,,
 FNLH03,FNLH,AD-165,First Nations Longhouse Gazebo,,337,,2157,Label,,,,,,,,,,,
@@ -279,13 +288,4 @@ RESA02,RESA,AD-100,RSA3,,024-3,,314,,,Landscape Operations Building,Landscape Op
 FARM02,FARM,AD-112,Farm - Yurt,,075,,65,,,Yurt,Yurt,UBC Farm,,,,3461 Ross Drive,Vancouver,BC,V6T 1W5
 THUR04,THUR,AD-70,Thunderbird Res A4,,780-1,,1104,,,Thunderbird A4,A4,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
 ,BOSS,AD-246,Building Operations Storage Shed,,646,ADMIN,992,,,,,,,,,,,,
-ACAP40,ACAP,AD-712,Acadia Park Highrise,,002-1,,8556,,,Acadia Park Highrise,Acadia Park Highrise,Acadia Park Residence,Acadia Park Highrise,,,2725 Melfa Road,Vancouver,BC,V6T 1N4
-TOTM01,TOTM,AD-223,Totem - Commonsblock,,540-1,,4664,,,,,,,,,,,,
-VANR06,VANR,AD-19,Vanier - Tec De Monterrey,,902,,4496,,,Tec de Monterrey House,Tec de Monterrey,Place Vanier Residence  ,Tec de Monterrey,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
-VANR05,VANR,AD-19,Vanier - Korea House,,898,,4830,,,Korea House,Korea,Place Vanier Residence  ,Korea,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
-PONN06,PONN,AD-85,Ponderosa Commons - Oak House,,905,,26516,,LEED Gold,,,Ponderosa Commons,,,,2075 West Mall,Vancouver,BC,V6T 1Z2
-ORCH02,ORCH,AD-24,Orchard Commons - Bartlett House,,557,,,,LEED Gold,Bartlett House,Bartlett,Orchard Commons,Bartlett,,,2362 West Mall,Vancouver,BC,V6T 1Z4
-OSBO02,OSBO,AD-183,Osborne Centre,,431,,2740,,,,,Osborne Centre,,,,6108 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
-THUR07,THUR,AD-70,Thunderbird Res B3,,782-1,,1098,,,Thunderbird B3,B3,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
-MARN01,MARN,AD-172,Marine - Simon Lee,,377-1,,12338,,,,,Marine Drive Residence ,1,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
-MARN03,MARN,AD-172,Marine - Commons Block,,377-3,,1526,,,Marine Drive Commonsblock,Commonsblock,Marine Drive Residence ,3,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
+BRIM01,BRIM,AD-95,Brimacombe,,020,,8678,Label,,Advanced Materials and Process Engineering Laboratory,AMPEL,Brimacombe,AMPEL,,,2355 East Mall,Vancouver,BC,V6T 1Z4

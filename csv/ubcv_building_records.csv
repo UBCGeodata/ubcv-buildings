@@ -63,6 +63,12 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 412,GRHS,NOT_JOINED,Green College D,,,Complete,,,,
 463,ACU,AD-197,Hospital,,,Complete,,,,
 594,,AD-32,The Wesbrook,,,Complete,,,REAP Silver,
+502-2,,AD-9,Thames Court - 2,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+502-3,,AD-9,Thames Court - 3,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+502-4,,AD-9,Thames Court - 4 ,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+502-5,,AD-9,Thames Court - 5,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+502-6,,AD-9,Thames Court - 6,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+502-7,,AD-9,Thames Court - 7,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 337,FNLH,AD-165,First Nations Longhouse,,,Complete,,,,
 023,ANGU,AD-98,Henry Angus,,,Complete,,,,
 503,,AD-10,St. James,,,Complete,,,,
@@ -89,6 +95,9 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 842-7,,NOT_JOINED,TRIUMF,,,Complete,,,,
 538,,NOT_JOINED,AYO Home,,,Complete,,,,
 750,SOWK,AD-258,Jack Bell,,,Complete,,,,
+515,,AD-209,Koerner Library,,,Complete,,,,
+490,DLAM,AD-204,David Lam Management Research Centre,,,Complete,,,,
+372,,AD-169,FPInnovations,,,Complete,,,,
 130,CHAN,AD-124,Chan Centre,,,Complete,,,,
 022,,AD-97,Lower Mall Research Station,,,Complete,,,,
 010-10,,NOT_JOINED,Acadia House 3-10,,,Complete,,,,
@@ -152,6 +161,12 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 922,,NOT_JOINED,Fraternity Village 2,,,Complete,,,,
 925,,NOT_JOINED,Fraternity Village 5,,,Complete,,,,
 924,,NOT_JOINED,Fraternity Village 4,,,Complete,,,,
+554-2,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
+554-3,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
+554-4,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
+554-5,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
+554-6,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
+554-7,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
 009-11,,NOT_JOINED,Acadia Housing - 11,,,Complete,,,,
 009-10,,NOT_JOINED,Acadia Housing - 10,,,Complete,,,,
 009-08,,NOT_JOINED,Acadia Housing - 8,,,Complete,,,,
@@ -177,7 +192,12 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 447,CHEM,NOT_JOINED,Chemistry A,,,Complete,,,,
 312,MCLD,AD-159,MacLeod,,,Complete,,,,
 781-1,,NOT_JOINED,Thunderbird Res A3,,,Complete,,,,
+502-1,,AD-9,Thames Court - 1,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+825,,AD-77,Folio,,,Complete,,,,
 052,,AD-109,Fraser River Parkade,,,Complete,,,,
+825-2,,AD-406,Folio,,,Complete,,,,
+620-4,,AD-450,Logan Lane,,,Complete,,,,
+620-3,,AD-450,Logan Lane,,,Complete,,,,
 822-2,,NOT_JOINED,St. John's College,,,Complete,,,,
 148,CHEM,NOT_JOINED,Chemistry B,,,Complete,,,,
 144,CHEM,NOT_JOINED,Chemistry C,,,Complete,,,,
@@ -191,6 +211,9 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 308,LSK,AD-157,Klinck,,,Complete,,,,
 519,MATX,AD-212,Math Annex,,,Complete,,,,
 045,AUDX,AD-105,Auditorium Annexes,,,Complete,,,,
+620-5,,AD-450,Logan Lane,,,Complete,,,,
+620-2,,AD-450,Logan Lane,,,Complete,,,,
+616-1,,AD-544,Westchester,,,Complete,,,,
 044,AUDI,AD-104,Old Aud,,,Complete,,,,RENEW
 401,GEOG,AD-177,Geography,,,Complete,,,,
 656,HEBB,AD-251,Hebb,,,Complete,,,,
@@ -423,6 +446,9 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 500-5,,AD-7,Sandringham - 5,,,Complete,,,,
 500-13,,AD-7,Sandringham - 13,,,Complete,,,,
 500-12,,AD-7,Sandringham - 12,,,Complete,,,,
+502-13,,AD-9,Thames Court - 13,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+502-14,,AD-9,Thames Court - 14,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+502-15,,AD-9,Thames Court - 15,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 007-04,,NOT_JOINED,Fairview Housing 4,,,Complete,,,,
 007-09,,NOT_JOINED,Fairview Housing 9,,,Complete,,,,
 007-08,,NOT_JOINED,Fairview Housing 8,,,Complete,,,,
@@ -483,6 +509,11 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 545-2,,AD-19,Vanier - Tweedsmuir House,,,Complete,,,,
 543,,AD-19,Vanier Pump Station,,,Complete,,,,
 490-1,DLAM,AD-204,David Lam - White Spot,,,Complete,,,,
+622-3,,AD-515,Somerset,,,Complete,,,,
+536,WLIB,AD-220,Woodward Library,,,Complete,,,,
+554-1-7,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
+141,ENSF,AD-127,Solvent Storage Area,,,Complete,,,,
+500-1,,AD-7,Sandringham - 1,,,Complete,,,,
 081-2,BOOK,AD-117,Networks of Centres of Excellence,,,Complete,,,,
 114,BRKC,AD-0,Tallwood House,,,Complete,,,LEED Gold,
 020-1,BRIM,AD-95,Quantum Matter Institute,,,Complete,,,LEED Gold,
@@ -500,6 +531,24 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 724,POWR,AD-255,Power House,,,Complete,,,,
 490-2,DLAM,AD-204,David Lam Learning Centre,,,Complete,,,,
 081,BOOK,AD-116,Bookstore,,,Complete,,,,
+589-2,LAUR,AD-233,The Laureates,,,Complete,,,,
+589-1,LAUR,AD-232,The Laureates,,,Complete,,,,
+502-16,,AD-9,Thames Court - 16,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+502-17,,AD-9,Thames Court - 17,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
+843-4,,,,,,,,,,
+843-7,,,,,,,,,,
+678,,AD-254,Telus Hub,,,Complete,,,,
+843-2,,,,,,,,,,
+842-5,,,,,,,,,,
+842-4,,,,,,,,,,
+842-6,,,,,,,,,,
+842-3,,,,,,,,,,
+842-8,,,,,,,,,,
+438,GUNN,AD-317,Chan Gunn,,Academic,Complete,MEDI,,LEED Gold,
+825-1,,AD-405,Folio,,,Complete,,,,
+620-1,,AD-450,Logan Lane,,,Complete,,,,
+616-7,,AD-544,Westchester,,,Complete,,,,
+782,,AD-70,Thunderbird Residence,,,Complete,,,,Dif shape on CAD
 451,,AD-6,Sopron House,,,Complete,,,,
 509,,AD-17,The Pemberley,,,Complete,,,,
 670,,NOT_JOINED,Plant Sci Field Bldg,,,Complete,,,,
@@ -558,21 +607,6 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 896-1,,AD-19,Vanier - Dorothy Mawdsley,,,Complete,,,,
 545-1,,AD-19,Vanier - Cariboo House,,,Complete,,,,
 896-4,,AD-19,Vanier - Aldyen Hamber House,,,Complete,,,,
-515,,AD-209,Koerner Library,,,Complete,,,,
-490,DLAM,AD-204,David Lam Management Research Centre,,,Complete,,,,
-372,,AD-169,FPInnovations,,,Complete,,,,
-554-2,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
-554-3,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
-554-4,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
-554-5,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
-554-6,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
-554-7,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
-502-2,,AD-9,Thames Court - 2,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-3,,AD-9,Thames Court - 3,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-4,,AD-9,Thames Court - 4 ,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-5,,AD-9,Thames Court - 5,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-6,,AD-9,Thames Court - 6,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-7,,AD-9,Thames Court - 7,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 502-8,,AD-9,Thames Court - 8,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 502-9,,AD-9,Thames Court - 9,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
 502-10,,AD-9,Thames Court - 10,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
@@ -583,40 +617,6 @@ REC_ID,BLDG_ID,ADD_ID,NAME,JURISDICTION,NEIGHBOURHOOD,STATUS,BLDG_USE,GRADE,GREE
 715,PINE,AD-311,Pine House,,Wesbrook,Under Construction,HSGN,,LEED Gold,
 718,VIRT,AD-310,Virtuoso,,Wesbrook,Under Construction,HSGN,,REAP Gold,
 502-12,,AD-9,Thames Court - 12,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-13,,AD-9,Thames Court - 13,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-14,,AD-9,Thames Court - 14,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-15,,AD-9,Thames Court - 15,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-589-2,LAUR,AD-233,The Laureates,,,Complete,,,,
-589-1,LAUR,AD-232,The Laureates,,,Complete,,,,
-502-16,,AD-9,Thames Court - 16,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-502-17,,AD-9,Thames Court - 17,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-843-4,,,,,,,,,,
-843-7,,,,,,,,,,
-678,,AD-254,Telus Hub,,,Complete,,,,
-843-2,,,,,,,,,,
-842-5,,,,,,,,,,
-842-4,,,,,,,,,,
-842-6,,,,,,,,,,
-842-3,,,,,,,,,,
-842-8,,,,,,,,,,
-438,GUNN,AD-317,Chan Gunn,,Academic,Complete,MEDI,,LEED Gold,
-825-1,,AD-405,Folio,,,Complete,,,,
-620-1,,AD-450,Logan Lane,,,Complete,,,,
-616-7,,AD-544,Westchester,,,Complete,,,,
-782,,AD-70,Thunderbird Residence,,,Complete,,,,Dif shape on CAD
-622-3,,AD-515,Somerset,,,Complete,,,,
-536,WLIB,AD-220,Woodward Library,,,Complete,,,,
-554-1-7,GRWC,AD-22,Greenwood Commons ,,,Complete,,,REAP Bronze,There are plans to split this feature at some point (peter).
-141,ENSF,AD-127,Solvent Storage Area,,,Complete,,,,
-500-1,,AD-7,Sandringham - 1,,,Complete,,,,
-502-1,,AD-9,Thames Court - 1,,,Complete,,,,Building Records List Indiscernable-Needs Confirmation
-825,,AD-77,Folio,,,Complete,,,,
-825-2,,AD-406,Folio,,,Complete,,,,
-620-4,,AD-450,Logan Lane,,,Complete,,,,
-620-3,,AD-450,Logan Lane,,,Complete,,,,
-620-5,,AD-450,Logan Lane,,,Complete,,,,
-620-2,,AD-450,Logan Lane,,,Complete,,,,
-616-1,,AD-544,Westchester,,,Complete,,,,
 616-2,,AD-544,Westchester,,,Complete,,,,
 616-4,,AD-544,Westchester,,,Complete,,,,
 616-6,,AD-544,Westchester,,,Complete,,,,
