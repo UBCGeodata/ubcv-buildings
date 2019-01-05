@@ -280,7 +280,7 @@ TAPS02,TAPS,AD-235,Tapestry South,,593-2,,8928,,REAP Silver,Tapestry North,North
 FARM03,FARM,AD-112,Farm - Greenhouse,,387,,118,,,Greenhouse,Greenhouse,UBC Farm,,,,3461 Ross Drive,Vancouver,BC,V6T 1W5
 GAGE04,GAGE,AD-297,Gage - North Tower,,869-3,,9772,,,Walter Gage North Tower,North,Walter Gage Residence,North,,,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
 BRIM02,BRIM,AD-95,Quantum Matter Institute,,020-1,,4977,Label,LEED Gold,Quantum Matter Institute,QMI,Brimacombe,QMI,QMI,,2355 East Mall,Vancouver,BC,V6T 1Z4
-SCSB,SCSB,NOT_JOINED,South Campus Substation - Switchin Station 12KV,,765,,32,,,,,,,,,,,,
+SCSB,SCSB,NOT_JOINED,South Campus Substation - Switchin Station 12KV,,765,,32,,,South Campus Substation,SC Substation,SC Substation,,,,,,,
 FNLH03,FNLH,AD-165,First Nations Longhouse Gazebo,,337,,2157,Label,,,,,,,,,,,
 PONE01,PONE,AD-303,Ponderosa Commons - Audain Art Centre,,903,,10177,,LEED Gold,Audain Art Centre,Audain Art Centre,Ponderosa Commons,Audain Art Centre,,,2118 West Mall,Vancouver,BC,V6T 1Z4
 PONW03,PONW,AD-129,Ponderosa Commons - Arbutus House,,904,,17402,,LEED Gold,Arbutus House,Arbutus,Ponderosa Commons,Arbutus,,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
