@@ -38,51 +38,49 @@ PSAB01,PSAB,AD-286,Fire,,852,,2935,,,Fire,Fire,Public Safety Building,,,,2992 We
 PSAB02,PSAB,AD-285,RCMP,,852,,2935,,,RCMP,RCMP,Public Safety Building,,,,2990 Wesbrook Mall,Vancouver,BC,V6T 2B7
 GRAT03,GRAT,AD-47,Granite Terrace - Moveator,,686,,566,,REAP Gold,Moveator,Moveator,Granite Terrace,Moveator,,,5940 Berton Avenue,Vancouver,BC,V6S 0B3
 ORCH01,ORCH,AD-24,Orchard Commons - Vantage College,,557,,,,LEED Gold,UBC Vantage College,UBC Vantage College,Orchard Commons,Vantage College,,,6363 Agronomy Road,Vancouver,BC,V6T 1Z4
-ACAP28,ACAP,NOT_JOINED,Acadia Housing 2-25,GBA from OSIS,,,380,,,,,,,,,,,,
-ACAP36,ACAP,NOT_JOINED,Acadia Housing 3-7,GBA from OSIS,,,1233,,,,,,,,,,,,
-ACAP04,ACAP,NOT_JOINED,Acadia Housing 2-1,GBA from OSIS,,,647,,,,,,,,,,,,
-ACAP06,ACAP,NOT_JOINED,Acadia Housing 2-3,GBA from OSIS,,,201,,,,,,,,,,,,
-ACAP11,ACAP,NOT_JOINED,Acadia Housing 2-8,GBA from OSIS,,,841,,,,,,,,,,,,
-ACAP25,ACAP,NOT_JOINED,Acadia Housing 2-22,GBA from OSIS,,,396,,,,,,,,,,,,
-ACAP35,ACAP,NOT_JOINED,Acadia Housing 3-6,GBA from OSIS,,,1222,,,,,,,,,,,,
-ACAP10,ACAP,NOT_JOINED,Acadia Housing 2-7,GBA from OSIS,,,647,,,,,,,,,,,,
-ACAP09,ACAP,NOT_JOINED,Acadia Housing 2-6,GBA from OSIS,,,380,,,,,,,,,,,,
-ACAP22,ACAP,NOT_JOINED,Acadia Housing 2-19,GBA from OSIS,,,1451,,,,,,,,,,,,
-ACAP27,ACAP,NOT_JOINED,Acadia Housing 2-24,GBA from OSIS,,,396,,,,,,,,,,,,
-ACAP03,ACAP,NOT_JOINED,Presidents Row 3,GBA from OSIS,,,595,,,,,,,,,,,,
-ACAP18,ACAP,NOT_JOINED,Acadia Housing 2-15,GBA from OSIS,,,1070,,,,,,,,,,,,
-ACAP15,ACAP,NOT_JOINED,Acadia Housing 2-12,GBA from OSIS,,,1516,,,,,,,,,,,,
+ACAP28,ACAP,NOT_JOINED,Acadia Housing 2-25,GBA from OSIS,009-25,,380,,,,,,,,,,,,
+ACAP29,ACAP,NOT_JOINED,Acadia Housing 2-26,GBA from OSIS,009-26,,396,,,,,,,,,,,,
+ACAP19,ACAP,NOT_JOINED,Acadia Housing 2-16,GBA from OSIS,009-16,,396,,,,,,,,,,,,
+ACAP01,ACAP,NOT_JOINED,Presidents Row 1,GBA from OSIS,014-1,,595,,,Presidents Row,Presidents Row,Acadia Park Residence,Presidents Row,,,5501 Presidents Row,Vancouver,BC,V6T 1L5
+ACAP02,ACAP,NOT_JOINED,Presidents Row 2,GBA from OSIS,014-2,,595,,,,,,,,,,,,
+ACAP03,ACAP,NOT_JOINED,Presidents Row 3,GBA from OSIS,014-3,,595,,,,,,,,,,,,
+ACAP34,ACAP,NOT_JOINED,Acadia Housing 3-5,GBA from OSIS,010-05,,1785,,,,,,,,,,,,
+ACAP30,ACAP,NOT_JOINED,Acadia Housing 3-1,GBA from OSIS,010-01,,432,,,,,,,,,,,,
+ACAP31,ACAP,NOT_JOINED,Acadia Housing 3-2,GBA from OSIS,010-02,,388,,,,,,,,,,,,
+ACAP32,ACAP,NOT_JOINED,Acadia Housing 3-3,GBA from OSIS,010-03,,432,,,,,,,,,,,,
+ACAP33,ACAP,NOT_JOINED,Acadia Housing 3-4,GBA from OSIS,010-04,,403,,,,,,,,,,,,
+ACAP35,ACAP,NOT_JOINED,Acadia Housing 3-6,GBA from OSIS,010-06,,1222,,,,,,,,,,,,
+ACAP36,ACAP,NOT_JOINED,Acadia Housing 3-7,GBA from OSIS,010-07,,1233,,,,,,,,,,,,
+ACAP37,ACAP,NOT_JOINED,Acadia Housing 3-8,GBA from OSIS,010-08,,1125,,,,,,,,,,,,
+ACAP13,ACAP,NOT_JOINED,Acadia Housing 2-10,GBA from OSIS,009-10,,654,,,,,,,,,,,,
+ACAP14,ACAP,NOT_JOINED,Acadia Housing 2-11,GBA from OSIS,009-11,,546,,,,,,,,,,,,
 STMD01,STMD,AD-523,St. Mark's Duplex 5,Remove 'duplex' from the short names,827-5,,,,,,,,,,,,,,
-ACAP13,ACAP,NOT_JOINED,Acadia Housing 2-10,GBA from OSIS,,,654,,,,,,,,,,,,
-ACAP16,ACAP,NOT_JOINED,Acadia Housing 2-13,GBA from OSIS,,,1515,,,,,,,,,,,,
-ACAP39,ACAP,NOT_JOINED,Acadia Housing 3-10,GBA from OSIS,,,440,,,,,,,,,,,,
-ACAP07,ACAP,NOT_JOINED,Acadia Housing 2-4,GBA from OSIS,,,679,,,,,,,,,,,,
-ACAP01,ACAP,NOT_JOINED,Presidents Row 1,GBA from OSIS,,,595,,,Presidents Row,Presidents Row,Acadia Park Residence,Presidents Row,,,5501 Presidents Row,Vancouver,BC,V6T 1L5
-ACAP21,ACAP,NOT_JOINED,Acadia Housing 2-18,GBA from OSIS,,,383,,,,,,,,,,,,
-ACAP02,ACAP,NOT_JOINED,Presidents Row 2,GBA from OSIS,,,595,,,,,,,,,,,,
-ACAP05,ACAP,NOT_JOINED,Acadia Housing 2-2,GBA from OSIS,,,380,,,,,,,,,,,,
-ACAP37,ACAP,NOT_JOINED,Acadia Housing 3-8,GBA from OSIS,,,1125,,,,,,,,,,,,
-ACAP23,ACAP,NOT_JOINED,Acadia Housing 2-20,GBA from OSIS,,,294,,,,,,,,,,,,
-ACAP38,ACAP,NOT_JOINED,Acadia Housing 3-9,GBA from OSIS,,,1090,,,,,,,,,,,,
-ACAP19,ACAP,NOT_JOINED,Acadia Housing 2-16,GBA from OSIS,,,396,,,,,,,,,,,,
-ACAP20,ACAP,NOT_JOINED,Acadia Housing 2-17,GBA from OSIS,,,881,,,,,,,,,,,,
-ACAP32,ACAP,NOT_JOINED,Acadia Housing 3-3,GBA from OSIS,,,432,,,,,,,,,,,,
-ACAP31,ACAP,NOT_JOINED,Acadia Housing 3-2,GBA from OSIS,,,388,,,,,,,,,,,,
-ACAP26,ACAP,NOT_JOINED,Acadia Housing 2-23,GBA from OSIS,,,411,,,,,,,,,,,,
-ACAP14,ACAP,NOT_JOINED,Acadia Housing 2-11,GBA from OSIS,,,546,,,,,,,,,,,,
-ACAP34,ACAP,NOT_JOINED,Acadia Housing 3-5,GBA from OSIS,,,1785,,,,,,,,,,,,
-ACAP33,ACAP,NOT_JOINED,Acadia Housing 3-4,GBA from OSIS,,,403,,,,,,,,,,,,
-ACAP08,ACAP,NOT_JOINED,Acadia Housing 2-5,GBA from OSIS,,,401,,,Acadia Park Townhouses,Acadia Park Townhouses,Acadia Park Residence,Acadia Park Townhouses,,,5508 Yalta Place,Vancouver,BC,V6T 2C2
-ACAP12,ACAP,NOT_JOINED,Acadia Housing 2-9,GBA from OSIS,,,411,,,,,,,,,,,,
-ACAP17,ACAP,NOT_JOINED,Acadia Housing 2-14,GBA from OSIS,,,925,,,,,,,,,,,,
-ACAP30,ACAP,NOT_JOINED,Acadia Housing 3-1,GBA from OSIS,,,432,,,,,,,,,,,,
-ACAP29,ACAP,NOT_JOINED,Acadia Housing 2-26,GBA from OSIS,,,396,,,,,,,,,,,,
-ACAP24,ACAP,NOT_JOINED,Acadia Housing 2-21,GBA from OSIS,,,380,,,,,,,,,,,,
+ACAP22,ACAP,NOT_JOINED,Acadia Housing 2-19,GBA from OSIS,009-19,,1451,,,,,,,,,,,,
+ACAP21,ACAP,NOT_JOINED,Acadia Housing 2-18,GBA from OSIS,009-18,,383,,,,,,,,,,,,
+ACAP12,ACAP,NOT_JOINED,Acadia Housing 2-9,GBA from OSIS,009-09,,411,,,,,,,,,,,,
+ACAP04,ACAP,NOT_JOINED,Acadia Housing 2-1,GBA from OSIS,009-01,,647,,,,,,,,,,,,
+ACAP05,ACAP,NOT_JOINED,Acadia Housing 2-2,GBA from OSIS,009-02,,380,,,,,,,,,,,,
+ACAP06,ACAP,NOT_JOINED,Acadia Housing 2-3,GBA from OSIS,009-03,,201,,,,,,,,,,,,
+ACAP07,ACAP,NOT_JOINED,Acadia Housing 2-4,GBA from OSIS,009-04,,679,,,,,,,,,,,,
+ACAP08,ACAP,NOT_JOINED,Acadia Housing 2-5,GBA from OSIS,009-05,,401,,,Acadia Park Townhouses,Acadia Park Townhouses,Acadia Park Residence,Acadia Park Townhouses,,,5508 Yalta Place,Vancouver,BC,V6T 2C2
+ACAP09,ACAP,NOT_JOINED,Acadia Housing 2-6,GBA from OSIS,009-06,,380,,,,,,,,,,,,
+ACAP10,ACAP,NOT_JOINED,Acadia Housing 2-7,GBA from OSIS,009-07,,647,,,,,,,,,,,,
+ACAP11,ACAP,NOT_JOINED,Acadia Housing 2-8,GBA from OSIS,009-08,,841,,,,,,,,,,,,
 TOTM10,TOTM,AD-223,Totem - c'?sna??m House,GBA from OSIS,565;540-2;540-3;566;567;540-1;541,RES,9019,,,,,,,,,,,,
 CCSB01,CCSB,AD-146,Child Care Services,,206,,767,,,Auklet Child Care,Auklet,Child Care Services,Auklet,CCS2,,5615 Osoyoos Crescent,Vancouver,BC,V6T 1S1
 CCSB15,CCSB,AD-146,CCS 3,,207,,434,,,Acadia Child Care,Acadia,Child Care Services,Acadia,CCS3,,2865 Revelstoke Court,Vancouver,BC,V6T 1S1
 GRAT01,GRAT,AD-48,Granite Terrace,,687,,15336,,REAP Gold,Save-On-Foods ,Save-On-Foods ,Granite Terrace,Save-On-Foods ,,,5945 Berton Avenue,Vancouver,BC,V6S 0B3
 GRAT02,GRAT,AD-335,Wesbrook Village,,686,,566,,REAP Gold,RBC/UNA,RBC/UNA,Granite Terrace,,,,5923 Berton Avenue,Vancouver,BC,V6S 0B3
+ACAP15,ACAP,NOT_JOINED,Acadia Housing 2-12,GBA from OSIS,009-12,,1516,,,,,,,,,,,,
+ACAP20,ACAP,NOT_JOINED,Acadia Housing 2-17,GBA from OSIS,009-17,,881,,,,,,,,,,,,
+ACAP23,ACAP,NOT_JOINED,Acadia Housing 2-20,GBA from OSIS,009-20,,294,,,,,,,,,,,,
+ACAP24,ACAP,NOT_JOINED,Acadia Housing 2-21,GBA from OSIS,009-21,,380,,,,,,,,,,,,
+ACAP25,ACAP,NOT_JOINED,Acadia Housing 2-22,GBA from OSIS,009-22,,396,,,,,,,,,,,,
+ACAP26,ACAP,NOT_JOINED,Acadia Housing 2-23,GBA from OSIS,009-23,,411,,,,,,,,,,,,
+ACAP16,ACAP,NOT_JOINED,Acadia Housing 2-13,GBA from OSIS,009-13,,1515,,,,,,,,,,,,
+ACAP27,ACAP,NOT_JOINED,Acadia Housing 2-24,GBA from OSIS,009-24,,396,,,,,,,,,,,,
+ACAP17,ACAP,NOT_JOINED,Acadia Housing 2-14,GBA from OSIS,009-14,,925,,,,,,,,,,,,
+ACAP18,ACAP,NOT_JOINED,Acadia Housing 2-15,GBA from OSIS,009-15,,1070,,,,,,,,,,,,
 FARM05,FARM,AD-112,Farm - Botany Greenhouse 2,,071-2,,143,,,Botany Greenhouse 2,Greenhouse 2,UBC Farm,,,,3461 Ross Drive,Vancouver,BC,V6T 1W5
 FARM04,FARM,AD-112,Farm - Botany Greenhouse 1,,071-1,,104,,,Botany Greenhouse 1,Greenhouse 1,UBC Farm,,,,3461 Ross Drive,Vancouver,BC,V6T 1W5
 VANR11,VANR,AD-19,Vanier - Kootenay House,,548,,2122,,,Kootenay House,Kootenay,Place Vanier Residence  ,Kootenay,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
@@ -251,6 +249,8 @@ THUR07,THUR,AD-70,Thunderbird Res B3,,782-1,,1098,,,Thunderbird B3,B3,Thunderbir
 MARN01,MARN,AD-172,Marine - Simon Lee,,377-1,,12338,,,Simon K.Y. Lee HKU-UBC House,Simon K.Y. Lee HKU-UBC,Marine Drive Residence ,1,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
 MARN03,MARN,AD-172,Marine - Commons Block,,377-3,,1526,,,Marine Drive Commonsblock,Commonsblock,Marine Drive Residence ,3,,,2205 Lower Mall,Vancouver,BC,V6T 1Z4
 PONN06,PONN,AD-87,Ponderosa Commons - Oak House,,905,,26516,,LEED Gold,Oak House,Oak,Ponderosa Commons,Oak,,,6445 University Boulevard,Vancouver,BC,V6T 1Z2
+ACAP38,ACAP,NOT_JOINED,Acadia Housing 3-9,GBA from OSIS,010-09,,1090,,,,,,,,,,,,
+ACAP39,ACAP,NOT_JOINED,Acadia Housing 3-10,GBA from OSIS,010-10,,440,,,,,,,,,,,,
 COST04,COST,AD-280,Coast Duplex 2,Updated Footprint,831-2,,,,REAP Bronze,,,,,,,,,,
 FNLH01,FNLH,AD-165,Xwi7xwa Library,Library GBA 238 m,337,,238,Label,,Xwi7xwa Library,Xwi7xwa Library,First Nations Longhouse,Xwi7xwa Library,,,1985 West Mall,Vancouver,BC,V6T 1Z2
 TENN01,TENN,AD-184,UBC Tennis Centre,,432;433,,10661,,,,,Tennis Centre,,,,6160 Thunderbird Boulevard,Vancouver,BC,V6T 1Z3
