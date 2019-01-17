@@ -9,8 +9,8 @@ more in the near future.
 Datasets
 --------
 ### ubcv_buildings
-* Campus buildings. A 'building' here follows from classroom codes. Buchannan
-   (BUCH) is one code and one building.
+* Campus buildings. A 'building' here follows from classroom codes in most cases. Buchannan
+   (BUCH) is one code and one building. 
 ### ubcv_subbuildings
 * Campus building sections. Campus building can have wings and other sections.
    Buchannan has A, B, C, D, E sections. Additions and penthouses are
