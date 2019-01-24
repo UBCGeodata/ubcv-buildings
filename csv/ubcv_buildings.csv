@@ -10,7 +10,7 @@ STJA,AD-10,Hampton,new GBA taken from spreadsheet,503,HSGN,,12386,0,,,St. James,
 STIR,AD-75,Chancellor,new GBA taken from spreadsheet,818,HSGN,,4783,0,,REAP Bronze,Stirling House,Stirling House,,,,6080 Iona Drive,Vancouver,BC,V6T 0A4
 IONA,AD-281,Chancellor,,836,ARTS,,8639,0,,,Iona Building,Iona Building,,,,6000 Iona Drive,Vancouver,BC,V6T 1L4
 BRDF,AD-94,UBC,,019,ADMIN,,2200,0,,LEED Gold,Bioenergy Research and Demonstration Facility (BRDF),Bioenergy Research,,<Null>,BRDF,2337 Lower Mall,Vancouver,BC,V6T 1Z4
-PNCE,AD-303,UBC,,903,ARTS/RES,,10177,1,,LEED Gold,,,,,,,,,
+PNCE,AD-303,UBC,,903,ARTS/RES,,10177,1,,LEED Gold,Ponderosa Commons East,Audain Art Centre,Spruce House,,,6398 University Boulevard,Vancouver,BC,V6T 1Z4
 PGRA,AD-69,UBC,,771,RES,,7184,0,,,Point Grey Apartments ,Point Grey Apartments ,Osoyoos Housing,,,2875 Osoyoos Crescent,Vancouver,BC,V6T 2G3
 BTF,AD-308,UBC,,862,REC,,1224,0,,,UBC Baseball Indoor Training Centre,Baseball Training Centre,,,,3085 Wesbrook Mall,Vancouver,BC,V6T 1Z4
 PNCW,AD-84,UBC,,904,RES,,17402,1,,LEED Gold,Ponderosa Commons West,Ponderosa Commons,Maple/Arbutus House,<Null>,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
@@ -100,7 +100,7 @@ MATX,AD-212,UBC,,519,SCIE,,1481,0,,,Mathematics Annex,Math Annex,,,,1986 Mathema
 KAIS,AD-160,UBC,,313,APSC,,11798,0,,,Fred Kaiser Building,Fred Kaiser,Faculty of Applied Science,<Null>,,2332 Main Mall,Vancouver,BC,V6T 1Z4
 WCOM,AD-57,Wesbrook,,697,ADMIN,,3111,0,,LEED Gold,Wesbrook Community Centre,Wesbrook Community Centre,,,,3335 Webber Lane,Vancouver,BC,V6S 0H3
 PONG,AD-300,UBC,,873,ARTS,,597,,,,Ponderosa Office Annex G,G,Ponderosa Annexes,G,,2044 Lower Mall,Vancouver,BC,V6T 1Z2
-PONE,AD-298,UBC,,871-2,ARTS,,1004,,,,Ponderosa Commons East,Audain Art Centre,Spruce House,,,6398 University Boulevard,Vancouver,BC,V6T 1Z4
+PONE,AD-298,UBC,,871-2,ARTS,,1004,,,,Ponderosa Office Annex E,E,Ponderosa Annexes,E,,2034 Lower Mall,Vancouver,BC,V6T 1Z2
 PONF,AD-299,UBC,,871-3,ARTS,,826,,,,Ponderosa Office Annex F,F,Ponderosa Annexes,F,,2008 Lower Mall,Vancouver,BC,V6T 1Z2
 PINE,AD-311,Wesbrook,,715,HSGN,,6392,,,LEED Gold,Pine House,Pine House,Wesbrook Lot 27,,,3588 Ross Drive,Vancouver,BC,
 CYPR,AD-312,Wesbrook,,714,HSGN,,7997,,,LEED Gold,Cypress House,Cypress House,Wesbrook Lot 29,,,5988 Gray Avenue,Vancouver,BC,
@@ -233,7 +233,7 @@ ESSE,AD-73,Chancellor,new GBA taken from spreadsheet,808,HSGN,,2565,0,,,Esse,Ess
 PEMB,AD-17,Hampton,new GBA taken from spreadsheet,509,HSGN,,5733,0,,,The Pemberley,The Pemberley,Hampton Place Lot 10 ,,,5605 Hampton Place,Vancouver,BC,V6T 2H2
 REFL,AD-41,Hawthorn,new GBA taken from spreadsheet,623,HSGN,,8257,0,,,Reflections,Reflections,,,,6279 Eagles Drive,Vancouver,BC,V6T 2K7
 PONB,AD-294,UBC,,865-2,ARTS,,975,,,,Ponderosa Office Annex B,B,Ponderosa Annexes,B,,2029 West Mall,Vancouver,BC,V6T 1Z2
-PONC,AD-294,UBC,,865-3,ARTS,,587,,,,,,,,,,,,
+PONC,AD-294,UBC,,865-3,ARTS,,587,,,,Ponderosa Office Annex C,C,Ponderosa Annexes,C,,2021 West Mall,Vancouver,BC,V6T 1Z2
 BRKX,AD-121,UBC,,113,ARTS,,2100,,Label,,Brock Hall Annex,Brock Hall Annex,Brock Hall,Annex,,1874 East Mall,Vancouver,BC,V6T 1Z1
 VSQU,AD-51,Wesbrook,new GBA taken from spreadsheet,691,HSGN,,10279,0,,REAP Gold,Village Square,Village Square,Wesbrook Lot E,,,3338 Webber Lane,Vancouver,BC,
 PSAB,AD-286,UBC,,852,ADMIN,,2935,1,,,Public Safety Building,Public Safety Building,Police and Fire Department,<Null>,RCMP,2992 Wesbrook Mall,Vancouver,BC,V6T 2B7
