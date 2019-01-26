@@ -125,8 +125,6 @@ ACAP17,ACAP,NOT_JOINED,Acadia Housing 2-14,GBA from OSIS,,009-14,,925,Townhouses
 ACAP30,ACAP,NOT_JOINED,Acadia Housing 3-1,GBA from OSIS,,010-01,,432,Townhouses,,,,,,,,,,,
 ACAP29,ACAP,NOT_JOINED,Acadia Housing 2-26,GBA from OSIS,,009-26,,396,Townhouses,,,,,,,,,,,
 ACAP24,ACAP,NOT_JOINED,Acadia Housing 2-21,GBA from OSIS,,009-21,,380,Townhouses,,,,,,,,,,,
-AUDX01,AUDX,AD-105,Auditorium Annex,,AUDX,863-2,,692,Section,,Auditorium Annex B,B,Auditorium Annexes,B,,,1924 West Mall,Vancouver,BC,V6T 1Z2
-AUDX02,AUDX,AD-105,Auditorium Annexes,,AUDX,045,,1739,Section,,Auditorium Annex A,A,Auditorium Annexes,A,,,1924 West Mall,Vancouver,BC,V6T 1Z2
 BEBC01,BEBC,AD-161,Beaty Musuem,Museum GBA 349 m,,314,,349,Section,,Beaty Biodiversity Musuem,Beaty Biodiversity Musuem,Beaty,Beaty Biodiversity Musuem,,,2212 Main Mall,Vancouver,BC,V6T 1Z4
 BEBC02,BEBC,AD-161,Beaty Research Centre,Research Centre GBA 11712 m,,314,,11712,Section,,,,,,,,,,,
 BIOL02,BIOL,AD-111,Bio Sciences - North,,BIOL,066,,5424,Section,,BioSciences North Wing,North,BioSciences,North,,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
@@ -265,3 +263,5 @@ TENN01,TENN,AD-184,Tennis Centre,,,432;433,,10661,Section,,,,Tennis Centre,,,,61
 ENSF06,ENSF,AD-127,Solvent Recovery Lab,,,138,,39,Section,,Solvent Recovery Lab,Solvent Recovery Lab,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
 ENSF07,ENSF,AD-127,Solvent Storage Area,,,141,,104,Section,,Solvent Storage Area,Solvent Storage Area,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
 STMD03,STMD,AD-519,St. Mark's Duplex 7,,,827-7,,,Townhouses,,,,,,,,,,,
+AUDX01,AUDX,AD-105,Auditorium Annex B,,AUDX,863-2,,692,Section,,Auditorium Annex B,B,Auditorium Annexes,B,,,1924 West Mall,Vancouver,BC,V6T 1Z2
+AUDX02,AUDX,AD-105,Auditorium Annex A,,AUDX,045,,1739,Section,,Auditorium Annex A,A,Auditorium Annexes,A,,,1924 West Mall,Vancouver,BC,V6T 1Z2

@@ -168,7 +168,6 @@ FOLI,AD-77,Chancellor,new GBA taken from spreadsheet,826;825,HSGN,,6200,1,,,Foli
 WSBT,AD-32,Wesbrook,new GBA taken from spreadsheet,594,HSGN,,12858,1,,REAP Silver,The Wesbrook,The Wesbrook,Wesbrook Lot 1,,,5838 Berton Avenue,Vancouver,BC,V6S 0A5
 UCLL,AD-166,UBC,,344;345;344-1,ADMIN,,3978,0,,,Leon and Thea Koerner University Centre,University Centre,,<Null>,<Null>,6331 Crescent Road,Vancouver,BC,V6T 1Z2
 FARM,AD-112,UBC,,670;389;071-2;071-1;387;075,LFS,,774,1,,,UBC Farm Centre,UBC Farm Centre,,,,3461 Ross Drive,Vancouver,BC,V6T 1W5
-BOTG,AD-120,UBC,,094;091;097;076;082;100;098;099,SCIE,,1645,1,,,Admission and Shop in the Garden ,Botanical Garden,Gate House,<Null>,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
 ACDY,AD-33,Wesbrook,new GBA taken from spreadsheet,596,HSGN,,14159,1,,,Academy,Academy,,,,5728 Berton Avenue,Vancouver,BC,V6S 0E5
 MSUB,AD-270,UBC,,789-1;789,ADMIN,,345,0,,,Main Substation,Substation,,,,2446 Health Sciences Mall,Vancouver,BC,V6T 1Z3
 SAGE,AD-276,Wesbrook,new GBA taken from spreadsheet,595,HSGN,,12857,1,,REAP Silver,Sage,Sage,,,,5782 Berton Avenue,Vancouver,BC,V6S 0C1
@@ -272,3 +271,4 @@ PUDP,AD-196,UBC,,462,MEDI,,16266,0,,,Purdy Pavilion,Purdy,,Purdy Pavilion,,2221 
 SRC,AD-268,UBC,,774,REC,,4963,0,,,Student Recreation Centre (SRC),SRC,,<Null>,REC,6000 Student Union Boulevard,Vancouver,BC,V6T 1Z1
 SORO,AD-88,UBC,,918,RES,,3058,0,,,Panhellenic House,Panhellenic House,Sorority House,<Null>,,2770 Wesbrook Mall,Vancouver,BC,V6T 2B7
 STMK,AD-78,Chancellor,new GBA taken from spreadsheet,828;829,OTHER,,1487,0,,,St. Mark's College,St Mark's College,,,,5935 Iona Drive,Vancouver,BC,V6T 1J7
+BOTG,AD-120,UBC,,094;091;097;076;082;100;098;099,SCIE,,1645,1,,,UBC Botanical Garden,Botanical Garden,Admission and Shop in the Garden ,UBC Botanical Garden and Centre for Plant Research,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4

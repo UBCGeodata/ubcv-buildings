@@ -8042,92 +8042,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.25674606167175, 49.266308592706835 ],
-						[ -123.25657030003464, 49.26637048520251 ],
-						[ -123.25671329955273, 49.26654439674258 ],
-						[ -123.25688906300155, 49.266482504027486 ],
-						[ -123.25674606167175, 49.266308592706835 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "AUDX01",
-				"BLDG_ID" : "AUDX",
-				"ADD_ID" : "AD-105",
-				"NAME" : "Auditorium Annex",
-				"CLASS_CODE" : "AUDX",
-				"NOTES" : null,
-				"REC_IDS" : "863-2",
-				"BLDG_USE" : null,
-				"GBA" : 692,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "Auditorium Annex B",
-				"PLACENAME2" : "B",
-				"PLACENAME3" : "Auditorium Annexes",
-				"PLACENAME4" : "B",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "1924 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205102"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25665677011271, 49.26664035012285 ],
-						[ -123.25646497870217, 49.26640710106636 ],
-						[ -123.25628470372232, 49.26647058270348 ],
-						[ -123.25657523117782, 49.2668239121102 ],
-						[ -123.25692937644186, 49.266699204404574 ],
-						[ -123.25683063918723, 49.266579124653056 ],
-						[ -123.25665677011271, 49.26664035012285 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "AUDX02",
-				"BLDG_ID" : "AUDX",
-				"ADD_ID" : "AD-105",
-				"NAME" : "Auditorium Annexes",
-				"CLASS_CODE" : "AUDX",
-				"NOTES" : null,
-				"REC_IDS" : "045",
-				"BLDG_USE" : null,
-				"GBA" : 1739,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "Auditorium Annex A",
-				"PLACENAME2" : "A",
-				"PLACENAME3" : "Auditorium Annexes",
-				"PLACENAME4" : "A",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "1924 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205131"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.25074250214847, 49.26308657276726 ],
 						[ -123.25105748008534, 49.26347065018665 ],
 						[ -123.25119864185466, 49.26342094703648 ],
@@ -18063,6 +17977,92 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20190116210311"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25674606167175, 49.266308592706835 ],
+						[ -123.25657030003464, 49.26637048520251 ],
+						[ -123.25671329955273, 49.26654439674258 ],
+						[ -123.25688906300155, 49.266482504027486 ],
+						[ -123.25674606167175, 49.266308592706835 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "AUDX01",
+				"BLDG_ID" : "AUDX",
+				"ADD_ID" : "AD-105",
+				"NAME" : "Auditorium Annex B",
+				"CLASS_CODE" : "AUDX",
+				"NOTES" : null,
+				"REC_IDS" : "863-2",
+				"BLDG_USE" : null,
+				"GBA" : 692,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Auditorium Annex B",
+				"PLACENAME2" : "B",
+				"PLACENAME3" : "Auditorium Annexes",
+				"PLACENAME4" : "B",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "1924 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190125225735"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25665677011271, 49.26664035012285 ],
+						[ -123.25646497870217, 49.26640710106636 ],
+						[ -123.25628470372232, 49.26647058270348 ],
+						[ -123.25657523117782, 49.2668239121102 ],
+						[ -123.25692937644186, 49.266699204404574 ],
+						[ -123.25683063918723, 49.266579124653056 ],
+						[ -123.25665677011271, 49.26664035012285 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "AUDX02",
+				"BLDG_ID" : "AUDX",
+				"ADD_ID" : "AD-105",
+				"NAME" : "Auditorium Annex A",
+				"CLASS_CODE" : "AUDX",
+				"NOTES" : null,
+				"REC_IDS" : "045",
+				"BLDG_USE" : null,
+				"GBA" : 1739,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Auditorium Annex A",
+				"PLACENAME2" : "A",
+				"PLACENAME3" : "Auditorium Annexes",
+				"PLACENAME4" : "A",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "1924 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190125225731"
 			}
 		}
 	]
