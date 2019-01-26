@@ -1,0 +1,21 @@
+Fieldname,Description
+BLDG_ID,"Building ID, primary key in the campus_buildings dataset"
+SUBBLD_ID,"Sub-building ID, primary key in the campus_subbuildings dataset"
+PLACENAME,Full name of building
+PLACENAME2,Short name of building
+PLACENAME3,Building alias 1
+PLACENAME4,Building alias 2
+ABBREVIATEDPLACENAME,Building abbreviation if different from class code
+CLASS_CODE,Classroom code
+FULLADDRESS,Full street address
+MUNINAME,Municipality
+PROVINCE,Two letters province code
+POSTALCODE,Postal Code like: V6T 1Z3
+NEIGHBOURHOOD,"UBC Neighbourhood: UBC, Chancellor, etc. These are in the ubcv-context dataset"
+REC_IDS,"Semicolon separated list of all REC_IDs for all wings, additions, sub-buildings etc that make up this building footprint"
+BLDG_USE,Deparmental use
+GBA,Building area in m2 (Sourced from CP&D in this dataset)
+HAS_SUBBLDGS,Yes if this building has sub-buildings
+BLDG_TYPE,Placeholder
+GREEN_STATUS,"Green certification status, ie LEED Gold"
+NOTES,Other information about this building

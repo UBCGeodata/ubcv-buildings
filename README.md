@@ -4,22 +4,22 @@ ubcv-buildings
 Buildings at UBC Vancouver. Data are current, updates ongoing by C+CP.
 The building data model and numbering are have changed significantly since the
 last update. The data model is still undergoing review and may change
-more in the near future.
+more in the near future. Addresses and building data as POI point data can be found in the ubcv-locations dataset.
+
+Field descriptions can be found in the metadata directory.
 
 Datasets
 --------
 ### ubcv_buildings
-* Campus buildings. A 'building' here follows from classroom codes in most cases. Buchannan
-   (BUCH) is one code and one building. 
+* Campus buildings. A 'building' here follows from classroom codes in most cases. Buchannan (BUCH) is one code and one building.
 ### ubcv_subbuildings
-* Campus building sections. Campus building can have wings and other sections.
+* Campus building sections. Campus buildings can have wings and other sections.
    Buchannan has A, B, C, D, E sections. Additions and penthouses are
-   not considered separate sections.
+   not considered separate sections and not included here.
 ### ubcv_buildings_uc
 * Buildings that are currently under construction.
 ### ubcv_building_records
-* Projects are assigned ids. A building may have many additions done as
-   different projects, each with a different set of records.
+* Each project generated a distinct set of records. A building may have many additions done as different projects, each with a different set of records. Many UBC operations datasets consider each addition a separate building. The primary key REC_ID should join 1:1 with such datasets.
 
 Files Provided
 --------------

@@ -1,0 +1,14 @@
+Fieldname,Description
+REC_ID,"Recordset ID of this building, addition, etc. Primary key"
+NAME,Common or short name of building
+LONGNAME,"Long, official name of building"
+BLDG_ID,Foreign key to Building ID found in campus_buildings
+ADD_ID,Address ID (ubcv-locations dataset)
+CLASS_CODE,Classroom code
+STATUS,"Complete, Under Construction, etc."
+NOTES,Building notes
+DATE_BUILT,"Date built, YYYYMMDD, often effective year built"
+COUNT_FLOORS,Number of floors
+CONSTRUCTION_TYPE,"Type of construction, Concrete, Wood, etc."
+GBA,"Building area in m2, this number from Infrastructure Development"
+GBA_ESTIMATE,GBA estimate if no accurate value known
