@@ -18,10 +18,10 @@ SUBBLDG_ID,BLDG_ID,ADD_ID,NAME,NOTES,CLASS_CODE,REC_IDS,BLDG_USE,GBA,BLDG_TYPE,G
 ,TRMF,AD-283,TRIUMF,,,843-2,,,Section,,,,,,,,,,,
 ,TRMF,AD-283,TRIUMF,,,842-5,,,Section,,,,,,,,,,,
 MUSM03,MUSM,AD-1036,Museum of Anthropology,,MUSM,570;570-1;436;440,ARTS,11469,Section,,,,,,,,,,,
-PNCW04,PNCW,AD-129,Ponderosa Commons - Arbutus House,,,904,,17402,Highrise,LEED Gold,Maple House,Maple,Ponderosa Commons,Maple,,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
 MUSM02,HAID,AD-1036,Mortuary House,,,440,,36,Section,,,,,,,,,,,
 MUSM01,HAID,AD-1036,Haida House,,,436,,143,Section,,,,,,,,,,,
-PNCW03,PNCW,AD-129,Ponderosa Commons - Maple House,,,904,,17402,Lowrise,LEED Gold,Arbutus House,Arbutus,Ponderosa Commons,Arbutus,,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
+AUDX02,AUDX,AD-105,Auditorium Annex A,,AUDX,045,,1739,Section,,Auditorium Annex A,A,Auditorium Annexes,A,,,1924 West Mall,Vancouver,BC,V6T 1Z2
+AUDX01,AUDX,AD-105,Auditorium Annex B,,AUDX,863-2,,692,Section,,Auditorium Annex B,B,Auditorium Annexes,B,,,1924 West Mall,Vancouver,BC,V6T 1Z2
 GAGE01,GAGE,AD-297,Gage - Apartments,,,874,,8046,Lowrise,,Walter Gage Apartments,Apartments,Walter Gage Residence,Apartments,,,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
 GAGE03,GAGE,AD-297,Gage - Residence,,,869-1,,5155,Lowrise,,Walter Gage Commonsblock,Commonsblock,Walter Gage Residence,Commonsblock,,,5959 Student Union Boulevard,Vancouver,BC,V6T 1K2
 GAGE06,GAGE,AD-1013,Gage - West Coast Suites,,,872-2,,3597,Lowrise,,Walter Gage Court,Court,Walter Gage Residence,,,,5961 Student Union Boulevard,Vancouver,BC,V6T 1K2
@@ -32,7 +32,6 @@ GRNC04,GRNC,AD-5,Green College C,,,419,,302,Lowrise,,Green College Principal's R
 GRNC05,GRNC,AD-5,Green College D,,GRHS,412,,1577,Lowrise,,Green College Building D,D,Green College,D,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
 GRNC09,GRNC,AD-5,Green College D - Graham,,GRHS,412,,1577,Lowrise,,Green College Graham House,Graham,Green College,D,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
 GRNC06,GRNC,AD-5,Green College E,,,417,,237,Lowrise,,Green College Building E,E,Green College,E,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
-RESA01,RESA,AD-100,Header House,,,024-5,,629,Section,,,,,,,,,,,
 ENSF05,ENSF,AD-127,Incinerator,,,470,,104,Section,,Incinerator,Incinerator,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
 KOER02,KOER,AD-209,Koerner Library,,,,,,Section,,,,,,,,,,,
 GRNC02,GRNC,AD-5,Green College A South,,,415,,1273,Lowrise,,Green College South,A - South,Green College,,,,6201 Cecil Green Park Road,Vancouver,BC,V6T 1Z1
@@ -57,8 +56,6 @@ POWR05,POWR,AD-255,Power House- Meter Station,,,725,,32,Section,,Power House - M
 ACAP01,ACAP,NOT_JOINED,Presidents Row 1,GBA from OSIS,,014-1,,595,Townhouses,,Presidents Row,Presidents Row,Acadia Park Residence,Presidents Row,,,5501 Presidents Row,Vancouver,BC,V6T 1L5
 ACAP02,ACAP,NOT_JOINED,Presidents Row 2,GBA from OSIS,,014-2,,595,Townhouses,,,,,,,,,,,
 ACAP03,ACAP,NOT_JOINED,Presidents Row 3,GBA from OSIS,,014-3,,595,Townhouses,,,,,,,,,,,
-BRIM02,BRIM,AD-95,Quantum Matter Institute,,,020-1,,4977,Section,LEED Gold,Quantum Matter Institute,QMI,Brimacombe,QMI,QMI,,2355 East Mall,Vancouver,BC,V6T 1Z4
-RESA02,RESA,AD-100,RSA3,,,024-3,,314,Section,,Landscape Operations Building,Landscape Operations Building,Landscape Operations Building,Landscape Operations Building,,,2333 Lower Mall,Vancouver,BC,V6T 1Z4
 BOTG04,BOTG,AD-120,Botanical Garden Lookout Tower,,,100,,25,Section,,Botanical Garden Ting Lookout,Ting Lookout,Botanical Garden,Ting/Lookout Tower ,,,6804 SW Marine Drive,Vancouver,BC,V6T 1Z4
 BOTG07,BOTG,AD-120,Botanical Garden Alpine Garden,,,082,,33,Section,,Botanical Garden Greenhouse,Greenhouse,Botanical Garden,,,,6380 Stadium Road,Vancouver,BC,V6T 1Z4
 BOTG00,BOTG,AD-120,Botanical Garden Scholar's Retreat,,,076,,109,Section,,Botanical Garden Scholar's Retreat,Scholar's Retreat,Botanical Garden,,,,6380 Stadium Road,Vancouver,BC,V6T 1Z4
@@ -130,7 +127,6 @@ BEBC02,BEBC,AD-161,Beaty Research Centre,Research Centre GBA 11712 m,,314,,11712
 BIOL02,BIOL,AD-111,Bio Sciences - North,,BIOL,066,,5424,Section,,BioSciences North Wing,North,BioSciences,North,,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
 BIOL03,BIOL,AD-111,Bio Sciences - South,RENEW,BIOL,068,,5441,Section,LEED Gold,BioSciences South Wing,South,BioSciences,South,,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
 BIOL01,BIOL,AD-111,Bio Sciences - West,RENEW,BIOL,065,,7846,Section,LEED Gold,BioSciences West Wing,West,BioSciences,West,,,6270 University Boulevard,Vancouver,BC,V6T 1Z4
-BRIM01,BRIM,AD-95,Brimacombe,,BRIM,020,,8678,Section,,Advanced Materials and Process Engineering Laboratory,AMPEL,Brimacombe,AMPEL,,,2355 East Mall,Vancouver,BC,V6T 1Z4
 BRCK02,BRCK,AD-121,Brock Hall East Wing,,BRCK,112-1,ADMIN,11428,Section,,,,Brock Hall  ,,,,1874 East Mall,Vancouver,BC,V6T 1Z1
 BRCK01,BRCK,AD-121,Brock Hall West Wing,,BRCK,112,ADMIN,11428,Section,,,,Brock Hall  ,,,,1874 East Mall,Vancouver,BC,V6T 1Z1
 BUCH01,BUCH,AD-123,Buchanan A,RENEW,BUCH,121-1,,3020,Section,LEED Gold,Buchanan A,A,Buchanan,A,,,1866 Main Mall,Vancouver,BC,V6T 1Z1
@@ -163,19 +159,30 @@ CHEM06,CHEM,AD-125,Chemistry Storage,,,140,,72,Section,,Chemistry Storage,Storag
 TRMF05,TRMF,AD-283,TRIUMF - Isac 2,,,847-1,,5958,Section,,TRIUMF ISAC2,ISAC2,TRIUMF,Isotope Separator Accelerator 2,ISAC2,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 TRMF08,TRMF,AD-283,TRIUMF - Workshop,,,850,,984,Section,,TRIUMF Workshop,Workshop,TRIUMF,,,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 TRMF03,TRMF,AD-283,TRIUMF - Accelerator,,,853,,27015,Section,,TRIUMF Accelerator,Accelerator,TRIUMF,,,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
-PNCE01,PNCE,AD-303,Ponderosa Commons - Audain Art Centre,,AAC,903,,10177,Section,LEED Gold,Audain Art Centre,Audain Art Centre,Ponderosa Commons,Audain Art Centre,,,2118 West Mall,Vancouver,BC,V6T 1Z4
 TRMF06,TRMF,AD-283,TRIUMF - Stores Building,,,843,,723,Section,,TRIUMF Stores,Stores,TRIUMF,,,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 TRMF01,TRMF,AD-283,TRIUMF - Main Office,,,854,,3264,Section,,TRIUMF Main Office,Main Office,TRIUMF,,,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 TRMF07,TRMF,AD-283,TRIUMF - Compressor,,,842,,511,Section,,TRIUMF Compressor,Compressor,TRIUMF,,,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 TRMF02,TRMF,AD-283,TRIUMF - Ariel,,,845,,3638,Section,,TRIUMF Ariel,Ariel,TRIUMF,,,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 TRMF04,TRMF,AD-283,TRIUMF - Isac 1,,,847,,14681,Section,,TRIUMF ISAC1,ISAC1,TRIUMF,Isotope Separator Accelerator 1,ISAC1,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 POWR01,POWR,AD-255,Power House,,,724;725,ADMIN,2448,Section,,,,,,,,,,,
-PNCN06,PNCN,AD-87,Ponderosa Commons - Oak House,,PCOH,905,,26516,Lowrise,LEED Gold,Oak House,Oak,Ponderosa Commons,Oak,,,2075 West Mall,Vancouver,BC,V6T 1Z2
-PNCN05,PNCN,AD-85,Ponderosa Commons - Cedar House,,PCOH,905,,26516,Highrise,LEED Gold,Cedar House,Cedar,Ponderosa Commons,Cedar,,,2075 West Mall,Vancouver,BC,V6T 1Z2
-PNCE02,PNCE,AD-83,Ponderosa Commons - Spruce House,,,903,,10177,Highrise,LEED Gold,Spruce House,Spruce,Ponderosa Commons,Spruce,,,2118 West Mall,Vancouver,BC,V6T 1Z4
 TRMF09,TRMF,AD-283,TRIUMF - Badge,,,854-2,,26,Section,,TRIUMF Badge,Badge,TRIUMF,,,,4004 Wesbrook Mall,Vancouver,BC,V6T 2A3
 SCSB,SCSB,NOT_JOINED,South Campus Substation - Switchin Station 12KV,,,765,,32,Section,,,,,,,,,,,
 ,TRMF,AD-283,TRIUMF,,,854-1,,,Section,,,,,,,,,,,
+TOTM06,TOTM,AD-223,Totem Park 3 - Shuswap,,,565,,9027,Lowrise,,,,,,,,,,,
+TOTM04,TOTM,AD-223,Totem Park 6 - Haida,,,540-2,,8666,Lowrise,,,,,,,,,,,
+TOTM02,TOTM,AD-223,Totem Park 2 - Dene,,,540-3,,9014,Lowrise,,,,,,,,,,,
+TOTM08,TOTM,AD-223,Totem Park 4 - q??l???n House,,,566,,6729,Lowrise,REAP Gold,,,,,,,,,,
+TOTM09,TOTM,AD-223,Totem Park 5 - h?m?l?s?m? House,,,567,,9830,Lowrise,REAP Gold,,,,,,,,,,
+TOTM01,TOTM,AD-223,Totem Park 1 - Commonsblock,,,540-1,,4664,Section,,,,,,,,,,,
+TOTM07,TOTM,AD-223,Totem Park 3 - Kwakiutl,,,565,,9027,Lowrise,,,,,,,,,,,
+TOTM03,TOTM,AD-223,Totem Park 2 - Nootka,,,540-3,,9014,Lowrise,,,,,,,,,,,
+TOTM05,TOTM,AD-223,Totem Park 6 - Salish,,,540-2,,8666,Lowrise,,,,,,,,,,,
+TOTM10,TOTM,AD-223,Totem Park 7 - c??sna??m House,GBA from OSIS,,565;540-2;540-3;566;567;540-1;541,RES,9019,Lowrise,,,,,,,,,,,
+CEME04,CEME,AD-155,Civil and Mechanical Engineering Building,,CEME,306,APSC,8773,Section,,,,,,,,,,,
+TFPB01,TFPB,AD-103,Theatre-Film Production Building,,TFPB,036,<Null>,772,Section,,,,Theatre Film,,,TFPB,6358 University Boulevard,Vancouver,BC,V6T 1Z4
+TFPB02,TFPB,AD-103,Theatre-Film Production Building - Annex,,TFPX,036-1,<Null>,772,Section,,Theatre Film Annex,Annex,Theatre Film,,,TFPB,6358 University Boulevard,Vancouver,BC,V6T 1Z4
+CEME02,CEME,AD-207,Engineering High Head Room Laboratory,,CEME,511,APSC,145,Section,,,,,,,,,,,
+,BRKX,AD-121,Brock Hall Annex,,BRKX,113,ARTS,2100,Section,,,,,,,,,,,
 STMD04,STMD,AD-516,St. Mark's Duplex 8,,,827-8,,,Townhouses,,,,,,,,,,,
 COST02,COST,AD-280,Coast Apartment West,,,832-1,,,Lowrise,REAP Bronze,,,Coast,,,,6093 Iona Drive,Vancouver,BC,V6T 0B2
 STAH04,STAH,AD-275,St. Andrew's Walker House,,,817-2,,,Lowrise,,Walker House - Block B,Walker,St. Andrew's Hall,Walker (B),,,6040 Iona Drive,Vancouver,BC,V6T 2E8
@@ -210,7 +217,6 @@ FRAT08,FRAT,AD-89,Fraternity Village 8,,,928,,,Lowrise,,Fraternity Village 8,8,F
 FNLH01,FNLH,AD-165,Xwi7xwa Library,Library GBA 238 m,FNLH,337,,238,Section,,Xwi7xwa Library,Xwi7xwa Library,First Nations Longhouse,Xwi7xwa Library,,,1985 West Mall,Vancouver,BC,V6T 1Z2
 VANR06,VANR,AD-19,Vanier - Tec De Monterrey,,,902,,4496,Lowrise,,Tec de Monterrey House,Tec de Monterrey,Place Vanier Residence  ,Tec de Monterrey,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
 VANR12,VANR,AD-19,Vanier - Sherwood Lett House,,,560,,2112,Lowrise,,Sherwood Lett House,Sherwood Lett,Place Vanier Residence  ,Sherwood Lett,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
-GRAT02,GRAT,AD-335,Wesbrook Village,,,686,,566,Section,REAP Gold,RBC/UNA,RBC/UNA,Granite Terrace,,,,5923 Berton Avenue,Vancouver,BC,V6S 0B3
 VANR09,VANR,AD-19,Vanier - Robson House,,,556,,2115,Lowrise,,Robson House,Robson,Place Vanier Residence  ,Robson,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
 VANR03,VANR,AD-19,Vanier - Phyllis Ross House,,,896-3,,2142,Lowrise,,Phyllis Ross House,Phyllis Ross,Place Vanier Residence  ,Ross,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
 ENSF01,ENSF,AD-127,Waste Proc/Storage,,,142,,199,Section,,Waste Proc/Storage,Waste Proc/Storage,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
@@ -221,6 +227,14 @@ VANR05,VANR,AD-19,Vanier - Korea House,,,898,,4830,Lowrise,,Korea House,Korea,Pl
 VANR11,VANR,AD-19,Vanier - Kootenay House,,,548,,2122,Lowrise,,Kootenay House,Kootenay,Place Vanier Residence  ,Kootenay,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
 VANR04,VANR,AD-19,Vanier - Dorothy Mawdsley,,,896-1,,2142,Lowrise,,Dorothy Mawdsley House,Dorothy Mawdsley,Place Vanier Residence  ,Mawdsley,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
 VANR13,VANR,AD-19,Vanier - Commonsblock,,,544,,4881,Lowrise,,,,Place Vanier Residence  ,Gordon Shrum Commonsblock,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
+GRAT02,GRAT,AD-335,Granite Terrace - Wesbrook Village,,,686,,566,Section,REAP Gold,RBC/UNA,RBC/UNA,Granite Terrace,,,,5923 Berton Avenue,Vancouver,BC,V6S 0B3
+RESA01,RESA,AD-100,Lower Mall Header House,,,024-5,,629,Section,,,,,,,,,,,
+RESA02,RESA,AD-100,Lower Mall Header House - RSA3,,,024-3,,314,Section,,Landscape Operations Building,Landscape Operations Building,Landscape Operations Building,Landscape Operations Building,,,2333 Lower Mall,Vancouver,BC,V6T 1Z4
+BRIM01,BRIM,AD-95,The Brimacombe Building,,BRIM,020,,8678,Section,,Advanced Materials and Process Engineering Laboratory,AMPEL,Brimacombe,AMPEL,,,2355 East Mall,Vancouver,BC,V6T 1Z4
+PNCW04,PNCW,AD-129,Ponderosa Commons West - Arbutus House,,,904,,17402,Highrise,LEED Gold,Maple House,Maple,Ponderosa Commons,Maple,,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
+PNCN05,PNCN,AD-85,Ponderosa Commons North - Cedar House,,PCOH,905,,26516,Highrise,LEED Gold,Cedar House,Cedar,Ponderosa Commons,Cedar,,,2075 West Mall,Vancouver,BC,V6T 1Z2
+PNCN06,PNCN,AD-87,Ponderosa Commons North - Oak House,,PCOH,905,,26516,Lowrise,LEED Gold,Oak House,Oak,Ponderosa Commons,Oak,,,2075 West Mall,Vancouver,BC,V6T 1Z2
+BRIM02,BRIM,AD-95,The Brimacombe Building - Quantum Matter Institute,,,020-1,,4977,Section,LEED Gold,Quantum Matter Institute,QMI,Brimacombe,QMI,QMI,,2355 East Mall,Vancouver,BC,V6T 1Z4
 TAPS01,TAPS,AD-235,Tapestry North,,,593-1,,,Lowrise,REAP Silver,,,,,,,,,,
 TAPS02,TAPS,AD-235,Tapestry South,,,593-2,,8928,Lowrise,REAP Silver,Tapestry North,North,Tapestry,,,,3382 Wesbrook Mall,Vancouver,BC,V6S 0A7
 UNSB02,UNSB,AD-246,University Services Building,USB non childcare GBA 11367 m,,641,,11367,Section,,,,,,,,,,,
@@ -230,17 +244,12 @@ BOTR05,BOTR,AD-113,Botanical Garden Shadehouse,,,077-2,,502,Section,,Botanical G
 GRAT03,GRAT,AD-47,Granite Terrace - Moveator,,,686,,566,Section,REAP Gold,Moveator,Moveator,Granite Terrace,Moveator,,,5940 Berton Avenue,Vancouver,BC,V6S 0B3
 VANR02,VANR,AD-19,Vanier - Aldyen Hamber House,,,896-4,,2114,Lowrise,,Aldyen Hamber House,Aldyen Hamber,Place Vanier Residence  ,Hamber,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
 TFS01,TFS,AD-252,Totem Field Studios,,TFS,668;668-1,ARTS,1578,Section,,,,,,,,,,,
-TOTM08,TOTM,AD-223,Totem - q'?l?x?n House,,,566,,6729,Lowrise,REAP Gold,,,,,,,,,,
-TOTM09,TOTM,AD-223,Totem - h?m'l?s?m' House,,,567,,9830,Lowrise,REAP Gold,,,,,,,,,,
-TOTM10,TOTM,AD-223,Totem - c'?sna??m House,GBA from OSIS,,565;540-2;540-3;566;567;540-1;541,RES,9019,Lowrise,,,,,,,,,,,
-TOTM06,TOTM,AD-223,Totem - Shuswap,,,565,,9027,Lowrise,,,,,,,,,,,
-TOTM05,TOTM,AD-223,Totem - Salish,,,540-2,,8666,Lowrise,,,,,,,,,,,
-TOTM03,TOTM,AD-223,Totem - Nootka,,,540-3,,9014,Lowrise,,,,,,,,,,,
-TOTM07,TOTM,AD-223,Totem - Kwakiutl,,,565,,9027,Lowrise,,,,,,,,,,,
-TOTM04,TOTM,AD-223,Totem - Haida,,,540-2,,8666,Lowrise,,,,,,,,,,,
+PNCE01,PNCE,AD-303,Ponderosa Commons East - Audain Art Centre,,AAC,903,,10177,Section,LEED Gold,Audain Art Centre,Audain Art Centre,Ponderosa Commons,Audain Art Centre,,,2118 West Mall,Vancouver,BC,V6T 1Z4
+PNCE02,PNCE,AD-83,Ponderosa Commons East - Spruce House,,,903,,10177,Highrise,LEED Gold,Spruce House,Spruce,Ponderosa Commons,Spruce,,,2118 West Mall,Vancouver,BC,V6T 1Z4
+PNCW03,PNCW,AD-129,Ponderosa Commons West - Maple House,,,904,,17402,Lowrise,LEED Gold,Arbutus House,Arbutus,Ponderosa Commons,Arbutus,,,6488 University Boulevard,Vancouver,BC,V6T 1Z4
+CEME01,CEME,AD-156,Civil and Mechanical Engineering Labs,,CEME,307;309,APSC,4719,Section,,,,CEME Labs,,,,2275 East Mall,Vancouver,BC,V6T 1Z4
+CEME03,CEME,AD-154,Earthquake Engineering Research Facility,,CEME,305,APSC,753,Section,,,,,,,,,,,
 VANR07,VANR,AD-19,Vanier - Cariboo House,,,545-1,,2172,Lowrise,,Cariboo House,Cariboo,Place Vanier Residence  ,Cariboo,,,1935 Lower Mall,Vancouver,BC,V6T 1X1
-TOTM02,TOTM,AD-223,Totem - Dene,,,540-3,,9014,Lowrise,,,,,,,,,,,
-TOTM01,TOTM,AD-223,Totem - Commonsblock,,,540-1,,4664,Section,,,,,,,,,,,
 THUR09,THUR,AD-70,Thunderbird Res C1,,,784,,4057,Lowrise,,Thunderbird C1,C1,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
 THUR08,THUR,AD-70,Thunderbird Res B4,,,783-1,,1104,Lowrise,,Thunderbird B4,B4,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
 THUR10,THUR,AD-70,Thunderbird Res C2,,,784-1,,1558,Lowrise,,Thunderbird C2,C2,Thunderbird Residence,,,,6335 Thunderbird Crescent,Vancouver,BC,V6T 2G9
@@ -263,5 +272,3 @@ TENN01,TENN,AD-184,Tennis Centre,,,432;433,,10661,Section,,,,Tennis Centre,,,,61
 ENSF06,ENSF,AD-127,Solvent Recovery Lab,,,138,,39,Section,,Solvent Recovery Lab,Solvent Recovery Lab,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
 ENSF07,ENSF,AD-127,Solvent Storage Area,,,141,,104,Section,,Solvent Storage Area,Solvent Storage Area,Environmental Services Facility,,,,6025 Nurseries Road,Vancouver,BC,V6T 1W5
 STMD03,STMD,AD-519,St. Mark's Duplex 7,,,827-7,,,Townhouses,,,,,,,,,,,
-AUDX01,AUDX,AD-105,Auditorium Annex B,,AUDX,863-2,,692,Section,,Auditorium Annex B,B,Auditorium Annexes,B,,,1924 West Mall,Vancouver,BC,V6T 1Z2
-AUDX02,AUDX,AD-105,Auditorium Annex A,,AUDX,045,,1739,Section,,Auditorium Annex A,A,Auditorium Annexes,A,,,1924 West Mall,Vancouver,BC,V6T 1Z2

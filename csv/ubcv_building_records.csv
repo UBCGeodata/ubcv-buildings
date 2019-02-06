@@ -1,645 +1,651 @@
-REC_ID,BLDG_ID,ADD_ID,NAME,CLASS_CODE,STATUS,BLDG_USE,GRADE,GREEN_STATUS,NOTES,DATE_BUILT,COUNT_FLOORS,CONSTRUCTION_TYPE,GBA,GBA_ESTIMATE
-203,,NOT_JOINED,CCS 4,,Complete,,,,,19890101,1,Wood,318.85,
-202,,NOT_JOINED,CCS 3,,Complete,,,,,19890101,1,Wood,381.66,
-201,,NOT_JOINED,CCS 2,,Complete,,,,,19890101,1,Wood,385.78000000000003,
-200,,NOT_JOINED,CCS 1,,Complete,,,,,19890101,1,Wood,381.66,
-155,CHSC,AD-128,Child Care Admin Building,CHSC,Complete,,,,,19900101,1,Wood,1204.54,
-507,,AD-15,The Regency,,Complete,,,,,19991224,18,Concrete,,13203
-852,,AD-286,Public Safety Building,,Complete,,,,,19820101,3,Concrete,2934.89,2687
-504,,AD-11,The Chatham,,Complete,,,,,19950427,18,Concrete,,12189
-771,,AD-69,Point Grey Apartments ,,Complete,,,,,19930101,5,Concrete,7183.55,
-505,,AD-12,The Bristol,,Complete,,,,,19951109,4,Wood,,14537
-808,,AD-73,Esse,,Complete,,,,,20060101,0,Wood,4300.5,2565
-591,,AD-234,NRC,,Complete,,,,,20060101,3,Concrete,,6598
-838,,AD-282,VST,,Complete,,,,,20040101,0,Concrete,,2553
-626,,AD-42,Promontory,,Complete,,,,,20050101,0,Concrete,,12170
-623,,AD-41,Reflections,,Complete,,,,,20050101,4,Wood,,8257
-617,,AD-38,Gardenia House,,Complete,,,,,20040101,5,Wood,7431.13,
-306,CEME,AD-155,CEME,CEME,Complete,,,,,19760101,4,Concrete,9256.14,
-313,KAIS,AD-160,Fred Kaiser,KAIS,Complete,,,,,20050101,5,Concrete,11797.95,
-553,,AD-21,Fraser Hall,,Complete,,,,,20060101,5,Wood,4105.1,
-619,,AD-39,Journey,,Complete,,,,,20050101,4,Wood,,8531
-618,,AD-418,Hawthorn Green,,Complete,,,,,20040101,0,Wood,,1728
-180,,NOT_JOINED,R Graham Pavilion,,Complete,,,,,20030701,0,(null),27.63,77
-164,DMP,AD-130,Dempster,DMP,Complete,,,,,20040101,4,Concrete,1487.56,
-083,MSB,AD-118,Michael Smith Labs,MSL,Complete,,,,,20040101,5,Concrete,8476.94,
-152,,AD-1,Azalea House,,Complete,,,,,20010101,2,Wood,1312.99,
-153,,AD-2,Cascara House,,Complete,,,,,20010101,2,Wood,5367.55,
-154,,AD-3,Sumac House,,Complete,,,,,20020101,6,Wood,4212.61,
-667,,NOT_JOINED,Plant Science Garage,,Complete,,,,,19640101,1,Wood,317.19,
-529,LSC,AD-219,Life Sciences ,LSC,Complete,,,,,20040101,8,Concrete,52176.65,
-918,,AD-88,Panhellenic House,,Complete,,,,,20030101,5,Wood,3058.2400000000002,
-508,,AD-16,Balmoral,,Complete,,,,,19970708,16,Concrete,,11448
-534,,AD-18,TRIUMF House,,Complete,,,,,20040101,5,Wood,2202.23,
-784,,NOT_JOINED,Thunderbird Res C1,,Complete,,,,,19950101,4,Concrete,4057.08,
-780,,NOT_JOINED,Thunderbird Res A1,,Complete,,,,,19950101,7,Concrete,19996.760000000002,
-415,,NOT_JOINED,Green College A South,,Complete,,,,,19940101,4,Wood,1272.91,
-300,CHBE,AD-152,ChemBio,CHBE,Complete,,,,,20050101,8,Concrete,13181.98,
-785,STAD,AD-269,Thunderbird Stadium,STAD,Complete,,,,,19670101,3,Concrete,3155.54,
-781,,NOT_JOINED,Thunderbird Res A2,,Complete,,,,,19950101,4,Concrete,4112.32,
-666,,NOT_JOINED,Plant Sci Field Station,,Complete,,,,,19910101,1,Wood,74.60000000000001,
-462,,NOT_JOINED,Purdy,,Complete,,,,,19770101,8,Concrete,16266.25,
-199,,AD-136,Strangway,,Complete,,,,,20050101,7,Mixed,12209.39,
-638,,AD-245,SC Warehouse,,Complete,,,,,19470101,1,Wood,2582.9700000000003,
-625,CUNN,AD-241,Cunningham,CUNN,Complete,,,,,19600101,6,Concrete,2726.27,
-774,SRC,AD-268,SRC,SRC,Complete,,,,,19950101,3,Concrete,4963.27,
-824,,AD-322,Chancellor Hall,,Complete,,,,,20070101,5,Concrete,,5989
-823,,NOT_JOINED,Chancellor Hall,,Complete,,,,,20070101,0,Wood,,487
-826,,NOT_JOINED,Folio TH,,Complete,,,,,20060101,4,Wood,,598
-629,,AD-44,Tamarack House,,Complete,,,,,20060101,5,Wood,10562.03,
-627,,AD-43,Old Barn,,Complete,,,,,20070101,3,Wood,1117.68,
-654,,AD-250,Ladha,ALSC,Complete,,,,,20060101,3,Wood,653.1,
-837,,AD-80,Argyll House West,,Complete,,,,,20060101,0,Concrete,,5424
-810,,AD-74,Argyll House East,,Complete,,,,,20060101,0,Concrete,,5403
-621,,AD-40,Clement's Green,,Complete,,,,,20060101,0,Wood,,72941
-807,,AD-72,Carey Centre,,Complete,,,,,20060101,0,Concrete,,4126
-830,,AD-79,Chancellor House,,Complete,,,,,20050101,4,Concrete,,5583
-901,SWNG,AD-302,Swing Space,SWNG,Complete,,,,,20050101,5,Concrete,5093.91,
-316,AERL,AD-162,AERL,AERL,Complete,,,,,20050101,5,Concrete,5112.43,
-204,,NOT_JOINED,CCS 5,,Complete,,,,,19890101,1,Wood,481.74,
-783,,NOT_JOINED,Thunderbird Res B1,,Complete,,,,,19950101,4,Concrete,4058.84,
-412,GRHS,NOT_JOINED,Green College D,GRHS,Complete,,,,,19300101,3,Wood,1577.23,
-463,ACU,AD-197,Hospital,ACU,Complete,,,,,19800101,6,Concrete,40372.25,
-594,,AD-32,The Wesbrook,,Complete,,,,,20090101,0,Concrete,,13011
-502-2,,AD-9,Thames Court - 2,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-3,,AD-9,Thames Court - 3,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-4,,AD-9,Thames Court - 4 ,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-5,,AD-9,Thames Court - 5,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-6,,AD-9,Thames Court - 6,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-7,,AD-9,Thames Court - 7,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-337,FNLH,AD-165,First Nations Longhouse,FNLH,Complete,,,,,19930101,2,Wood,2156.21,
-503,,AD-10,St. James,,Complete,,,,,19940405,4,Wood,,14945
-182,,AD-133,Clock Tower,,Complete,,,,,19680101,1,Concrete,45.27,
-835,,NOT_JOINED,Chancellor Row  3,,Complete,,,,,20060101,0,Wood,,514
-834,,NOT_JOINED,Chancellor Row  2,,Complete,,,,,20060101,0,Wood,,488
-833,,NOT_JOINED,Chancellor Row  1,,Complete,,,,,20060101,0,Wood,,506
-476,,NOT_JOINED,Nitobe Gardens,,Complete,,,,,19590101,1,Temporary,81.46000000000001,
-344,UCLL,AD-166,University Centre,UCLL,Complete,,,,,19580101,3,Concrete,3374.04,
-628,,AD-489,Nine on the Park,,Complete,,,,,20070101,0,Wood,,2030
-818,,AD-75,Stirling House,,Complete,,,,,20080101,0,Wood,,4783
-376,FRWO,AD-171,Wood Theatre,FRWO,Complete,,,,,19630101,3,Concrete,2012.66,
-831-5,,NOT_JOINED,Coast Duplex 5,,Complete,,,,Updated Footprint,20090101,0,Wood,,756
-205,,NOT_JOINED,CCS 1,,Complete,,,,,20080101,1,Wood,850.6700000000001,
-207,,NOT_JOINED,CCS 3,,Complete,,,,,20090101,1,Wood,433.93,
-847-1,,NOT_JOINED,Isac 2,,Complete,,,,,20030101,0,Concrete,5958.02,3529
-843-1,,NOT_JOINED,TRIUMF,,Complete,,,,,000000,1,N/A,553.54,0
-850-1,,NOT_JOINED,TRIUMF,,Complete,,,,,20030101,1,Trailer,,0
-538,,NOT_JOINED,AYO Home,,Complete,,,,,20160107,2,Wood,159.99,0
-750,SOWK,AD-258,Jack Bell,SOWK,Complete,,,,,19920101,5,Steel,2712.14,
-515,,AD-209,Koerner Library,,Complete,,,,,19720101,2,Concrete,10522.79,
-490,DLAM,AD-204,David Lam Management Research Centre,DLAM,Complete,,,,,19920101,5,Concrete,4251.27,
-372,,AD-169,FPInnovations,,Complete,,,,,19900101,2,Concrete,9527.12,
-130,CHAN,AD-124,Chan Centre,CHAN,Complete,,,,,19970101,6,Concrete,8214.04,
-518,MATH,AD-211,Math,MATH,Complete,,,,,19250101,3,Wood,4520.45,
-568,,AD-226,Belkin Art Gallery,,Complete,,,,,19950101,4,Steel,1504.16,
-496,,AD-206,Liu Institute,LIU,Complete,,,,,20000101,4,Concrete,1712.93,
-472,,AD-200,International House,,Complete,,,,,19580101,4,Concrete,1141.68,
-766,,AD-260,Material Recovery Facility,,Complete,,,,,20170308,0,Temporary,,
-587,,AD-28,Keenleyside,,Complete,,,,,20080101,4,Wood,,8119
-687,,AD-48,Granite Terrace,,Complete,,,,,20090101,2,Wood,15336.220000000001,
-686,,NOT_JOINED,Wesbrook Village,,Complete,,,,,20090101,2,Wood,565.8000000000001,
-605-4,,NOT_JOINED,Crescent West,,Complete,,,,<Null>,20090101,4,Wood,,
-694,,AD-54,MBA House,,Complete,,,,,20090101,4,Wood,3515.7200000000003,
-831-4,,NOT_JOINED,Coast Duplex 4,,Complete,,,,Updated Footprint,20090101,0,Wood,,756
-831-3,,NOT_JOINED,Coast Duplex 3,,Complete,,,,Updated Footprint,20090101,0,Wood,,756
-831-2,,NOT_JOINED,Coast Duplex 2,,Complete,,,,Updated Footprint,20090101,0,Wood,,756
-831-1,,NOT_JOINED,Coast Duplex 1,,Complete,,,,Updated Footprint,20090101,0,Wood,,756
-314,,AD-161,Beaty,,Complete,,,,,20090101,4,Concrete,12060.93,
-836,IONA,AD-281,Iona Building,IONA,Complete,,,,,19290101,5,Concrete,8638.99,
-841,,AD-81,Westpoint,,Complete,,,,,20090101,0,Concrete,10163.51,5137
-551,,AD-224,Thunderbird Parkade,,Complete,,,,,20070101,6,Concrete,59349.82,
-516,IBLC,AD-210,IK Barber,IBLC,Complete,,,,,19270101,6,Concrete,23406.86,
-839,,AD-321,Corus,,Complete,,,,,20070101,13,Concrete,14768.08,10805
-570,MUSM,AD-228,MOA,MUSM,Complete,,,,,19750101,2,Concrete,10452.1,
-166,ICCS,NOT_JOINED,ICICS/CS Addition,ICCS,Complete,,,,,20050101,9,Concrete,9639.98,
-506-1,,AD-14,The Stratford,,Complete,,,,,19980717,11,Concrete,,7867
-506-2,,AD-13,Wyndham Hall,,Complete,,,,,19971126,4,Wood,,5716
-590,,AD-31,U-Hill Secondary,,Complete,,,,,19950101,0,Steel,11637.33,6000
-928,,NOT_JOINED,Fraternity Village 8,,Complete,,,,,20040101,3,Wood,,929
-927,,AD-89,Fraternity Village ,,Complete,,,,,20040101,3,Wood,,929
-926,,NOT_JOINED,Fraternity Village 6,,Complete,,,,,20040101,3,Wood,,929
-921,,NOT_JOINED,Fraternity Village 1,,Complete,,,,,20040101,3,Wood,,929
-922,,NOT_JOINED,Fraternity Village 2,,Complete,,,,,20040101,3,Wood,,929
-925,,NOT_JOINED,Fraternity Village 5,,Complete,,,,,20040101,3,Wood,,929
-924,,NOT_JOINED,Fraternity Village 4,,Complete,,,,,20040101,3,Wood,,929
-554-2,GRWC,AD-22,Greenwood Commons ,,Complete,,,,There are plans to split this feature at some point (peter).,,,,,
-554-3,GRWC,AD-22,Greenwood Commons ,,Complete,,,,There are plans to split this feature at some point (peter).,,,,,
-554-4,GRWC,AD-22,Greenwood Commons ,,Complete,,,,There are plans to split this feature at some point (peter).,,,,,
-554-5,GRWC,AD-22,Greenwood Commons ,,Complete,,,,There are plans to split this feature at some point (peter).,,,,,
-554-6,GRWC,AD-22,Greenwood Commons ,,Complete,,,,There are plans to split this feature at some point (peter).,,,,,
-554-7,GRWC,AD-22,Greenwood Commons ,,Complete,,,,There are plans to split this feature at some point (peter).,,,,,
-394,,NOT_JOINED,Gas Gun Facility,,Complete,,,,,19890101,1,Wood,203.13,
-760,,AD-259,Rugby,,Complete,,,,,19630101,1,Wood,366.91,
-432,,NOT_JOINED,Tennis Centre,,Complete,,,,,19970101,1,Steel,2409.14,
-320,DSOM,AD-163,Somerset Studios,DSOM,Complete,,,,RENEW,19250101,2,Wood,1822.95,
-324,BINN,AD-164,Binning Studios,BINN,Complete,,,,,19250101,2,Wood,1500.75,
-873,PONG,NOT_JOINED,Ponderosa  G,PONG,Complete,,,,,19810101,1,Temporary,596.6,
-728,,AD-67,Norman MacKenzie House,,Complete,,,,,19500101,3,Wood,969.52,
-421,,AD-181,Coach House,,Complete,,,,,19110101,2,Wood,242.73000000000002,
-420,,AD-180,Cecil Green Park,,Complete,,,,,19110101,5,Wood,2079.71,
-822-3,,NOT_JOINED,St. John's College,,Complete,,,,,19980101,3,Wood,6176.150000000001,
-312,MCLD,AD-159,MacLeod,MCLD,Complete,,,,,19630101,5,Concrete,7282.05,
-781-1,,NOT_JOINED,Thunderbird Res A3,,Complete,,,,,19950101,3,Concrete,1100.33,
-502-1,,AD-9,Thames Court - 1,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-825,,AD-77,Folio,,Complete,,,,,20060101,4,Concrete,,9167
-825-2,,AD-406,Folio,,Complete,,,,,20060101,0,Wood,,214
-620-4,,AD-450,Logan Lane,,Complete,,,,,20050101,0,Wood,,0
-620-3,,AD-450,Logan Lane,,Complete,,,,,20050101,0,Wood,,0
-822-2,,NOT_JOINED,St. John's College,,Complete,,,,,19970101,2,Wood,2424.51,
-869-2,,NOT_JOINED,Gage South Tower,,Complete,,,,,19720101,18,Concrete,9771.7,
-872-2,,NOT_JOINED,Gage Court,,Complete,,,,,19720101,4,Concrete,3596.59,
-872-1,,NOT_JOINED,Gage East Tower,,Complete,,,,,19720101,18,Concrete,9772.59,
-525-2,FRDM,NOT_JOINED,Friedman,FRDM,Complete,,,,RENEW,19670101,6,Concrete,1910.06,
-525-3,MEDC,NOT_JOINED,Med Sciences,MEDC,Complete,,,,,19670101,0,Concrete,,
-806,,NOT_JOINED,Carey College,,Complete,,,,,19850101,1,Concrete,343.34000000000003,
-308,LSK,AD-157,Klinck,LSK,Complete,,,,,19470101,6,Concrete,9179.380000000001,
-519,MATX,AD-212,Math Annex,MATX,Complete,,,,,19240101,2,Wood,1480.84,
-620-5,,AD-450,Logan Lane,,Complete,,,,,20050101,0,Wood,,0
-620-2,,AD-450,Logan Lane,,Complete,,,,,20050101,0,Wood,,0
-616-1,,AD-544,Westchester,,Complete,,,,,20040101,3,Wood,,0
-401,GEOG,AD-177,Geography,GEOG,Complete,,,,,19250101,3,Wood,5496.76,
-656,HEBB,AD-251,Hebb,HEBB,Complete,,,,,19640101,7,Concrete,5941.13,
-473,WOOD,AD-1012,Woodward IRC,WOOD,Complete,,,,,19720101,8,Concrete,10565.62,
-523-1,COPP,AD-214,Copp,COPP,Complete,,,,,19610101,5,Concrete,3935.36,
-869-3,,NOT_JOINED,Gage North Tower,,Complete,,,,,19720101,18,Concrete,9771.74,
-869-1,,AD-297,Gage Residence,,Complete,,,,,19720101,3,Concrete,5155.46,
-409,,NOT_JOINED,Koerner House Addition,,Complete,,,,,19710101,3,Concrete,2015.8,
-240-2,SCRF,NOT_JOINED,Scarfe-Office,SCRF,Complete,,,,,19650101,9,Concrete,4053.88,
-240-1,SCRF,NOT_JOINED,Scarfe-Classrooms,SCRF,Complete,,,,,19650101,6,Concrete,6305.74,
-515-1,,NOT_JOINED,Koerner Library,KLIB,Complete,,,,chg grpname to Koerner,19960101,7,Concrete,7255.2300000000005,
-669,,AD-253,Stores Annex,,Complete,,,,,19250101,3,Temporary,382.53000000000003,
-385,,AD-174,Wood Lab,,Complete,,,,,19900101,2,Wood,283.32,
-380,,AD-173,Old Fire Hall,,Complete,,,,,19260101,2,Wood,377.82,
-417,,NOT_JOINED,Green College E,,Complete,,,,,19940101,3,Wood,236.83,
-614,,AD-240,Bollert Hall,,Complete,,,,,19500101,3,Concrete,1318.38,
-419,,NOT_JOINED,Green College C,,Complete,,,,,19940101,3,Wood,302.11,
-416,,NOT_JOINED,Green College B,,Complete,,,,,19940101,4,Wood,1180.64,
-413,,NOT_JOINED,Green College A North,,Complete,,,,,19940101,3,Wood,744.21,
-414,,NOT_JOINED,Green College Kitchen,,Complete,,,,,19940101,1,Wood,50.03,
-539,,AD-222,Ambulance,,Complete,,,,,19910101,1,Wood,210.8,
-850,,NOT_JOINED,Triumf Workshop,,Complete,,,,,19830101,2,Concrete,984.02,
-865-2,PONB,NOT_JOINED,Ponderosa  B,PONB,Complete,,,,,19710101,2,Temporary,974.8100000000001,
-865-3,PONC,AD-294,Ponderosa Annexes,PONC,Complete,,,,,19710101,2,Temporary,587.24,
-871-2,PONE,NOT_JOINED,Ponderosa  E,PONE,Complete,,,,,19720101,2,Temporary,1003.76,
-865-1,,NOT_JOINED,Ponderosa  A,,Complete,,,,,19710101,3,Temporary,632.53,
-871-3,PONF,NOT_JOINED,Ponderosa  F,PONF,Complete,,,,,19720101,3,Temporary,826.2,
-430,OSBO,AD-183,Osborne Centre,OSBO,Complete,,,,,19700101,3,Concrete,3439.12,
-467,,AD-199,Health Sciences Parkade,,Complete,,,,,19800101,5,Concrete,31480.61,
-475,WOOD,NOT_JOINED,IRC - Theatre,WOOD,Complete,,,,,19780101,1,Concrete,276.52,
-386,MCML,AD-175,MacMillan,MCML,Complete,,,,,19670101,5,Concrete,14341.79,
-562,FORW,AD-225,Frank Forward,FORW,Complete,,,,,19680101,7,Concrete,7542.1900000000005,
-402,EOSM,AD-178,EOS,EOSM,Complete,,,,,19710101,5,Concrete,9106.5,
-184,MINL,AD-134,Coal Lab,MINL,Complete,,,,,19810101,4,Concrete,2148.91,
-307,CEME,AD-156,CEME Labs,CEME,Complete,,,,,19710101,3,Concrete,4007.4,
-728-1,,NOT_JOINED,Mackenzie Garage,,Complete,,,,,19830101,0,Wood,,89
-403,EOSS,NOT_JOINED,EOS - South,EOSS,Complete,,,,,19740101,4,Concrete,1620.44,
-863-1,WMAX,AD-290,West Mall Annex,WMAX,Complete,,,,,19690101,2,Temporary,1961.77,
-586,,AD-27,Larkspur House,,Complete,,,,,20090101,5,Wood,7277.75,
-858,,AD-288,Berwick,,Complete,,,,,19760101,1,Wood,1598.1200000000001,
-184-1,,NOT_JOINED,Keevil,,Complete,,,,Check name and SHort name,20110101,3,Concrete,739.72,
-605-5,,NOT_JOINED,Crescent West,,Complete,,,,<Null>,20090101,4,Wood,,
-605-6,,NOT_JOINED,Crescent West,,Complete,,,,<Null>,20090101,4,Wood,,
-605-2,,NOT_JOINED,Crescent West,,Complete,,,,<Null>,20090101,4,Wood,,
-575,MUSC,AD-229,Music,MUSC,Complete,,,,,19670101,5,Concrete,6593.33,
-120,BUTO,AD-122,Buchanan Tower,BUTO,Complete,,,,,19720101,15,Concrete,9985.23,
-478,CHOI,AD-202,Choi Building,CHOI,Complete,,,,,19960101,4,Wood,2709.58,
-537,HSCC,NOT_JOINED,Detwiller 1,HSCC,Complete,,,,,19680101,4,Concrete,12998.51,
-373,,NOT_JOINED,Feric,,Complete,,,,,19900101,3,Concrete,1936.41,
-593-1,,AD-235,Tapestry,,Complete,,,,,20100101,8,Concrete,17035.11,15974
-301,,AD-153,EDC,EDC,Complete,,,,,20110101,3,Concrete,2008.72,
-433,,AD-184,Tennis Centre,,Complete,,,,,20110101,1,Steel,8251.74,
-593-2,,NOT_JOINED,Tapestry,,Complete,,,,,20100101,8,Concrete,8187.4800000000005,
-846,,NOT_JOINED,Biological Archive,,Complete,,,,,20080101,1,Steel,500.84000000000003,
-605-3,,NOT_JOINED,Crescent West,,Complete,,,,<Null>,20090101,4,Wood,,
-605-7,,NOT_JOINED,Crescent West,,Complete,,,,<Null>,20090101,4,Wood,,
-225,ESB,AD-150,Earth Sciences,ESB,Complete,,,,,20120905,6,Mixed,15910.390000000001,
-527,PHRM,AD-217,Pharmacy,PHRM,Complete,,,,,20120905,9,Concrete,29695.21,
-595,,AD-276,Sage,,Complete,,,,,20111122,24,Concrete,20839.04,
-689,,AD-49,Mews,,Complete,,,,,20110329,6,Concrete,10558.01,
-584,,AD-26,Spirit,,Complete,,,,,20100101,6,Wood,8073.2300000000005,
-633,CIRS,AD-243,CIRS,CIRS,Complete,,,,,20110101,6, Mixed,5434.34,
-445,,AD-187,Hillel House,,Complete,,,,,20100101,4,Concrete,1237.3500000000001,
-641,,AD-246,USB,,Complete,,,,,19920101,2, Mixed,11598.45,
-817-4,,NOT_JOINED,St. Andrews Hall,,Complete,,,,,20120502,0,Wood,,334
-819,,AD-76,Axis ,,Complete,,,,,20130101,18,Concrete,12838.68,
-904,,NOT_JOINED,Pond West,PCMH,Complete,,,,,20131112,18,Steel,17402.21,
-635,,AD-244,Hospice,,Complete,,,,,20130906,2,Wood,1302.39,
-465,CBH,AD-198,Centre for Brain Health,CBH,Complete,,,,Add GRP_ID,20140227,7,Concrete,14395.300000000001,
-585,,AD-231,Research Ponds,,Complete,,,,,20100101,1,Temporary,41.29,
-768,,AD-262,Building Ops Nursery,,Complete,,,,,20090101,1,Wood,1315.72,
-344-1,UCLL,NOT_JOINED,UC Addtion,UCLL,Complete,,,,,19680101,2,Concrete,138.9,
-570-1,MUSM,NOT_JOINED,MOA - Koerner Gallery,MUSM,Complete,,,,,19900101,2,Concrete,862,
-707,,NOT_JOINED,SAIL 2,,Complete,,,,,20140101,0,Wood,11621.72,
-705,,AD-59,Sail,,Complete,,,,,20130101,0,Wood,13242.14,
-842,,NOT_JOINED,Compressor,,Complete,,,,,20030101,1,TBD,510.79,
-353,FSC,AD-167,Forest Sciences,FSC,Complete,,,,,19980101,7,Mixed,22458.84,
-864,WESB,AD-291,Wesbrook Building,WESB,Complete,,,,,19490101,6,Concrete,9870.91,
-717,,AD-66,Nobel House,,Complete,,,,,20141201,6,Wood,,9968
-795,,AD-273,AMS Nest,NEST,Complete,,,,,20150101,6,CONCRETE,20282.3,0
-797,ALUM,AD-274,Alumni Centre,ALUM,Complete,,,,,20150101,4,Concrete,3729.85,
-845,,NOT_JOINED,Ariel,,Complete,,,,,20150801,5,Concrete,3637.84,
-853,,NOT_JOINED,Triumf Accelerator,,Complete,,,,,20030101,5,Concrete,27014.74,
-525-1,COPP,NOT_JOINED,DH Copp,COPP,Complete,,,,,19670101,4,Concrete,2477.91,
-832-3,,NOT_JOINED,Coast  TH,,Complete,,,,,20090101,0,Wood,,710
-450-2,,AD-191,Acadia House,,Complete,,,,,19910101,2,Wood,680.82,
-706,,AD-60,Ultima,,Complete,,,,,20110101,6,Wood,7833.21,
-482,ALRD,AD-203,Allard Hall,ALRD,Complete,,,,,20110101,6,Concrete,13799.26,
-843,,NOT_JOINED,Stores Building,,Complete,,,,,20030101,2,TBD,722.65,
-550,,AD-20,Sitka,,Complete,,,,,20120101,21,Concrete,13070.06,
-590-1,,NOT_JOINED,Secondary School Addition,,Complete,,,,,20130101,0,Steel,,5600
-695,,AD-56,Yu,,Complete,,,,,20130101,0,Mixed,14477.87,19671
-434,,AD-185,Rugby Centre,,Complete,,,,,20130108,2,Concrete,541.86,
-789-1,,NOT_JOINED,Main Substation,,Complete,,,,,19830101,0,Concrete,,
-854,,AD-283,TRIUMF,,Complete,,,,,20030101,2,Steel,3264.21,
-537-1,HSCC,NOT_JOINED,Detwiller 2 - Addition,HSCC,Complete,,,,,19690101,8,Concrete,0,
-308-1,LSK,NOT_JOINED,Klinck - Addition,LSK,Complete,,,,,19690101,2,Concrete,1014.87,
-770-3,,NOT_JOINED,2725 Spirit Park,,Complete,,,,,19930101,2,Concrete,1173.39,
-770-1,,NOT_JOINED,2705 Spirit Park,,Complete,,,,,19930101,2,Concrete,1173.4,
-770-2,,AD-266,Spirit Park Apartments,,Complete,,,,,19930101,5,Concrete,4155.79,
-450-3,,NOT_JOINED,2720 Acadia,,Complete,,,,,19910101,2,Wood,1086.98,
-345,,AD-166,PWIAS,,Complete,,,,,19870101,2,Concrete,465.13,
-827-8,,NOT_JOINED,St. Mark's Duplex 8,,Complete,,,,,20100101,3,Wood,,521
-523-3,MEDC,AD-216,Medical Sciences C,MEDC,Complete,,,,,19610101,6,Concrete,4017.26,
-828,,AD-78,St Mark's College,,Complete,,,,,19580101,3,Concrete,1486.73,
-829,,NOT_JOINED,St. Mark's Chapel,,Complete,,,,,19970101,2,Concrete,880.24,
-112,BRCK,AD-121,Brock Hall  ,BRCK,Complete,,,,,19400101,3,Wood,3796.09,
-802,,AD-71,Chapel of the Epiphany,,Complete,,,,,19630101,2,Concrete,710.5,
-817-2,,NOT_JOINED,Walker House,,Complete,,,,,19960101,4,Wood,,2771
-817-3,,NOT_JOINED,Lennox House,,Complete,,,,,19960101,4,Wood,,2106
-817-1,,AD-275,St. Andrew's Hall,,Complete,,,,,19960101,4,Wood,,1897
-874,,NOT_JOINED,Gage Apartments,,Complete,,,,,19840101,5,Concrete,8046.2,
-827-7,,NOT_JOINED,St. Mark's Duplex 7,,Complete,,,,,20100101,3,Wood,,433
-827-6,,NOT_JOINED,St. Mark's Duplex 6,,Complete,,,,,20100101,3,Wood,,426
-832-2,,AD-280,Coast,,Complete,,,,,20090101,0,Concrete,,7188
-827-5,,NOT_JOINED,St. Mark's Duplex 5,,Complete,,,,Remove 'duplex' from the short names,20100101,3,Wood,,440
-596,,AD-33,Academy,,Complete,,,,,20140310,21,Concrete,22988.420000000002,
-769,,AD-263,Library PARC,,Complete,,,,,20150801,2, Mixed,2146.03,
-606,,AD-238,TEF3,,Complete,,,,,20030101,9,Concrete,14622.93,
-780-1,,NOT_JOINED,Thunderbird Res A4,,Complete,,,,,19950101,3,Concrete,1104.02,
-747,,AD-257,Pulp and Paper,,Complete,,,,,19850101,4,Concrete,3317.19,
-198,MCDN,AD-135,Macdonald,MCDN,Complete,,,,,19670101,4,Concrete,7222.1900000000005,
-461,,AD-195,Biomedical,,Complete,,,,,19870101,4,Concrete,4529.96,
-436,,NOT_JOINED,Haida House,,Complete,,,,,19610101,1,Temporary,142.81,
-440,,NOT_JOINED,Mortuary House,,Complete,,,,,19610101,1,Temporary,36.300000000000004,
-511,,AD-207,High Head,,Complete,,,,,19920101,1,Concrete,145.09,
-305,,AD-154,EERF,,Complete,,,,,20030101,3,Concrete,752.5600000000001,
-830-1,,NOT_JOINED,Chancellor Cityhomes,,Complete,,,,,20060101,0,Wood,,186
-830-2,,NOT_JOINED,Chancellor TH 2,,Complete,,,,,20060101,0,Wood,,186
-830-3,,NOT_JOINED,Chancellor TH 3,,Complete,,,,,20060101,0,Wood,,186
-830-4,,NOT_JOINED,Chancellor TH 4,,Complete,,,,,20060101,0,Wood,,186
-765,,NOT_JOINED,South Campus Substation - Switchin Station 12KV,,Complete,,,,,19710101,1,Concrete,16.18,
-541,,AD-223,,,Complete,,,,,20160614,8,Concrete,9019.460000000001,0
-540-1,,AD-223,Totem - Commonsblock,,Complete,,,,,19640101,3,Concrete,4664.37,
-566,,AD-223,,,Complete,,,,,20110101,9,Concrete,6728.900000000001,
-565,,AD-223,Totem - Kwakiutl/Shuswap,,Complete,,,,,19680101,7,Concrete,9026.800000000001,
-567,,AD-223,,,Complete,,,,,20110101,9,Concrete,9830.12,
-540-2,,AD-223,Totem - Haida/Salish,,Complete,,,,,19640101,7,Concrete,8666.12,
-501,,AD-8,West Hampstead,,Complete,,,,,19931208,4,Wood,,10521
-501-4,,AD-8,West Hampstead - 4,,Complete,,,,,19931208,4,Wood,1096.55,
-501-9,,AD-8,West Hampstead - 9 ,,Complete,,,,,19931208,4,Wood,,
-501-11,,AD-8,West Hampstead - 11,,Complete,,,,,19931208,4,Wood,,0
-501-2,,AD-8,West Hampstead - 2,,Complete,,,,,19931208,4,Wood,1109.88,
-501-7,,AD-8,West Hampstead - 7,,Complete,,,,,19931208,4,Wood,,
-501-6,,AD-8,West Hampstead - 6,,Complete,,,,,19931208,4,Wood,,
-501-10,,AD-8,West Hampstead - 10,,Complete,,,,,19931208,4,Wood,,
-501-8,,AD-8,West Hampstead - 8,,Complete,,,,,19931208,4,Wood,,
-501-5,,AD-8,West Hampstead - 5,,Complete,,,,,19931208,4,Wood,837.37,
-501-3,,AD-8,West Hampstead - 3,,Complete,,,,,19931208,4,Wood,846.58,
-501-1,,AD-8,West Hampstead - 1,,Complete,,,,,19931208,4,Wood,853.76,
-500-8,,AD-7,Sandringham - 8,,Complete,,,,,19940919,2,Wood,999.85,
-500-7,,AD-7,Sandringham - 7,,Complete,,,,,19940919,2,Wood,1454.18,
-500-3,,AD-7,Sandringham - 3,,Complete,,,,,19940919,2,Wood,808.09,
-500-11,,AD-7,Sandringham - 11,,Complete,,,,,19940919,2,Wood,869.1,
-500-4,,AD-7,Sandringham - 4,,Complete,,,,,19940919,2,Wood,808.09,
-500-10,,AD-7,Sandringham - 10,,Complete,,,,,19940919,2,Wood,869.1,
-500-2,,AD-7,Sandringham - 2,,Complete,,,,,19940919,2,Wood,883.5600000000001,
-500-6,,AD-7,Sandringham - 6,,Complete,,,,,19940919,2,Wood,806.75,
-500-5,,AD-7,Sandringham - 5,,Complete,,,,,19940919,2,Wood,806.75,
-500-13,,AD-7,Sandringham - 13,,Complete,,,,,19940919,2,Wood,752.98,
-500-12,,AD-7,Sandringham - 12,,Complete,,,,,19940919,2,Wood,660.84,
-502-13,,AD-9,Thames Court - 13,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-14,,AD-9,Thames Court - 14,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-15,,AD-9,Thames Court - 15,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-862,BTF,AD-308,Baseball Training Centre,BTF,Complete,,,,,20150804,2,Wood,1224.44,
-310,,AD-158,ESC,ESC,Complete,,,,,20150924,2,Wood,953.36,
-437,,AD-186,Stadium Centre,,Complete,,,,,20160205,1,Temporary,160.79,
-521,DNRG,AD-213,Energy Centre,DNRG,Complete,,,,,20160101,2,Concrete,1999.5800000000002,
-905,PCOH,AD-85,Ponderosa Commons,PCOH,Complete,,,,,20151201,20,Steel,26514.28,
-557,ORCH,AD-24,Orchard Commons,ORCH,Complete,,,,,20160701,20,TBD,39899.23,
-569,,AD-227,McGavin,,Complete,,,,,19950101,4,Concrete,3230.92,
-789,,,Substation,,Complete,,,,,19750101,1,Concrete,345.18,
-847,,NOT_JOINED,Isac 1,,Complete,,,,,19980101,4,Concrete,14680.73,
-431,OSBO,NOT_JOINED,Osborne 2,OSBO,Complete,,,,,19720101,2,Concrete,2739.88,
-513,SPPH,AD-208,SPPH,SPPH,Complete,,,,,19790101,5,Concrete,8279.91,
-046,ACEN,AD-106,Asian Centre,ACEN,Complete,,,,,19750101,5,Concrete,4925.61,
-212,SOJ,AD-148,Sing Tao,SOJ,Complete,,,,,19970101,3,Concrete,1357.96,
-408,,AD-179,Thea Koerner House,,Complete,,,,,19610101,5,Concrete,2124.77,
-612,,AD-239,MT Innovations,,Complete,,,,,19850101,5,Concrete,7432.58,
-782-1,,NOT_JOINED,Thunderbird Res B3,,Complete,,,,,19950101,3,Concrete,1098.19,
-376-1,FRWO,NOT_JOINED,Frederic Wood,FRWO,Complete,,,,,19680101,3,Concrete,886.47,
-377-1,,NOT_JOINED,Simon Lee,,Complete,,,,,20060101,20,Concrete,12337.68,
-832-1,,NOT_JOINED,Coast  West,,Complete,,,,,20090101,0,Concrete,,5600
-588-1,,NOT_JOINED,Pathways I,,Complete,,,,,20080101,4,Steel,,4452
-588-2,,AD-29,Pathways,,Complete,,,,,20080101,4,Steel,,6181
-377-3,,AD-172,Marine Drive Residence ,,Complete,,,,,20090101,2,Wood,1525.54,
-377-5,,NOT_JOINED,MDR 5,,Complete,,,,,20080101,18,Concrete,12279.52,
-377-4,,NOT_JOINED,MDR 4,,Complete,,,,,20080101,20,Concrete,14081.06,
-867,,NOT_JOINED,Wesbrook Annex,,Complete,,,,,19830101,2,Concrete,793.5,
-624,CUNN,NOT_JOINED,Cunningham Addition,CUNN,Complete,,,,,19710101,6,Concrete,2173.93,
-854-1,,NOT_JOINED,TRIUMF,,Complete,,,,,20030101,1,Trailer,607.64,0
-854-2,,NOT_JOINED,TRIUMF,,Complete,,,,,20030101,1,Trailer,26.150000000000002,0
-165,ICCS,AD-131,ICICS/CS,ICCS,Complete,,,,,19930101,5,Concrete,10049.78,
-523-2,FRDM,AD-215,Friedman,FRDM,Complete,,,,RENEW,19610101,5,Concrete,4163.1,
-783-1,,NOT_JOINED,Thunderbird Res B4,,Complete,,,,,19950101,3,Concrete,1104.04,
-784-1,,NOT_JOINED,Thunderbird Res C2,,Complete,,,,,19950101,3,Concrete,1557.74,
-745,RITS,AD-68,Ritsumeikan,RITS,Complete,,,,,19920101,5,Wood,6763.33,
-900,PARW,AD-301,West Parkade,PARW,Complete,,,,,19920101,6,Concrete,34775.16,
-160,,AD-129,Continuing Studies,CSB,Complete,,,,,19970101,3, Mixed,3812.63,
-732,KENN,AD-256,Kenny,KENN,Complete,,,,,19830101,5,Concrete,8741.79,
-232,SCRF,AD-151,Scarfe,SCRF,Complete,,,,,19620101,6,Concrete,6625.1,
-827-4,,NOT_JOINED,Folio Duplex 4,,Complete,,,,,20050101,4,Wood,,774
-827-1,,NOT_JOINED,Folio Duplex 1,,Complete,,,,Remove 'duplex' from the short names,20050101,3,Wood,,745
-827-2,,NOT_JOINED,Folio Duplex 2,,Complete,,,,,20050101,3,Wood,,738
-377-2,,NOT_JOINED,MDR 2,,Complete,,,,,20060101,6,Wood,7596.45,
-598,BINT,AD-35,Binning Tower,,Complete,,,,,20160505,0,Concrete,,
-435,NSDC,AD-307,National Soccer Development Centre (NSDC),,Complete,,,,,20160518,0,TBD,3733.08,
-711,PROD,AD-62,Prodigy,,Complete,,,,,20161123,0,Concrete,17552.79,
-556,,AD-19,Vanier - Robson House,,Complete,,,,,19590101,5,Concrete,2115.4700000000003,
-560,,AD-19,Vanier - Sherwood Lett House,,Complete,,,,,19600101,5,Concrete,2111.71,
-902,,AD-19,Vanier - Tec De Monterrey,,Complete,,,,,20030101,7,Concrete,4496.37,
-545-2,,AD-19,Vanier - Tweedsmuir House,,Complete,,,,,19680101,5,Concrete,2189.07,
-543,,AD-19,Vanier Pump Station,,Complete,,,,,19860101,1,Temporary,13.93,
-490-1,DLAM,AD-204,David Lam - White Spot,,Complete,,,,,19920101,1,Concrete,927.0600000000001,
-622-3,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-536,WLIB,AD-220,Woodward Library,WLIB,Complete,,,,,19640101,5,Concrete,7694.75,
-554-1-7,GRWC,AD-22,Greenwood Commons ,,Complete,,,,There are plans to split this feature at some point (peter).,20070101,0,Wood,,5944
-500-1,,AD-7,Sandringham - 1,,Complete,,,,,19940919,2,Wood,883.66,0
-081-2,BOOK,AD-117,Networks of Centres of Excellence,,Complete,,,,,19910101,4,Concrete,3160.15,
-724-2,POWR,AD-255,Power House - Addition 2,,Complete,,,,,19610101,4,Concrete,1043.07,
-544,,AD-19,Vanier - Commonsblock,,Complete,,,,,19600101,4,Concrete,4881.01,
-215,CNTL,AD-4,Central,,Complete,,,,,20160518,0,TBD,9405.16,
-514,IRSC,AD-1015,Indian Residential School History and Dialogue Centre,IRSC,Complete,,,,,20170321,2,Concrete,399.18,0
-691,VSQU,AD-51,Village Square,,Complete,,,,,20170308,0,TBD,,
-693,,AD-52,Webber House,,Complete,,,,,20170512,0,N/A,6320.74,0
-724-1,POWR,AD-255,Power House - Addition 1,,Complete,,,,,19470101,4,Concrete,504.71000000000004,
-724-3,POWR,AD-255,Power House - Addition 3,,Complete,,,,,19700101,3,Concrete,258.17,
-724,POWR,AD-255,Power House,,Complete,,,,,19250101,3,Concrete,1215.3700000000001,
-490-2,DLAM,AD-204,David Lam Learning Centre,DLAM,Complete,,,,,19920101,1,Concrete,1261.6200000000001,
-081,BOOK,AD-116,Bookstore,,Complete,,,,,19830101,2,Concrete,6892.97,
-589-2,LAUR,AD-233,The Laureates,,Complete,,,,,20170131,0,Wood,,
-589-1,LAUR,AD-232,The Laureates,,Complete,,,,,20170103,0,Concrete,,
-502-16,,AD-9,Thames Court - 16,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-17,,AD-9,Thames Court - 17,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-843-4,,,,,,,,,,20030101,1,Trailer,52.01,0
-843-7,,,,,,,,,,20030101,1,Trailer,83.61,0
-678,,AD-254,Telus Hub,,Complete,,,,,20170308,0,(null),,58
-843-2,,,,,,,,,,20030101,1,Trailer,29.73,0
-842-5,,,,,,,,,,20030101,2,Trailer,177.63,0
-842-4,,,,,,,,,,20030101,1,Concrete,111.48,0
-842-6,,,,,,,,,,20030101,1,Trailer,26.060000000000002,0
-842-3,,,,,,,,,,20030101,1,TBD,74.34,0
-842-8,,,,,,,,,,20030101,1,Trailer,58.370000000000005,0
-438,GUNN,AD-317,Chan Gunn,GUNN,Complete,MEDI,,,,20160826,2,Concrete,1860.68,0
-825-1,,AD-405,Folio,,Complete,,,,,20060101,0,Wood,,232
-620-1,,AD-450,Logan Lane,,Complete,,,,,20050101,0,Wood,,0
-616-7,,AD-544,Westchester,,Complete,,,,,20040101,3,Wood,,0
-782,,AD-70,Thunderbird Residence,,Complete,,,,Dif shape on CAD,19950101,4,Concrete,4019.25,
-451,,AD-6,Sopron House,,Complete,,,,,19910101,5,Wood,6586.91,
-509,,AD-17,The Pemberley,,Complete,,,,,19970725,4,Wood,,6285
-630,,AD-45,Legacy,,Complete,,,,,20070101,4,Wood,,7435
-449,FNH,AD-189,Food Nutrition Health,FNH,Complete,,,,,19820101,4,Concrete,4986.57,
-668,TFS,AD-252,Totem Field Studios,TFS,Complete,,,,,19630101,2,Wood,535.73,
-206,,AD-146,Child Care Services,,Complete,,,,,20080101,1,Wood,766.8100000000001,
-233,SCRF,NOT_JOINED,Scarfe-Education Ofc,SCRF,Complete,,,,,19960101,1,Steel,233.64000000000001,
-422,SQSH,NOT_JOINED,Squash Court,SQSH,Complete,,,,,19290101,2,Wood,109.48,
-309,CEME,NOT_JOINED,Structures Lab,CEME,Complete,,,,,19690101,2,Concrete,711.36,
-822-1,,AD-278,St. John's College,,Complete,,,,,19970101,2,Wood,9050.23,
-725,,NOT_JOINED,Power House - Meter Station,,Complete,,,,,19610101,1,Concrete,32,
-121-3,BUCH,AD-123,Buchanan,BUCH,Complete,,,,RENEW,19580101,4,Concrete,2772.62,
-234,SCRF,NOT_JOINED,Scarfe - Library,SCRF,Complete,,,,,19950101,4,Concrete,2643.32,
-456,GREN,AD-193,Horticulture,GREN,Complete,,,,,19480101,2,Wood,1752.64,
-418,,AD-5,Green College,,Complete,,,,,19940101,2,Wood,187.03,
-458,,AD-194,Donald Rix,,Complete,,,,,20000101,5,Concrete,5008.38,
-699,,AD-58,Pacific,,Complete,,,,,20100101,6,Wood,11958.31,
-903,AAC,AD-303,Audain Art Centre,AAC,Complete,,,,,20131112,19,Steel,10167.78,
-767,,AD-261,SERC,,Complete,,,,,20100101,1,Steel,321.41,
-555,,AD-23,Vista Point,,Complete,,,,,20160127,0,Mixed,12902.800000000001,
-526,COPP,NOT_JOINED,DH Copp,COPP,Complete,,,,,19790101,6,Concrete,2830.92,
-690,,AD-277,Wesbrook Professional Centre,,Complete,,,,,20130101,0,Wood,,1959
-450-1,,NOT_JOINED,2700 Acadia,,Complete,,,,,19910101,2,Wood,1086.98,
-528,,AD-218,Rose Garden Parkade,,Complete,,,,,19940101,5,Concrete,23185.37,
-428,MGYM,AD-182,War Memorial,MGYM,Complete,,,,,19500101,5,Concrete,8945.33,
-804,,NOT_JOINED,Carey College,,Complete,,,,,19600101,1,Concrete,563.44,
-500-9,,AD-7,Sandringham - 9,,Complete,,,,,19940919,2,Wood,1454.34,
-697,,AD-57,Wesbrook Community Centre,,Complete,,,,,20160510,2,TBD,3110.77,
-792,,AD-272,North Parkade,,Complete,,,,,19880101,5,Concrete,27293.81,
-449-1,FNH,NOT_JOINED,FNH,FNH,Complete,,,,,20050101,3,Concrete,753.27,
-377-6,,NOT_JOINED,MDR 6,,Complete,,,,,20070101,8,Wood,11502.550000000001,
-646,,NOT_JOINED,Plant Ops Storage,,Complete,,,,,19920101,1,Concrete,495.78000000000003,
-827-3,,NOT_JOINED,Folio Duplex 3,,Complete,,,,,20050101,3,Wood,,735
-540-3,,AD-223,Totem - Dene/Nootka,,Complete,,,,,19640101,7,Concrete,9013.87,
-896-3,,AD-19,Vanier - Phyllis Ross House,,Complete,,,,,19600101,5,Concrete,2141.57,
-552,,AD-19,Vanier - Okanagan House,,Complete,,,,,19600101,5,Concrete,2123.34,
-896-2,,AD-19,Vanier - Margaret Mackenzie,,Complete,,,,,19600101,5,Concrete,2114.01,
-898,,AD-19,Vanier - Korea House,,Complete,,,,,20030101,7,Concrete,4830.05,
-548,,AD-19,Vanier - Kootenay House,,Complete,,,,,19610101,5,Concrete,2122.06,
-896-1,,AD-19,Vanier - Dorothy Mawdsley,,Complete,,,,,19600101,5,Concrete,2141.57,
-545-1,,AD-19,Vanier - Cariboo House,,Complete,,,,,19680101,5,Concrete,2172.09,
-896-4,,AD-19,Vanier - Aldyen Hamber House,,Complete,,,,,19600101,5,Concrete,2114.39,
-502-8,,AD-9,Thames Court - 8,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-9,,AD-9,Thames Court - 9,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-10,,AD-9,Thames Court - 10,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-502-11,,AD-9,Thames Court - 11,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-713,DAHL,AD-65,Dahlia House,,Complete,,,,,20120101,5,Wood,7499.88,
-713-1,MAGN,AD-34,Magnolia House,,Complete,,,,,20120101,5,Wood,6288.55,
-714,CYPR,AD-312,Cypress House,,Under Construction,HSGN,,,,20160614,6,Concrete,13341.08,0
-715,PINE,AD-311,Pine House,,Under Construction,HSGN,,,,20160614,6,Concrete,8081.570000000001,0
-502-12,,AD-9,Thames Court - 12,,Complete,,,,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
-213,AQUA,AD-149,Aquatic Centre,AQUA,Complete,,,,,20140901,3,Concrete,8041.1900000000005,
-790-2,LIFE,NOT_JOINED,Old SUB - Addition 2,LIFE,Complete,,,,,19840101,1,Concrete,922.07,
-790-1,LIFE,NOT_JOINED,Old SUB - Addition 1,LIFE,Complete,,,,,19810101,1,Concrete,295.56,
-790,LIFE,AD-271,Old SUB,LIFE,Complete,,,,,19680101,4,Concrete,17903.56,
-842-1,,NOT_JOINED,TRIUMF,,Complete,,,,,20150715,0,N/A,76.59,0
-843-5,,NOT_JOINED,TRIUMF,,Complete,,,,,20030101,1,Trailer,247.98000000000002,0
-668-1,TFS,AD-252,Totem Field Studios,TFS,Complete,,,,,19810101,2,Wood,323.65000000000003,
-850-3,,NOT_JOINED,TRIUMF,,Complete,,,,,20030101,1,Trailer,197.68,0
-842-7,,NOT_JOINED,TRIUMF,,Complete,,,,,20030101,1,Trailer,144.93,0
-652,HENN,AD-249,Hennings,HENN,Complete,,,,,19450101,4,Concrete,10874.02,
-652-1,HENN,NOT_JOINED,Hennings Penthouse,HENN,Complete,,,,,19660101,1,Concrete,346.68,
-616-2,,AD-544,Westchester,,Complete,,,,,20040101,3,Wood,,0
-616-4,,AD-544,Westchester,,Complete,,,,,20040101,3,Wood,,0
-616-6,,AD-544,Westchester,,Complete,,,,,20041001,3,Wood,,0
-616-5,,AD-544,Westchester,,Complete,,,,,20040101,3,Wood,,0
-616-3,,AD-544,Westchester,,Complete,,,,,20040101,3,Wood,,0
-622-1,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-622-7,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-622-4,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-622-8,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-622-6,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-622-2,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-622-9,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-622-5,,AD-515,Somerset,,Complete,,,,,20050101,2,Wood,,0
-536-1,WLIB,AD-220,Woodward Library,,Complete,,,,,19700101,0,Concrete,,
-782-A,,AD-70,Thunderbird Residence,,Complete,,,,Dif shape on CAD,19950101,0,Concrete,,
-853-3,,,,,,,,,,20030101,1,Trailer,29.73,0
-850-4,,,,,,,,,,20030101,1,Trailer,104.66,0
-850-2,,,,,,,,,,20030101,1,Trailer,29.73,0
-843-6,,,,,,,,,,20030101,1,Trailer,58.370000000000005,0
-605-1,,NOT_JOINED,Crescent West,,Complete,,,,<Null>,20090101,4,Wood,,
-500,SAND,AD-7,Sandringham,,Complete,HSGN,,,,19940919,2,Wood,,7933
-502,THAC,AD-9,Thames Court,,Complete,HSGN,,,,19920724,2,Wood,,7503
-605,CRSW,AD-37,Crescent West,,Complete,HSGN,,,,20090101,4,Wood,,1174
-620,LOGN,AD-450,Logan Lane,,Complete,HSGN,,,,20050101,0,Wood,,84214
-616,WSTR,AD-544,Westchester,,Complete,HSGN,,,,20040101,3,Wood,,5258
-622,SOMS,AD-515,Somerset,,Complete,HSGN,,,,20050101,2,Wood,,7892
-868,THUN,AD-295,Doug Mitchell Centre,THUN,Complete,,,,,20080101,3,Wood,25227.420000000002,
-009-18,ACAP,AD-90,Acadia Housing - 18,,Complete,,,,,19880101,2,Wood,382.98,
-007-21,FAIR,AD-817,Fairview Housing 21,,Complete,,,,,19850101,3,Wood,732.27,
-007-32,FAIR,AD-817,Fairview Housing 32,,Complete,,,,,19850101,3,Wood,498.55,
-132,CHEM,AD-125,Chemistry Building - D,CHEM,Complete,,,,RENEW,19250101,5,Concrete,7139.1900000000005,
-009-23,ACAP,AD-90,Acadia Housing - 23,,Complete,,,,,19880101,2,Wood,411.09000000000003,
-021,LNDA,AD-96,Landscape Architecture Annex,TT21,Complete,,,,,19210101,3,Wood,601.48,
-007-23,FAIR,AD-817,Fairview Housing 23,,Complete,,,,,19850101,3,Wood,732.3000000000001,
-071-2,FARM,AD-112,UBC Farm Centre - Botany Greenhouse 2,,Complete,,,,,19820101,1,Temporary,143.07,
-010-02,ACAP,AD-90,Acadia House 3-2,,Complete,,,,,19890101,2,Wood,387.54,
-009-02,ACAP,AD-90,Acadia Housing - 2,,Complete,,,,,19880101,2,Wood,379.75,
-082,BOTG,AD-120,UBC Botanical Garden - Alpine Garden,,Complete,,,,,19750101,1,Temporary,33.24,
-138,ENSF,AD-127,Environmental Services Facility ,,Complete,,,,,19940101,1,Trailer,39.07,
-009-19,ACAP,AD-90,Acadia Housing - 19,,Complete,,,,,19880101,3,Wood,1450.5,
-011,ACOM,AD-91,Acadia Community Centre,,Complete,,,,,19890101,2,Wood,835.6700000000001,
-007-01,FAIR,AD-817,Fairview Housing 1,,Complete,,,,,19850101,3,Wood,526.97,
-065,BIOL,AD-111,Biological Sciences Building - West,BIOL,Complete,,,,RENEW,19700101,5,Concrete,7846.25,
-014-3,ACAP,AD-90,Acadia Row 3,,Complete,,,,,19580101,3,Wood,594.71,
-023,ANGU,AD-98,Henry Angus Building,ANGU,Complete,,,,,19650101,10,Concrete,11608.9,
-068,BIOL,AD-111,Biological Sciences Building - South,BIOL,Complete,,,,RENEW,19570101,6,Concrete,4884.97,
-447,CHEM,AD-125,Chemistry Building - A,CHEM,Complete,,,,,19890101,6,Concrete,7631.34,
-023-1,ANGU,AD-98,Henry Angus Building,ANGU,Complete,,,,,20100101,6,Concrete,4300.88,
-009-26,ACAP,AD-90,Acadia Housing - 26,,Complete,,,,,19880101,2,Wood,395.5,
-670,FARM,AD-112,UBC Farm Centre - Plant Science Field Building,,Complete,,,,,19750101,1,Wood,149.49,
-019,BRDF,AD-94,Bioenergy Research and Demonstration Facility,,Complete,,,,,20120910,2,Wood,2200.28,
-024-5,RESA,AD-100,Lower Mall Header House,,Complete,,,,,19670101,3,Concrete,629.38,
-009-08,ACAP,AD-90,Acadia Housing - 8,,Complete,,,,,19880101,3,Wood,841.15,
-036,TFPB,AD-103,Theatre-Film Production Building,TFPB,Complete,,,,,19250101,3,Wood,634.61,
-876-1,ANSO,AD-107,Anthropology and Sociology Building - Isabel Macinnes Hall,ANSO,Complete,,,,,19500101,3,Concrete,1724.54,
-052,PARF,AD-109,Fraser River Parkade,,Complete,,,,,19820101,4,Concrete,17169.66,
-079,BOTR,AD-113,UBC Botanical Garden Nursery - Greenhouse/Workshop,,Complete,,,,,19710101,1,Temporary,65.08,
-010-01,ACAP,AD-90,Acadia House 3-1,,Complete,,,,,19890101,2,Wood,431.62,
-007-24,FAIR,AD-817,Fairview Housing 24,,Complete,,,,,19850101,3,Wood,731.34,
-142,ENSF,AD-127,Environmental Services Facility - Waste Proc/Storage,,Complete,,,,,19860101,1,Concrete,199.02,
-009-09,ACAP,AD-90,Acadia Housing - 9,,Complete,,,,,19880101,2,Wood,411.19,
-026,ANGU,AD-98,Henry Angus Building,ANGU,Complete,,,,,19760101,6,Concrete,6658.32,
-009-20,ACAP,AD-90,Acadia Housing - 20,,Complete,,,,,19880101,2,Wood,294.21,
-112-1,BRCK,AD-121,Brock Hall,BRCK,Complete,,,,,19930101,3,Concrete,5532.26,
-007-03,FAIR,AD-817,Fairview Housing 3,,Complete,,,,,19850101,3,Wood,592.23,
-643,CACP,AD-247,Campus & Community Planning,,Complete,,,,,19520101,2,Wood,936.5600000000001,
-066,BIOL,AD-111,Biological Sciences Building - North,BIOL,Complete,,,,,19760101,5,Concrete,5347.56,
-007-22,FAIR,AD-817,Fairview Housing 22,,Complete,,,,,19850101,3,Wood,441.86,
-007-10,FAIR,AD-817,Fairview Housing 10,,Complete,,,,,19850101,3,Wood,442.73,
-017,OADM,AD-93,Old Administration Building,,Complete,,,,,19240101,3,Wood,2265.6,
-099,BOTG,AD-120,UBC Botanical Garden - Reception/Education,,Complete,,,,,19900101,2,Wood,294.07,
-009-06,ACAP,AD-90,Acadia Housing - 6,,Complete,,,,,19880101,2,Wood,380.23,
-010-05,ACAP,AD-90,Acadia House 3-5,,Complete,,,,,19890101,3,Wood,1785.41,
-022,LMRS,AD-97,Lower Mall Research Station,,Complete,,,,,19600101,5,Concrete,6405.77,
-010-10,ACAP,AD-90,Acadia House 3-10,,Complete,,,,,19890101,2,Wood,439.65000000000003,
-007-14,FAIR,AD-817,Fairview Housing 14,,Complete,,,,,19850101,3,Wood,441.86,
-009-05,ACAP,AD-90,Acadia Housing - 5,,Complete,,,,,19880101,2,Wood,401.09000000000003,
-044,AUDI,AD-104,Old Auditorium,AUDI,Complete,,,,RENEW,19250101,3,Wood,2633.51,
-048,ANSO,AD-107,Anthropology and Sociology Building,ANSO,Complete,,,,,19750101,2,Concrete,1765.9,
-007-09,FAIR,AD-817,Fairview Housing 9,,Complete,,,,,19850101,3,Wood,498.55,
-009-22,ACAP,AD-90,Acadia Housing - 22,,Complete,,,,,19880101,2,Wood,395.5,
-009-11,ACAP,AD-90,Acadia Housing - 11,,Complete,,,,,19880101,3,Wood,545.5,
-007-16,FAIR,AD-817,Fairview Housing 16,,Complete,,,,,19850101,3,Wood,732.24,
-009-15,ACAP,AD-90,Acadia Housing - 15,,Complete,,,,,19880101,3,Wood,1069.88,
-069,BIOL,AD-111,Biological Sciences Building - Workshop,BIOL,Complete,,,,,19760101,1,Concrete,184.94,
-007-19,FAIR,AD-817,Fairview Housing 19,,Complete,,,,,19850101,3,Wood,448.29,
-007-12,FAIR,AD-817,Fairview Housing 12,,Complete,,,,,19850101,3,Wood,731.4,
-075,FARM,AD-112,UBC Farm Centre - Yurt,YURT,Complete,,,,,20140101,1,Temporary,65.19,
-051,BARN,AD-108,The Barn,,Complete,,,,,19250101,2,Hut,304.32,
-876-2,ANSO,AD-107,Anthropology and Sociology Building - Anne Wesbrook Hall,ANSO,Complete,,,,,19500101,3,Concrete,1642.06,
-114,BRKC,AD-0,Brock Commons - Tallwood House,,Complete,,,,,20160518,0,TBD,14507.460000000001,
-009-03,ACAP,AD-90,Acadia Housing - 3,,Complete,,,,,19880101,2,Wood,200.92000000000002,
-387,FARM,AD-112,UBC Farm Centre - Greenhouse,,Complete,,,,,19900101,1,Temporary,118.02,
-009-07,ACAP,AD-90,Acadia Housing - 7,,Complete,,,,,19880101,3,Wood,646.69,
-121-1,BUCH,AD-123,Buchanan A,BUCH,Complete,,,,RENEW,19580101,2,Concrete,3019.78,
-069-1,BIOL,AD-111,Biological Sciences Building - Workshop - Addition 1,BIOL,Complete,,,,,19800101,1,Concrete,169.66,
-009-10,ACAP,AD-90,Acadia Housing - 10,,Complete,,,,,19880101,3,Wood,654.2,
-718,VIRT,AD-310,Virtuoso,,Complete,HSGN,,,,20161123,0,Concrete,16465.66,0
-141,ENSF,AD-127,Environmental Services Facility - Solvent Storage Area,,Complete,,,,,19730101,0,Concrete,,286
-077-1,BOTR,AD-113,UBC Botanical Garden Nursery - Greenhouse,,Complete,,,,,19820101,1,Temporary,636.12,
-014-2,ACAP,AD-90,Acadia Row 2,,Complete,,,,,19580101,3,Wood,594.71,
-007-17,FAIR,AD-817,Fairview Housing 17,,Complete,,,,,19850101,3,Wood,441.86,
-007-06,FAIR,AD-817,Fairview Housing 6,,Complete,,,,,19850101,3,Wood,442.73,
-144,CHEM,AD-125,Chemistry Building - C,CHEM,Complete,,,,,19630101,6,Concrete,3560.58,
-389,FARM,AD-112,UBC Farm Centre - Forestry Field House,,Complete,,,,,19800101,1,Wood,193.76,
-137,COMP,AD-126,Composting Facility,,Complete,,,,,20040101,1,Steel,185.34,
-863-2,AUDX,AD-105,Auditorium Annex B,AUDX,Complete,,,,,19690101,3,Temporary,691.83,
-020-1,BRIM,AD-95,The Brimacombe Building - Quantum Matter Institute,BRIM,Complete,,,,,20170501,7,Concrete,4977.27,
-009-17,ACAP,AD-90,Acadia Housing - 17,,Complete,,,,,19880101,3,Wood,880.89,
-014-1,ACAP,AD-90,Acadia Row 1,,Complete,,,,,19580101,3,Wood,594.71,
-010-07,ACAP,AD-90,Acadia House 3-7,,Complete,,,,,19890101,3,Wood,1232.55,
-097,BOTG,AD-120,UBC Botanical Garden,,Complete,,,,,19900101,1,Wood,150.06,
-045,AUDX,AD-105,Auditorium Annex A,AUDX,Complete,,,,,19690101,2,Temporary,1738.96,
-091,BOTG,AD-120,UBC Botanical Garden - Garden Pavilion,,Complete,,,,,19810101,2,Wood,337.37,
-007-30,FAIR,AD-817,Fairview Housing 30,,Complete,,,,,19850101,3,Wood,442.33,
-009-13,ACAP,AD-90,Acadia Housing - 13,,Complete,,,,,19880101,3,Wood,1515.08,
-076,BOTG,AD-120,UBC Botanical Garden - Scholar's Retreat,,Complete,,,,,19860101,1,Wood,109.46000000000001,
-010-03,ACAP,AD-90,Acadia House 3-3,,Complete,,,,,19890101,2,Wood,431.62,
-146,ENSF,AD-127,Environmental Services Facility - Natural Gas Storage,,Complete,,,,,20141107,1,Trailer,,
-122-1,BUCH,AD-123,Buchanan D,BUCH,Complete,,,,RENEW,19600101,4,Concrete,4680.8,
-098,BOTG,AD-120,UBC Botanical Garden - Campbell Building,,Complete,,,,,19900101,2,Wood,585.95,
-009-12,ACAP,AD-90,Acadia Housing - 12,,Complete,,,,,19880101,3,Wood,1516.09,
-057,CFCM,AD-110,Centre for Comparative Medicine ,,Complete,,,,,20111215,1,Concrete,10367.28,
-036-1,TFPB,AD-103,Theatre-Film Production Building - Annex,TFPX,Complete,,,,,19550101,1,Temporary,137.5,
-007-08,FAIR,AD-817,Fairview Housing 8,,Complete,,,,,19850101,3,Wood,496.63,
-009-04,ACAP,AD-90,Acadia Housing - 4,,Complete,,,,,19880101,3,Wood,679.39,
-007-28,FAIR,AD-817,Fairview Housing 28,,Complete,,,,,19850101,3,Wood,732.26,
-122-2,BUCH,AD-123,Buchanan E,BUCH,Complete,,,,,19600101,4,Concrete,2024.8600000000001,
-094,BOTG,AD-120,UBC Botanical Garden - Workshop (Trailer),,Complete,,,,,19760101,1,Temporary,109.52,
-007-34,FAIR,AD-817,Fairview Housing 34,,Complete,,,,,19850101,3,Wood,592.23,
-007-27,FAIR,AD-817,Fairview Housing 27,,Complete,,,,,19850101,3,Wood,496.63,
-100,BOTG,AD-120,UBC Botanical Garden - Lookout Tower,,Complete,,,,,19900101,1,Wood,25.26,
-077-2,BOTR,AD-113,UBC Botanical Garden Nursery - Shadehouse,,Complete,,,,,19820101,1,Temporary,501.68,
-470,ENSF,AD-127,Environmental Services Facility - Incinerator,,Complete,,,,,19690101,1,Concrete,104.13,
-121-2,BUCH,AD-123,Buchanan B,BUCH,Complete,,,,RENEW,19580101,6,Concrete,4853.67,
-009-16,ACAP,AD-90,Acadia Housing - 16,,Complete,,,,,19880101,2,Wood,395.52,
-024-3,RESA,AD-100,Lower Mall Header House - RSA3,,Complete,,,,,19650101,1,Temporary,313.88,
-013,KIDS,AD-92,Kids Club,,Complete,,,,,19850101,1,Trailer,475.04,
-007-02,FAIR,AD-817,Fairview Housing 2,,Complete,,,,,19850101,3,Wood,496.77000000000004,
-007-35,FAIR,AD-817,Fairview Housing 35,,Complete,,,,,19850101,3,Wood,442.5,
-010-06,ACAP,AD-90,Acadia House 3-6,,Complete,,,,,19890101,4,Wood,1222.4,
-007-25,FAIR,AD-817,Fairview Housing 25,,Complete,,,,,19850101,3,Wood,745.45,
-007-15,FAIR,AD-817,Fairview Housing 15,,Complete,,,,,19850101,3,Wood,504.91,
-148,CHEM,AD-125,Chemistry Building - B,CHEM,Complete,,,,,19590101,5,Concrete,5238.82,
-007-07,FAIR,AD-817,Fairview Housing 7,,Complete,,,,,19850101,3,Wood,732.27,
-007-05,FAIR,AD-817,Fairview Housing 5,,Complete,,,,,19850101,3,Wood,442.1,
-007-26,FAIR,AD-817,Fairview Housing 26,,Complete,,,,,19850101,3,Wood,742.35,
-090,BOTR,AD-113,UBC Botanical Garden Nursery - Workshop,,Complete,,,,,19800101,1,Temporary,512.35,
-009-24,ACAP,AD-90,Acadia Housing - 24,,Complete,,,,,19880101,2,Wood,395.5,
-029,CACP,AD-247,Campus & Community Planning 2,,Complete,,,,,19470101,2,Wood,452.40000000000003,
-002-1,ACAP,AD-90,Acadia Park Highrise,,Complete,,,,,19670101,17,Concrete,8555.57,
-020,BRIM,AD-95,The Brimacombe Building,BRIM,Complete,,,,,19950101,7,Concrete,8678.26,
-009-25,ACAP,AD-90,Acadia Housing - 25,,Complete,,,,,19880101,2,Wood,379.7,
-007-11,FAIR,AD-817,Fairview Housing 11,,Complete,,,,,19850101,3,Wood,744.9,
-007-18,FAIR,AD-817,Fairview Housing 18,,Complete,,,,,19850101,3,Wood,443.28000000000003,
-010-08,ACAP,AD-90,Acadia House 3-8,,Complete,,,,,19890101,3,Wood,1124.82,
-007-20,FAIR,AD-817,Fairview Housing 20,,Complete,,,,,19850101,3,Wood,442.74,
-007-33,FAIR,AD-817,Fairview Housing 33,,Complete,,,,,19850101,3,Wood,498.55,
-143,ENSF,AD-127,Environmental Services Facility - PCB Eqmt Storage,,Complete,,,,,19890101,0,Temporary,,118
-140,CHEM,AD-125,Chemistry Building - Storage,,Complete,,,,,19560101,1,Concrete,72.01,
-007-29,FAIR,AD-817,Fairview Housing 29,,Complete,,,,,19850101,3,Wood,442.25,
-880,ANSO,AD-107,Anthropology and Sociology Building - Mary Murrin Hall,ANSO,Complete,,,,,19560101,3,Concrete,1087.58,
-028,LASR,AD-101,Frederic Lasserre Building,LASR,Complete,,,,,19620101,5,Concrete,4571.84,
-009-14,ACAP,AD-90,Acadia Housing - 14,,Complete,,,,,19880101,3,Wood,924.5,
-007-13,FAIR,AD-817,Fairview Housing 13,,Complete,,,,,19850101,3,Wood,732.26,
-078,BOTR,AD-113,UBC Botanical Garden Nursery - Lunchroom,,Complete,,,,,19710101,1,Temporary,51.910000000000004,
-007-04,FAIR,AD-817,Fairview Housing 4,,Complete,,,,,19850101,3,Wood,732.26,
-009-21,ACAP,AD-90,Acadia Housing - 21,,Complete,,,,,19880101,2,Wood,379.97,
-010-09,ACAP,AD-90,Acadia House 3-9,,Complete,,,,,19890101,3,Wood,1090.31,
-071-1,FARM,AD-112,UBC Farm Centre - Botany Greenhouse 1,,Complete,,,,,19820101,1,Temporary,104.10000000000001,
-139,ENSF,AD-127,Environmental Services Facility - Office,,Complete,,,,,19930101,1,Trailer,29.6,
-010-04,ACAP,AD-90,Acadia House 3-4,,Complete,,,,,19890101,2,Wood,402.55,
-007-31,FAIR,AD-817,Fairview Housing 31,,Complete,,,,,19850101,3,Wood,732.25,
-009-01,ACAP,AD-90,Acadia Housing - 1,,Complete,,,,,19880101,3,Wood,646.67,
-136,CHEM,AD-125,Chemistry Building - E,CHEM,Complete,,,,RENEW,19620101,5,Concrete,2796.58,
-069-2,BIOL,AD-111,Biological Sciences Building - Workshop - Addition 2,BIOL,Complete,,,,,19940101,1,Concrete,354.92,
-113,BRKX,AD-121,Brock Hall Annex,BRKX,Complete,,,,,19560101,3,Concrete,2100.43,
+REC_ID,BLDG_ID,ADD_ID,NAME,CLASS_CODE,STATUS,NOTES,DATE_BUILT,COUNT_FLOORS,CONSTRUCTION_TYPE,GBA,GBA_ESTIMATE
+029,CACP,AD-247,Campus & Community Planning - 2,,Complete,,19470101,2,Wood,452.40000000000003,
+450-1,ACAH,AD-191,Acadia House - 2700,,Complete,,19910101,2,Wood,1086.98,
+450-3,ACAH,AD-191,Acadia House - 2720,,Complete,,19910101,2,Wood,1086.98,
+450-2,ACAH,AD-191,Acadia House - 2710,,Complete,,19910101,2,Wood,680.82,
+026,ANGU,AD-98,Henry Angus Building - Addition,ANGU,Complete,,19760101,6,Concrete,6658.32,
+010-01,ACAP,AD-90,Acadia Park Townhouses 3-1,,Complete,,19890101,2,Wood,431.62,
+010-10,ACAP,AD-90,Acadia Park Townhouses 3-10,,Complete,,19890101,2,Wood,439.65000000000003,
+081,BOOK,AD-116,Bookstore & Security,,Complete,,19830101,2,Concrete,6892.97,
+010-02,ACAP,AD-90,Acadia Park Townhouses 3-2,,Complete,,19890101,2,Wood,387.54,
+643,CACP,AD-247,Campus & Community Planning - 1,,Complete,,19520101,2,Wood,936.5600000000001,
+081-2,BOOK,AD-117,Bookstore - Networks of Centres of Excellence,,Complete,,19910101,4,Concrete,3160.15,
+010-03,ACAP,AD-90,Acadia Park Townhouses 3-3,,Complete,,19890101,2,Wood,431.62,
+750,SOWK,AD-258,Jack Bell Building for the School of Social Work,SOWK,Complete,,19920101,5,Steel,2712.14,
+760,RUGB,AD-259,Rugby Pavilion,,Complete,,19630101,1,Wood,366.91,
+766,MARF,AD-260,Material Recovery Facility,,Complete,,20170308,0,Temporary,,
+014-1,ACAP,AD-90,Presidents Row - 1,,Complete,,19580101,3,Wood,594.71,
+122-1,BUCH,AD-123,Buchanan Building - Block D,BUCH,Complete,RENEW,19600101,4,Concrete,4680.8,
+010-07,ACAP,AD-90,Acadia Park Townhouses 3-7,,Complete,,19890101,3,Wood,1232.55,
+121-2,BUCH,AD-123,Buchanan Building - Block B Dean's Office,BUCH,Complete,RENEW,19580101,6,Concrete,4853.67,
+010-09,ACAP,AD-90,Acadia Park Townhouses 3-9,,Complete,,19890101,3,Wood,1090.31,
+010-08,ACAP,AD-90,Acadia Park Townhouses 3-8,,Complete,,19890101,3,Wood,1124.82,
+014-2,ACAP,AD-90,Presidents Row - 2,,Complete,,19580101,3,Wood,594.71,
+014-3,ACAP,AD-90,Presidents Row - 3,,Complete,,19580101,3,Wood,594.71,
+616-6,WSTR,AD-544,Westchester - 6,,Complete,,20041001,3,Wood,,0
+616-7,WSTR,AD-544,Westchester - 7,,Complete,,20040101,3,Wood,,0
+617,GARD,AD-38,Gardenia House,,Complete,,20040101,5,Wood,7431.13,
+618,HAWT,AD-418,Hawthorn Green,,Complete,,20040101,0,Wood,,1728
+449-1,FNH,AD-189,Food Nutrition Health - Adddition,FNH,Complete,,20050101,3,Concrete,753.27,
+184-1,MINL,AD-134,Coal and Mineral Processing Lab - Keevil,,Complete,Check name and SHort name,20110101,3,Concrete,739.72,
+434,RUGC,AD-185,Gerald McGavin Rugby Centre,,Complete,,20130108,2,Concrete,541.86,
+199,DASB,AD-136,David Strangway Building,,Complete,,20050101,7,Mixed,12209.39,
+198,MCDN,AD-135,JB Macdonald Building,MCDN,Complete,,19670101,4,Concrete,7222.1900000000005,
+440,MUSM,AD-1036,Mortuary House,,Complete,,19610101,1,Temporary,36.300000000000004,
+435,NSDC,AD-307,National Soccer Development Centre,,Complete,,20160518,0,TBD,3733.08,
+184,MINL,AD-134,Coal and Mineral Processing Lab,MINL,Complete,,19810101,4,Concrete,2148.91,
+490-1,DLAM,AD-204,David Lam Management Research Centre - White Spot,,Complete,,19920101,1,Concrete,927.0600000000001,
+490-2,DLAM,AD-204,David Lam Management Research Centre - Learning Centre,DLAM,Complete,,19920101,1,Concrete,1261.6200000000001,
+436,MUSM,AD-1036,Haida House,,Complete,,19610101,1,Temporary,142.81,
+437,STAC,AD-186,UBC Stadium Academic Centre,,Complete,,20160205,1,Temporary,160.79,
+438,GUNN,AD-317,Chan Gunn Pavilion,GUNN,Complete,,20160826,2,Concrete,1860.68,0
+445,HILL,AD-187,Hillel House,,Complete,,20100101,4,Concrete,1237.3500000000001,
+619,JOUR,AD-39,Journey,,Complete,,20050101,4,Wood,,8531
+629,TAMK,AD-44,Tamarack House,,Complete,,20060101,5,Wood,10562.03,
+620-5,LOGN,AD-450,Logan Lane - 5,,Complete,,20050101,0,Wood,,0
+630,LGCY,AD-45,Legacy,,Complete,,20070101,4,Wood,,7435
+785,STAD,AD-269,Thunderbird Stadium,STAD,Complete,,19670101,3,Concrete,3155.54,
+451,SOPR,AD-6,Sopron House,,Complete,,19910101,5,Wood,6586.91,
+456,GREN,AD-193,Horticulture Building,GREN,Complete,,19480101,2,Wood,1752.64,
+504,CHAT,AD-11,The Chatham,,Complete,,19950427,18,Concrete,,12189
+620-1,LOGN,AD-450,Logan Lane - 1,,Complete,,20050101,0,Wood,,0
+620-2,LOGN,AD-450,Logan Lane - 2,,Complete,,20050101,0,Wood,,0
+620-3,LOGN,AD-450,Logan Lane - 3,,Complete,,20050101,0,Wood,,0
+620-4,LOGN,AD-450,Logan Lane - 4,,Complete,,20050101,0,Wood,,0
+458,DRIX,AD-194,Donald Rix Building,,Complete,,20000101,5,Concrete,5008.38,
+621,CLEM,AD-40,Clement's Green,,Complete,,20060101,0,Wood,,72941
+901,SWNG,AD-302,Swing Space,SWNG,Complete,,20050101,5,Concrete,5093.91,
+627,OBCC,AD-43,Old Barn Community Centre,,Complete,,20070101,3,Wood,1117.68,
+633,CIRS,AD-243,Centre for Interactive Research on Sustainability (CIRS),CIRS,Complete,,20110101,6, Mixed,5434.34,
+767,SRES,AD-261,Staging Environmental Research Centre,,Complete,,20100101,1,Steel,321.41,
+768,BONR,AD-262,Building Operations Nursery,,Complete,,20090101,1,Wood,1315.72,
+678,TELS,AD-254,Telus Hub,,Complete,,20170308,0,(null),,58
+687,GRAT,AD-48,Granite Terrace,,Complete,,20090101,2,Wood,15336.220000000001,
+622-1,SOMS,AD-515,Somerset - 1,,Complete,,20050101,2,Wood,,0
+622-2,SOMS,AD-515,Somerset - 2,,Complete,,20050101,2,Wood,,0
+496,LIUG,AD-206,Liu Institute for Global Issues,LIU,Complete,,20000101,4,Concrete,1712.93,
+461,BIRC,AD-195,Biomedical Research Centre,,Complete,,19870101,4,Concrete,4529.96,
+500-1,SAND,AD-7,Sandringham - 1,,Complete,,19940919,2,Wood,883.66,0
+500-10,SAND,AD-7,Sandringham - 10,,Complete,,19940919,2,Wood,869.1,
+462,PUDP,AD-196,Purdy Pavilion,,Complete,,19770101,8,Concrete,16266.25,
+503,STJA,AD-10,St. James,,Complete,,19940405,4,Wood,,14945
+009-12,ACAP,AD-90,Acadia Park Townhouses - 12,,Complete,,19880101,3,Wood,1516.09,
+009-26,ACAP,AD-90,Acadia Park Townhouses - 26,,Complete,,19880101,2,Wood,395.5,
+009-13,ACAP,AD-90,Acadia Park Townhouses - 13,,Complete,,19880101,3,Wood,1515.08,
+337,FNLH,AD-165,First Nations Longhouse,FNLH,Complete,,19930101,2,Wood,2156.21,
+770-1,SPPA,AD-266,Spirit Park Apartments - 2705,,Complete,,19930101,2,Concrete,1173.4,
+623,REFL,AD-41,Reflections,,Complete,,20050101,4,Wood,,8257
+625,CUNN,AD-241,George Cunningham Building ,CUNN,Complete,,19600101,6,Concrete,2726.27,
+770-3,SPPA,AD-266,Spirit Park Apartments - 2725,,Complete,,19930101,2,Concrete,1173.39,
+009-01,ACAP,AD-90,Acadia Park Townhouses - 1,,Complete,,19880101,3,Wood,646.67,
+624,CUNN,AD-241,George Cunningham Building - Addition,CUNN,Complete,,19710101,6,Concrete,2173.93,
+626,PROM,AD-42,Promontory,,Complete,,20050101,0,Concrete,,12170
+628,NINE,AD-489,Nine on the Park,,Complete,,20070101,0,Wood,,2030
+007-00,FAIR,AD-817,Fairview Crescent Residence - Parking,,Complete,,19850101,1,Wood,4850.76,
+007-01,FAIR,AD-817,Fairview Crescent Residence - 1,,Complete,,19850101,3,Wood,526.97,
+007-02,FAIR,AD-817,Fairview Crescent Residence - 2,,Complete,,19850101,3,Wood,496.77000000000004,
+007-03,FAIR,AD-817,Fairview Crescent Residence - 3,,Complete,,19850101,3,Wood,592.23,
+007-27,FAIR,AD-817,Fairview Crescent Residence - 27,,Complete,,19850101,3,Wood,496.63,
+007-28,FAIR,AD-817,Fairview Crescent Residence - 28,,Complete,,19850101,3,Wood,732.26,
+007-29,FAIR,AD-817,Fairview Crescent Residence - 29,,Complete,,19850101,3,Wood,442.25,
+007-04,FAIR,AD-817,Fairview Crescent Residence - 4,,Complete,,19850101,3,Wood,732.26,
+490,DLAM,AD-204,David Lam Management Research Centre,DLAM,Complete,,19920101,5,Concrete,4251.27,
+007-30,FAIR,AD-817,Fairview Crescent Residence - 30,,Complete,,19850101,3,Wood,442.33,
+007-31,FAIR,AD-817,Fairview Crescent Residence - 31,,Complete,,19850101,3,Wood,732.25,
+007-35,FAIR,AD-817,Fairview Crescent Residence - 35,,Complete,,19850101,3,Wood,442.5,
+009-02,ACAP,AD-90,Acadia Park Townhouses - 2,,Complete,,19880101,2,Wood,379.75,
+007-05,FAIR,AD-817,Fairview Crescent Residence - 5,,Complete,,19850101,3,Wood,442.1,
+007-06,FAIR,AD-817,Fairview Crescent Residence - 6,,Complete,,19850101,3,Wood,442.73,
+007-07,FAIR,AD-817,Fairview Crescent Residence - 7,,Complete,,19850101,3,Wood,732.27,
+007-08,FAIR,AD-817,Fairview Crescent Residence - 8,,Complete,,19850101,3,Wood,496.63,
+007-32,FAIR,AD-817,Fairview Crescent Residence - 32,,Complete,,19850101,3,Wood,498.55,
+130,CHAN,AD-124,Chan Centre,CHAN,Complete,,19970101,6,Concrete,8214.04,
+007-33,FAIR,AD-817,Fairview Crescent Residence - 33,,Complete,,19850101,3,Wood,498.55,
+007-34,FAIR,AD-817,Fairview Crescent Residence - 34,,Complete,,19850101,3,Wood,592.23,
+009-03,ACAP,AD-90,Acadia Park Townhouses - 3,,Complete,,19880101,2,Wood,200.92000000000002,
+795,NEST,AD-273,AMS Nest,NEST,Complete,,20150101,6,CONCRETE,20282.3,0
+009-04,ACAP,AD-90,Acadia Park Townhouses - 4,,Complete,,19880101,3,Wood,679.39,
+009-22,ACAP,AD-90,Acadia Park Townhouses - 22,,Complete,,19880101,2,Wood,395.5,
+009-05,ACAP,AD-90,Acadia Park Townhouses - 5,,Complete,,19880101,2,Wood,401.09000000000003,
+009-06,ACAP,AD-90,Acadia Park Townhouses - 6,,Complete,,19880101,2,Wood,380.23,
+009-23,ACAP,AD-90,Acadia Park Townhouses - 23,,Complete,,19880101,2,Wood,411.09000000000003,
+082,BOTG,AD-120,UBC Botanical Garden - Alpine Garden,,Complete,,19750101,1,Temporary,33.24,
+051,BARN,AD-108,The Barn,,Complete,,19250101,2,Hut,304.32,
+079,BOTR,AD-113,UBC Botanical Garden Nursery - Greenhouse/Workshop,,Complete,,19710101,1,Temporary,65.08,
+078,BOTR,AD-113,UBC Botanical Garden Nursery - Lunchroom,,Complete,,19710101,1,Temporary,51.910000000000004,
+090,BOTR,AD-113,UBC Botanical Garden Nursery - Workshop,,Complete,,19800101,1,Temporary,512.35,
+009-07,ACAP,AD-90,Acadia Park Townhouses - 7,,Complete,,19880101,3,Wood,646.69,
+538,AYOH,AD-316,AYO Home,,Complete,,20160107,2,Wood,159.99,0
+009-08,ACAP,AD-90,Acadia Park Townhouses - 8,,Complete,,19880101,3,Wood,841.15,
+009-24,ACAP,AD-90,Acadia Park Townhouses - 24,,Complete,,19880101,2,Wood,395.5,
+009-09,ACAP,AD-90,Acadia Park Townhouses - 9,,Complete,,19880101,2,Wood,411.19,
+596,ACDY,AD-33,Academy,,Complete,,20140310,21,Concrete,22988.420000000002,
+009-10,ACAP,AD-90,Acadia Park Townhouses - 10,,Complete,,19880101,3,Wood,654.2,
+009-25,ACAP,AD-90,Acadia Park Townhouses - 25,,Complete,,19880101,2,Wood,379.7,
+009-11,ACAP,AD-90,Acadia Park Townhouses - 11,,Complete,,19880101,3,Wood,545.5,
+007-09,FAIR,AD-817,Fairview Crescent Residence - 9,,Complete,,19850101,3,Wood,498.55,
+007-10,FAIR,AD-817,Fairview Crescent Residence - 10,,Complete,,19850101,3,Wood,442.73,
+017,OADM,AD-93,Old Administration Building,,Complete,,19240101,3,Wood,2265.6,
+048,ANSO,AD-107,Anthropology and Sociology Building,ANSO,Complete,,19750101,2,Concrete,1765.9,
+076,BOTG,AD-120,UBC Botanical Garden - Scholar's Retreat,,Complete,,19860101,1,Wood,109.46000000000001,
+036,TFPB,AD-103,Theatre-Film Production Building,TFPB,Complete,,19250101,3,Wood,634.61,
+007-11,FAIR,AD-817,Fairview Crescent Residence - 11,,Complete,,19850101,3,Wood,744.9,
+616-5,WSTR,AD-544,Westchester - 5,,Complete,,20040101,3,Wood,,0
+007-12,FAIR,AD-817,Fairview Crescent Residence - 12,,Complete,,19850101,3,Wood,731.4,
+007-13,FAIR,AD-817,Fairview Crescent Residence - 13,,Complete,,19850101,3,Wood,732.26,
+836,IONA,AD-281,Iona Building,IONA,Complete,,19290101,5,Concrete,8638.99,
+007-14,FAIR,AD-817,Fairview Crescent Residence - 14,,Complete,,19850101,3,Wood,441.86,
+007-15,FAIR,AD-817,Fairview Crescent Residence - 15,,Complete,,19850101,3,Wood,504.91,
+007-16,FAIR,AD-817,Fairview Crescent Residence - 16,,Complete,,19850101,3,Wood,732.24,
+007-17,FAIR,AD-817,Fairview Crescent Residence - 17,,Complete,,19850101,3,Wood,441.86,
+007-18,FAIR,AD-817,Fairview Crescent Residence - 18,,Complete,,19850101,3,Wood,443.28000000000003,
+606,TECH,AD-238,Technology Enterprise Facility (TEF) 3,,Complete,,20030101,9,Concrete,14622.93,
+612,MTIN,AD-239,MT Innovations,,Complete,,19850101,5,Concrete,7432.58,
+614,MBOL,AD-240,Bollert Hall,,Complete,,19500101,3,Concrete,1318.38,
+616-1,WSTR,AD-544,Westchester - 1,,Complete,,20040101,3,Wood,,0
+616-2,WSTR,AD-544,Westchester - 2,,Complete,,20040101,3,Wood,,0
+616-3,WSTR,AD-544,Westchester - 3,,Complete,,20040101,3,Wood,,0
+616-4,WSTR,AD-544,Westchester - 4,,Complete,,20040101,3,Wood,,0
+007-19,FAIR,AD-817,Fairview Crescent Residence - 19,,Complete,,19850101,3,Wood,448.29,
+007-20,FAIR,AD-817,Fairview Crescent Residence - 20,,Complete,,19850101,3,Wood,442.74,
+007-21,FAIR,AD-817,Fairview Crescent Residence - 21,,Complete,,19850101,3,Wood,732.27,
+007-22,FAIR,AD-817,Fairview Crescent Residence - 22,,Complete,,19850101,3,Wood,441.86,
+007-23,FAIR,AD-817,Fairview Crescent Residence - 23,,Complete,,19850101,3,Wood,732.3000000000001,
+007-24,FAIR,AD-817,Fairview Crescent Residence - 24,,Complete,,19850101,3,Wood,731.34,
+007-25,FAIR,AD-817,Fairview Crescent Residence - 25,,Complete,,19850101,3,Wood,745.45,
+007-26,FAIR,AD-817,Fairview Crescent Residence - 26,,Complete,,19850101,3,Wood,742.35,
+009-14,ACAP,AD-90,Acadia Park Townhouses - 14,,Complete,,19880101,3,Wood,924.5,
+010-04,ACAP,AD-90,Acadia Park Townhouses 3-4,,Complete,,19890101,2,Wood,402.55,
+009-15,ACAP,AD-90,Acadia Park Townhouses - 15,,Complete,,19880101,3,Wood,1069.88,
+009-16,ACAP,AD-90,Acadia Park Townhouses - 16,,Complete,,19880101,2,Wood,395.52,
+010-05,ACAP,AD-90,Acadia Park Townhouses 3-5,,Complete,,19890101,3,Wood,1785.41,
+009-17,ACAP,AD-90,Acadia Park Townhouses - 17,,Complete,,19880101,3,Wood,880.89,
+745,RITS,AD-68,Ritsumeikan-UBC House,RITS,Complete,,19920101,5,Wood,6763.33,
+009-18,ACAP,AD-90,Acadia Park Townhouses - 18,,Complete,,19880101,2,Wood,382.98,
+010-06,ACAP,AD-90,Acadia Park Townhouses 3-6,,Complete,,19890101,4,Wood,1222.4,
+747,PAPC,AD-257,Pulp and Paper Centre,,Complete,,19850101,4,Concrete,3317.19,
+009-19,ACAP,AD-90,Acadia Park Townhouses - 19,,Complete,,19880101,3,Wood,1450.5,
+009-20,ACAP,AD-90,Acadia Park Townhouses - 20,,Complete,,19880101,2,Wood,294.21,
+009-21,ACAP,AD-90,Acadia Park Townhouses - 21,,Complete,,19880101,2,Wood,379.97,
+023-1,ANGU,AD-98,Henry Angus Building - Classroom Addition,ANGU,Complete,,20100101,6,Concrete,4300.88,
+706,ULTM,AD-60,Ultima,,Complete,,20110101,6,Wood,7833.21,
+728,PREZ,AD-67,Norman MacKenzie House,,Complete,,19500101,3,Wood,969.52,
+728-1,PREZ,AD-67,Norman MacKenzie House - Garage,,Complete,,19830101,0,Wood,,89
+732,KENN,AD-256,Douglas Kenny Building,KENN,Complete,,19830101,5,Concrete,8741.79,
+313,KAIS,AD-160,Fred Kaiser Building,KAIS,Complete,,20050101,5,Concrete,11797.95,
+308,LSK,AD-157,The Leonard S. Klinck Building,LSK,Complete,,19470101,6,Concrete,9179.380000000001,
+308-1,LSK,AD-157,The Leonard S. Klinck Building - Addition,LSK,Complete,,19690101,2,Concrete,1014.87,
+409,THEA,AD-179,Thea Koerner House - Addition,,Complete,,19710101,3,Concrete,2015.8,
+314,BEBC,AD-161,Beaty Biodiversity Centre,,Complete,,20090101,4,Concrete,12060.93,
+316,AERL,AD-162,Aquatic Ecosystems Research Laboratory,AERL,Complete,,20050101,5,Concrete,5112.43,
+320,DSOM,AD-163,Dorothy Somerset Studios,DSOM,Complete,RENEW,19250101,2,Wood,1822.95,
+324,BINN,AD-164,B.C. Binning Studios,BINN,Complete,,19250101,2,Wood,1500.75,
+344,UCLL,AD-166,Leon and Thea Koerner University Centre,UCLL,Complete,,19580101,3,Concrete,3374.04,
+344-1,UCLL,AD-166,Leon and Thea Koerner University Centre - Addtion,UCLL,Complete,,19680101,2,Concrete,138.9,
+373,FPIN,AD-169,FPInnovations - Feric,,Complete,,19900101,3,Concrete,1936.41,
+433,TENN,AD-184,UBC Tennis Centre,,Complete,,20110101,1,Steel,8251.74,
+376,FRWO,AD-171,Frederic Wood Theatre,FRWO,Complete,,19630101,3,Concrete,2012.66,
+783-1,THUR,AD-70,Thunderbird Residence - B4,,Complete,,19950101,3,Concrete,1104.04,
+784,THUR,AD-70,Thunderbird Residence - C1,,Complete,,19950101,4,Concrete,4057.08,
+784-1,THUR,AD-70,Thunderbird Residence - C2,,Complete,,19950101,3,Concrete,1557.74,
+790-1,LIFE,AD-271,UBC Life Building - Addition 1,LIFE,Complete,,19810101,1,Concrete,295.56,
+790-2,LIFE,AD-271,UBC Life Building - Addition 2,LIFE,Complete,,19840101,1,Concrete,922.07,
+792,PARN,AD-272,North Parkade,,Complete,,19880101,5,Concrete,27293.81,
+876-1,ANSO,AD-107,Anthropology and Sociology Building - Isabel Macinnes Hall,ANSO,Complete,,19500101,3,Concrete,1724.54,
+876-2,ANSO,AD-107,Anthropology and Sociology Building - Anne Wesbrook Hall,ANSO,Complete,,19500101,3,Concrete,1642.06,
+880,ANSO,AD-107,Anthropology and Sociology Building - Mary Murrin Hall,ANSO,Complete,,19560101,3,Concrete,1087.58,
+028,LASR,AD-101,Frederic Lasserre Building,LASR,Complete,,19620101,5,Concrete,4571.84,
+387,FARM,AD-112,UBC Farm Centre - Greenhouse,,Complete,,19900101,1,Temporary,118.02,
+019,BRDF,AD-94,Bioenergy Research and Demonstration Facility,,Complete,,20120910,2,Wood,2200.28,
+782,THUR,AD-70,Thunderbird Residence - B2 Store,,Complete,Dif shape on CAD,19950101,4,Concrete,4019.25,
+782-A,THUR,AD-70,Thunderbird Residence - B2,,Complete,Dif shape on CAD,19950101,0,Concrete,,
+822-1,STJC,AD-278,St. John's College - 1,,Complete,,19970101,2,Wood,9050.23,
+789,MSUB,AD-270,Main Substation,,Complete,,19750101,1,Concrete,345.18,
+789-1,MSUB,AD-270,Main Substation - Addition,,Complete,,19830101,0,Concrete,,
+822-2,STJC,AD-278,St. John's College - 2,,Complete,,19970101,2,Wood,2424.51,
+804,CARY,AD-72,Carey Theological College,,Complete,,19600101,1,Concrete,563.44,
+790,LIFE,AD-271,UBC Life Building (Old SUB),LIFE,Complete,,19680101,4,Concrete,17903.56,
+500-5,SAND,AD-7,Sandringham - 5,,Complete,,19940919,2,Wood,806.75,
+500-6,SAND,AD-7,Sandringham - 6,,Complete,,19940919,2,Wood,806.75,
+500-7,SAND,AD-7,Sandringham - 7,,Complete,,19940919,2,Wood,1454.18,
+500-8,SAND,AD-7,Sandringham - 8,,Complete,,19940919,2,Wood,999.85,
+769,LPRC,AD-263,Library PARC,,Complete,,20150801,2, Mixed,2146.03,
+771,PGRA,AD-69,Point Grey Apartments ,,Complete,,19930101,5,Concrete,7183.55,
+774,SRC,AD-268,Student Recreation Centre (SRC),SRC,Complete,,19950101,3,Concrete,4963.27,
+057,CFCM,AD-110,Centre for Comparative Medicine ,,Complete,,20111215,1,Concrete,10367.28,
+024-3,RESA,AD-100,Lower Mall Header House - RSA3,,Complete,,19650101,1,Temporary,313.88,
+827-2,FOLI,AD-77,Folio - Duplex 2,,Complete,,20050101,3,Wood,,738
+827-3,FOLI,AD-77,Folio - Duplex 3,,Complete,,20050101,3,Wood,,735
+827-4,FOLI,AD-77,Folio - Duplex 4,,Complete,,20050101,4,Wood,,774
+826,FOLI,AD-77,Folio - TH,,Complete,,20060101,4,Wood,,598
+825-1,FOLI,AD-77,Folio - Cityhome 1,,Complete,,20060101,0,Wood,,232
+825-2,FOLI,AD-77,Folio - Cityhome 1,,Complete,,20060101,0,Wood,,214
+500-9,SAND,AD-7,Sandringham - 9,,Complete,,19940919,2,Wood,1454.34,
+543,VAPS,AD-19,Vanier Pump Station,,Complete,,19860101,1,Temporary,13.93,
+540-2,TOTM,AD-223,Totem Park Residence - 6 Haida/Salish,,Complete,,19640101,7,Concrete,8666.12,
+540-3,TOTM,AD-223,Totem Park Residence - 2 Dene/Nootka,,Complete,,19640101,7,Concrete,9013.87,
+502-1,THAC,AD-9,Thames Court - 1,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-10,THAC,AD-9,Thames Court - 10,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-11,THAC,AD-9,Thames Court - 11,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+593-1,TAPS,AD-235,Tapestry,,Complete,,20100101,8,Concrete,17035.11,15974
+376-1,FRWO,AD-171,Frederic Wood Theatre - Addition,FRWO,Complete,,19680101,3,Concrete,886.47,
+432,TENN,AD-184,UBC Tennis Centre - Tennis Bubble,,Complete,,19970101,1,Steel,2409.14,
+463,ACU,AD-197,Koerner Pavilion,ACU,Complete,,19800101,6,Concrete,40372.25,
+465,CBH,AD-198,Djavad Mowafaghian Centre for Brain Health,CBH,Complete,Add GRP_ID,20140227,7,Concrete,14395.300000000001,
+467,PARH,AD-199,Health Sciences Parkade,,Complete,,19800101,5,Concrete,31480.61,
+472,INTL,AD-200,International House,,Complete,,19580101,4,Concrete,1141.68,
+473,WOOD,AD-1012,P. A. Woodward Instructional Resources Centre,WOOD,Complete,,19720101,8,Concrete,10565.62,
+475,WOOD,AD-1012,P. A. Woodward Instructional Resources Centre - Theatre,WOOD,Complete,,19780101,1,Concrete,276.52,
+536-1,WLIB,AD-220,Woodward Library - Addition,,Complete,,19700101,0,Concrete,,
+500-2,SAND,AD-7,Sandringham - 2,,Complete,,19940919,2,Wood,883.5600000000001,
+500-3,SAND,AD-7,Sandringham - 3,,Complete,,19940919,2,Wood,808.09,
+500-4,SAND,AD-7,Sandringham - 4,,Complete,,19940919,2,Wood,808.09,
+843,TRMF,AD-283,TRIUMF - Stores Building,,Complete,,20030101,2,TBD,722.65,
+853,TRMF,AD-283,TRIUMF - Accelerator,,Complete,,20030101,5,Concrete,27014.74,
+377-2,MARN,AD-172,Marine Drive Residence - 2,,Complete,,20060101,6,Wood,7596.45,
+377-4,MARN,AD-172,Marine Drive Residence - 4,,Complete,,20080101,20,Concrete,14081.06,
+377-5,MARN,AD-172,Marine Drive Residence - 5,,Complete,,20080101,18,Concrete,12279.52,
+377-6,MARN,AD-172,Marine Drive Residence - 6,,Complete,,20070101,8,Wood,11502.550000000001,
+002-1,ACAP,AD-90,Acadia Park Highrise,,Complete,,19670101,17,Concrete,8555.57,
+011,ACOM,AD-91,Acadia Community Centre,,Complete,,19890101,2,Wood,835.6700000000001,
+020,BRIM,AD-95,The Brimacombe Building,BRIM,Complete,,19950101,7,Concrete,8678.26,
+377-3,MARN,AD-172,Marine Drive Residence - Commonsblock,,Complete,,20090101,2,Wood,1525.54,
+377-1,MARN,AD-172,Marine Drive Residence - 1 Simon Lee,,Complete,,20060101,20,Concrete,12337.68,
+380,OFRH,AD-173,Old Fire Hall,,Complete,,19260101,2,Wood,377.82,
+069-2,BIOL,AD-111,Biological Sciences Building - Workshop - Addition 2,BIOL,Complete,,19940101,1,Concrete,354.92,
+863-1,WMAX,AD-290,West Mall Annex,WMAX,Complete,,19690101,2,Temporary,1961.77,
+385,WDPL,AD-174,Wood Drying Laboratory,,Complete,,19900101,2,Wood,283.32,
+069-1,BIOL,AD-111,Biological Sciences Building - Workshop - Addition 1,BIOL,Complete,,19800101,1,Concrete,169.66,
+386,MCML,AD-175,HR MacMillan Building,MCML,Complete,,19670101,5,Concrete,14341.79,
+394,GASG,AD-176,Gas Gun Facility,,Complete,,19890101,1,Wood,203.13,
+401,GEOG,AD-177,Geography Building,GEOG,Complete,,19250101,3,Wood,5496.76,
+408,THEA,AD-179,Thea Koerner House,,Complete,,19610101,5,Concrete,2124.77,
+500-13,SAND,AD-7,Sandringham - 13,,Complete,,19940919,2,Wood,752.98,
+501-12,WHAM,AD-8,West Hampstead - Building 1,,Complete,,19931208,4,Wood,,0
+476,NITO,AD-201,Nitobe Gardens,,Complete,,19590101,1,Temporary,81.46000000000001,
+478,CHOI,AD-202,C. K. Choi Building,CHOI,Complete,,19960101,4,Wood,2709.58,
+500-11,SAND,AD-7,Sandringham - 11,,Complete,,19940919,2,Wood,869.1,
+501-3,WHAM,AD-8,West Hampstead - Block 3,,Complete,,19931208,4,Wood,846.58,
+412,GRNC,AD-5,Green College - D,GRHS,Complete,,19300101,3,Wood,1577.23,
+575,MUSC,AD-229,Music,MUSC,Complete,,19670101,5,Concrete,6593.33,
+591,NRCI,AD-234,NRC Institute for Fuel Cell Innovation,,Complete,,20060101,3,Concrete,,6598
+120,BUTO,AD-122,Buchanan Tower,BUTO,Complete,,19720101,15,Concrete,9985.23,
+590,UHIL,AD-31,University Hill Secondary School,,Complete,,19950101,0,Steel,11637.33,6000
+501-1,WHAM,AD-8,West Hampstead - Block 1,,Complete,,19931208,4,Wood,853.76,
+501-10,WHAM,AD-8,West Hampstead - Block 10,,Complete,,19931208,4,Wood,,
+501-11,WHAM,AD-8,West Hampstead - Block 11,,Complete,,19931208,4,Wood,,0
+501-2,WHAM,AD-8,West Hampstead - Block 2,,Complete,,19931208,4,Wood,1109.88,
+594,WSBT,AD-32,The Wesbrook,,Complete,,20090101,0,Concrete,,13011
+817-4,STAH,AD-275,St. Andrew's Hall,,Complete,,20120502,0,Wood,,334
+565,TOTM,AD-223,Totem Park Residence - 3 Kwakiutl/Shuswap,,Complete,,19680101,7,Concrete,9026.800000000001,
+817-2,STAH,AD-275,St. Andrew's Hall - Walker House,,Complete,,19960101,4,Wood,,2771
+846,BIAC,AD-284,Biological Archive Centre,,Complete,,20080101,1,Steel,500.84000000000003,
+069,BIOL,AD-111,Biological Sciences Building - Workshop,BIOL,Complete,,19760101,1,Concrete,184.94,
+020-1,BRIM,AD-95,The Brimacombe Building - Quantum Matter Institute,BRIM,Complete,,20170501,7,Concrete,4977.27,
+718,VIRT,AD-310,Virtuoso,,Complete,,20161123,0,Concrete,16465.66,0
+413,GRNC,AD-5,Green College - A North,,Complete,,19940101,3,Wood,744.21,
+500-12,SAND,AD-7,Sandringham - 12,,Complete,,19940919,2,Wood,660.84,
+414,GRNC,AD-5,Green College - Kitchen,,Complete,,19940101,1,Wood,50.03,
+415,GRNC,AD-5,Green College - A South,,Complete,,19940101,4,Wood,1272.91,
+817-1,STAH,AD-275,St. Andrew's Hall - Ross & Mclean House,,Complete,,19960101,4,Wood,,1897
+416,GRNC,AD-5,Green College - B,,Complete,,19940101,4,Wood,1180.64,
+417,GRNC,AD-5,Green College - E,,Complete,,19940101,3,Wood,236.83,
+501-4,WHAM,AD-8,West Hampstead - Block 4,,Complete,,19931208,4,Wood,1096.55,
+419,GRNC,AD-5,Green College - Principal's Residence C,,Complete,,19940101,3,Wood,302.11,
+418,GRNC,AD-5,Green College - Administration F,,Complete,,19940101,2,Wood,187.03,
+501-5,WHAM,AD-8,West Hampstead - Block 5,,Complete,,19931208,4,Wood,837.37,
+501-6,WHAM,AD-8,West Hampstead - Block 6,,Complete,,19931208,4,Wood,,
+421,CGPC,AD-181,Cecil Green Park Coach House,,Complete,,19110101,2,Wood,242.73000000000002,
+852,PSAB,AD-286,Public Safety Building,,Complete,,19820101,3,Concrete,2934.89,2687
+827-1,FOLI,AD-77,Folio - Duplex 1,,Complete,Remove 'duplex' from the short names,20050101,3,Wood,,745
+817-3,STAH,AD-275,St. Andrew's Hall - Lennox House,,Complete,,19960101,4,Wood,,2106
+113,BRKX,AD-121,Brock Hall Annex,BRKX,Complete,,19560101,3,Concrete,2100.43,
+114,BRKC,AD-0,Brock Commons - Tallwood House,,Complete,,20160518,0,TBD,14507.460000000001,
+420,CGPH,AD-180,Cecil Green Park House,,Complete,,19110101,5,Wood,2079.71,
+428,MGYM,AD-182,War Memorial Gymnasium,MGYM,Complete,,19500101,5,Concrete,8945.33,
+501-7,WHAM,AD-8,West Hampstead - Block 7,,Complete,,19931208,4,Wood,,
+501-8,WHAM,AD-8,West Hampstead - Block 8,,Complete,,19931208,4,Wood,,
+430,OSBO,AD-183,Robert F. Osborne Centre - Unit 1,OSBO,Complete,,19700101,3,Concrete,3439.12,
+431,OSBO,AD-183,Robert F. Osborne Centre - Unit 2,OSBO,Complete,,19720101,2,Concrete,2739.88,
+207,CCSB,AD-146,Child Care Services - Acadia,,Complete,,20090101,1,Wood,433.93,
+205,CCSB,AD-146,Child Care Services - Kittiwake/Salal,,Complete,,20080101,1,Wood,850.6700000000001,
+140,CHEM,AD-125,Chemistry Building - Storage,,Complete,,19560101,1,Concrete,72.01,
+137,COMP,AD-126,Composting Facility,,Complete,,20040101,1,Steel,185.34,
+138,ENSF,AD-127,Environmental Services Facility ,,Complete,,19940101,1,Trailer,39.07,
+139,ENSF,AD-127,Environmental Services Facility - Office,,Complete,,19930101,1,Trailer,29.6,
+141,ENSF,AD-127,Environmental Services Facility - Solvent Storage Area,,Complete,,19730101,0,Concrete,,286
+470,ENSF,AD-127,Environmental Services Facility - Incinerator,,Complete,,19690101,1,Concrete,104.13,
+036-1,TFPB,AD-103,Theatre-Film Production Building - Annex,TFPX,Complete,,19550101,1,Temporary,137.5,
+075,FARM,AD-112,UBC Farm Centre - Yurt,YURT,Complete,,20140101,1,Temporary,65.19,
+864,WESB,AD-291,Wesbrook Building,WESB,Complete,,19490101,6,Concrete,9870.91,
+797,ALUM,AD-274,Alumni Centre,ALUM,Complete,,20150101,4,Concrete,3729.85,
+206,CCSB,AD-146,Child Care Services - Sandpiper/Auklet,,Complete,,20080101,1,Wood,766.8100000000001,
+204,CCSB,AD-146,Child Care Services - Little Raven/Pacific Spirit,,Complete,,19890101,1,Wood,481.74,
+203,CCSB,AD-146,Child Care Services - Little Goslings/Coho,,Complete,,19890101,1,Wood,318.85,
+834,CHHS,AD-79,Chancellor House - Duplex  2,,Complete,,20060101,0,Wood,,488
+202,CCSB,AD-146,Child Care Services - Sitka/Discovery,,Complete,,19890101,1,Wood,381.66,
+201,CCSB,AD-146,Child Care Services - Tillicum/Canada Goose,,Complete,,19890101,1,Wood,385.78000000000003,
+482,ALRD,AD-203,Allard Hall,ALRD,Complete,,20110101,6,Concrete,13799.26,
+200,CCSB,AD-146,Child Care Services - Summer of 73/Lilliput,,Complete,,19890101,1,Wood,381.66,
+212,SOJ,AD-148,Sing Tao Building,SOJ,Complete,,19970101,3,Concrete,1357.96,
+213,AQUA,AD-149,UBC Aquatic Centre,AQUA,Complete,,20140901,3,Concrete,8041.1900000000005,
+232,SCRF,AD-151,Neville Scarfe Building ,SCRF,Complete,,19620101,6,Concrete,6625.1,
+345,UCLL,AD-166,Leon and Thea Koerner University Centre - PWIAS,,Complete,,19870101,2,Concrete,465.13,
+818,STIR,AD-75,Stirling House,,Complete,,20080101,0,Wood,,4783
+819,AXIS,AD-76,Axis ,,Complete,,20130101,18,Concrete,12838.68,
+833,CHHS,AD-79,Chancellor House - Duplex 1,,Complete,,20060101,0,Wood,,506
+306,CEME,AD-155,Civil and Mechanical Engineering Building,CEME,Complete,,19760101,4,Concrete,9256.14,
+310,ENSC,AD-158,Engineering Student Centre,ESC,Complete,,20150924,2,Wood,953.36,
+312,MCLD,AD-159,MacLeod Building,MCLD,Complete,,19630101,5,Concrete,7282.05,
+353,FSC,AD-167,Forest Sciences Centre,FSC,Complete,,19980101,7,Mixed,22458.84,
+372,FPIN,AD-169,FPInnovations,,Complete,,19900101,2,Concrete,9527.12,
+234,SCRF,AD-151,Neville Scarfe Building - Library,SCRF,Complete,,19950101,4,Concrete,2643.32,
+233,SCRF,AD-151,Neville Scarfe Building - Teacher Education Office,SCRF,Complete,,19960101,1,Steel,233.64000000000001,
+240-1,SCRF,AD-151,Neville Scarfe Building - Classroom Block,SCRF,Complete,,19650101,6,Concrete,6305.74,
+240-2,SCRF,AD-151,Neville Scarfe Building - Office Block,SCRF,Complete,,19650101,9,Concrete,4053.88,
+300,CHBE,AD-152,Chemical & Biological Engineering Building,CHBE,Complete,,20050101,8,Concrete,13181.98,
+301,WEDC,AD-153,Wayne and William White Engineering Design Centre,EDC,Complete,,20110101,3,Concrete,2008.72,
+783,THUR,AD-70,Thunderbird Residence - B1,,Complete,,19950101,4,Concrete,4058.84,
+835,CHHS,AD-79,Chancellor House - Duplex 3,,Complete,,20060101,0,Wood,,514
+865-3,PONC,AD-294,Ponderosa Annex C,PONC,Complete,,19710101,2,Temporary,587.24,
+827-5,STMD,AD-523,St. Mark's - Duplex 5,,Complete,Remove 'duplex' from the short names,20100101,3,Wood,,440
+827-6,STMD,AD-523,St. Mark's - Duplex 6,,Complete,,20100101,3,Wood,,426
+827-7,STMD,AD-523,St. Mark's - Duplex 7,,Complete,,20100101,3,Wood,,433
+827-8,STMD,AD-523,St. Mark's - Duplex 8,,Complete,,20100101,3,Wood,,521
+871-2,PONE,AD-298,Ponderosa Annex E,PONE,Complete,,19720101,2,Temporary,1003.76,
+871-3,PONF,AD-299,Ponderosa Annex F,PONF,Complete,,19720101,3,Temporary,826.2,
+780,THUR,AD-70,Thunderbird Residence - A1,,Complete,,19950101,7,Concrete,19996.760000000002,
+780-1,THUR,AD-70,Thunderbird Residence - A4,,Complete,,19950101,3,Concrete,1104.02,
+781,THUR,AD-70,Thunderbird Residence - A2,,Complete,,19950101,4,Concrete,4112.32,
+781-1,THUR,AD-70,Thunderbird Residence - A3,,Complete,,19950101,3,Concrete,1100.33,
+782-1,THUR,AD-70,Thunderbird Residence - B3,,Complete,,19950101,3,Concrete,1098.19,
+694,MBAH,AD-54,MBA House,,Complete,,20090101,4,Wood,3515.7200000000003,
+068,BIOL,AD-111,Biological Sciences Building - South,BIOL,Complete,RENEW,19570101,6,Concrete,4884.97,
+045,AUDX,AD-105,Auditorium Annex A,AUDX,Complete,,19690101,2,Temporary,1738.96,
+044,AUDI,AD-104,Old Auditorium,AUDI,Complete,RENEW,19250101,3,Wood,2633.51,
+666,TFS,AD-252,Plant Science Field Station,,Complete,,19910101,1,Wood,74.60000000000001,
+689,MEWS,AD-49,The Mews,,Complete,,20110329,6,Concrete,10558.01,
+690,WPRO,AD-277,Wesbrook Professional Centre,,Complete,,20130101,0,Wood,,1959
+693,WEBH,AD-52,Webber House,,Complete,,20170512,0,N/A,6320.74,0
+052,PARF,AD-109,Fraser River Parkade,,Complete,,19820101,4,Concrete,17169.66,
+065,BIOL,AD-111,Biological Sciences Building - West,BIOL,Complete,RENEW,19700101,5,Concrete,7846.25,
+902,VANR,AD-19,Place Vanier Residence - Tec De Monterrey,,Complete,,20030101,7,Concrete,4496.37,
+555,VIST,AD-23,Vista Point,,Complete,,20160127,0,Mixed,12902.800000000001,
+562,FORW,AD-225,Frank Forward Building,FORW,Complete,,19680101,7,Concrete,7542.1900000000005,
+568,BART,AD-226,Belkin Art Gallery,,Complete,,19950101,4,Steel,1504.16,
+569,GMGB,AD-227,Gerald McGavin Building,,Complete,,19950101,4,Concrete,3230.92,
+570,MUSM,AD-228,Museum of Anthropology,MUSM,Complete,,19750101,2,Concrete,10452.1,
+570-1,MUSM,AD-228,Museum of Anthropology - Koerner Gallery,MUSM,Complete,,19900101,2,Concrete,862,
+705,SAIL,AD-59,Sail,,Complete,,20130101,0,Wood,13242.14,
+695,YUYU,AD-56,Yu,,Complete,,20130101,0,Mixed,14477.87,19671
+697,WCOM,AD-57,Wesbrook Community Centre,,Complete,,20160510,2,TBD,3110.77,
+699,PACC,AD-58,Pacific,,Complete,,20100101,6,Wood,11958.31,
+100,BOTG,AD-120,UBC Botanical Garden - Lookout Tower,,Complete,,19900101,1,Wood,25.26,
+098,BOTG,AD-120,UBC Botanical Garden - Campbell Building,,Complete,,19900101,2,Wood,585.95,
+099,BOTG,AD-120,UBC Botanical Garden - Reception/Education,,Complete,,19900101,2,Wood,294.07,
+077-2,BOTR,AD-113,UBC Botanical Garden Nursery - Shadehouse,,Complete,,19820101,1,Temporary,501.68,
+566,TOTM,AD-223,,,Complete,,20110101,9,Concrete,6728.900000000001,
+567,TOTM,AD-223,,,Complete,,20110101,9,Concrete,9830.12,
+593-2,TAPS,AD-235,Tapestry,,Complete,,20100101,8,Concrete,8187.4800000000005,
+540-1,TOTM,AD-223,Totem Park Residence - 1 Coquihalla Commonsblock,,Complete,,19640101,3,Concrete,4664.37,
+588-1,PATH,AD-29,Pathways - West,,Complete,,20080101,4,Steel,,4452
+588-2,PATH,AD-29,Pathways - East,,Complete,,20080101,4,Steel,,6181
+595,SAGE,AD-276,Sage,,Complete,,20111122,24,Concrete,20839.04,
+589-1,LAUR,AD-232,The Laureates - Higrise,,Complete,,20170103,0,Concrete,,
+541,TOTM,AD-223,,,Complete,,20160614,8,Concrete,9019.460000000001,0
+589-2,LAUR,AD-233,The Laureates - Lowrise,,Complete,,20170131,0,Wood,,
+590-1,UHIL,AD-31,University Hill Secondary School - Addition,,Complete,,20130101,0,Steel,,5600
+605-1,CRSW,AD-37,Crescent West - 1,,Complete,<Null>,20090101,4,Wood,,
+605-5,CRSW,AD-37,Crescent West - 5,,Complete,<Null>,20090101,4,Wood,,
+605-6,CRSW,AD-37,Crescent West - 6,,Complete,<Null>,20090101,4,Wood,,
+605-2,CRSW,AD-37,Crescent West - 2,,Complete,<Null>,20090101,4,Wood,,
+605-3,CRSW,AD-37,Crescent West - 3,,Complete,<Null>,20090101,4,Wood,,
+605-7,CRSW,AD-37,Crescent West - 7,,Complete,<Null>,20090101,4,Wood,,
+605-4,CRSW,AD-37,Crescent West - 4,,Complete,<Null>,20090101,4,Wood,,
+830-3,CHHS,AD-79,Chancellor House - TH 3,,Complete,,20060101,0,Wood,,186
+830-4,CHHS,AD-79,Chancellor House - TH 4,,Complete,,20060101,0,Wood,,186
+832-2,COST,AD-280,Coast - East,,Complete,,20090101,0,Concrete,,7188
+831-5,COST,AD-280,Coast - Duplex 5,,Complete,Updated Footprint,20090101,0,Wood,,756
+831-4,COST,AD-280,Coast - Duplex 4,,Complete,Updated Footprint,20090101,0,Wood,,756
+831-3,COST,AD-280,Coast - Duplex 3,,Complete,Updated Footprint,20090101,0,Wood,,756
+831-2,COST,AD-280,Coast - Duplex 2,,Complete,Updated Footprint,20090101,0,Wood,,756
+831-1,COST,AD-280,Coast - Duplex 1,,Complete,Updated Footprint,20090101,0,Wood,,756
+832-3,COST,AD-280,Coast - Townhouse,,Complete,,20090101,0,Wood,,710
+557,ORCH,AD-24,Orchard Commons,ORCH,Complete,,20160701,20,TBD,39899.23,
+046,ACEN,AD-106,Asian Centre,ACEN,Complete,,19750101,5,Concrete,4925.61,
+077-1,BOTR,AD-113,UBC Botanical Garden Nursery - Greenhouse,,Complete,,19820101,1,Temporary,636.12,
+024-5,RESA,AD-100,Lower Mall Header House,,Complete,,19670101,3,Concrete,629.38,
+670,FARM,AD-112,UBC Farm Centre - Plant Science Field Building,,Complete,,19750101,1,Wood,149.49,
+013,KIDS,AD-92,Kids Club,,Complete,,19850101,1,Trailer,475.04,
+389,FARM,AD-112,UBC Farm Centre - Forestry Field House,,Complete,,19800101,1,Wood,193.76,
+094,BOTG,AD-120,UBC Botanical Garden - Workshop (Trailer),,Complete,,19760101,1,Temporary,109.52,
+545-2,VANR,AD-19,Place Vanier Residence - Tweedsmuir House,,Complete,,19680101,5,Concrete,2189.07,
+584,SPRT,AD-26,Spirit,,Complete,,20100101,6,Wood,8073.2300000000005,
+585,RESP,AD-231,Research Ponds,,Complete,,20100101,1,Temporary,41.29,
+586,LARK,AD-27,Larkspur House,,Complete,,20090101,5,Wood,7277.75,
+587,KEEN,AD-28,Keenleyside,,Complete,,20080101,4,Wood,,8119
+516,IBLC,AD-210,Irving K. Barber Learning Centre,IBLC,Complete,,19270101,6,Concrete,23406.86,
+518,MATH,AD-211,Mathematics Building,MATH,Complete,,19250101,3,Wood,4520.45,
+519,MATX,AD-212,Mathematics Annex,MATX,Complete,,19240101,2,Wood,1480.84,
+515,KOER,AD-209,Walter C. Koerner Library,,Complete,,19720101,2,Concrete,10522.79,
+515-1,KOER,AD-209,Walter C. Koerner Library - Addition,KLIB,Complete,chg grpname to Koerner,19960101,7,Concrete,7255.2300000000005,
+521,DNRG,AD-213,Campus Energy Centre,DNRG,Complete,,20160101,2,Concrete,1999.5800000000002,
+832-1,COST,AD-280,Coast - West,,Complete,,20090101,0,Concrete,,5600
+837,ARGW,AD-80,Argyll House West,,Complete,,20060101,0,Concrete,,5424
+838,SOMH,AD-282,Vancouver School of Theology (VST),,Complete,,20040101,0,Concrete,,2553
+839,CORS,AD-321,Corus,,Complete,,20070101,13,Concrete,14768.08,10805
+841,WSPT,AD-81,Westpoint,,Complete,,20090101,0,Concrete,10163.51,5137
+918,SORO,AD-88,Panhellenic House,,Complete,,20030101,5,Wood,3058.2400000000002,
+869-2,GAGE,AD-297,Walter H. Gage Residence - South Tower,,Complete,,19720101,18,Concrete,9771.7,
+165,ICCS,AD-131,ICICS/CS,ICCS,Complete,,19930101,5,Concrete,10049.78,
+869-3,GAGE,AD-297,Walter H. Gage Residence - North Tower,,Complete,,19720101,18,Concrete,9771.74,
+900,PARW,AD-301,West Parkade,PARW,Complete,,19920101,6,Concrete,34775.16,
+872-1,GAGE,AD-297,Walter H. Gage Residence - East Tower,,Complete,,19720101,18,Concrete,9772.59,
+872-2,GAGE,AD-297,Walter H. Gage Residence - Court,,Complete,,19720101,4,Concrete,3596.59,
+874,GAGE,AD-297,Walter H. Gage Residence - Apartments,,Complete,,19840101,5,Concrete,8046.2,
+523-1,COPP,AD-214,D.H. Copp Building,COPP,Complete,,19610101,5,Concrete,3935.36,
+528,PARR,AD-218,Rose Garden Parkade,,Complete,,19940101,5,Concrete,23185.37,
+869-1,GAGE,AD-297,Walter H. Gage Residence  - Commonsblock,,Complete,,19720101,3,Concrete,5155.46,
+903,PNCE,AD-303,Ponderosa Commons East - Audain Art Centre/Spruce House,AAC,Complete,,20131112,19,Steel,10167.78,
+765,SCSB,<Null>,South Campus Substation - Switchin Station 12KV,,Complete,,19710101,1,Concrete,16.18,
+525-1,COPP,AD-214,D.H. Copp Building - Addition 1,COPP,Complete,,19670101,4,Concrete,2477.91,
+422,SQSH,<Null>,Squash Court,SQSH,Complete,,19290101,2,Wood,109.48,
+921,FRAT,AD-89,Fraternity Village - 1,,Complete,,20040101,3,Wood,,929
+922,FRAT,AD-89,Fraternity Village - 2,,Complete,,20040101,3,Wood,,929
+526,COPP,AD-214,D.H. Copp Building - Addition 2,COPP,Complete,,19790101,6,Concrete,2830.92,
+598,BINT,AD-35,Binning Tower,,Complete,,20160505,0,Concrete,,
+523-2,FRDM,AD-215,Friedman Building,FRDM,Complete,RENEW,19610101,5,Concrete,4163.1,
+525-2,FRDM,AD-215,Friedman Building - Addition,FRDM,Complete,RENEW,19670101,6,Concrete,1910.06,
+904,PNCW,AD-84,Ponderosa Commons West - Arbutus/Maple House,PCMH,Complete,,20131112,18,Steel,17402.21,
+711,PROD,AD-62,Prodigy,,Complete,,20161123,0,Concrete,17552.79,
+924,FRAT,AD-89,Fraternity Village - 4,,Complete,,20040101,3,Wood,,929
+536,WLIB,AD-220,Woodward Library,WLIB,Complete,,19640101,5,Concrete,7694.75,
+527,PHRM,AD-217,Pharmaceutical Sciences Building,PHRM,Complete,,20120905,9,Concrete,29695.21,
+523-3,MEDC,AD-216,Medical Sciences Block C,MEDC,Complete,,19610101,6,Concrete,4017.26,
+525-3,MEDC,AD-216,Medical Sciences Block C - Addition,MEDC,Complete,,19670101,0,Concrete,,
+550,SITK,AD-20,Sitka,,Complete,,20120101,21,Concrete,13070.06,
+551,PART,AD-224,Thunderbird Parkade,,Complete,,20070101,6,Concrete,59349.82,
+724-2,POWR,AD-255,Power House - Addition 2,,Complete,,19610101,4,Concrete,1043.07,
+215,CNTL,AD-4,Central,,Complete,,20160518,0,TBD,9405.16,
+514,IRSC,AD-1015,Indian Residential School History and Dialogue Centre,IRSC,Complete,,20170321,2,Concrete,399.18,0
+691,VSQU,AD-51,Village Square,,Complete,,20170308,0,TBD,,
+553,FRAS,AD-21,Fraser Hall,,Complete,,20060101,5,Wood,4105.1,
+554-1-7,GRWC,AD-22,Greenwood Commons - 1,,Complete,There are plans to split this feature at some point (peter).,20070101,0,Wood,,5944
+554-2,GRWC,AD-22,Greenwood Commons - 2,,Complete,There are plans to split this feature at some point (peter).,,,,,
+724-1,POWR,AD-255,Power House - Addition 1,,Complete,,19470101,4,Concrete,504.71000000000004,
+724-3,POWR,AD-255,Power House - Addition 3,,Complete,,19700101,3,Concrete,258.17,
+724,POWR,AD-255,Power House,,Complete,,19250101,3,Concrete,1215.3700000000001,
+023,ANGU,AD-98,Henry Angus Building,ANGU,Complete,,19650101,10,Concrete,11608.9,
+091,BOTG,AD-120,UBC Botanical Garden - Garden Pavilion,,Complete,,19810101,2,Wood,337.37,
+097,BOTG,AD-120,UBC Botanical Garden,,Complete,,19900101,1,Wood,150.06,
+021,LNDA,AD-96,Landscape Architecture Annex,TT21,Complete,,19210101,3,Wood,601.48,
+468,<Null>,<Null>,Patient Park,,,,20170308,0,(null),,
+673,<Null>,<Null>,Thunderbird Park,,,,20170308,0,(null),,
+554-3,GRWC,AD-22,Greenwood Commons - 3,,Complete,There are plans to split this feature at some point (peter).,,,,,
+554-4,GRWC,AD-22,Greenwood Commons - 4,,Complete,There are plans to split this feature at some point (peter).,,,,,
+554-5,GRWC,AD-22,Greenwood Commons - 5,,Complete,There are plans to split this feature at some point (peter).,,,,,
+554-6,GRWC,AD-22,Greenwood Commons - 6,,Complete,There are plans to split this feature at some point (peter).,,,,,
+554-7,GRWC,AD-22,Greenwood Commons - 7,,Complete,There are plans to split this feature at some point (peter).,,,,,
+896-4,VANR,AD-19,Place Vanier Residence - Aldyen Hamber House,,Complete,,19600101,5,Concrete,2114.39,
+545-1,VANR,AD-19,Place Vanier Residence - Cariboo House,,Complete,,19680101,5,Concrete,2172.09,
+544,VANR,AD-19,Place Vanier Residence - Commonsblock,,Complete,,19600101,4,Concrete,4881.01,
+925,FRAT,AD-89,Fraternity Village - 5,,Complete,,20040101,3,Wood,,929
+926,FRAT,AD-89,Fraternity Village - 6,,Complete,,20040101,3,Wood,,929
+928,FRAT,AD-89,Fraternity Village - 8,,Complete,,20040101,3,Wood,,929
+927,FRAT,AD-89,Fraternity Village - 7,,Complete,,20040101,3,Wood,,929
+088,<Null>,<Null>,UBC Botanical Garden - Garden Area,,Complete,,20170223,0,Outdoor,,
+896-1,VANR,AD-19,Place Vanier Residence - Dorothy Mawdsley,,Complete,,19600101,5,Concrete,2141.57,
+548,VANR,AD-19,Place Vanier Residence - Kootenay House,,Complete,,19610101,5,Concrete,2122.06,
+449,FNH,AD-189,Food Nutrition Health,FNH,Complete,,19820101,4,Concrete,4986.57,
+668,TFS,AD-252,Totem Field Studios,TFS,Complete,,19630101,2,Wood,535.73,
+502-12,THAC,AD-9,Thames Court - 12,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-13,THAC,AD-9,Thames Court - 13,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-14,THAC,AD-9,Thames Court - 14,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-15,THAC,AD-9,Thames Court - 15,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+071-2,FARM,AD-112,UBC Farm Centre - Botany Greenhouse 2,,Complete,,19820101,1,Temporary,143.07,
+071-1,FARM,AD-112,UBC Farm Centre - Botany Greenhouse 1,,Complete,,19820101,1,Temporary,104.10000000000001,
+022,LMRS,AD-97,Lower Mall Research Station,,Complete,,19600101,5,Concrete,6405.77,
+502-5,THAC,AD-9,Thames Court - 5,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+635,STJN,AD-244,St. John Hospice,,Complete,,20130906,2,Wood,1302.39,
+638,SCWH,AD-245,South Campus Warehouse,,Complete,,19470101,1,Wood,2582.9700000000003,
+502-16,THAC,AD-9,Thames Court - 16,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-17,THAC,AD-9,Thames Court - 17,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-2,THAC,AD-9,Thames Court - 2,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-3,THAC,AD-9,Thames Court - 3,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-4,THAC,AD-9,Thames Court - 4 ,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+641,UNSB,AD-246,University Services Building,,Complete,,19920101,2, Mixed,11598.45,
+707,SAIL,AD-59,Sail - 2,,Complete,,20140101,0,Wood,11621.72,
+717,NOBL,AD-66,Nobel House,,Complete,,20141201,6,Wood,,9968
+654,LADH,AD-250,Abdul Ladha Science Student Centre,ALSC,Complete,,20060101,3,Wood,653.1,
+502-6,THAC,AD-9,Thames Court - 6,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+656,HEBB,AD-251,Hebb Building,HEBB,Complete,,19640101,7,Concrete,5941.13,
+667,TFS,AD-252,Plant Science Garage,,Complete,,19640101,1,Wood,317.19,
+863-2,AUDX,AD-105,Auditorium Annex B,AUDX,Complete,,19690101,3,Temporary,691.83,
+668-1,TFS,AD-252,Totem Field Studios - Addition,TFS,Complete,,19810101,2,Wood,323.65000000000003,
+066,BIOL,AD-111,Biological Sciences Building - North,BIOL,Complete,,19760101,5,Concrete,5347.56,
+502-7,THAC,AD-9,Thames Court - 7,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-8,THAC,AD-9,Thames Court - 8,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+502-9,THAC,AD-9,Thames Court - 9,,Complete,Building Records List Indiscernable-Needs Confirmation,19920724,2,Wood,,
+646,UNSB,AD-246,Building Operations Storage Shed,,Complete,,19920101,1,Concrete,495.78000000000003,
+652,HENN,AD-249,Hennings Building,HENN,Complete,,19450101,4,Concrete,10874.02,
+652-1,HENN,AD-249,Hennings Building - Penthouse,HENN,Complete,,19660101,1,Concrete,346.68,
+725,POWR,AD-255,Power House - Meter Station,,Complete,,19610101,1,Concrete,32,
+505,BRIS,AD-12,The Bristol,,Complete,,19951109,4,Wood,,14537
+506-1,STRA,AD-14,The Stratford,,Complete,,19980717,11,Concrete,,7867
+506-2,WYND,AD-13,Wyndham Hall,,Complete,,19971126,4,Wood,,5716
+507,REGE,AD-15,The Regency,,Complete,,19991224,18,Concrete,,13203
+508,BALM,AD-16,Balmoral,,Complete,,19970708,16,Concrete,,11448
+509,PEMB,AD-17,The Pemberley,,Complete,,19970725,4,Wood,,6285
+529,LSC,AD-219,Life Sciences Centre,LSC,Complete,,20040101,8,Concrete,52176.65,
+534,TRMH,AD-18,TRIUMF House,,Complete,,20040101,5,Wood,2202.23,
+898,VANR,AD-19,Place Vanier Residence - Korea House,,Complete,,20030101,7,Concrete,4830.05,
+896-2,VANR,AD-19,Place Vanier Residence - Margaret Mackenzie,,Complete,,19600101,5,Concrete,2114.01,
+537,HSCC,AD-221,Detwiller Pavilion,HSCC,Complete,,19680101,4,Concrete,12998.51,
+307,CEME,AD-155,Civil and Mechanical Engineering Labs,CEME,Complete,,19710101,3,Concrete,4007.4,
+309,CEME,AD-155,Civil and Mechanical Engineering Labs - Structures,CEME,Complete,,19690101,2,Concrete,711.36,
+537-1,HSCC,AD-221,Detwiller Pavilion - Addition,HSCC,Complete,,19690101,8,Concrete,0,
+305,CEME,AD-155,Earthquake Engineering Research Facility,,Complete,,20030101,3,Concrete,752.5600000000001,
+511,CEME,AD-155,Engineering High Head Room Laboratory,,Complete,,19920101,1,Concrete,145.09,
+513,SPPH,AD-208,School of Population & Public Health,SPPH,Complete,,19790101,5,Concrete,8279.91,
+539,AMBS,AD-222,Ambulance,,Complete,,19910101,1,Wood,210.8,
+556,VANR,AD-19,Place Vanier Residence - Robson House,,Complete,,19590101,5,Concrete,2115.4700000000003,
+560,VANR,AD-19,Place Vanier Residence - Sherwood Lett House,,Complete,,19600101,5,Concrete,2111.71,
+713,DAHL,AD-65,Dahlia House,,Complete,,20120101,5,Wood,7499.88,
+713-1,MAGN,AD-34,Magnolia House,,Complete,,20120101,5,Wood,6288.55,
+896-3,VANR,AD-19,Place Vanier Residence - Phyllis Ross House,,Complete,,19600101,5,Concrete,2141.57,
+552,VANR,AD-19,Place Vanier Residence - Okanagan House,,Complete,,19600101,5,Concrete,2123.34,
+447,CHEM,AD-125,"Chemistry Building - A Block, Chemistry Physics Building",CHEM,Complete,,19890101,6,Concrete,7631.34,
+142,ENSF,AD-127,Environmental Services Facility - Waste Processing & Storage,,Complete,,19860101,1,Concrete,199.02,
+842,TRMF,AD-283,TRIUMF - Compressor Building,,Complete,,20030101,1,TBD,510.79,
+842-1,TRMF,AD-283,TRIUMF - Hazardous Storage,,Complete,,20150715,0,N/A,76.59,0
+842-3,TRMF,AD-283,TRIUMF - Experiment Develoment Shed,,Complete,,20030101,1,TBD,74.34,0
+842-4,TRMF,AD-283,TRIUMF - Recycling Marque,,Complete,,20030101,1,Concrete,111.48,0
+842-5,TRMF,AD-283,TRIUMF - Trailer SS,,Complete,,20030101,2,Trailer,177.63,0
+136,CHEM,AD-125,"Chemistry Building - E Block, North Wing",CHEM,Complete,RENEW,19620101,5,Concrete,2796.58,
+842-6,TRMF,AD-283,TRIUMF - Trailer AA,,Complete,,20030101,1,Trailer,26.060000000000002,0
+842-7,TRMF,AD-283,TRIUMF - Trailer A,,Complete,,20030101,1,Trailer,144.93,0
+842-8,TRMF,AD-283,TRIUMF - Trailer MM,,Complete,,20030101,1,Trailer,58.370000000000005,0
+843-1,TRMF,AD-283,TRIUMF - Liquid Helium Storage,,Complete,,000000,1,N/A,553.54,0
+843-2,TRMF,AD-283,TRIUMF - Trailer Q,,Complete,,20030101,1,Trailer,29.73,0
+843-7,TRMF,AD-283,TRIUMF - Equipment Marque,,Complete,,20030101,1,Trailer,83.61,0
+843-6,TRMF,AD-283,TRIUMF - Trailer LL,,Complete,,20030101,1,Trailer,58.370000000000005,0
+843-5,TRMF,AD-283,TRIUMF - Nina Storage Shelter,,Complete,,20030101,1,Trailer,247.98000000000002,0
+847,TRMF,AD-283,TRIUMF - ISAC 1,,Complete,,19980101,4,Concrete,14680.73,
+847-1,TRMF,AD-283,TRIUMF - ISAC 2,,Complete,,20030101,0,Concrete,5958.02,3529
+845,TRMF,AD-283,TRIUMF - ARIEL,,Complete,,20150801,5,Concrete,3637.84,
+850-1,TRMF,AD-283,TRIUMF - Trailer GG,,Complete,,20030101,1,Trailer,,0
+850-2,TRMF,AD-283,TRIUMF - Trailer PP,,Complete,,20030101,1,Trailer,29.73,0
+850-3,TRMF,AD-283,TRIUMF - Plant Storage,,Complete,,20030101,1,Trailer,197.68,0
+850-4,TRMF,AD-283,TRIUMF - Machine Shop Materials,,Complete,,20030101,1,Trailer,104.66,0
+853-3,TRMF,AD-283,TRIUMF - Accelerator Trailer,,Complete,,20030101,1,Trailer,29.73,0
+854,TRMF,AD-283,"TRIUMF - Offices, Laborartory & Workshops",,Complete,,20030101,2,Steel,3264.21,
+854-1,TRMF,AD-283,TRIUMF - Trailer HH & FF,,Complete,,20030101,1,Trailer,607.64,0
+854-2,TRMF,AD-283,TRIUMF - Badge Room,,Complete,,20030101,1,Trailer,26.150000000000002,0
+143,ENSF,AD-127,Environmental Services Facility - PCB Equipment Storage,,Complete,,19890101,0,Temporary,,118
+850-1,TRMF,AD-283,TRIUMF - Trailer RR,,Complete,,20030101,1,Trailer,,0
+083,MSB,AD-118,Michael Smith Laboratories,MSL,Complete,,20040101,5,Concrete,8476.94,
+112,BRCK,AD-121,Brock Hall - West Wing,BRCK,Complete,,19400101,3,Wood,3796.09,
+112-1,BRCK,AD-121,Brock Hall - East Wing,BRCK,Complete,,19930101,3,Concrete,5532.26,
+501-9,WHAM,AD-8,West Hampstead - Block 9 ,,Complete,,19931208,4,Wood,,
+146,ENSF,AD-127,Environmental Services Facility - Natural Gas Station,,Complete,,20141107,1,Trailer,,
+402,EOSM,AD-178,Earth and Ocean Sciences - Main,EOSM,Complete,,19710101,5,Concrete,9106.5,
+180,RSCU,AD-132,Rodney Graham Millennium Sculpture Pavilion,,Complete,,20030701,0,(null),27.63,77
+868-1,THUN,AD-295,Doug Mitchell Thunderbird Sports Centre - Addition,,Complete,,,,,,
+182,CLCK,AD-133,Ladner Clock Tower,,Complete,,19680101,1,Concrete,45.27,
+160,CSTB,AD-129,Continuing Studies,CSB,Complete,,19970101,3, Mixed,3812.63,
+403,EOSM,AD-178,Earth and Ocean Sciences - South,EOSS,Complete,,19740101,4,Concrete,1620.44,
+225,ESB,AD-150,Earth Sciences Building,ESB,Complete,,20120905,6,Mixed,15910.390000000001,
+152,AZAL,AD-1,Azalea House,,Complete,,20010101,2,Wood,1312.99,
+153,CASC,AD-2,Cascara House,,Complete,,20010101,2,Wood,5367.55,
+154,SUMA,AD-3,Sumac House,,Complete,,20020101,6,Wood,4212.61,
+155,CHSC,AD-128,Child Care Services Administration Building,CHSC,Complete,,19900101,1,Wood,1204.54,
+164,DMP,AD-130,Hugh Dempster Pavilion,DMP,Complete,,20040101,4,Concrete,1487.56,
+166,ICCS,AD-131,ICICS/CS - Addition,ICCS,Complete,,20050101,9,Concrete,9639.98,
+829,STMK,AD-78,St. Mark's Chapel,,Complete,,19970101,2,Concrete,880.24,
+828,STMK,AD-78,St. Mark's College,,Complete,,19580101,3,Concrete,1486.73,
+830,CHHS,AD-79,Chancellor House,,Complete,,20050101,4,Concrete,,5583
+858,BERW,AD-288,Berwick Memorial Centre,,Complete,,19760101,1,Wood,1598.1200000000001,
+862,BTF,AD-308,UBC Baseball Indoor Training Centre,BTF,Complete,,20150804,2,Wood,1224.44,
+830-1,CHHS,AD-79,Chancellor House - Cityhome,,Complete,,20060101,0,Wood,,186
+121-1,BUCH,AD-123,Buchanan Building - Block A,BUCH,Complete,RENEW,19580101,2,Concrete,3019.78,
+850,TRMF,AD-283,TRIUMF - Workshop,,Complete,,19830101,2,Concrete,984.02,
+121-2,BUCH,AD-123,Buchanan Building - Block B,BUCH,Complete,RENEW,19580101,6,Concrete,4853.67,
+121-3,BUCH,AD-123,Buchanan Building - Block C,BUCH,Complete,RENEW,19580101,4,Concrete,2772.62,
+770-2,SPPA,AD-266,Spirit Park Apartments - 2715,,Complete,,19930101,5,Concrete,4155.79,
+122-2,BUCH,AD-123,Buchanan Building - Block E,BUCH,Complete,,19600101,4,Concrete,2024.8600000000001,
+132,CHEM,AD-125,"Chemistry Building - D Block, Centre Wing",CHEM,Complete,RENEW,19250101,5,Concrete,7139.1900000000005,
+714,CYPR,AD-312,Cypress House,,Complete,,20160614,6,Concrete,13341.08,0
+144,CHEM,AD-125,"Chemistry Building - C Block, East Wing",CHEM,Complete,,19630101,6,Concrete,3560.58,
+148,CHEM,AD-125,"Chemistry Building - B Block, South Wing",CHEM,Complete,,19590101,5,Concrete,5238.82,
+715,PINE,AD-311,Pine House,,Complete,,20160614,6,Concrete,8081.570000000001,0
+830-2,CHHS,AD-79,Chancellor House - TH 2,,Complete,,20060101,0,Wood,,186
+824,CHAH,AD-322,Chancellor Hall,,Complete,,20070101,5,Concrete,,5989
+868,THUN,AD-295,Doug Mitchell Thunderbird Sports Centre,THUN,Complete,,20080101,3,Wood,25227.420000000002,
+865-1,PONA,AD-292,Ponderosa Annex A,,Complete,,19710101,3,Temporary,632.53,
+865-2,PONB,AD-293,Ponderosa Annex B,PONB,Complete,,19710101,2,Temporary,974.8100000000001,
+802,CHPL,AD-71,Chapel of the Epiphany,,Complete,,19630101,2,Concrete,710.5,
+806,CARY,AD-72,Carey Theological College - Addition,,Complete,,19850101,1,Concrete,343.34000000000003,
+807,CARY,AD-72,Carey Centre,,Complete,,20060101,0,Concrete,,4126
+808,ESSE,AD-73,Esse,,Complete,,20060101,0,Wood,4300.5,2565
+810,ARGE,AD-74,Argyll House East,,Complete,,20060101,0,Concrete,,5403
+823,CHAH,AD-322,Chancellor Hall,,Complete,,20070101,0,Wood,,487
+825,FOLI,AD-77,Folio,,Complete,,20060101,4,Concrete,,9167
+873,PONG,AD-300,Ponderosa Annex G,PONG,Complete,,19810101,1,Temporary,596.6,
+867,WESB,AD-291,Wesbrook Building - Annex,,Complete,,19830101,2,Concrete,793.5,
+822-3,STJC,AD-278,St. John's College - 3,,Complete,,19980101,3,Wood,6176.150000000001,
+500,SAND,AD-7,Sandringham,,Complete,,19940919,2,Wood,,7933
+502,THAC,AD-9,Thames Court,,Complete,,19920724,2,Wood,,7503
+605,CRSW,AD-37,Crescent West,,Complete,,20090101,4,Wood,,1174
+620,LOGN,AD-450,Logan Lane,,Complete,,20050101,0,Wood,,84214
+616,WSTR,AD-544,Westchester,,Complete,,20040101,3,Wood,,5258
+622,SOMS,AD-515,Somerset,,Complete,,20050101,2,Wood,,7892
+905,PNCN,AD-85,Ponderosa Commons North - Oak/Cedar House,PCOH,Complete,,20151201,20,Steel,26514.28,
+622-3,SOMS,AD-515,Somerset - 3,,Complete,,20050101,2,Wood,,0
+622-4,SOMS,AD-515,Somerset - 4,,Complete,,20050101,2,Wood,,0
+686,GRAT,AD-48,Granite Terrace - Wesbrook Village,,Complete,,20090101,2,Wood,565.8000000000001,
+622-5,SOMS,AD-515,Somerset - 5,,Complete,,20050101,2,Wood,,0
+622-6,SOMS,AD-515,Somerset - 6,,Complete,,20050101,2,Wood,,0
+622-7,SOMS,AD-515,Somerset - 7,,Complete,,20050101,2,Wood,,0
+622-8,SOMS,AD-515,Somerset - 8,,Complete,,20050101,2,Wood,,0
+622-9,SOMS,AD-515,Somerset -9,,Complete,,20050101,2,Wood,,0
+669,STOR,AD-253,Stores Annex,,Complete,,19250101,3,Temporary,382.53000000000003,

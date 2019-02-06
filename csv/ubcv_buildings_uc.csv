@@ -1,15 +1,15 @@
 BLDG_ID,ADD_ID,NEIGHBOURHOOD,NOTES,REC_IDS,BLDG_USE,GRADE,GBA,HAS_SUBBLDGS,BLDG_TYPE,GREEN_STATUS
+BIOL,AD-111,Academic,,063,SCIE,,14244,,,LEED Gold
 EXCH,AD-315,Academic,Lot 10,773,RES,,26940,,,LEED Gold
-FOCL,AD-1017,UBlvd,,,HSGN,,7049,,,REAP Gold
+FOCL,AD-1017,UBlvd,,216,HSGN,,7049,,,REAP Gold
 ETON,AD-313,Wesbrook,,592,HSGN,,30193,,,LEED Gold
-BIOL,AD-111,Academic,,064-1,SCIE,,14244,,,LEED Gold
-RESN,AD-1034,Wesbrook,,,HSGN,,29282,,,REAP Gold
 TRAN,,Academic,,772,ADMIN,,19020,,,
-IVYP,AD-1042,Wesbrook,,,HSG,,,,,
+IVYP,AD-1043,Wesbrook,,597,HSG,,,,,
+RESN,AD-1034,Wesbrook,,721,HSGN,,29282,,,REAP Gold
+IVYP,AD-1043,Wesbrook,,597,HSG,,,,,
+IVYP,AD-1042,Wesbrook,,597,HSG,,,,,
+IVYP,AD-1043,Wesbrook,,597,HSG,,,,,
 MCNF,AD-1037,Academic,,798,PARK/REC,,,,,
-IVYP,AD-1043,Wesbrook,,,HSG,,,,,
 GEOP,AD-1040,Wesbrook,Lot11 highrise - Building names subject to change,719,HSG,,11958,,,
 OAKR,AD-1041,Wesbrook,Lot11 townhouses - Building names subject to change,719,HSG,,2977,,,
 MUNH,AD-1044,Wesbrook,,,HSGN,,10784,,,REAP Gold
-IVYP,AD-1043,Wesbrook,,,HSG,,,,,
-IVYP,AD-1043,Wesbrook,,,HSG,,,,,
