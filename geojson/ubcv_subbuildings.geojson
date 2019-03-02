@@ -8,587 +8,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.23007329344638, 49.24686934735518 ],
-						[ -123.23019019429238, 49.24685479047151 ],
-						[ -123.23018328157505, 49.24683289003962 ],
-						[ -123.23006663581853, 49.24684881278542 ],
-						[ -123.23007329344638, 49.24686934735518 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : null,
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "853-3",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.23063895678678, 49.24676471303866 ],
-						[ -123.23080097895892, 49.246745675771805 ],
-						[ -123.23078978008036, 49.246711009796805 ],
-						[ -123.23062818928359, 49.24672912597383 ],
-						[ -123.23063895678678, 49.24676471303866 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "843-7",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22843043277267, 49.24681025595846 ],
-						[ -123.22845838756173, 49.24690424052294 ],
-						[ -123.22875141611517, 49.246868793341825 ],
-						[ -123.22872338472028, 49.246773213243394 ],
-						[ -123.22843043277267, 49.24681025595846 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "842-4",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22813512756731, 49.246930088472425 ],
-						[ -123.22814159730193, 49.24695295688916 ],
-						[ -123.22825414257255, 49.24693913018539 ],
-						[ -123.22824575231911, 49.2469169411117 ],
-						[ -123.22813512756731, 49.246930088472425 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "842-6",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22930087637627, 49.246773151522106 ],
-						[ -123.22940106585084, 49.246761380247946 ],
-						[ -123.22937506042908, 49.246666506906394 ],
-						[ -123.22927487113598, 49.24667827725841 ],
-						[ -123.22930087637627, 49.246773151522106 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "842-1",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.23072950608255, 49.247095013771954 ],
-						[ -123.2309356106896, 49.24707079696478 ],
-						[ -123.23084506006437, 49.24674049639359 ],
-						[ -123.23063895678678, 49.24676471303866 ],
-						[ -123.23072950608255, 49.247095013771954 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "843-1",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.23071486688701, 49.24711583370624 ],
-						[ -123.23072787534934, 49.247169661330766 ],
-						[ -123.23093771340379, 49.24714956048221 ],
-						[ -123.23092269543892, 49.2470950397665 ],
-						[ -123.23071486688701, 49.24711583370624 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "843-4",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22952483433633, 49.24605952719702 ],
-						[ -123.22977494715775, 49.2460301418026 ],
-						[ -123.22974894003484, 49.245935268536364 ],
-						[ -123.22949882905075, 49.24596465387156 ],
-						[ -123.22952483433633, 49.24605952719702 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "850-3",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22991839014368, 49.24641215328694 ],
-						[ -123.22990320865898, 49.24635822644378 ],
-						[ -123.22989102371915, 49.246317881847006 ],
-						[ -123.22977169949897, 49.24633344082192 ],
-						[ -123.22979972000833, 49.246428069898855 ],
-						[ -123.22991839014368, 49.24641215328694 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "850-4",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22919177750255, 49.24640933060901 ],
-						[ -123.22915973117121, 49.24630137392518 ],
-						[ -123.22909902635257, 49.24630742128535 ],
-						[ -123.2291292295709, 49.24641765204015 ],
-						[ -123.22919177750255, 49.24640933060901 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "850-2",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22881607364612, 49.246843497517375 ],
-						[ -123.22903872463493, 49.24681589339726 ],
-						[ -123.22902787690786, 49.24678321270545 ],
-						[ -123.22880478535289, 49.246811783766255 ],
-						[ -123.22881607364612, 49.246843497517375 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "842-8",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22880196142933, 49.24680159595241 ],
-						[ -123.22895268032474, 49.246782211260395 ],
-						[ -123.22893714664907, 49.246733334020746 ],
-						[ -123.22878783102475, 49.246753671208346 ],
-						[ -123.22880196142933, 49.24680159595241 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "842-3",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.23039250694367, 49.24611113830001 ],
-						[ -123.2305384960357, 49.24609398549094 ],
-						[ -123.23047273804835, 49.24585410744502 ],
-						[ -123.23032388785062, 49.245871596901 ],
-						[ -123.23039250694367, 49.24611113830001 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "843-5",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.23095565273756, 49.24696227250251 ],
-						[ -123.23100564894055, 49.24695676550537 ],
-						[ -123.23096326746412, 49.24681675656476 ],
-						[ -123.23091659270791, 49.246820277952104 ],
-						[ -123.23095565273756, 49.24696227250251 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "843-6",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22955826409846, 49.24634721135658 ],
-						[ -123.2295203134855, 49.246205860874646 ],
-						[ -123.22932222247798, 49.246229863159314 ],
-						[ -123.22929717905642, 49.24613850322257 ],
-						[ -123.229495958342, 49.246115151768045 ],
-						[ -123.22945895180449, 49.24597731562509 ],
-						[ -123.22915819653967, 49.2460119244883 ],
-						[ -123.22925750528837, 49.246381821381576 ],
-						[ -123.22955826409846, 49.24634721135658 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "850-1",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.23030043262054, 49.24665620142687 ],
-						[ -123.23042352179884, 49.24664173901348 ],
-						[ -123.23038486378391, 49.246500716759556 ],
-						[ -123.23026177494458, 49.2465151791316 ],
-						[ -123.23030043262054, 49.24665620142687 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "842-7",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.23063895678678, 49.24676471303866 ],
-						[ -123.23059281290372, 49.24676892856751 ],
-						[ -123.23061814780063, 49.246859746119455 ],
-						[ -123.23066352639576, 49.246854339339635 ],
-						[ -123.23063895678678, 49.24676471303866 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "843-2",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22828005109125, 49.24692996951486 ],
-						[ -123.22843595125806, 49.24691460782593 ],
-						[ -123.22841327160766, 49.24683856552776 ],
-						[ -123.22826033337941, 49.24685498187318 ],
-						[ -123.22828005109125, 49.24692996951486 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "842-5",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.2584378184591, 49.26996173466911 ],
 						[ -123.25869790274682, 49.27003053177832 ],
 						[ -123.25876276461484, 49.2699255411002 ],
@@ -2295,38 +1714,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.2416552432075, 49.25689682853341 ],
-						[ -123.24162269524538, 49.256857218664344 ],
-						[ -123.24159243757191, 49.25686787021938 ],
-						[ -123.24162498552128, 49.25690748099642 ],
-						[ -123.2416552432075, 49.25689682853341 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "KIOS",
-				"BLDG_ID" : "KIOS",
-				"ADD_ID" : null,
-				"NAME" : "Logan Field Kiosk",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "674",
-				"BLDG_USE" : "ADMIN",
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "PLAN",
-				"CREATED_DATE" : "20170927204608",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205713"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.25571994288501, 49.2617401731496 ],
 						[ -123.25564459904896, 49.26164865520403 ],
 						[ -123.25562174768704, 49.261620897940375 ],
@@ -2903,62 +2290,6 @@
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24431161175274, 49.259600182458165 ],
-						[ -123.24404825235436, 49.259692896895196 ],
-						[ -123.24410990899435, 49.25976792082093 ],
-						[ -123.24388995090466, 49.259845356554166 ],
-						[ -123.24402439053657, 49.26000894493187 ],
-						[ -123.24406754197837, 49.2600614506428 ],
-						[ -123.24410808956219, 49.26004717591913 ],
-						[ -123.24415528266496, 49.26010460063993 ],
-						[ -123.24411473504787, 49.260118875380044 ],
-						[ -123.24425405977148, 49.26028840529965 ],
-						[ -123.24447337854241, 49.260211195113236 ],
-						[ -123.24451599416037, 49.26026304873592 ],
-						[ -123.24478000190811, 49.26017010518987 ],
-						[ -123.24459746979116, 49.25994800305677 ],
-						[ -123.24450001010558, 49.259982313823556 ],
-						[ -123.24445331448429, 49.25992549536713 ],
-						[ -123.24455077409061, 49.25989118463951 ],
-						[ -123.24450771492253, 49.259838791352315 ],
-						[ -123.24431161175274, 49.259600182458165 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "OSBO02",
-				"BLDG_ID" : "OSBO",
-				"ADD_ID" : "AD-183",
-				"NAME" : "Osborne Centre",
-				"CLASS_CODE" : "OSBO",
-				"NOTES" : null,
-				"REC_IDS" : "431",
-				"BLDG_USE" : null,
-				"GBA" : 2740,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "Osborne Unit 2",
-				"PLACENAME2" : "Unit 2",
-				"PLACENAME3" : "Osborne Centre",
-				"PLACENAME4" : "Unit 2",
-				"ABBREVIATEDPLACENAME" : "Osborne 2",
-				"BUILDING_SHORTCODE" : "OSBO",
-				"FULLADDRESS" : "6108 Thunderbird Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z3",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205917"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "MultiPolygon",
 				"coordinates" : [
 					[
@@ -3129,193 +2460,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20190116205925"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25089754209554, 49.26027506912134 ],
-						[ -123.25123006802198, 49.260158015838705 ],
-						[ -123.25163393585336, 49.26001586248909 ],
-						[ -123.25151167926764, 49.25986764905634 ],
-						[ -123.2503689772503, 49.26027217236921 ],
-						[ -123.25049013230894, 49.260418834113764 ],
-						[ -123.25089754209554, 49.26027506912134 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "ORCH01",
-				"BLDG_ID" : "ORCH",
-				"ADD_ID" : "AD-24",
-				"NAME" : "Orchard Commons - Vantage College",
-				"CLASS_CODE" : "ORCH",
-				"NOTES" : null,
-				"REC_IDS" : "557",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "UBC Vantage College",
-				"PLACENAME2" : "UBC Vantage College",
-				"PLACENAME3" : "Orchard Commons",
-				"PLACENAME4" : "Vantage College",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "6363 Agronomy Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205909"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25138590692252, 49.26086735215555 ],
-						[ -123.25147786488137, 49.26097887537782 ],
-						[ -123.2522839029718, 49.26069371473758 ],
-						[ -123.25219179841609, 49.26058253428899 ],
-						[ -123.2517183224001, 49.26074910585483 ],
-						[ -123.25138590692252, 49.26086735215555 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "ORCH02",
-				"BLDG_ID" : "ORCH",
-				"ADD_ID" : "AD-24",
-				"NAME" : "Orchard Commons - Bartlett House",
-				"CLASS_CODE" : "ORCH",
-				"NOTES" : null,
-				"REC_IDS" : "557",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Highrise",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "Bartlett House",
-				"PLACENAME2" : "Bartlett",
-				"PLACENAME3" : "Orchard Commons",
-				"PLACENAME4" : "Bartlett",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "2362 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205913"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25089754209554, 49.26027506912134 ],
-						[ -123.25138590692252, 49.26086735215555 ],
-						[ -123.2517183224001, 49.26074910585483 ],
-						[ -123.25123006802198, 49.260158015838705 ],
-						[ -123.25089754209554, 49.26027506912134 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "ORCH03",
-				"BLDG_ID" : "ORCH",
-				"ADD_ID" : "AD-24",
-				"NAME" : "Orchard Commons - Braeburn House",
-				"CLASS_CODE" : "ORCH",
-				"NOTES" : null,
-				"REC_IDS" : "557",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Highrise",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "Braeburn House",
-				"PLACENAME2" : "Braeburn",
-				"PLACENAME3" : "Orchard Commons",
-				"PLACENAME4" : "Braeburn",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "6363 Agronomy Road",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205913"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24327841718375, 49.260097792407336 ],
-						[ -123.24343793668486, 49.260291900705454 ],
-						[ -123.24347358113089, 49.26027935282414 ],
-						[ -123.24351453243268, 49.26032918279951 ],
-						[ -123.24343615847499, 49.260356772587215 ],
-						[ -123.24347804309468, 49.26040773850377 ],
-						[ -123.24355492848773, 49.2603806717496 ],
-						[ -123.24359921768394, 49.26043456229658 ],
-						[ -123.2435642138829, 49.26044688488472 ],
-						[ -123.24372039788102, 49.26063693217515 ],
-						[ -123.24416801644834, 49.26047935241267 ],
-						[ -123.24401182986315, 49.26028930662649 ],
-						[ -123.2439768262679, 49.26030162933964 ],
-						[ -123.24393253815491, 49.26024773893371 ],
-						[ -123.24400942442435, 49.26022067187422 ],
-						[ -123.2439675394172, 49.260169706149235 ],
-						[ -123.24388916596538, 49.26019729624421 ],
-						[ -123.24384821577526, 49.26014746729752 ],
-						[ -123.24388386000851, 49.26013491839014 ],
-						[ -123.243724339269, 49.25994081070435 ],
-						[ -123.24327841718375, 49.260097792407336 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "OSBO01",
-				"BLDG_ID" : "OSBO",
-				"ADD_ID" : "AD-183",
-				"NAME" : "Osborne Centre",
-				"CLASS_CODE" : "OSBO",
-				"NOTES" : null,
-				"REC_IDS" : "430",
-				"BLDG_USE" : null,
-				"GBA" : 3438,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "Osborne Unit 1",
-				"PLACENAME2" : "Unit 1",
-				"PLACENAME3" : "Osborne Centre",
-				"PLACENAME4" : "Unit 1",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "6108 Thunderbird Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z3",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205916"
 			}
 		},
 		{
@@ -4616,139 +3760,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20190116205334"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24447936442282, 49.25789694368141 ],
-						[ -123.24454272374902, 49.25787463726423 ],
-						[ -123.24460427792563, 49.25794953703177 ],
-						[ -123.2447898764563, 49.257884193929705 ],
-						[ -123.24472832345067, 49.25780929335809 ],
-						[ -123.24477443623009, 49.25779305913944 ],
-						[ -123.24469403552614, 49.2576952246728 ],
-						[ -123.24471249185316, 49.25768872701125 ],
-						[ -123.24467278036043, 49.257640404211394 ],
-						[ -123.24465432404615, 49.257646901866664 ],
-						[ -123.2445583100194, 49.25753006646772 ],
-						[ -123.24453005007422, 49.257540016532836 ],
-						[ -123.24451288640039, 49.25751913086367 ],
-						[ -123.24448492552943, 49.257513116458554 ],
-						[ -123.24447578873897, 49.257532496215745 ],
-						[ -123.24451813282654, 49.25758521397669 ],
-						[ -123.24446403289527, 49.25760426160951 ],
-						[ -123.2444799162879, 49.257623590222735 ],
-						[ -123.24442517216784, 49.25764299990885 ],
-						[ -123.24440872151786, 49.257623734555224 ],
-						[ -123.24435462149779, 49.25764278123729 ],
-						[ -123.24431211108433, 49.257590309338376 ],
-						[ -123.24428208029963, 49.257584531338054 ],
-						[ -123.24427433578123, 49.25760311655548 ],
-						[ -123.24429149937934, 49.257624001360384 ],
-						[ -123.24426323932671, 49.257633951360255 ],
-						[ -123.24447936442282, 49.25789694368141 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "FPIN02",
-				"BLDG_ID" : "FPIN",
-				"ADD_ID" : "AD-169",
-				"NAME" : "FP Innovations - Feric",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "373",
-				"BLDG_USE" : "RSCH",
-				"GBA" : 1936,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "Feric",
-				"PLACENAME2" : "Feric",
-				"PLACENAME3" : "FP Innovations",
-				"PLACENAME4" : "FERIC",
-				"ABBREVIATEDPLACENAME" : "FERIC",
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "2601 East Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205402"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24377264163044, 49.25652846050156 ],
-						[ -123.24374757996702, 49.256537283723304 ],
-						[ -123.2439997065016, 49.25684409593481 ],
-						[ -123.24402512222247, 49.256835147776954 ],
-						[ -123.24404790698684, 49.25686287421084 ],
-						[ -123.24402492637199, 49.25687096538254 ],
-						[ -123.24407309934617, 49.256929586261364 ],
-						[ -123.24408530922578, 49.2569252877346 ],
-						[ -123.24411825323097, 49.256965375519265 ],
-						[ -123.24412537338152, 49.25696286969664 ],
-						[ -123.24413838896824, 49.25697870887353 ],
-						[ -123.24416745946984, 49.25696847474002 ],
-						[ -123.2442246485308, 49.25703806776703 ],
-						[ -123.24419801449633, 49.25704744491716 ],
-						[ -123.24418139903892, 49.25706519433301 ],
-						[ -123.24440303085204, 49.25733489101841 ],
-						[ -123.24442930281973, 49.257325641420216 ],
-						[ -123.2444488278733, 49.25734940147802 ],
-						[ -123.24448512846033, 49.257336621610925 ],
-						[ -123.24449860881212, 49.25735302556251 ],
-						[ -123.24483653542742, 49.25723405061382 ],
-						[ -123.24482351817588, 49.25721821151966 ],
-						[ -123.24485255025832, 49.25720798988895 ],
-						[ -123.24486573434409, 49.25721643724925 ],
-						[ -123.24497835188984, 49.25717678773153 ],
-						[ -123.24496663287842, 49.257162528160805 ],
-						[ -123.24519658668298, 49.257081567279855 ],
-						[ -123.24493836394225, 49.25676735045016 ],
-						[ -123.24497019438179, 49.25675614417567 ],
-						[ -123.24486466635133, 49.25662773253966 ],
-						[ -123.24483283734455, 49.256638938782324 ],
-						[ -123.24450789354191, 49.25624352389656 ],
-						[ -123.24427794249404, 49.256324483414225 ],
-						[ -123.24426622526104, 49.256310223766796 ],
-						[ -123.24415360911134, 49.25634987259416 ],
-						[ -123.24415711703107, 49.25636173708172 ],
-						[ -123.24412808530006, 49.256371958538644 ],
-						[ -123.24411506849823, 49.256356118462065 ],
-						[ -123.24377593611933, 49.25647551664076 ],
-						[ -123.24378941600084, 49.256491920678286 ],
-						[ -123.24375311723074, 49.25650470122459 ],
-						[ -123.24377264163044, 49.25652846050156 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "FPIN",
-				"ADD_ID" : "AD-169",
-				"NAME" : "FPInnovations - Forintek",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "372",
-				"BLDG_USE" : "RSCH",
-				"GBA" : 9527,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116194131",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205403"
 			}
 		},
 		{
@@ -8804,51 +7815,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.25498125944152, 49.26198848700336 ],
-						[ -123.25495004043849, 49.26195051421363 ],
-						[ -123.25428435814466, 49.26218493308795 ],
-						[ -123.25430389537429, 49.26220869683426 ],
-						[ -123.25404972337054, 49.26229820161503 ],
-						[ -123.25400413764388, 49.26224275186704 ],
-						[ -123.25389520639062, 49.262281110331344 ],
-						[ -123.25395247474343, 49.26235076937792 ],
-						[ -123.25395254333947, 49.26235074494006 ],
-						[ -123.253960397752, 49.26236029948816 ],
-						[ -123.25406932912853, 49.262321940962735 ],
-						[ -123.25410840350904, 49.26236946852365 ],
-						[ -123.25436257440191, 49.262279964516985 ],
-						[ -123.25434303711587, 49.26225620078102 ],
-						[ -123.25463351808204, 49.2621539086929 ],
-						[ -123.25461398209049, 49.26213014499932 ],
-						[ -123.25498918396407, 49.26199801704038 ],
-						[ -123.25498125944152, 49.26198848700336 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "BOSS",
-				"ADD_ID" : "AD-246",
-				"NAME" : "Building Operations Storage Shed",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "646",
-				"BLDG_USE" : "ADMIN",
-				"GBA" : 992,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "PLAN",
-				"CREATED_DATE" : "20180525212917",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116205215"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.25312667795356, 49.262490763354585 ],
 						[ -123.2534055903697, 49.26239254935156 ],
 						[ -123.25330870696457, 49.262274701354166 ],
@@ -10059,68 +9025,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.22881033488721, 49.24853039777176 ],
-						[ -123.2293836113697, 49.24846430635577 ],
-						[ -123.22937537168714, 49.24843504051692 ],
-						[ -123.22944357810844, 49.248426811164364 ],
-						[ -123.22945190864667, 49.24845640154604 ],
-						[ -123.23003040601071, 49.24838850559781 ],
-						[ -123.23003613173329, 49.24835954212376 ],
-						[ -123.23004517040518, 49.24832735715441 ],
-						[ -123.23004983009832, 49.24829341783715 ],
-						[ -123.23004786597281, 49.24822762967537 ],
-						[ -123.23003452339813, 49.24816774075843 ],
-						[ -123.22997460019224, 49.248174803481255 ],
-						[ -123.22992978710911, 49.24800933531069 ],
-						[ -123.22982810061919, 49.24802117748196 ],
-						[ -123.22983896631858, 49.24806081317478 ],
-						[ -123.22909616928803, 49.248149113262755 ],
-						[ -123.22908193028051, 49.24809835258218 ],
-						[ -123.22905266416446, 49.24808515612534 ],
-						[ -123.228920893748, 49.24810105372312 ],
-						[ -123.22890073594483, 49.248120213042874 ],
-						[ -123.22891481690101, 49.24817041005721 ],
-						[ -123.22880309987569, 49.24818354852379 ],
-						[ -123.22882189804812, 49.24825193177449 ],
-						[ -123.22873369483636, 49.24826182399324 ],
-						[ -123.22881033488721, 49.24853039777176 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "TRMF05",
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF - Isac 2",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "847-1",
-				"BLDG_USE" : null,
-				"GBA" : 5958,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "TRIUMF ISAC2",
-				"PLACENAME2" : "ISAC2",
-				"PLACENAME3" : "TRIUMF",
-				"PLACENAME4" : "Isotope Separator Accelerator 2",
-				"ABBREVIATEDPLACENAME" : "ISAC2",
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "4004 Wesbrook Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2A3",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.22999058159441, 49.24607865044221 ],
 						[ -123.22999323873029, 49.24608808745773 ],
 						[ -123.22983261732838, 49.24610746802454 ],
@@ -10381,160 +9285,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.2298267698015, 49.246735966366 ],
-						[ -123.23010497420242, 49.246703280691555 ],
-						[ -123.2300716738206, 49.24657843370031 ],
-						[ -123.22979266138377, 49.246611537382485 ],
-						[ -123.2298267698015, 49.246735966366 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "TRMF07",
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF - Compressor",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "842",
-				"BLDG_USE" : null,
-				"GBA" : 511,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "TRIUMF Compressor",
-				"PLACENAME2" : "Compressor",
-				"PLACENAME3" : "TRIUMF",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "4004 Wesbrook Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2A3",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.23020819371295, 49.247927001574325 ],
-						[ -123.23019283994886, 49.247872243966206 ],
-						[ -123.23020738260742, 49.24787016677334 ],
-						[ -123.23020122832456, 49.24784770173308 ],
-						[ -123.2302084419719, 49.24784681751963 ],
-						[ -123.2301989926823, 49.24781339654698 ],
-						[ -123.23015182694107, 49.2478188067032 ],
-						[ -123.23014502340752, 49.2477952950078 ],
-						[ -123.23013406446269, 49.247796536592695 ],
-						[ -123.23007224286326, 49.2475776877148 ],
-						[ -123.23011679494984, 49.24757226660529 ],
-						[ -123.23009044005788, 49.247474427503285 ],
-						[ -123.22981396554289, 49.247507160068395 ],
-						[ -123.22982010297348, 49.24752929773731 ],
-						[ -123.2296246717113, 49.24755225988943 ],
-						[ -123.22965677890154, 49.24766938784671 ],
-						[ -123.22985256355118, 49.24764638625836 ],
-						[ -123.2299333809698, 49.24793789696688 ],
-						[ -123.22994530325681, 49.247936383626524 ],
-						[ -123.22994329064568, 49.247929060110714 ],
-						[ -123.23015053305092, 49.247904923402146 ],
-						[ -123.23015823873325, 49.24793303436424 ],
-						[ -123.23020819371295, 49.247927001574325 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "TRMF02",
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF - Ariel",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "845",
-				"BLDG_USE" : null,
-				"GBA" : 3638,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "TRIUMF Ariel",
-				"PLACENAME2" : "Ariel",
-				"PLACENAME3" : "TRIUMF",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "4004 Wesbrook Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2A3",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.22909051384633, 49.24779899830334 ],
-						[ -123.22907165878257, 49.24780122333247 ],
-						[ -123.22908442040881, 49.24784778167217 ],
-						[ -123.2291028596007, 49.2478456519157 ],
-						[ -123.22917140183522, 49.24809598389726 ],
-						[ -123.22992483460008, 49.24800656383928 ],
-						[ -123.22985096274603, 49.24774049673639 ],
-						[ -123.22980874419649, 49.24774546064087 ],
-						[ -123.22979150037021, 49.2476842094763 ],
-						[ -123.22957270405864, 49.24771060831623 ],
-						[ -123.22954325096168, 49.24760281751879 ],
-						[ -123.22925286174998, 49.24763697064772 ],
-						[ -123.22926018504675, 49.247664222484644 ],
-						[ -123.22905994376109, 49.247687744633666 ],
-						[ -123.22909051384633, 49.24779899830334 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "TRMF04",
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF - Isac 1",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "847",
-				"BLDG_USE" : null,
-				"GBA" : 14681,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "TRIUMF ISAC1",
-				"PLACENAME2" : "ISAC1",
-				"PLACENAME3" : "TRIUMF",
-				"PLACENAME4" : "Isotope Separator Accelerator 1",
-				"ABBREVIATEDPLACENAME" : "ISAC1",
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "4004 Wesbrook Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2A3",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.25475478909662, 49.265547940397475 ],
 						[ -123.25495901416332, 49.26547602744874 ],
 						[ -123.2548994253211, 49.26540355315627 ],
@@ -10605,48 +9355,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.23026619100165, 49.24755817383791 ],
-						[ -123.23032773672345, 49.24755094221555 ],
-						[ -123.23030281935878, 49.24746005091715 ],
-						[ -123.23024127374623, 49.24746728252619 ],
-						[ -123.23026619100165, 49.24755817383791 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "TRMF09",
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF - Badge",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "854-2",
-				"BLDG_USE" : null,
-				"GBA" : 26,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "TRIUMF Badge",
-				"PLACENAME2" : "Badge",
-				"PLACENAME3" : "TRIUMF",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "4004 Wesbrook Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 2A3",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.22892402259164, 49.24645344882072 ],
 						[ -123.22886201565792, 49.2462200282234 ],
 						[ -123.22828978233218, 49.246289642962005 ],
@@ -10671,49 +9379,6 @@
 				"GREEN_STATUS" : null,
 				"CREATED_USER" : null,
 				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116213453"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "MultiPolygon",
-				"coordinates" : [
-					[
-						[
-							[ -123.23041017599255, 49.248410393436195 ],
-							[ -123.23065922624045, 49.24838113239858 ],
-							[ -123.23061953743087, 49.24823636220786 ],
-							[ -123.23037048789129, 49.24826562405911 ],
-							[ -123.23041017599255, 49.248410393436195 ]
-						]
-					],
-					[
-						[
-							[ -123.2306847174364, 49.24823160582766 ],
-							[ -123.23071939672477, 49.24835810317878 ],
-							[ -123.23092765441629, 49.24833363472493 ],
-							[ -123.23089297460926, 49.24820713653704 ],
-							[ -123.2306847174364, 49.24823160582766 ]
-						]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "TRMF",
-				"ADD_ID" : "AD-283",
-				"NAME" : "TRIUMF",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "854-1",
-				"BLDG_USE" : null,
-				"GBA" : null,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190116212431",
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20190116213453"
 			}
@@ -11542,80 +10207,2391 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.24970596541226, 49.262363107719516 ],
-						[ -123.2496760294109, 49.26232668960778 ],
-						[ -123.24921579485809, 49.26248873182594 ],
-						[ -123.2491839562715, 49.26244999962382 ],
-						[ -123.24919625349956, 49.2624456697894 ],
-						[ -123.24918730058701, 49.26243477789928 ],
-						[ -123.24920908792404, 49.262427106561 ],
-						[ -123.24913468373931, 49.26233658982497 ],
-						[ -123.24911289642594, 49.26234426024978 ],
-						[ -123.24883520426926, 49.26200643064249 ],
-						[ -123.24871837780907, 49.262047562761275 ],
-						[ -123.24874269015815, 49.26207714067214 ],
-						[ -123.24871317720765, 49.26208753251632 ],
-						[ -123.2487052381173, 49.26207787434891 ],
-						[ -123.24860255391661, 49.262114027637274 ],
-						[ -123.24861016110606, 49.26212328264052 ],
-						[ -123.24861385040384, 49.262121983888214 ],
-						[ -123.24862939805818, 49.26214089796037 ],
-						[ -123.24862878340338, 49.262141114268765 ],
-						[ -123.24862911391145, 49.26214151654333 ],
-						[ -123.2486158933545, 49.26214617123278 ],
-						[ -123.24893832512517, 49.26253505537952 ],
-						[ -123.24850268229032, 49.262688436036896 ],
-						[ -123.24847332502492, 49.26265272159631 ],
-						[ -123.24853727309704, 49.26263020665224 ],
-						[ -123.24837667921597, 49.26243483224614 ],
-						[ -123.24826446268477, 49.26247434024992 ],
-						[ -123.24828530257174, 49.26249969256664 ],
-						[ -123.24826132121308, 49.26250813573696 ],
-						[ -123.24822080168809, 49.26245883904863 ],
-						[ -123.24808767964218, 49.26250570760185 ],
-						[ -123.24833501935316, 49.26280661768253 ],
-						[ -123.24835377345619, 49.262800014461256 ],
-						[ -123.2483785824167, 49.262830196755615 ],
-						[ -123.2483893431513, 49.2628264082245 ],
-						[ -123.24841894799945, 49.26286242439236 ],
-						[ -123.24836483832192, 49.26288147475241 ],
-						[ -123.24844455638117, 49.26297845800488 ],
-						[ -123.24852295500509, 49.26295085668434 ],
-						[ -123.24856463409361, 49.26300156121833 ],
-						[ -123.24885977844056, 49.26289764730075 ],
-						[ -123.24881809913794, 49.26284694287268 ],
-						[ -123.2492239218426, 49.262704060709616 ],
-						[ -123.24921532152023, 49.262693598032975 ],
-						[ -123.24925313673135, 49.26268028359581 ],
-						[ -123.2492617370639, 49.262690747169174 ],
-						[ -123.24940654109002, 49.262639763721474 ],
-						[ -123.2494267773046, 49.26266438222575 ],
-						[ -123.24957803771358, 49.26261112502581 ],
-						[ -123.2495578000713, 49.26258650655084 ],
-						[ -123.249781615359, 49.26250770424358 ],
-						[ -123.24976292652099, 49.26248496785344 ],
-						[ -123.24979551412572, 49.2624734932664 ],
-						[ -123.24975763863968, 49.2624274170847 ],
-						[ -123.24970596541226, 49.262363107719516 ]
+						[ -123.24913500733544, 49.272207324140766 ],
+						[ -123.24909707103014, 49.27216118138327 ],
+						[ -123.24911665055993, 49.27215428842484 ],
+						[ -123.24909317404818, 49.27212629289491 ],
+						[ -123.24909663765364, 49.272125073774184 ],
+						[ -123.24908035497272, 49.27210526995576 ],
+						[ -123.24907689274292, 49.272106489073025 ],
+						[ -123.24905768051664, 49.27208312047085 ],
+						[ -123.24907153080932, 49.27207824489992 ],
+						[ -123.24902990403676, 49.27202727335392 ],
+						[ -123.24890119222148, 49.27207258157502 ],
+						[ -123.24890640259389, 49.27207891826575 ],
+						[ -123.24890259566449, 49.27207911446627 ],
+						[ -123.24890072953575, 49.2720792561128 ],
+						[ -123.24889674482057, 49.27207963619822 ],
+						[ -123.24889312333872, 49.27208007846753 ],
+						[ -123.24888952018479, 49.27208061154879 ],
+						[ -123.24888569089119, 49.27208128094458 ],
+						[ -123.24888149002645, 49.27208214363795 ],
+						[ -123.24887772096176, 49.27208303508529 ],
+						[ -123.24887405406703, 49.27208401446541 ],
+						[ -123.24886990738108, 49.27208526293588 ],
+						[ -123.24886650799382, 49.27208640455277 ],
+						[ -123.24886172483937, 49.27208820310118 ],
+						[ -123.2488584599409, 49.27208957200679 ],
+						[ -123.24885461693887, 49.27209134244394 ],
+						[ -123.2488502840935, 49.27209356999272 ],
+						[ -123.24884673930774, 49.2720955952511 ],
+						[ -123.24884377378804, 49.27209745015202 ],
+						[ -123.24884096662831, 49.272099358683036 ],
+						[ -123.24883732367128, 49.272102091175476 ],
+						[ -123.24883497597253, 49.272104061683265 ],
+						[ -123.2488297656021, 49.27209772408983 ],
+						[ -123.24876741923228, 49.27211967080492 ],
+						[ -123.24879298142694, 49.2721507625565 ],
+						[ -123.248794543074, 49.27215021318514 ],
+						[ -123.24880691684591, 49.2721652643 ],
+						[ -123.24876661594517, 49.2721794501548 ],
+						[ -123.24882913771353, 49.272255496801435 ],
+						[ -123.24886787700902, 49.272241860297335 ],
+						[ -123.24890581453768, 49.27228800312672 ],
+						[ -123.24891307798643, 49.27228544633497 ],
+						[ -123.24890903913594, 49.27228053465972 ],
+						[ -123.2490906319578, 49.27221661201058 ],
+						[ -123.24909466944635, 49.27222152368248 ],
+						[ -123.24913500733544, 49.272207324140766 ]
 					]
 				]
 			},
 			"properties" : {
-				"SUBBLDG_ID" : "CEME04",
-				"BLDG_ID" : "CEME",
-				"ADD_ID" : "AD-155",
-				"NAME" : "Civil and Mechanical Engineering Building",
-				"CLASS_CODE" : "CEME",
+				"SUBBLDG_ID" : "STMK02",
+				"BLDG_ID" : "STMK",
+				"ADD_ID" : "AD-78",
+				"NAME" : "St. Mark's Chapel",
+				"CLASS_CODE" : null,
 				"NOTES" : null,
-				"REC_IDS" : "306",
-				"BLDG_USE" : "APSC",
-				"GBA" : 8773,
+				"REC_IDS" : "829",
+				"BLDG_USE" : null,
+				"GBA" : 880,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208230900"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.24939697035771, 49.27234033506995 ],
+						[ -123.24913112598, 49.27251104203054 ],
+						[ -123.24922930495777, 49.272576504274134 ],
+						[ -123.2495582708164, 49.27236526511987 ],
+						[ -123.24942833522248, 49.27227862774066 ],
+						[ -123.24945579158174, 49.27226896338983 ],
+						[ -123.24935653566659, 49.27214823803269 ],
+						[ -123.24926540889741, 49.27218031635335 ],
+						[ -123.24939697035771, 49.27234033506995 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "STMK01",
+				"BLDG_ID" : "STMK",
+				"ADD_ID" : "AD-78",
+				"NAME" : "St. Mark's College",
+				"CLASS_CODE" : null,
+				"NOTES" : "new GBA taken from spreadsheet",
+				"REC_IDS" : "828",
+				"BLDG_USE" : "OTHER",
+				"GBA" : 1487,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208230757",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208230921"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25047736757487, 49.26532105113308 ],
+						[ -123.25101050185484, 49.265133772372046 ],
+						[ -123.25099897910904, 49.26511962994229 ],
+						[ -123.25109131912905, 49.26508699526446 ],
+						[ -123.25100342428, 49.26498008022712 ],
+						[ -123.2509773843159, 49.264989289424406 ],
+						[ -123.25082008817307, 49.264800109024414 ],
+						[ -123.2502510782096, 49.26500180749725 ],
+						[ -123.2502698631981, 49.265024569677 ],
+						[ -123.25030693462098, 49.265011467000264 ],
+						[ -123.25036481839504, 49.26508169855339 ],
+						[ -123.25029998806049, 49.26510470844758 ],
+						[ -123.25047736757487, 49.26532105113308 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "BOOK02",
+				"BLDG_ID" : "BOOK",
+				"ADD_ID" : "AD-116",
+				"NAME" : "NCE",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "081-2",
+				"BLDG_USE" : "ADMIN",
+				"GBA" : 6893,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Networks of Centres of Excellence",
+				"PLACENAME2" : "NCE",
+				"PLACENAME3" : "Networks of Centres of Excellence",
+				"PLACENAME4" : "NCE",
+				"ABBREVIATEDPLACENAME" : "NCE",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "6200 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231102",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231355"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.2502658299301, 49.26496251053602 ],
+						[ -123.25022259355372, 49.264977448981455 ],
+						[ -123.25021635160499, 49.264992605042764 ],
+						[ -123.25023009689612, 49.265009238909265 ],
+						[ -123.2502510782096, 49.26500180749725 ],
+						[ -123.25082008817307, 49.264800109024414 ],
+						[ -123.25085521015437, 49.26478807273783 ],
+						[ -123.2507640037108, 49.26467842386134 ],
+						[ -123.25072357684532, 49.264692750120055 ],
+						[ -123.25069653524272, 49.26465995917265 ],
+						[ -123.25016923603178, 49.26484571267255 ],
+						[ -123.2502658299301, 49.26496251053602 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "BOOK01",
+				"BLDG_ID" : "BOOK",
+				"ADD_ID" : "AD-116",
+				"NAME" : "UBC Bookstore",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "081",
+				"BLDG_USE" : "ADMIN",
+				"GBA" : 6893,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231053",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231325"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23020819371295, 49.247927001574325 ],
+						[ -123.23019283994886, 49.247872243966206 ],
+						[ -123.23020738260742, 49.24787016677334 ],
+						[ -123.23020122832456, 49.24784770173308 ],
+						[ -123.2302084419719, 49.24784681751963 ],
+						[ -123.2301989926823, 49.24781339654698 ],
+						[ -123.23015182694107, 49.2478188067032 ],
+						[ -123.23014502340752, 49.2477952950078 ],
+						[ -123.23013406446269, 49.247796536592695 ],
+						[ -123.23007224286326, 49.2475776877148 ],
+						[ -123.23011679494984, 49.24757226660529 ],
+						[ -123.23009044005788, 49.247474427503285 ],
+						[ -123.22981396554289, 49.247507160068395 ],
+						[ -123.22982010297348, 49.24752929773731 ],
+						[ -123.2296246717113, 49.24755225988943 ],
+						[ -123.22965677890154, 49.24766938784671 ],
+						[ -123.22985256355118, 49.24764638625836 ],
+						[ -123.2299333809698, 49.24793789696688 ],
+						[ -123.22994530325681, 49.247936383626524 ],
+						[ -123.22994329064568, 49.247929060110714 ],
+						[ -123.23015053305092, 49.247904923402146 ],
+						[ -123.23015823873325, 49.24793303436424 ],
+						[ -123.23020819371295, 49.247927001574325 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF02",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - ARIEL",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "845",
+				"BLDG_USE" : null,
+				"GBA" : 3638,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "TRIUMF Ariel",
+				"PLACENAME2" : "Ariel",
+				"PLACENAME3" : "TRIUMF",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "4004 Wesbrook Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2A3",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233031"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.24327841718375, 49.260097792407336 ],
+						[ -123.24343793668486, 49.260291900705454 ],
+						[ -123.24347358113089, 49.26027935282414 ],
+						[ -123.24351453243268, 49.26032918279951 ],
+						[ -123.24343615847499, 49.260356772587215 ],
+						[ -123.24347804309468, 49.26040773850377 ],
+						[ -123.24355492848773, 49.2603806717496 ],
+						[ -123.24359921768394, 49.26043456229658 ],
+						[ -123.2435642138829, 49.26044688488472 ],
+						[ -123.24372039788102, 49.26063693217515 ],
+						[ -123.24416801644834, 49.26047935241267 ],
+						[ -123.24401182986315, 49.26028930662649 ],
+						[ -123.2439768262679, 49.26030162933964 ],
+						[ -123.24393253815491, 49.26024773893371 ],
+						[ -123.24400942442435, 49.26022067187422 ],
+						[ -123.2439675394172, 49.260169706149235 ],
+						[ -123.24388916596538, 49.26019729624421 ],
+						[ -123.24384821577526, 49.26014746729752 ],
+						[ -123.24388386000851, 49.26013491839014 ],
+						[ -123.243724339269, 49.25994081070435 ],
+						[ -123.24327841718375, 49.260097792407336 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "OSBO01",
+				"BLDG_ID" : "OSBO",
+				"ADD_ID" : "AD-183",
+				"NAME" : "Osborne Centre - Unit 1",
+				"CLASS_CODE" : "OSBO",
+				"NOTES" : null,
+				"REC_IDS" : "430",
+				"BLDG_USE" : null,
+				"GBA" : 3438,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Osborne Unit 1",
+				"PLACENAME2" : "Unit 1",
+				"PLACENAME3" : "Osborne Centre",
+				"PLACENAME4" : "Unit 1",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "6108 Thunderbird Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z3",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208232445"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.24431161175274, 49.259600182458165 ],
+						[ -123.24404825235436, 49.259692896895196 ],
+						[ -123.24410990899435, 49.25976792082093 ],
+						[ -123.24388995090466, 49.259845356554166 ],
+						[ -123.24402439053657, 49.26000894493187 ],
+						[ -123.24406754197837, 49.2600614506428 ],
+						[ -123.24410808956219, 49.26004717591913 ],
+						[ -123.24415528266496, 49.26010460063993 ],
+						[ -123.24411473504787, 49.260118875380044 ],
+						[ -123.24425405977148, 49.26028840529965 ],
+						[ -123.24447337854241, 49.260211195113236 ],
+						[ -123.24451599416037, 49.26026304873592 ],
+						[ -123.24478000190811, 49.26017010518987 ],
+						[ -123.24459746979116, 49.25994800305677 ],
+						[ -123.24450001010558, 49.259982313823556 ],
+						[ -123.24445331448429, 49.25992549536713 ],
+						[ -123.24455077409061, 49.25989118463951 ],
+						[ -123.24450771492253, 49.259838791352315 ],
+						[ -123.24431161175274, 49.259600182458165 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "OSBO02",
+				"BLDG_ID" : "OSBO",
+				"ADD_ID" : "AD-183",
+				"NAME" : "Osborne Centre - Unit 2",
+				"CLASS_CODE" : "OSBO",
+				"NOTES" : null,
+				"REC_IDS" : "431",
+				"BLDG_USE" : null,
+				"GBA" : 2740,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Osborne Unit 2",
+				"PLACENAME2" : "Unit 2",
+				"PLACENAME3" : "Osborne Centre",
+				"PLACENAME4" : "Unit 2",
+				"ABBREVIATEDPLACENAME" : "Osborne 2",
+				"BUILDING_SHORTCODE" : "OSBO",
+				"FULLADDRESS" : "6108 Thunderbird Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z3",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208232448"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22881033488721, 49.24853039777176 ],
+						[ -123.2293836113697, 49.24846430635577 ],
+						[ -123.22937537168714, 49.24843504051692 ],
+						[ -123.22944357810844, 49.248426811164364 ],
+						[ -123.22945190864667, 49.24845640154604 ],
+						[ -123.23003040601071, 49.24838850559781 ],
+						[ -123.23003613173329, 49.24835954212376 ],
+						[ -123.23004517040518, 49.24832735715441 ],
+						[ -123.23004983009832, 49.24829341783715 ],
+						[ -123.23004786597281, 49.24822762967537 ],
+						[ -123.23003452339813, 49.24816774075843 ],
+						[ -123.22997460019224, 49.248174803481255 ],
+						[ -123.22992978710911, 49.24800933531069 ],
+						[ -123.22982810061919, 49.24802117748196 ],
+						[ -123.22983896631858, 49.24806081317478 ],
+						[ -123.22909616928803, 49.248149113262755 ],
+						[ -123.22908193028051, 49.24809835258218 ],
+						[ -123.22905266416446, 49.24808515612534 ],
+						[ -123.228920893748, 49.24810105372312 ],
+						[ -123.22890073594483, 49.248120213042874 ],
+						[ -123.22891481690101, 49.24817041005721 ],
+						[ -123.22880309987569, 49.24818354852379 ],
+						[ -123.22882189804812, 49.24825193177449 ],
+						[ -123.22873369483636, 49.24826182399324 ],
+						[ -123.22881033488721, 49.24853039777176 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF05",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - ISAC 2",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "847-1",
+				"BLDG_USE" : null,
+				"GBA" : 5958,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "TRIUMF ISAC2",
+				"PLACENAME2" : "ISAC2",
+				"PLACENAME3" : "TRIUMF",
+				"PLACENAME4" : "Isotope Separator Accelerator 2",
+				"ABBREVIATEDPLACENAME" : "ISAC2",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "4004 Wesbrook Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2A3",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233051"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.24538333908403, 49.25996951286149 ],
+						[ -123.24510351768534, 49.259629035892964 ],
+						[ -123.24494809758846, 49.259439924321434 ],
+						[ -123.24450908764162, 49.2595944800214 ],
+						[ -123.24466450655075, 49.25978359218028 ],
+						[ -123.24494432581544, 49.2601240711058 ],
+						[ -123.24538333908403, 49.25996951286149 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TENN02",
+				"BLDG_ID" : "TENN",
+				"ADD_ID" : "AD-184",
+				"NAME" : "Tennis Centre - Bubble",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "432",
+				"BLDG_USE" : null,
+				"GBA" : 2409,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208232613"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22909051384633, 49.24779899830334 ],
+						[ -123.22907165878257, 49.24780122333247 ],
+						[ -123.22908442040881, 49.24784778167217 ],
+						[ -123.2291028596007, 49.2478456519157 ],
+						[ -123.22917140183522, 49.24809598389726 ],
+						[ -123.22992483460008, 49.24800656383928 ],
+						[ -123.22985096274603, 49.24774049673639 ],
+						[ -123.22980874419649, 49.24774546064087 ],
+						[ -123.22979150037021, 49.2476842094763 ],
+						[ -123.22957270405864, 49.24771060831623 ],
+						[ -123.22954325096168, 49.24760281751879 ],
+						[ -123.22925286174998, 49.24763697064772 ],
+						[ -123.22926018504675, 49.247664222484644 ],
+						[ -123.22905994376109, 49.247687744633666 ],
+						[ -123.22909051384633, 49.24779899830334 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF04",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - ISAC 1",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "847",
+				"BLDG_USE" : null,
+				"GBA" : 14681,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "TRIUMF ISAC1",
+				"PLACENAME2" : "ISAC1",
+				"PLACENAME3" : "TRIUMF",
+				"PLACENAME4" : "Isotope Separator Accelerator 1",
+				"ABBREVIATEDPLACENAME" : "ISAC1",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "4004 Wesbrook Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2A3",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233054"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23026619100165, 49.24755817383791 ],
+						[ -123.23032773672345, 49.24755094221555 ],
+						[ -123.23030281935878, 49.24746005091715 ],
+						[ -123.23024127374623, 49.24746728252619 ],
+						[ -123.23026619100165, 49.24755817383791 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF09",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Badge Room",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "854-2",
+				"BLDG_USE" : null,
+				"GBA" : 26,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "TRIUMF Badge",
+				"PLACENAME2" : "Badge",
+				"PLACENAME3" : "TRIUMF",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "4004 Wesbrook Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2A3",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233102"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25237911671606, 49.268829826045355 ],
+						[ -123.2523629320142, 49.26881014120079 ],
+						[ -123.25234448353207, 49.26881663645496 ],
+						[ -123.25248068519265, 49.26898229330945 ],
+						[ -123.25225715919916, 49.2690609903695 ],
+						[ -123.25237249703534, 49.26920127063693 ],
+						[ -123.25281691742292, 49.26904480070943 ],
+						[ -123.25270158006943, 49.26890452088027 ],
+						[ -123.25255544114222, 49.268955973665335 ],
+						[ -123.25243542401763, 49.26881000083569 ],
+						[ -123.25237911671606, 49.268829826045355 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "BRCK03",
+				"BLDG_ID" : "BRCK",
+				"ADD_ID" : "AD-121",
+				"NAME" : "Brock Hall Annex",
+				"CLASS_CODE" : "BRKX",
+				"NOTES" : null,
+				"REC_IDS" : "113",
+				"BLDG_USE" : "ARTS",
+				"GBA" : 2100,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Brock Hall Annex",
+				"PLACENAME2" : "Brock Hall Annex",
+				"PLACENAME3" : "Brock Hall",
+				"PLACENAME4" : "Annex",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "1874 East Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z1",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190204195104",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208232721"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.2298267698015, 49.246735966366 ],
+						[ -123.23010497420242, 49.246703280691555 ],
+						[ -123.2300716738206, 49.24657843370031 ],
+						[ -123.22979266138377, 49.246611537382485 ],
+						[ -123.2298267698015, 49.246735966366 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF07",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Compressor Building",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "842",
+				"BLDG_USE" : null,
+				"GBA" : 511,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "TRIUMF Compressor",
+				"PLACENAME2" : "Compressor",
+				"PLACENAME3" : "TRIUMF",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "4004 Wesbrook Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2A3",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233035"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23479246653002, 49.26082442318543 ],
+						[ -123.23471815284377, 49.260809802229765 ],
+						[ -123.23470663619496, 49.26083487461222 ],
+						[ -123.23467065279601, 49.26082779470559 ],
+						[ -123.23466388781432, 49.26084252462427 ],
+						[ -123.23462784526238, 49.26083543313065 ],
+						[ -123.23457993512194, 49.26093973732747 ],
+						[ -123.23472627373417, 49.260968530659085 ],
+						[ -123.23473756322954, 49.2609439534738 ],
+						[ -123.23482224008076, 49.26096061415963 ],
+						[ -123.23486658565413, 49.26086406828887 ],
+						[ -123.23478190895341, 49.26084740763503 ],
+						[ -123.23479246653002, 49.26082442318543 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CCSB08",
+				"BLDG_ID" : "CCSB",
+				"ADD_ID" : "AD-147",
+				"NAME" : "Child Care Services - Acadia",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "207",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Discovery Child Care",
+				"PLACENAME2" : "Discovery",
+				"PLACENAME3" : "Child Care Services",
+				"PLACENAME4" : "Discovery",
+				"ABBREVIATEDPLACENAME" : "CCS3",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "5620 Osoyoos Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2E6",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231522",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231746"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23486675113509, 49.260422232667715 ],
+						[ -123.23495460185447, 49.260339573281826 ],
+						[ -123.23488237092887, 49.26030668789893 ],
+						[ -123.23490440131256, 49.260285960401 ],
+						[ -123.23483957511203, 49.26025644663643 ],
+						[ -123.23481754471422, 49.26027717412212 ],
+						[ -123.23475909706085, 49.260250564498435 ],
+						[ -123.2348104835307, 49.26020221601214 ],
+						[ -123.2347795883352, 49.26018815000468 ],
+						[ -123.23479388119587, 49.260174702790025 ],
+						[ -123.23476302320665, 49.26016065289385 ],
+						[ -123.23478446248323, 49.260140480724885 ],
+						[ -123.23472081004051, 49.26011150152254 ],
+						[ -123.23469936937184, 49.26013167278309 ],
+						[ -123.23462601501237, 49.260098275894 ],
+						[ -123.2345370517598, 49.26018197983786 ],
+						[ -123.23460887457813, 49.26021467916525 ],
+						[ -123.23458722584644, 49.26023504692285 ],
+						[ -123.2346736031731, 49.26027437312035 ],
+						[ -123.23465184088636, 49.260294849962676 ],
+						[ -123.2346890388484, 49.26031178616961 ],
+						[ -123.23466777112688, 49.260331641339995 ],
+						[ -123.2347296925016, 49.26035983340767 ],
+						[ -123.23470748687855, 49.260380726739996 ],
+						[ -123.23477231316791, 49.26041024147743 ],
+						[ -123.23479451877247, 49.26038934723326 ],
+						[ -123.23486675113509, 49.260422232667715 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CCSB07",
+				"BLDG_ID" : "CCSB",
+				"ADD_ID" : "AD-146",
+				"NAME" : "Child Care Services - Sandpiper/Auklet",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "206",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Sitka Child Care",
+				"PLACENAME2" : "Sitka",
+				"PLACENAME3" : "Child Care Services",
+				"PLACENAME4" : "Sitka",
+				"ABBREVIATEDPLACENAME" : "CCS3",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "5620 Osoyoos Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2E6",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231522",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231804"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ -123.23041017599255, 49.248410393436195 ],
+							[ -123.23065922624045, 49.24838113239858 ],
+							[ -123.23061953743087, 49.24823636220786 ],
+							[ -123.23037048789129, 49.24826562405911 ],
+							[ -123.23041017599255, 49.248410393436195 ]
+						]
+					],
+					[
+						[
+							[ -123.2306847174364, 49.24823160582766 ],
+							[ -123.23071939672477, 49.24835810317878 ],
+							[ -123.23092765441629, 49.24833363472493 ],
+							[ -123.23089297460926, 49.24820713653704 ],
+							[ -123.2306847174364, 49.24823160582766 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF10",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer HH & FF",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "854-1",
+				"BLDG_USE" : null,
+				"GBA" : null,
 				"BLDG_TYPE" : "Section",
 				"GREEN_STATUS" : null,
 				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190204201416",
+				"CREATED_DATE" : "20190116212431",
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204613"
+				"LAST_EDITED_DATE" : "20190208233427"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23007329344638, 49.24686934735518 ],
+						[ -123.23019019429238, 49.24685479047151 ],
+						[ -123.23018328157505, 49.24683289003962 ],
+						[ -123.23006663581853, 49.24684881278542 ],
+						[ -123.23007329344638, 49.24686934735518 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF11",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Accelerator Trailer",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "853-3",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233433"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23533644983777, 49.259897157805554 ],
+						[ -123.23530057061599, 49.25989799007815 ],
+						[ -123.23529743374397, 49.2598400501543 ],
+						[ -123.23514199575533, 49.25984365435853 ],
+						[ -123.23514509638855, 49.25990094760383 ],
+						[ -123.23510674770198, 49.25990183611487 ],
+						[ -123.23510957706365, 49.25995410878045 ],
+						[ -123.23514787906281, 49.25995322036351 ],
+						[ -123.23514921991416, 49.25997798687383 ],
+						[ -123.23517464969498, 49.25997739720076 ],
+						[ -123.23517595287635, 49.26000146395917 ],
+						[ -123.23526373066406, 49.25999942864184 ],
+						[ -123.23526624530176, 49.26004588383507 ],
+						[ -123.23522802706003, 49.26004677032162 ],
+						[ -123.2352308172599, 49.26009829286133 ],
+						[ -123.23526725318541, 49.26009744778312 ],
+						[ -123.23527040809674, 49.2601557168935 ],
+						[ -123.23542476142678, 49.26015213811495 ],
+						[ -123.235421606334, 49.260093869009026 ],
+						[ -123.2354609693286, 49.26009295583842 ],
+						[ -123.23545772540065, 49.26004144412351 ],
+						[ -123.23542073296323, 49.260042302089545 ],
+						[ -123.23541810220262, 49.25999371257038 ],
+						[ -123.23538001318013, 49.25999459614535 ],
+						[ -123.23537956111632, 49.259986236908375 ],
+						[ -123.23534131956315, 49.25998712437946 ],
+						[ -123.23533644983777, 49.259897157805554 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CCSB06",
+				"BLDG_ID" : "CCSB",
+				"ADD_ID" : "AD-144",
+				"NAME" : "Child Care Services - Kittiwake/Salal",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "205",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Canada Goose Child Care",
+				"PLACENAME2" : "Canada Goose",
+				"PLACENAME3" : "Child Care Services",
+				"PLACENAME4" : "Canada Goose",
+				"ABBREVIATEDPLACENAME" : "CCS2",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "5660 Osoyoos Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2E6",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231522",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231822"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23548065057817, 49.259470812549544 ],
+						[ -123.23555286050468, 49.259485019928015 ],
+						[ -123.2355600956899, 49.25946926623826 ],
+						[ -123.23559620065821, 49.259476369908306 ],
+						[ -123.23559981892886, 49.259468492610985 ],
+						[ -123.23560298702002, 49.25946904030086 ],
+						[ -123.23560622591653, 49.25946937740867 ],
+						[ -123.23560949850366, 49.25946952875588 ],
+						[ -123.23561277998452, 49.2594694931957 ],
+						[ -123.23561604549488, 49.259469270997585 ],
+						[ -123.23561927029148, 49.25946886384515 ],
+						[ -123.2356224299396, 49.259468274823455 ],
+						[ -123.2356255004981, 49.259467508395595 ],
+						[ -123.23562845870094, 49.259466570368915 ],
+						[ -123.2356312821334, 49.259465467850966 ],
+						[ -123.2356339494019, 49.25946420919569 ],
+						[ -123.23563644029618, 49.2594628039401 ],
+						[ -123.23563873594237, 49.25946126273202 ],
+						[ -123.23564081894605, 49.259459597249396 ],
+						[ -123.23564267352398, 49.25945782011184 ],
+						[ -123.23564428562376, 49.259455944784975 ],
+						[ -123.2356456430303, 49.259453985478416 ],
+						[ -123.23564677732163, 49.25945196527485 ],
+						[ -123.23565881139504, 49.25945433345879 ],
+						[ -123.23569137157558, 49.25938344046754 ],
+						[ -123.23560712770711, 49.259366864987044 ],
+						[ -123.2356179811166, 49.25934323399555 ],
+						[ -123.23554577137854, 49.25932902665713 ],
+						[ -123.23553491793761, 49.259352657641955 ],
+						[ -123.23546832491644, 49.25933955511178 ],
+						[ -123.23545747143623, 49.25936318608933 ],
+						[ -123.23548795960143, 49.25936918493282 ],
+						[ -123.23545901742911, 49.25943220057435 ],
+						[ -123.23542291251262, 49.2594250968613 ],
+						[ -123.2354192942169, 49.25943297415319 ],
+						[ -123.23529894409283, 49.25940929472537 ],
+						[ -123.23526638333291, 49.259480187606606 ],
+						[ -123.23527841876516, 49.259482554927885 ],
+						[ -123.2352675651631, 49.2595061858872 ],
+						[ -123.23530367011668, 49.25951328964865 ],
+						[ -123.23530005179558, 49.259521166936736 ],
+						[ -123.23529281652002, 49.25953692061021 ],
+						[ -123.23536502648956, 49.25955112810586 ],
+						[ -123.23537226174419, 49.25953537442793 ],
+						[ -123.23540836673399, 49.25954247815657 ],
+						[ -123.23541198503938, 49.25953460086514 ],
+						[ -123.23541516452003, 49.25953513796451 ],
+						[ -123.23541840768809, 49.259535479734005 ],
+						[ -123.23542168450976, 49.25953563533285 ],
+						[ -123.23542497009466, 49.259535603579124 ],
+						[ -123.23542823948578, 49.259535384714034 ],
+						[ -123.23543146784921, 49.259534980400055 ],
+						[ -123.23543463066261, 49.25953439370831 ],
+						[ -123.23543770390158, 49.259533629095245 ],
+						[ -123.23544066422211, 49.259532692368786 ],
+						[ -123.23544348913791, 49.25953159064422 ],
+						[ -123.2354461571912, 49.259530332290126 ],
+						[ -123.23544864811575, 49.25952892686483 ],
+						[ -123.23545094299072, 49.2595273850438 ],
+						[ -123.2354530243845, 49.259525718538555 ],
+						[ -123.23545487648701, 49.259523940007696 ],
+						[ -123.2354564852299, 49.25952206296075 ],
+						[ -123.23545783839332, 49.25952010165558 ],
+						[ -123.23545894356208, 49.259518074504875 ],
+						[ -123.23547097763833, 49.259520441808846 ],
+						[ -123.23548183114633, 49.25949681083061 ],
+						[ -123.23546979707527, 49.25949444352776 ],
+						[ -123.23548065057817, 49.259470812549544 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CCSB02",
+				"BLDG_ID" : "CCSB",
+				"ADD_ID" : "AD-138",
+				"NAME" : "Child Care Services - Summer of 73/Lilliput",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "200",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Sandpiper Child Care",
+				"PLACENAME2" : "Sandpiper",
+				"PLACENAME3" : "Child Care Services",
+				"PLACENAME4" : "Sandpiper",
+				"ABBREVIATEDPLACENAME" : "CCS2",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "2805 Revelstoke Court",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1S1",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231522",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231838"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23507185477686, 49.259632297856164 ],
+						[ -123.23507909013667, 49.25961654419665 ],
+						[ -123.23511519514396, 49.25962364801679 ],
+						[ -123.23511881350193, 49.25961577073458 ],
+						[ -123.23512199301923, 49.259616307875454 ],
+						[ -123.23512523622331, 49.25961664968784 ],
+						[ -123.23512851308502, 49.259616805316746 ],
+						[ -123.23513179871237, 49.25961677357998 ],
+						[ -123.2351350681468, 49.25961655471862 ],
+						[ -123.23513829655272, 49.259616150395196 ],
+						[ -123.23514145940624, 49.259615563681066 ],
+						[ -123.2351445326814, 49.25961479903309 ],
+						[ -123.23514749303271, 49.25961386225974 ],
+						[ -123.2351503179725, 49.25961276047703 ],
+						[ -123.2351529860417, 49.25961150205442 ],
+						[ -123.23515547697289, 49.25961009655124 ],
+						[ -123.23515777184423, 49.25960855464412 ],
+						[ -123.23515985322321, 49.2596068880458 ],
+						[ -123.23516170529908, 49.25960510941628 ],
+						[ -123.23516331400295, 49.259603232266514 ],
+						[ -123.2351646671146, 49.259601270855896 ],
+						[ -123.23516577219559, 49.259599243593904 ],
+						[ -123.23517780628197, 49.25960161182789 ],
+						[ -123.23521036862246, 49.25953071897001 ],
+						[ -123.23512612328861, 49.259514143142155 ],
+						[ -123.23513697695999, 49.25949051219605 ],
+						[ -123.23506476714391, 49.25947630455749 ],
+						[ -123.23505391344113, 49.25949993549692 ],
+						[ -123.23498732034801, 49.25948683268994 ],
+						[ -123.23497646660591, 49.25951046362211 ],
+						[ -123.23500695480406, 49.25951646259232 ],
+						[ -123.23497801193345, 49.25957947811281 ],
+						[ -123.23494190697792, 49.25957237424968 ],
+						[ -123.23493828859493, 49.25958025152644 ],
+						[ -123.23481793971517, 49.25955657159559 ],
+						[ -123.23478537679533, 49.25962746434343 ],
+						[ -123.2347974122406, 49.25962983171473 ],
+						[ -123.23478655837667, 49.259653462628656 ],
+						[ -123.23482266336926, 49.25966056654018 ],
+						[ -123.23481904496087, 49.25966844381312 ],
+						[ -123.23481180951072, 49.25968419745635 ],
+						[ -123.23488401955827, 49.25969840525214 ],
+						[ -123.23489125498747, 49.259682651604464 ],
+						[ -123.23492736001626, 49.25968975548318 ],
+						[ -123.23493097841322, 49.2596818791064 ],
+						[ -123.2349341465623, 49.25968242675977 ],
+						[ -123.23493738548368, 49.25968276390738 ],
+						[ -123.23494065809757, 49.25968291529293 ],
+						[ -123.23494393960686, 49.25968287976936 ],
+						[ -123.23494720514701, 49.25968265760582 ],
+						[ -123.23495042997449, 49.259682250485696 ],
+						[ -123.23495358965424, 49.259681661493794 ],
+						[ -123.23495666024485, 49.259680895093005 ],
+						[ -123.23495961847996, 49.259679957090476 ],
+						[ -123.23496244194452, 49.25967885459361 ],
+						[ -123.2349651092447, 49.25967759595619 ],
+						[ -123.2349676001699, 49.25967619071514 ],
+						[ -123.23496989584599, 49.25967464951819 ],
+						[ -123.23497197887825, 49.25967298404325 ],
+						[ -123.2349738334832, 49.259671206909886 ],
+						[ -123.23497544560819, 49.25966933158374 ],
+						[ -123.23497680303788, 49.25966737227446 ],
+						[ -123.23497793723253, 49.25966535204208 ],
+						[ -123.23498997132181, 49.259667719396084 ],
+						[ -123.23500082646598, 49.25964408846043 ],
+						[ -123.23498879100758, 49.25964172111035 ],
+						[ -123.23499964477234, 49.25961809017754 ],
+						[ -123.23507185477686, 49.259632297856164 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CCSB05",
+				"BLDG_ID" : "CCSB",
+				"ADD_ID" : "AD-139",
+				"NAME" : "Child Care Services - Tillicum/Canada Goose",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "201",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Tillicum Child Care",
+				"PLACENAME2" : "Tillicum",
+				"PLACENAME3" : "Child Care Services",
+				"PLACENAME4" : "Tillicum",
+				"ABBREVIATEDPLACENAME" : "CCS2",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "5660 Osoyoos Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 2E6",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231522",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231856"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23453005568243, 49.25978335915123 ],
+						[ -123.23460226579448, 49.25979756712279 ],
+						[ -123.23460950132356, 49.25978181259336 ],
+						[ -123.23464560638887, 49.25978891745947 ],
+						[ -123.23464922483365, 49.25978104019206 ],
+						[ -123.23465240436636, 49.25978157733806 ],
+						[ -123.23465564757711, 49.25978191917949 ],
+						[ -123.23465892444807, 49.25978207483595 ],
+						[ -123.2346622100871, 49.25978204312502 ],
+						[ -123.23466547953545, 49.2597818242876 ],
+						[ -123.23466870795743, 49.25978141998605 ],
+						[ -123.2346718708289, 49.25978083329154 ],
+						[ -123.23467494412374, 49.259780068660824 ],
+						[ -123.23467790449622, 49.25977913190224 ],
+						[ -123.23468072945846, 49.25977803013172 ],
+						[ -123.23468339755117, 49.259776771718634 ],
+						[ -123.23468588850668, 49.25977536622229 ],
+						[ -123.23468818340292, 49.259773824319275 ],
+						[ -123.23469026480716, 49.25977215772235 ],
+						[ -123.2346921169084, 49.25977037909151 ],
+						[ -123.23469372563751, 49.259768501937785 ],
+						[ -123.2346950787741, 49.259766540520616 ],
+						[ -123.23469618384136, 49.25976451324224 ],
+						[ -123.23470821932001, 49.25976688152224 ],
+						[ -123.23474078106715, 49.25969598880036 ],
+						[ -123.23465653560785, 49.25967941263075 ],
+						[ -123.23466738953955, 49.259655781729066 ],
+						[ -123.23459517961594, 49.25964157379756 ],
+						[ -123.23458432565285, 49.25966520469261 ],
+						[ -123.23451773246056, 49.259652101615494 ],
+						[ -123.23450687845816, 49.259675732503275 ],
+						[ -123.23453736670169, 49.25968173159715 ],
+						[ -123.23450842313687, 49.25974474699923 ],
+						[ -123.2344723181276, 49.259737642989634 ],
+						[ -123.23446869965781, 49.2597455202516 ],
+						[ -123.23434835059886, 49.25972183983257 ],
+						[ -123.2343157882724, 49.25979273244442 ],
+						[ -123.23432782236122, 49.25979509986732 ],
+						[ -123.23431696823698, 49.25981873073684 ],
+						[ -123.23435307328332, 49.25982583479482 ],
+						[ -123.23434945478814, 49.25983371205296 ],
+						[ -123.23434221916445, 49.259849465666576 ],
+						[ -123.2344144293195, 49.2598636737553 ],
+						[ -123.23442166492228, 49.25984792013723 ],
+						[ -123.23445777000484, 49.2598550241624 ],
+						[ -123.23446138848429, 49.25984714690092 ],
+						[ -123.23446456799607, 49.25984768402531 ],
+						[ -123.23446781118098, 49.25984802586462 ],
+						[ -123.23447108802648, 49.25984818152855 ],
+						[ -123.23447437364143, 49.25984814983467 ],
+						[ -123.23447764306803, 49.25984793102372 ],
+						[ -123.23448087147142, 49.259847526757824 ],
+						[ -123.23448403432842, 49.2598469401078 ],
+						[ -123.23448710761369, 49.2598461755299 ],
+						[ -123.23449006798232, 49.259845238831915 ],
+						[ -123.2344928929471, 49.25984413712908 ],
+						[ -123.23449556104937, 49.25984287879002 ],
+						[ -123.23449805202202, 49.25984147337318 ],
+						[ -123.23450034694342, 49.25983993155421 ],
+						[ -123.23450242838115, 49.259838265044905 ],
+						[ -123.23450428052443, 49.259836486504206 ],
+						[ -123.23450588930426, 49.259834609442045 ],
+						[ -123.2345072425002, 49.259832648116735 ],
+						[ -123.23450834762197, 49.25983062092698 ],
+						[ -123.23452038310351, 49.25983298832699 ],
+						[ -123.23453123713365, 49.259809357438556 ],
+						[ -123.23451920165735, 49.25980699003965 ],
+						[ -123.23453005568243, 49.25978335915123 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CCSB04",
+				"BLDG_ID" : "CCSB",
+				"ADD_ID" : "AD-140",
+				"NAME" : "Child Care Services - Sitka/Discovery",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "202",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Salal Child Care",
+				"PLACENAME2" : "Salal",
+				"PLACENAME3" : "Child Care Services",
+				"PLACENAME4" : "Salal",
+				"ABBREVIATEDPLACENAME" : "CCS1",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "5655 Osoyoos Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1S1",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231522",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231910"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.233858229341, 49.25996036611127 ],
+						[ -123.23389433442537, 49.25996747031238 ],
+						[ -123.23388348005652, 49.25999110114085 ],
+						[ -123.23395569028767, 49.260005309515805 ],
+						[ -123.23396654462516, 49.25998167868066 ],
+						[ -123.2339797274098, 49.259984273191755 ],
+						[ -123.23400264974052, 49.25998878284784 ],
+						[ -123.23402435835307, 49.25994152116759 ],
+						[ -123.23406046345161, 49.25994862621631 ],
+						[ -123.23407131772669, 49.25992499537118 ],
+						[ -123.23414352791487, 49.25993920362897 ],
+						[ -123.2341543821482, 49.25991557277608 ],
+						[ -123.23419048724207, 49.259922676884656 ],
+						[ -123.23417963302443, 49.25994630774091 ],
+						[ -123.23422777364188, 49.25995577927197 ],
+						[ -123.23426033620524, 49.25988488758609 ],
+						[ -123.23424830071916, 49.2598825192595 ],
+						[ -123.23425915489008, 49.259858888396614 ],
+						[ -123.23407862970794, 49.25982336784719 ],
+						[ -123.23404606692856, 49.259894260382445 ],
+						[ -123.23400996187598, 49.25988715622861 ],
+						[ -123.23399910757557, 49.259910786168646 ],
+						[ -123.23392689747004, 49.259896577820385 ],
+						[ -123.23392000724134, 49.259911580506625 ],
+						[ -123.23391604313214, 49.25992020865216 ],
+						[ -123.23387993807917, 49.25991310445773 ],
+						[ -123.233858229341, 49.25996036611127 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CCSB03",
+				"BLDG_ID" : "CCSB",
+				"ADD_ID" : "AD-141",
+				"NAME" : "Child Care Services - Little Goslings/Coho",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "203",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Kittiwake Child Care",
+				"PLACENAME2" : "Kittiwake",
+				"PLACENAME3" : "Child Care Services",
+				"PLACENAME4" : "Kittiwake",
+				"ABBREVIATEDPLACENAME" : "CCS1",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "2815 Revelstoke Court",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1S1",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231522",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231923"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23368832908318, 49.260158834101986 ],
+						[ -123.23376053950793, 49.26017304349774 ],
+						[ -123.23374968503038, 49.26019667431295 ],
+						[ -123.23372797604007, 49.260243935040556 ],
+						[ -123.23376408131291, 49.26025103928173 ],
+						[ -123.23373151642907, 49.26032193172695 ],
+						[ -123.23369541110911, 49.260314827475746 ],
+						[ -123.23367370201976, 49.26036208909185 ],
+						[ -123.23370980737111, 49.260369193349725 ],
+						[ -123.23385422887988, 49.260397610268136 ],
+						[ -123.23389764670743, 49.26030308786424 ],
+						[ -123.23388561251119, 49.26030071949738 ],
+						[ -123.23389646694639, 49.26027708866989 ],
+						[ -123.23394460646195, 49.260286561220276 ],
+						[ -123.23396631525956, 49.2602392995531 ],
+						[ -123.23393020996646, 49.26023219537513 ],
+						[ -123.23395553733816, 49.26017705646487 ],
+						[ -123.23391943209207, 49.260169952283384 ],
+						[ -123.2339158148772, 49.260177829524835 ],
+						[ -123.23384360440551, 49.26016362112574 ],
+						[ -123.23386531324613, 49.26011635947647 ],
+						[ -123.2338292080572, 49.260109255266634 ],
+						[ -123.23384006247771, 49.26008562444367 ],
+						[ -123.23385209799385, 49.26008799281267 ],
+						[ -123.23386656961385, 49.26005648474755 ],
+						[ -123.23371011497312, 49.26002569945603 ],
+						[ -123.23368478740468, 49.26008083831424 ],
+						[ -123.23364868226739, 49.26007373404788 ],
+						[ -123.23361257713617, 49.26006662887069 ],
+						[ -123.23359448671627, 49.26010601413851 ],
+						[ -123.23363059186939, 49.26011311842176 ],
+						[ -123.23366669703287, 49.26012022269369 ],
+						[ -123.23364860525803, 49.260159607072865 ],
+						[ -123.23368471045798, 49.26016671133905 ],
+						[ -123.23368832908318, 49.260158834101986 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CCSB01",
+				"BLDG_ID" : "CCSB",
+				"ADD_ID" : "AD-142",
+				"NAME" : "Child Care Services - Little Raven/Pacific Spirit",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "204",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : null,
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Auklet Child Care",
+				"PLACENAME2" : "Auklet",
+				"PLACENAME3" : "Child Care Services",
+				"PLACENAME4" : "Auklet",
+				"ABBREVIATEDPLACENAME" : "CCS2",
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "5615 Osoyoos Crescent",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1S1",
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190208231522",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208231939"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.24888928773436, 49.26355107274389 ],
+						[ -123.24891606668024, 49.26358364969982 ],
+						[ -123.24890599549879, 49.26358683141588 ],
+						[ -123.24897688304105, 49.263673080432156 ],
+						[ -123.24910911297036, 49.26362655730538 ],
+						[ -123.24903748960485, 49.26353942482616 ],
+						[ -123.24902765076868, 49.26354288850185 ],
+						[ -123.24899917629533, 49.26350824722533 ],
+						[ -123.24891985505238, 49.263536173781965 ],
+						[ -123.24892249228898, 49.263539382091054 ],
+						[ -123.24888928773436, 49.26355107274389 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CEML02",
+				"BLDG_ID" : "CEML",
+				"ADD_ID" : "AD-207",
+				"NAME" : "Engineering High Head Room Laboratory",
+				"CLASS_CODE" : "CEME",
+				"NOTES" : null,
+				"REC_IDS" : "511",
+				"BLDG_USE" : "APSC",
+				"GBA" : 145,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190128212832",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208232055"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.24887910825645, 49.26355103080541 ],
+						[ -123.24888697686384, 49.26354826042006 ],
+						[ -123.24888928773436, 49.26355107274389 ],
+						[ -123.24892249228898, 49.263539382091054 ],
+						[ -123.24891985505238, 49.263536173781965 ],
+						[ -123.24902554808662, 49.26349896219628 ],
+						[ -123.24902447355171, 49.26349765480873 ],
+						[ -123.24908257350714, 49.263477199482224 ],
+						[ -123.24908364804317, 49.263478506869234 ],
+						[ -123.24910573495903, 49.263470730561735 ],
+						[ -123.24898334875071, 49.26332235830473 ],
+						[ -123.2487880749568, 49.26339110930949 ],
+						[ -123.24879816747902, 49.26340338763626 ],
+						[ -123.24876681796894, 49.263414424804985 ],
+						[ -123.24876714433624, 49.26341482169086 ],
+						[ -123.24887878326633, 49.26355063481641 ],
+						[ -123.24887910825645, 49.26355103080541 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CEML03",
+				"BLDG_ID" : "CEML",
+				"ADD_ID" : "AD-154",
+				"NAME" : "Earthquake Engineering Research Facility",
+				"CLASS_CODE" : "CEME",
+				"NOTES" : null,
+				"REC_IDS" : "305",
+				"BLDG_USE" : "APSC",
+				"GBA" : 753,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190128212832",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208232057"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25298513055061, 49.260834249265265 ],
+						[ -123.2531910361278, 49.26108472080948 ],
+						[ -123.25318389527193, 49.26108723532999 ],
+						[ -123.25320785853394, 49.2611163857994 ],
+						[ -123.2532179051227, 49.261112847549725 ],
+						[ -123.25321341175128, 49.2611073820067 ],
+						[ -123.25336123599571, 49.26105634918465 ],
+						[ -123.25337950965748, 49.26107857857906 ],
+						[ -123.25337532867891, 49.26108769181075 ],
+						[ -123.2533993667308, 49.26111693202869 ],
+						[ -123.25341328962068, 49.26111966932151 ],
+						[ -123.25343156470366, 49.26114189870436 ],
+						[ -123.25335265311071, 49.26116968709523 ],
+						[ -123.25334881111381, 49.261165013507664 ],
+						[ -123.25330681379465, 49.26117980198137 ],
+						[ -123.25333214496952, 49.26121061623992 ],
+						[ -123.2533392858356, 49.26120810171027 ],
+						[ -123.25371047081084, 49.26165961366425 ],
+						[ -123.25370332989861, 49.26166212821672 ],
+						[ -123.25372866156805, 49.261692942384926 ],
+						[ -123.25375698376519, 49.261682969251595 ],
+						[ -123.25375314031574, 49.261678295681016 ],
+						[ -123.2538457306508, 49.26164569061075 ],
+						[ -123.2538640047485, 49.26166791992555 ],
+						[ -123.25385982243544, 49.26167703317679 ],
+						[ -123.25388386106079, 49.261706273289995 ],
+						[ -123.25389778551755, 49.2617090105208 ],
+						[ -123.2539160610365, 49.26173123982403 ],
+						[ -123.25376564318057, 49.26178494792733 ],
+						[ -123.2539649648339, 49.26202709124913 ],
+						[ -123.25400370431798, 49.262013450294596 ],
+						[ -123.25397667808379, 49.261980577309416 ],
+						[ -123.25443962376309, 49.26181755303935 ],
+						[ -123.2544124147707, 49.261784455676846 ],
+						[ -123.25442996311547, 49.26177827509877 ],
+						[ -123.25448419995527, 49.26184424622703 ],
+						[ -123.25465545921249, 49.2617839373375 ],
+						[ -123.25443046131176, 49.26151025962824 ],
+						[ -123.25427433231432, 49.26156524030384 ],
+						[ -123.25425479535406, 49.26154147654944 ],
+						[ -123.25426810988348, 49.2615367886243 ],
+						[ -123.25380314639622, 49.2609712119055 ],
+						[ -123.2537898333489, 49.260975899774316 ],
+						[ -123.25377029822907, 49.260952135931774 ],
+						[ -123.25384230990156, 49.26092677763065 ],
+						[ -123.25362253154829, 49.260659434771995 ],
+						[ -123.2536721533791, 49.260641960559845 ],
+						[ -123.25361849564925, 49.260576689394036 ],
+						[ -123.25356161099695, 49.26059672067271 ],
+						[ -123.25356610436017, 49.26060218620269 ],
+						[ -123.25321880185632, 49.26072346586243 ],
+						[ -123.2532303493598, 49.26073903197058 ],
+						[ -123.25321453742542, 49.26077348593913 ],
+						[ -123.25317484933056, 49.26078746153428 ],
+						[ -123.25314443875872, 49.260750469656124 ],
+						[ -123.25297051800203, 49.26081191824146 ],
+						[ -123.25296602468536, 49.260806452688456 ],
+						[ -123.2529559795104, 49.26080999001384 ],
+						[ -123.2529779897203, 49.26083676377312 ],
+						[ -123.25298513055061, 49.260834249265265 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "UNSB01",
+				"BLDG_ID" : "UNSB",
+				"ADD_ID" : "AD-246",
+				"NAME" : "University Services Building",
+				"CLASS_CODE" : null,
+				"NOTES" : "USB non childcare GBA 11367 m",
+				"REC_IDS" : "641",
+				"BLDG_USE" : null,
+				"GBA" : 11367,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"PLACENAME" : "Caribou Child Card",
+				"PLACENAME2" : "Caribou",
+				"PLACENAME3" : "USB",
+				"PLACENAME4" : null,
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "2329 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : "GISSTUD1",
+				"CREATED_DATE" : "20180316205038",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208232830"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25498125944152, 49.26198848700336 ],
+						[ -123.25495004043849, 49.26195051421363 ],
+						[ -123.25428435814466, 49.26218493308795 ],
+						[ -123.25430389537429, 49.26220869683426 ],
+						[ -123.25404972337054, 49.26229820161503 ],
+						[ -123.25400413764388, 49.26224275186704 ],
+						[ -123.25389520639062, 49.262281110331344 ],
+						[ -123.25395247474343, 49.26235076937792 ],
+						[ -123.25395254333947, 49.26235074494006 ],
+						[ -123.253960397752, 49.26236029948816 ],
+						[ -123.25406932912853, 49.262321940962735 ],
+						[ -123.25410840350904, 49.26236946852365 ],
+						[ -123.25436257440191, 49.262279964516985 ],
+						[ -123.25434303711587, 49.26225620078102 ],
+						[ -123.25463351808204, 49.2621539086929 ],
+						[ -123.25461398209049, 49.26213014499932 ],
+						[ -123.25498918396407, 49.26199801704038 ],
+						[ -123.25498125944152, 49.26198848700336 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "UNSB02",
+				"BLDG_ID" : "UNSB",
+				"ADD_ID" : "AD-246",
+				"NAME" : "Building Operations Storage Shed",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "646",
+				"BLDG_USE" : "ADMIN",
+				"GBA" : 992,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "PLAN",
+				"CREATED_DATE" : "20180525212917",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208232833"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23063895678678, 49.24676471303866 ],
+						[ -123.23080097895892, 49.246745675771805 ],
+						[ -123.23078978008036, 49.246711009796805 ],
+						[ -123.23062818928359, 49.24672912597383 ],
+						[ -123.23063895678678, 49.24676471303866 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF12",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Equipment Marque",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "843-7",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233436"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23072950608255, 49.247095013771954 ],
+						[ -123.2309356106896, 49.24707079696478 ],
+						[ -123.23084506006437, 49.24674049639359 ],
+						[ -123.23063895678678, 49.24676471303866 ],
+						[ -123.23072950608255, 49.247095013771954 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF16",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Liquid Helium Storage",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "843-1",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233446"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23071486688701, 49.24711583370624 ],
+						[ -123.23072787534934, 49.247169661330766 ],
+						[ -123.23093771340379, 49.24714956048221 ],
+						[ -123.23092269543892, 49.2470950397665 ],
+						[ -123.23071486688701, 49.24711583370624 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF17",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer RR",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "843-4",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233448"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22952483433633, 49.24605952719702 ],
+						[ -123.22977494715775, 49.2460301418026 ],
+						[ -123.22974894003484, 49.245935268536364 ],
+						[ -123.22949882905075, 49.24596465387156 ],
+						[ -123.22952483433633, 49.24605952719702 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF18",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Plant Storage",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "850-3",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233450"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22991839014368, 49.24641215328694 ],
+						[ -123.22990320865898, 49.24635822644378 ],
+						[ -123.22989102371915, 49.246317881847006 ],
+						[ -123.22977169949897, 49.24633344082192 ],
+						[ -123.22979972000833, 49.246428069898855 ],
+						[ -123.22991839014368, 49.24641215328694 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF19",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Machine Shop Materials",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "850-4",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233453"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22919177750255, 49.24640933060901 ],
+						[ -123.22915973117121, 49.24630137392518 ],
+						[ -123.22909902635257, 49.24630742128535 ],
+						[ -123.2291292295709, 49.24641765204015 ],
+						[ -123.22919177750255, 49.24640933060901 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF20",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer PP",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "850-2",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233455"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22881607364612, 49.246843497517375 ],
+						[ -123.22903872463493, 49.24681589339726 ],
+						[ -123.22902787690786, 49.24678321270545 ],
+						[ -123.22880478535289, 49.246811783766255 ],
+						[ -123.22881607364612, 49.246843497517375 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF21",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer MM",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "842-8",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233457"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22880196142933, 49.24680159595241 ],
+						[ -123.22895268032474, 49.246782211260395 ],
+						[ -123.22893714664907, 49.246733334020746 ],
+						[ -123.22878783102475, 49.246753671208346 ],
+						[ -123.22880196142933, 49.24680159595241 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF22",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Experiment Develoment Shed",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "842-3",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233459"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23039250694367, 49.24611113830001 ],
+						[ -123.2305384960357, 49.24609398549094 ],
+						[ -123.23047273804835, 49.24585410744502 ],
+						[ -123.23032388785062, 49.245871596901 ],
+						[ -123.23039250694367, 49.24611113830001 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF23",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Nina Storage Shelter",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "843-5",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233501"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23095565273756, 49.24696227250251 ],
+						[ -123.23100564894055, 49.24695676550537 ],
+						[ -123.23096326746412, 49.24681675656476 ],
+						[ -123.23091659270791, 49.246820277952104 ],
+						[ -123.23095565273756, 49.24696227250251 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF24",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer LL",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "843-6",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233502"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22843043277267, 49.24681025595846 ],
+						[ -123.22845838756173, 49.24690424052294 ],
+						[ -123.22875141611517, 49.246868793341825 ],
+						[ -123.22872338472028, 49.246773213243394 ],
+						[ -123.22843043277267, 49.24681025595846 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF13",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Recycling Marque",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "842-4",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233438"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22813512756731, 49.246930088472425 ],
+						[ -123.22814159730193, 49.24695295688916 ],
+						[ -123.22825414257255, 49.24693913018539 ],
+						[ -123.22824575231911, 49.2469169411117 ],
+						[ -123.22813512756731, 49.246930088472425 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF14",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer AA",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "842-6",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233440"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22930087637627, 49.246773151522106 ],
+						[ -123.22940106585084, 49.246761380247946 ],
+						[ -123.22937506042908, 49.246666506906394 ],
+						[ -123.22927487113598, 49.24667827725841 ],
+						[ -123.22930087637627, 49.246773151522106 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF15",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Hazardous Storage",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "842-1",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233443"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22955826409846, 49.24634721135658 ],
+						[ -123.2295203134855, 49.246205860874646 ],
+						[ -123.22932222247798, 49.246229863159314 ],
+						[ -123.22929717905642, 49.24613850322257 ],
+						[ -123.229495958342, 49.246115151768045 ],
+						[ -123.22945895180449, 49.24597731562509 ],
+						[ -123.22915819653967, 49.2460119244883 ],
+						[ -123.22925750528837, 49.246381821381576 ],
+						[ -123.22955826409846, 49.24634721135658 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF25",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer GG",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "850-1",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233505"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23030043262054, 49.24665620142687 ],
+						[ -123.23042352179884, 49.24664173901348 ],
+						[ -123.23038486378391, 49.246500716759556 ],
+						[ -123.23026177494458, 49.2465151791316 ],
+						[ -123.23030043262054, 49.24665620142687 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF26",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer A",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "842-7",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233507"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.23063895678678, 49.24676471303866 ],
+						[ -123.23059281290372, 49.24676892856751 ],
+						[ -123.23061814780063, 49.246859746119455 ],
+						[ -123.23066352639576, 49.246854339339635 ],
+						[ -123.23063895678678, 49.24676471303866 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF27",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer Q",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "843-2",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233509"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.22828005109125, 49.24692996951486 ],
+						[ -123.22843595125806, 49.24691460782593 ],
+						[ -123.22841327160766, 49.24683856552776 ],
+						[ -123.22826033337941, 49.24685498187318 ],
+						[ -123.22828005109125, 49.24692996951486 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "TRMF28",
+				"BLDG_ID" : "TRMF",
+				"ADD_ID" : "AD-283",
+				"NAME" : "TRIUMF - Trailer SS",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "842-5",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : null,
+				"CREATED_USER" : "RACHELW",
+				"CREATED_DATE" : "20190116212431",
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190208233511"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25598488006617, 49.26342135320809 ],
+						[ -123.25593959671193, 49.26336599081643 ],
+						[ -123.25585322162253, 49.26339654817328 ],
+						[ -123.25581570606437, 49.26335113433279 ],
+						[ -123.25490933388718, 49.263670182083565 ],
+						[ -123.25499116038672, 49.26377003013361 ],
+						[ -123.25598488006617, 49.26342135320809 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "PNCW03",
+				"BLDG_ID" : "PNCW",
+				"ADD_ID" : "AD-129",
+				"NAME" : "Ponderosa Commons West - Maple House",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "904",
+				"BLDG_USE" : null,
+				"GBA" : 17402,
+				"BLDG_TYPE" : "Lowrise",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "Arbutus House",
+				"PLACENAME2" : "Arbutus",
+				"PLACENAME3" : "Ponderosa Commons",
+				"PLACENAME4" : "Arbutus",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "6488 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190211175754"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25615017440191, 49.26336304238051 ],
+						[ -123.25591864862422, 49.2630800135884 ],
+						[ -123.25575306903875, 49.26313831752324 ],
+						[ -123.25590218708577, 49.263321404329076 ],
+						[ -123.25581570606437, 49.26335113433279 ],
+						[ -123.25585322162253, 49.26339654817328 ],
+						[ -123.25593959671193, 49.26336599081643 ],
+						[ -123.25598488006617, 49.26342135320809 ],
+						[ -123.25615017440191, 49.26336304238051 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "PNCW04",
+				"BLDG_ID" : "PNCW",
+				"ADD_ID" : "AD-129",
+				"NAME" : "Ponderosa Commons West - Arbutus House",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "904",
+				"BLDG_USE" : null,
+				"GBA" : 17402,
+				"BLDG_TYPE" : "Highrise",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "Maple House",
+				"PLACENAME2" : "Maple",
+				"PLACENAME3" : "Ponderosa Commons",
+				"PLACENAME4" : "Maple",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "6488 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190211175820"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25595775932578, 49.264455351349326 ],
+						[ -123.25664011921435, 49.26421571364633 ],
+						[ -123.25653403942918, 49.264086304771766 ],
+						[ -123.25585178120105, 49.26432568706467 ],
+						[ -123.25595775932578, 49.264455351349326 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "PNCN05",
+				"BLDG_ID" : "PNCN",
+				"ADD_ID" : "AD-85",
+				"NAME" : "Ponderosa Commons North - Cedar House",
+				"CLASS_CODE" : "PCOH",
+				"NOTES" : null,
+				"REC_IDS" : "905",
+				"BLDG_USE" : null,
+				"GBA" : 26516,
+				"BLDG_TYPE" : "Highrise",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "Cedar House",
+				"PLACENAME2" : "Cedar",
+				"PLACENAME3" : "Ponderosa Commons",
+				"PLACENAME4" : "Cedar",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "2075 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190211175711"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25458095196672, 49.26365065877324 ],
+						[ -123.2544877752545, 49.26353699898907 ],
+						[ -123.25407206362787, 49.26368287540033 ],
+						[ -123.25416513964387, 49.26379632974752 ],
+						[ -123.25440573168643, 49.26371200980123 ],
+						[ -123.25458095196672, 49.26365065877324 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "PNCE02",
+				"BLDG_ID" : "PNCE",
+				"ADD_ID" : "AD-83",
+				"NAME" : "Ponderosa Commons East - Spruce House",
+				"CLASS_CODE" : null,
+				"NOTES" : null,
+				"REC_IDS" : "903",
+				"BLDG_USE" : null,
+				"GBA" : 10177,
+				"BLDG_TYPE" : "Highrise",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "Spruce House",
+				"PLACENAME2" : "Spruce",
+				"PLACENAME3" : "Ponderosa Commons",
+				"PLACENAME4" : "Spruce",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "2118 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190211175842"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25423690785175, 49.26405589882363 ],
+						[ -123.25476200918854, 49.26387151683049 ],
+						[ -123.25458095196672, 49.26365065877324 ],
+						[ -123.25440573168643, 49.26371200980123 ],
+						[ -123.25450488462265, 49.2638331306096 ],
+						[ -123.25415483648928, 49.26395607417114 ],
+						[ -123.25423690785175, 49.26405589882363 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "PNCE01",
+				"BLDG_ID" : "PNCE",
+				"ADD_ID" : "AD-303",
+				"NAME" : "Ponderosa Commons East - Audain Art Centre",
+				"CLASS_CODE" : "AAC",
+				"NOTES" : null,
+				"REC_IDS" : "903",
+				"BLDG_USE" : null,
+				"GBA" : 10177,
+				"BLDG_TYPE" : "Section",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "Audain Art Centre",
+				"PLACENAME2" : "Audain Art Centre",
+				"PLACENAME3" : "Ponderosa Commons",
+				"PLACENAME4" : "Audain Art Centre",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "2118 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190211175903"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25547402614733, 49.26421463235403 ],
+						[ -123.25637854396675, 49.26389644876222 ],
+						[ -123.25653403942918, 49.264086304771766 ],
+						[ -123.25664011921435, 49.26421571364633 ],
+						[ -123.256798600786, 49.264160056229024 ],
+						[ -123.25644671331196, 49.263730083864445 ],
+						[ -123.25538325071858, 49.26410372142748 ],
+						[ -123.25547402614733, 49.26421463235403 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "PNCN06",
+				"BLDG_ID" : "PNCN",
+				"ADD_ID" : "AD-87",
+				"NAME" : "Ponderosa Commons North - Oak House",
+				"CLASS_CODE" : "PCOH",
+				"NOTES" : null,
+				"REC_IDS" : "905",
+				"BLDG_USE" : null,
+				"GBA" : 26516,
+				"BLDG_TYPE" : "Lowrise",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "Cedar House",
+				"PLACENAME2" : "Cedar",
+				"PLACENAME3" : "Ponderosa Commons",
+				"PLACENAME4" : "Cedar",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "6445 University Boulevard",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z2",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190211175734"
 			}
 		},
 		{
@@ -11716,36 +12692,42 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.24888928773436, 49.26355107274389 ],
-						[ -123.24891606668024, 49.26358364969982 ],
-						[ -123.24890599549879, 49.26358683141588 ],
-						[ -123.24897688304105, 49.263673080432156 ],
-						[ -123.24910911297036, 49.26362655730538 ],
-						[ -123.24903748960485, 49.26353942482616 ],
-						[ -123.24902765076868, 49.26354288850185 ],
-						[ -123.24899917629533, 49.26350824722533 ],
-						[ -123.24891985505238, 49.263536173781965 ],
-						[ -123.24892249228898, 49.263539382091054 ],
-						[ -123.24888928773436, 49.26355107274389 ]
+						[ -123.25089754209554, 49.26027506912134 ],
+						[ -123.25123006802198, 49.260158015838705 ],
+						[ -123.25163362781863, 49.26001555732241 ],
+						[ -123.25151167926764, 49.25986764905634 ],
+						[ -123.25036740659078, 49.260268689224944 ],
+						[ -123.25048982427873, 49.26041852894406 ],
+						[ -123.25089754209554, 49.26027506912134 ]
 					]
 				]
 			},
 			"properties" : {
-				"SUBBLDG_ID" : "CEME02",
-				"BLDG_ID" : "CEME",
-				"ADD_ID" : "AD-207",
-				"NAME" : "Engineering High Head Room Laboratory",
-				"CLASS_CODE" : "CEME",
+				"SUBBLDG_ID" : "ORCH01",
+				"BLDG_ID" : "ORCH",
+				"ADD_ID" : "AD-24",
+				"NAME" : "Orchard Commons - Vantage College",
+				"CLASS_CODE" : "ORCH",
 				"NOTES" : null,
-				"REC_IDS" : "511",
-				"BLDG_USE" : "APSC",
-				"GBA" : 145,
+				"REC_IDS" : "557",
+				"BLDG_USE" : null,
+				"GBA" : null,
 				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190128212832",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "UBC Vantage College",
+				"PLACENAME2" : "UBC Vantage College",
+				"PLACENAME3" : "Orchard Commons",
+				"PLACENAME4" : "Vantage College",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "6363 Agronomy Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204614"
+				"LAST_EDITED_DATE" : "20190206213113"
 			}
 		},
 		{
@@ -11754,36 +12736,143 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.25237911671606, 49.268829826045355 ],
-						[ -123.2523629320142, 49.26881014120079 ],
-						[ -123.25234448353207, 49.26881663645496 ],
-						[ -123.25248068519265, 49.26898229330945 ],
-						[ -123.25225715919916, 49.2690609903695 ],
-						[ -123.25237249703534, 49.26920127063693 ],
-						[ -123.25281691742292, 49.26904480070943 ],
-						[ -123.25270158006943, 49.26890452088027 ],
-						[ -123.25255544114222, 49.268955973665335 ],
-						[ -123.25243542401763, 49.26881000083569 ],
-						[ -123.25237911671606, 49.268829826045355 ]
+						[ -123.25138431796361, 49.260865425238386 ],
+						[ -123.25147755684159, 49.26097857021079 ],
+						[ -123.2522839369439, 49.260695256444286 ],
+						[ -123.25219149037441, 49.260582229123855 ],
+						[ -123.25171637121404, 49.260748922105655 ],
+						[ -123.25138431796361, 49.260865425238386 ]
 					]
 				]
 			},
 			"properties" : {
-				"SUBBLDG_ID" : null,
-				"BLDG_ID" : "BRKX",
-				"ADD_ID" : "AD-121",
-				"NAME" : "Brock Hall Annex",
-				"CLASS_CODE" : "BRKX",
+				"SUBBLDG_ID" : "ORCH02",
+				"BLDG_ID" : "ORCH",
+				"ADD_ID" : "AD-24",
+				"NAME" : "Orchard Commons - Bartlett House",
+				"CLASS_CODE" : "ORCH",
 				"NOTES" : null,
-				"REC_IDS" : "113",
-				"BLDG_USE" : "ARTS",
-				"GBA" : 2100,
+				"REC_IDS" : "557",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Highrise",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "Bartlett House",
+				"PLACENAME2" : "Bartlett",
+				"PLACENAME3" : "Orchard Commons",
+				"PLACENAME4" : "Bartlett",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "2362 West Mall",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190206213036"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.25089754209554, 49.26027506912134 ],
+						[ -123.25138431796361, 49.260865425238386 ],
+						[ -123.25171637121404, 49.260748922105655 ],
+						[ -123.25123006802198, 49.260158015838705 ],
+						[ -123.25089754209554, 49.26027506912134 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "ORCH03",
+				"BLDG_ID" : "ORCH",
+				"ADD_ID" : "AD-24",
+				"NAME" : "Orchard Commons - Braeburn House",
+				"CLASS_CODE" : "ORCH",
+				"NOTES" : null,
+				"REC_IDS" : "557",
+				"BLDG_USE" : null,
+				"GBA" : null,
+				"BLDG_TYPE" : "Highrise",
+				"GREEN_STATUS" : "LEED Gold",
+				"PLACENAME" : "Braeburn House",
+				"PLACENAME2" : "Braeburn",
+				"PLACENAME3" : "Orchard Commons",
+				"PLACENAME4" : "Braeburn",
+				"ABBREVIATEDPLACENAME" : null,
+				"BUILDING_SHORTCODE" : null,
+				"FULLADDRESS" : "6363 Agronomy Road",
+				"MUNINAME" : "Vancouver",
+				"PROVINCE" : "BC",
+				"POSTALCODE" : "V6T 1Z4",
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : "RACHELW",
+				"LAST_EDITED_DATE" : "20190206213055"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.24948455456219, 49.26349183634254 ],
+						[ -123.24926401245817, 49.26322354247028 ],
+						[ -123.24930483141208, 49.263209170896054 ],
+						[ -123.24935374977846, 49.26326868023254 ],
+						[ -123.24950628534903, 49.26321497601748 ],
+						[ -123.24948652045413, 49.26319093220548 ],
+						[ -123.24956699743183, 49.263162597976496 ],
+						[ -123.24958074797301, 49.26317932726307 ],
+						[ -123.2496537652328, 49.2631536185997 ],
+						[ -123.24967871898964, 49.26318397570742 ],
+						[ -123.24971286568316, 49.263171952666035 ],
+						[ -123.2496741599748, 49.26312486719424 ],
+						[ -123.24999718602177, 49.26301113390594 ],
+						[ -123.25001694971789, 49.26303517763402 ],
+						[ -123.25016665751536, 49.2629824672375 ],
+						[ -123.25011752685992, 49.262922699639155 ],
+						[ -123.25013892324984, 49.262915166599356 ],
+						[ -123.25012668554852, 49.262900279921915 ],
+						[ -123.25010529054212, 49.262907813856 ],
+						[ -123.24991629792729, 49.26267790386046 ],
+						[ -123.24867691138277, 49.26311427075892 ],
+						[ -123.24875816821833, 49.26321312328383 ],
+						[ -123.24881485201882, 49.26319316587672 ],
+						[ -123.2488324938184, 49.26321462735151 ],
+						[ -123.24868218569411, 49.26326754779619 ],
+						[ -123.24878472308966, 49.26339228950312 ],
+						[ -123.24910479073415, 49.26327960133626 ],
+						[ -123.2491242374155, 49.26330326000443 ],
+						[ -123.24906393832762, 49.263324490083754 ],
+						[ -123.24914535255876, 49.26342353359221 ],
+						[ -123.24920565310647, 49.26340230346766 ],
+						[ -123.24932533222704, 49.2635478955108 ],
+						[ -123.24948455456219, 49.26349183634254 ]
+					]
+				]
+			},
+			"properties" : {
+				"SUBBLDG_ID" : "CEML01",
+				"BLDG_ID" : "CEML",
+				"ADD_ID" : "AD-156",
+				"NAME" : "Civil and Mechanical Engineering Labs",
+				"CLASS_CODE" : "CEME",
+				"NOTES" : null,
+				"REC_IDS" : "307;309",
+				"BLDG_USE" : "APSC",
+				"GBA" : 4719,
 				"BLDG_TYPE" : "Section",
 				"GREEN_STATUS" : null,
 				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190204195104",
+				"CREATED_DATE" : "20190128212832",
 				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204640"
+				"LAST_EDITED_DATE" : "20190207193119"
 			}
 		},
 		{
@@ -12560,89 +13649,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20190116210705"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24913500733544, 49.272207324140766 ],
-						[ -123.24909707103014, 49.27216118138327 ],
-						[ -123.24911665055993, 49.27215428842484 ],
-						[ -123.24909317404818, 49.27212629289491 ],
-						[ -123.24909663765364, 49.272125073774184 ],
-						[ -123.24908035497272, 49.27210526995576 ],
-						[ -123.24907689274292, 49.272106489073025 ],
-						[ -123.24905768051664, 49.27208312047085 ],
-						[ -123.24907153080932, 49.27207824489992 ],
-						[ -123.24902990403676, 49.27202727335392 ],
-						[ -123.24890119222148, 49.27207258157502 ],
-						[ -123.24890640259389, 49.27207891826575 ],
-						[ -123.24890259566449, 49.27207911446627 ],
-						[ -123.24890072953575, 49.2720792561128 ],
-						[ -123.24889674482057, 49.27207963619822 ],
-						[ -123.24889312333872, 49.27208007846753 ],
-						[ -123.24888952018479, 49.27208061154879 ],
-						[ -123.24888569089119, 49.27208128094458 ],
-						[ -123.24888149002645, 49.27208214363795 ],
-						[ -123.24887772096176, 49.27208303508529 ],
-						[ -123.24887405406703, 49.27208401446541 ],
-						[ -123.24886990738108, 49.27208526293588 ],
-						[ -123.24886650799382, 49.27208640455277 ],
-						[ -123.24886172483937, 49.27208820310118 ],
-						[ -123.2488584599409, 49.27208957200679 ],
-						[ -123.24885461693887, 49.27209134244394 ],
-						[ -123.2488502840935, 49.27209356999272 ],
-						[ -123.24884673930774, 49.2720955952511 ],
-						[ -123.24884377378804, 49.27209745015202 ],
-						[ -123.24884096662831, 49.272099358683036 ],
-						[ -123.24883732367128, 49.272102091175476 ],
-						[ -123.24883497597253, 49.272104061683265 ],
-						[ -123.2488297656021, 49.27209772408983 ],
-						[ -123.24876741923228, 49.27211967080492 ],
-						[ -123.24879298142694, 49.2721507625565 ],
-						[ -123.248794543074, 49.27215021318514 ],
-						[ -123.24880691684591, 49.2721652643 ],
-						[ -123.24876661594517, 49.2721794501548 ],
-						[ -123.24882913771353, 49.272255496801435 ],
-						[ -123.24886787700902, 49.272241860297335 ],
-						[ -123.24890581453768, 49.27228800312672 ],
-						[ -123.24891307798643, 49.27228544633497 ],
-						[ -123.24890903913594, 49.27228053465972 ],
-						[ -123.2490906319578, 49.27221661201058 ],
-						[ -123.24909466944635, 49.27222152368248 ],
-						[ -123.24913500733544, 49.272207324140766 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "SLMK02",
-				"BLDG_ID" : "STMK",
-				"ADD_ID" : "AD-78",
-				"NAME" : "St. Mark's Chapel",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "829",
-				"BLDG_USE" : null,
-				"GBA" : 880,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : "St. Mark's Chapel",
-				"PLACENAME2" : "St. Mark's Chapel",
-				"PLACENAME3" : "St. Mark's College",
-				"PLACENAME4" : "St. Mark's Chapel",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "5935 Iona Drive",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1J7",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116210716"
 			}
 		},
 		{
@@ -16008,139 +17014,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.25615017440191, 49.26336304238051 ],
-						[ -123.25591589189676, 49.2630800943548 ],
-						[ -123.25575306903875, 49.26313831752324 ],
-						[ -123.25590403281205, 49.263320042862766 ],
-						[ -123.25581570606437, 49.26335113433279 ],
-						[ -123.25585322162253, 49.26339654817328 ],
-						[ -123.25593959671193, 49.26336599081643 ],
-						[ -123.25598488006617, 49.26342135320809 ],
-						[ -123.25615017440191, 49.26336304238051 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "PNCW04",
-				"BLDG_ID" : "PNCW",
-				"ADD_ID" : "AD-129",
-				"NAME" : "Ponderosa Commons West - Arbutus House",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "904",
-				"BLDG_USE" : null,
-				"GBA" : 17402,
-				"BLDG_TYPE" : "Highrise",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "Maple House",
-				"PLACENAME2" : "Maple",
-				"PLACENAME3" : "Ponderosa Commons",
-				"PLACENAME4" : "Maple",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "6488 University Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204415"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25595775932578, 49.264455351349326 ],
-						[ -123.2566343161301, 49.264215708545635 ],
-						[ -123.25653403942918, 49.264086304771766 ],
-						[ -123.25585210858839, 49.26432733246419 ],
-						[ -123.25595775932578, 49.264455351349326 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "PNCN05",
-				"BLDG_ID" : "PNCN",
-				"ADD_ID" : "AD-85",
-				"NAME" : "Ponderosa Commons North - Cedar House",
-				"CLASS_CODE" : "PCOH",
-				"NOTES" : null,
-				"REC_IDS" : "905",
-				"BLDG_USE" : null,
-				"GBA" : 26516,
-				"BLDG_TYPE" : "Highrise",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "Cedar House",
-				"PLACENAME2" : "Cedar",
-				"PLACENAME3" : "Ponderosa Commons",
-				"PLACENAME4" : "Cedar",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "2075 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204421"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25547402614733, 49.26421463235403 ],
-						[ -123.25637593577481, 49.26389576011891 ],
-						[ -123.25653403942918, 49.264086304771766 ],
-						[ -123.2566343161301, 49.264215708545635 ],
-						[ -123.25679908565189, 49.264157344892745 ],
-						[ -123.25644671331196, 49.263730083864445 ],
-						[ -123.25538487257018, 49.26410664488595 ],
-						[ -123.25547402614733, 49.26421463235403 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "PNCN06",
-				"BLDG_ID" : "PNCN",
-				"ADD_ID" : "AD-87",
-				"NAME" : "Ponderosa Commons North - Oak House",
-				"CLASS_CODE" : "PCOH",
-				"NOTES" : null,
-				"REC_IDS" : "905",
-				"BLDG_USE" : null,
-				"GBA" : 26516,
-				"BLDG_TYPE" : "Lowrise",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "Oak House",
-				"PLACENAME2" : "Oak",
-				"PLACENAME3" : "Ponderosa Commons",
-				"PLACENAME4" : "Oak",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "2075 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z2",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204425"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.24740443942045, 49.26181372676689 ],
 						[ -123.24768109180512, 49.26214699337589 ],
 						[ -123.24784241112711, 49.26218167842184 ],
@@ -16335,93 +17208,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20190116210912"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25298513055061, 49.260834249265265 ],
-						[ -123.2531910361278, 49.26108472080948 ],
-						[ -123.25318389527193, 49.26108723532999 ],
-						[ -123.25320785853394, 49.2611163857994 ],
-						[ -123.2532179051227, 49.261112847549725 ],
-						[ -123.25321341175128, 49.2611073820067 ],
-						[ -123.25336123599571, 49.26105634918465 ],
-						[ -123.25337950965748, 49.26107857857906 ],
-						[ -123.25337532867891, 49.26108769181075 ],
-						[ -123.2533993667308, 49.26111693202869 ],
-						[ -123.25341328962068, 49.26111966932151 ],
-						[ -123.25343156470366, 49.26114189870436 ],
-						[ -123.25335265311071, 49.26116968709523 ],
-						[ -123.25334881111381, 49.261165013507664 ],
-						[ -123.25330681379465, 49.26117980198137 ],
-						[ -123.25333214496952, 49.26121061623992 ],
-						[ -123.2533392858356, 49.26120810171027 ],
-						[ -123.25371047081084, 49.26165961366425 ],
-						[ -123.25370332989861, 49.26166212821672 ],
-						[ -123.25372866156805, 49.261692942384926 ],
-						[ -123.25375698376519, 49.261682969251595 ],
-						[ -123.25375314031574, 49.261678295681016 ],
-						[ -123.2538457306508, 49.26164569061075 ],
-						[ -123.2538640047485, 49.26166791992555 ],
-						[ -123.25385982243544, 49.26167703317679 ],
-						[ -123.25388386106079, 49.261706273289995 ],
-						[ -123.25389778551755, 49.2617090105208 ],
-						[ -123.2539160610365, 49.26173123982403 ],
-						[ -123.25376564318057, 49.26178494792733 ],
-						[ -123.2539649648339, 49.26202709124913 ],
-						[ -123.25400370431798, 49.262013450294596 ],
-						[ -123.25397667808379, 49.261980577309416 ],
-						[ -123.25443962376309, 49.26181755303935 ],
-						[ -123.2544124147707, 49.261784455676846 ],
-						[ -123.25442996311547, 49.26177827509877 ],
-						[ -123.25448419995527, 49.26184424622703 ],
-						[ -123.25465545921249, 49.2617839373375 ],
-						[ -123.25443046131176, 49.26151025962824 ],
-						[ -123.25427433231432, 49.26156524030384 ],
-						[ -123.25425479535406, 49.26154147654944 ],
-						[ -123.25426810988348, 49.2615367886243 ],
-						[ -123.25380314639622, 49.2609712119055 ],
-						[ -123.2537898333489, 49.260975899774316 ],
-						[ -123.25377029822907, 49.260952135931774 ],
-						[ -123.25384230990156, 49.26092677763065 ],
-						[ -123.25362253154829, 49.260659434771995 ],
-						[ -123.2536721533791, 49.260641960559845 ],
-						[ -123.25361849564925, 49.260576689394036 ],
-						[ -123.25356161099695, 49.26059672067271 ],
-						[ -123.25356610436017, 49.26060218620269 ],
-						[ -123.25321880185632, 49.26072346586243 ],
-						[ -123.2532303493598, 49.26073903197058 ],
-						[ -123.25321453742542, 49.26077348593913 ],
-						[ -123.25317484933056, 49.26078746153428 ],
-						[ -123.25314443875872, 49.260750469656124 ],
-						[ -123.25297051800203, 49.26081191824146 ],
-						[ -123.25296602468536, 49.260806452688456 ],
-						[ -123.2529559795104, 49.26080999001384 ],
-						[ -123.2529779897203, 49.26083676377312 ],
-						[ -123.25298513055061, 49.260834249265265 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "UNSB02",
-				"BLDG_ID" : "UNSB",
-				"ADD_ID" : "AD-246",
-				"NAME" : "University Services Building",
-				"CLASS_CODE" : null,
-				"NOTES" : "USB non childcare GBA 11367 m",
-				"REC_IDS" : "641",
-				"BLDG_USE" : null,
-				"GBA" : 11367,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "GISSTUD1",
-				"CREATED_DATE" : "20180316205038",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116212025"
 			}
 		},
 		{
@@ -16683,251 +17469,6 @@
 				"CREATED_DATE" : "20190116193730",
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20190116210144"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.2542372411856, 49.26405630467391 ],
-						[ -123.25476200918854, 49.26387151683049 ],
-						[ -123.25457932310076, 49.26365036731916 ],
-						[ -123.25440573168643, 49.26371200980123 ],
-						[ -123.25450462521921, 49.263831599295635 ],
-						[ -123.25415483648928, 49.26395607417114 ],
-						[ -123.2542372411856, 49.26405630467391 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "PNCE01",
-				"BLDG_ID" : "PNCE",
-				"ADD_ID" : "AD-303",
-				"NAME" : "Ponderosa Commons East - Audain Art Centre",
-				"CLASS_CODE" : "AAC",
-				"NOTES" : null,
-				"REC_IDS" : "903",
-				"BLDG_USE" : null,
-				"GBA" : 10177,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "Audain Art Centre",
-				"PLACENAME2" : "Audain Art Centre",
-				"PLACENAME3" : "Ponderosa Commons",
-				"PLACENAME4" : "Audain Art Centre",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "2118 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204355"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25457932310076, 49.26365036731916 ],
-						[ -123.25448608447617, 49.263537496550555 ],
-						[ -123.25407206362787, 49.26368287540033 ],
-						[ -123.25416810449957, 49.263797157081974 ],
-						[ -123.25440573168643, 49.26371200980123 ],
-						[ -123.25457932310076, 49.26365036731916 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "PNCE02",
-				"BLDG_ID" : "PNCE",
-				"ADD_ID" : "AD-83",
-				"NAME" : "Ponderosa Commons East - Spruce House",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "903",
-				"BLDG_USE" : null,
-				"GBA" : 10177,
-				"BLDG_TYPE" : "Highrise",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "Spruce House",
-				"PLACENAME2" : "Spruce",
-				"PLACENAME3" : "Ponderosa Commons",
-				"PLACENAME4" : "Spruce",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "2118 West Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204359"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.25598488006617, 49.26342135320809 ],
-						[ -123.25593959671193, 49.26336599081643 ],
-						[ -123.25585322162253, 49.26339654817328 ],
-						[ -123.25581570606437, 49.26335113433279 ],
-						[ -123.25490933388718, 49.263670182083565 ],
-						[ -123.25499348038343, 49.26377107655429 ],
-						[ -123.25598488006617, 49.26342135320809 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "PNCW03",
-				"BLDG_ID" : "PNCW",
-				"ADD_ID" : "AD-129",
-				"NAME" : "Ponderosa Commons West - Maple House",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "904",
-				"BLDG_USE" : null,
-				"GBA" : 17402,
-				"BLDG_TYPE" : "Lowrise",
-				"GREEN_STATUS" : "LEED Gold",
-				"PLACENAME" : "Arbutus House",
-				"PLACENAME2" : "Arbutus",
-				"PLACENAME3" : "Ponderosa Commons",
-				"PLACENAME4" : "Arbutus",
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "6488 University Boulevard",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204412"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24948455456219, 49.26349183634254 ],
-						[ -123.24926401245817, 49.26322354247028 ],
-						[ -123.24930483141208, 49.263209170896054 ],
-						[ -123.24935374977846, 49.26326868023254 ],
-						[ -123.24950628534903, 49.26321497601748 ],
-						[ -123.24948652045413, 49.26319093220548 ],
-						[ -123.24956699743183, 49.263162597976496 ],
-						[ -123.24958074797301, 49.26317932726307 ],
-						[ -123.2496537652328, 49.2631536185997 ],
-						[ -123.24967871898964, 49.26318397570742 ],
-						[ -123.24971286568316, 49.263171952666035 ],
-						[ -123.2496741599748, 49.26312486719424 ],
-						[ -123.24999718602177, 49.26301113390594 ],
-						[ -123.25001694971789, 49.26303517763402 ],
-						[ -123.25016665751536, 49.2629824672375 ],
-						[ -123.25011752685992, 49.262922699639155 ],
-						[ -123.25013892324984, 49.262915166599356 ],
-						[ -123.25012668554852, 49.262900279921915 ],
-						[ -123.25010529054212, 49.262907813856 ],
-						[ -123.24991629792729, 49.26267790386046 ],
-						[ -123.24867691138277, 49.26311427075892 ],
-						[ -123.24875816821833, 49.26321312328383 ],
-						[ -123.24881485201882, 49.26319316587672 ],
-						[ -123.2488324938184, 49.26321462735151 ],
-						[ -123.24868218569411, 49.26326754779619 ],
-						[ -123.24878472308966, 49.26339228950312 ],
-						[ -123.24910479073415, 49.26327960133626 ],
-						[ -123.2491242374155, 49.26330326000443 ],
-						[ -123.24906393832762, 49.263324490083754 ],
-						[ -123.24914535255876, 49.26342353359221 ],
-						[ -123.24920565310647, 49.26340230346766 ],
-						[ -123.24932533222704, 49.2635478955108 ],
-						[ -123.24948455456219, 49.26349183634254 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "CEME01",
-				"BLDG_ID" : "CEME",
-				"ADD_ID" : "AD-156",
-				"NAME" : "Civil and Mechanical Engineering Labs",
-				"CLASS_CODE" : "CEME",
-				"NOTES" : null,
-				"REC_IDS" : "307;309",
-				"BLDG_USE" : "APSC",
-				"GBA" : 4719,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"PLACENAME" : null,
-				"PLACENAME2" : null,
-				"PLACENAME3" : "CEME Labs",
-				"PLACENAME4" : null,
-				"ABBREVIATEDPLACENAME" : null,
-				"BUILDING_SHORTCODE" : null,
-				"FULLADDRESS" : "2275 East Mall",
-				"MUNINAME" : "Vancouver",
-				"PROVINCE" : "BC",
-				"POSTALCODE" : "V6T 1Z4",
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190128212832",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204611"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24887910825645, 49.26355103080541 ],
-						[ -123.24888697686384, 49.26354826042006 ],
-						[ -123.24888928773436, 49.26355107274389 ],
-						[ -123.24892249228898, 49.263539382091054 ],
-						[ -123.24891985505238, 49.263536173781965 ],
-						[ -123.24902554808662, 49.26349896219628 ],
-						[ -123.24902447355171, 49.26349765480873 ],
-						[ -123.24908257350714, 49.263477199482224 ],
-						[ -123.24908364804317, 49.263478506869234 ],
-						[ -123.24910573495903, 49.263470730561735 ],
-						[ -123.24898334875071, 49.26332235830473 ],
-						[ -123.2487880749568, 49.26339110930949 ],
-						[ -123.24879816747902, 49.26340338763626 ],
-						[ -123.24876681796894, 49.263414424804985 ],
-						[ -123.24876714433624, 49.26341482169086 ],
-						[ -123.24887878326633, 49.26355063481641 ],
-						[ -123.24887910825645, 49.26355103080541 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "CEME03",
-				"BLDG_ID" : "CEME",
-				"ADD_ID" : "AD-154",
-				"NAME" : "Earthquake Engineering Research Facility",
-				"CLASS_CODE" : "CEME",
-				"NOTES" : null,
-				"REC_IDS" : "305",
-				"BLDG_USE" : "APSC",
-				"GBA" : 753,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : "RACHELW",
-				"CREATED_DATE" : "20190128212832",
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190204204612"
 			}
 		},
 		{
@@ -18170,40 +18711,6 @@
 				"CREATED_DATE" : null,
 				"LAST_EDITED_USER" : "RACHELW",
 				"LAST_EDITED_DATE" : "20190116210311"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24538333908403, 49.25996951286149 ],
-						[ -123.24510351768534, 49.259629035892964 ],
-						[ -123.24494809758846, 49.259439924321434 ],
-						[ -123.24450908764162, 49.2595944800214 ],
-						[ -123.24466450655075, 49.25978359218028 ],
-						[ -123.24494432581544, 49.2601240711058 ],
-						[ -123.24538333908403, 49.25996951286149 ]
-					]
-				]
-			},
-			"properties" : {
-				"SUBBLDG_ID" : "TENN02",
-				"BLDG_ID" : "TENN",
-				"ADD_ID" : "AD-184",
-				"NAME" : "Tennis Centre",
-				"CLASS_CODE" : null,
-				"NOTES" : null,
-				"REC_IDS" : "432",
-				"BLDG_USE" : null,
-				"GBA" : 2409,
-				"BLDG_TYPE" : "Section",
-				"GREEN_STATUS" : null,
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : "RACHELW",
-				"LAST_EDITED_DATE" : "20190116210335"
 			}
 		},
 		{
