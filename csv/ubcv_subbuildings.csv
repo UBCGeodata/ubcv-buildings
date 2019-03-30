@@ -116,6 +116,7 @@ SQSH,SQSH,AD-180,Cecil Green Squash Court,,SQSH,422,ADMIN,219,Section,,,,,,,,,,,
 CHHS07,CHHS,AD-79,Chancellor Cityhomes,,,830-1,,,Townhouses,,,,,,,,,,,
 CHAH02,CHAH,AD-322,Chancellor Hall - TH,,,823,,,Townhouses,,,,,,,,,,,
 CHAH01,CHAH,AD-322,Chancellor Hall Apartments,,,824,,,Lowrise,,,,,,,,,,,
+CHEM02,CHPH,AD-125,Chemistry A,,CHEM,447,,7631,Section,,A Chemistry Physics,A Chemistry Physics,Chemistry Physics Building,A Chemistry Physics,,,6221 University Boulevard,Vancouver,BC,V6T 1Z1
 CHHS01,CHHS,AD-79,Chancellor House Apartments,,,830,,,Lowrise,,,,,,,,,,,
 CHHS05,CHHS,AD-79,Chancellor Row Duplex 1,,,833,,,Townhouses,,,,,,,,,,,
 CHHS06,CHHS,AD-79,Chancellor Row Duplex 2,,,834,,,Townhouses,,,,,,,,,,,
@@ -123,7 +124,6 @@ CHHS00,CHHS,AD-79,Chancellor Row Duplex 3,,,835,,,Townhouses,,,,,,,,,,,
 CHHS02,CHHS,AD-79,Chancellor TH 2,,,830-2,,,Townhouses,,,,,,,,,,,
 CHHS03,CHHS,AD-79,Chancellor TH 3,,,830-3,,,Townhouses,,,,,,,,,,,
 CHHS04,CHHS,AD-79,Chancellor TH 4,,,830-4,,,Townhouses,,,,,,,,,,,
-CHEM02,CHEM,AD-125,Chemistry A,,CHEM,447,,7631,Section,,A Chemistry Physics,A Chemistry Physics,Chemistry Physics Building,A Chemistry Physics,,,6221 University Boulevard,Vancouver,BC,V6T 1Z1
 CHEM03,CHEM,AD-125,Chemistry B,,CHEM,148,,5239,Section,,Chemistry B Block - South Wing,B Block - South Wing,Chemistry,B,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
 CHEM04,CHEM,AD-125,Chemistry C,,CHEM,144,,3561,Section,,Chemistry C Block - East Wing,C Block - East Wing,Chemistry,C,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
 CHEM01,CHEM,AD-125,Chemistry D,RENEW,CHEM,132,,7139,Section,LEED Gold,Chemistry D Block - Centre Wing,D Block - Centre Wing,Chemistry,D,,,2036 Main Mall,Vancouver,BC,V6T 1Z1
