@@ -1,3 +1,6 @@
+_These data have been replaced by data now found here: _
+https://github.com/UBCGeodata/ubc-geospatial-opendata/tree/master/ubcv/locations
+
 ubcv-buildings
 ==============
 
